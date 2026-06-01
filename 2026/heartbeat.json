@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-01T21:03:30.793Z",
-  "capturedAtUnix": 1780347810793,
-  "runId": "tla-registry-20260601210330",
+  "capturedAt": "2026-06-01T21:58:16.205Z",
+  "capturedAtUnix": 1780351096205,
+  "runId": "tla-registry-20260601215816",
   "runMode": "daily",
   "status": "ok",
   "canonicalEpoch": 187,
@@ -16,12 +16,21 @@
     "tokens_tracked": 266,
     "tokens_noise": 258,
     "contracts_catalog": 42,
-    "wallets_catalog": 349,
+    "wallets_catalog": 668,
     "wallets_discovered_via_daodao": 346,
+    "wallets_discovered_via_indexer": 186,
+    "wallets_discovered_via_tla_locks": 133,
     "wallets_per_dao": {
-      "Pixel Lions Staking": 0,
       "Lion DAO ROAR Staking": 346
     },
+    "indexer_per_dao": {
+      "AllianceDAO Voting Module": 88,
+      "Pixel Lions Voting Module": 98
+    },
+    "tla_unique_holders": 202,
+    "tla_total_locks_scanned": 431,
+    "pfpk_names_found": 158,
+    "pfpk_lookups_attempted": 665,
     "amplp_mappings": 65,
     "unmapped_tokens": 8,
     "chain_errors": 0,
@@ -30,6 +39,6 @@
   "dataFingerprint": "d7b03d767665",
   "previousFingerprint": "d7b03d767665",
   "dataFreshness": "fresh",
-  "consecutiveStuckRuns": 2,
-  "next_expected_run_at": "2026-06-02T21:03:30.793Z"
+  "consecutiveStuckRuns": 3,
+  "next_expected_run_at": "2026-06-02T21:58:16.205Z"
 }
