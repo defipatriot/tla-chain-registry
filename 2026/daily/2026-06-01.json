@@ -1,0 +1,400 @@
+{
+  "schemaVersion": 1,
+  "cron": "tla-chain-registry",
+  "layer": 0,
+  "layerRole": "discovery-bootstrap",
+  "capturedAt": "2026-06-01T16:21:58.515Z",
+  "capturedAtUnix": 1780330918515,
+  "canonicalEpoch": 187,
+  "raw": {
+    "global_config_all_addresses": [
+      [
+        "ASSET_GAUGE",
+        "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj"
+      ],
+      [
+        "ASSET_STAKING__bluechip",
+        "terra14mmvqn0kthw6sre75vku263lafn5655mkjdejqjedjga4cw0qx2qlf4arv"
+      ],
+      [
+        "ASSET_STAKING__project",
+        "terra1awq6t7jfakg9wfjn40fk3wzwmd57mvrqtt3a39z9rmet7wdjj3ysgw3lpa"
+      ],
+      [
+        "ASSET_STAKING__single",
+        "terra1qdz5qgafx88kp5mf6m2tah8742g4u5g2cek0m3jrgssexexk7g4qw6e23k"
+      ],
+      [
+        "ASSET_STAKING__stable",
+        "terra1v399cx9drllm70wxfsgvfe694tdsd9x96p9ha36w7muffe4znlusqswspq"
+      ],
+      [
+        "ASSET_WHITELIST_CONTROLLER",
+        "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg"
+      ],
+      [
+        "BRIBE_MANAGER",
+        "terra1tuuwm8yrj54qeg0c8xu00aha9ryatyhtczq8qq2q8tntuw0auzas9037wh"
+      ],
+      [
+        "BRIBE_WHITELIST_CONTROLLER",
+        "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg"
+      ],
+      [
+        "CONNECTOR__bluechip",
+        "terra16l43xt2uq09yvz4axg73n8rtm0qte9lremdwm6ph0e35r2jnm43qnl8h53"
+      ],
+      [
+        "CONNECTOR__project",
+        "terra1x8v9fujf3c78q2we23x0vgzmxgtt0hgvuvfsxy4w3ar9kcua4c6qqcnhyh"
+      ],
+      [
+        "CONNECTOR__single",
+        "terra1u72y7gppxrsncctvgfyqduv3md6pgq77pqhz9rxgwl3dqgye00cq7vmf8u"
+      ],
+      [
+        "CONNECTOR__stable",
+        "terra1ym2495f63mdx63tu96085x2vf3xpy9z9k5urxwhvmf9jldm99q5qr4q6n8"
+      ],
+      [
+        "DELEGATION_CONTROLLER",
+        "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg"
+      ],
+      [
+        "FEE_COLLECTOR",
+        "terra1rgggsspquaxjp4lmegx7a3q4l9lg44hnu7rjxa"
+      ],
+      [
+        "PDT_CONFIG_OWNER",
+        "terra1kefa2zgjn45ctj32d3tje5jdwus7px6n2klgzl"
+      ],
+      [
+        "PDT_CONTROLLER",
+        "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg"
+      ],
+      [
+        "TAKE_RECIPIENT",
+        "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg"
+      ],
+      [
+        "VE_GUARDIAN",
+        "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg"
+      ],
+      [
+        "VOTING_ESCROW",
+        "terra1uqhj8agyeaz8fu6mdggfuwr3lp32jlrx5hqag4jxexde92rzkamq3l62zg"
+      ],
+      [
+        "ZAPPER",
+        "terra1qdjsxsv96aagrdxz83gwtjk8qvf2mrg4y8y3dqjxg556lm79pg5qdgmaxl"
+      ]
+    ],
+    "asset_gauge_distributions": [
+      {
+        "gauge": "stable",
+        "period": 187,
+        "total_gauge_vp": "27535613041836",
+        "assets": [
+          {
+            "asset": {
+              "cw20": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
+            },
+            "distribution": "0.622069268482631063",
+            "total_vp": "17076784294185"
+          },
+          {
+            "asset": {
+              "cw20": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc"
+            },
+            "distribution": "0.242659823209464828",
+            "total_vp": "6661395551529"
+          },
+          {
+            "asset": {
+              "native": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP"
+            },
+            "distribution": "0.10033823753462787",
+            "total_vp": "2754443155530"
+          },
+          {
+            "asset": {
+              "cw20": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4"
+            },
+            "distribution": "0.034932670773276239",
+            "total_vp": "958957006621"
+          }
+        ]
+      },
+      {
+        "gauge": "project",
+        "period": 187,
+        "total_gauge_vp": "26454540939280",
+        "assets": [
+          {
+            "asset": {
+              "cw20": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
+            },
+            "distribution": "0.225249163013137764",
+            "total_vp": "5929037395735"
+          },
+          {
+            "asset": {
+              "cw20": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
+            },
+            "distribution": "0.212593898871272142",
+            "total_vp": "5595923907781"
+          },
+          {
+            "asset": {
+              "cw20": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4"
+            },
+            "distribution": "0.184761540235819747",
+            "total_vp": "4863316989497"
+          },
+          {
+            "asset": {
+              "cw20": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44"
+            },
+            "distribution": "0.156906077821514258",
+            "total_vp": "4130101930579"
+          },
+          {
+            "asset": {
+              "cw20": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k"
+            },
+            "distribution": "0.105111759126494441",
+            "total_vp": "2766765222369"
+          },
+          {
+            "asset": {
+              "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
+            },
+            "distribution": "0.048471234232801577",
+            "total_vp": "1275866052239"
+          },
+          {
+            "asset": {
+              "cw20": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
+            },
+            "distribution": "0.028906071506923381",
+            "total_vp": "760869326375"
+          },
+          {
+            "asset": {
+              "cw20": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8"
+            },
+            "distribution": "0.024632535718501627",
+            "total_vp": "648380768537"
+          },
+          {
+            "asset": {
+              "cw20": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc"
+            },
+            "distribution": "0.013367719473535063",
+            "total_vp": "351866828689"
+          }
+        ]
+      },
+      {
+        "gauge": "bluechip",
+        "period": 187,
+        "total_gauge_vp": "22278207158436",
+        "assets": [
+          {
+            "asset": {
+              "cw20": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
+            },
+            "distribution": "0.354995930559670154",
+            "total_vp": "7899300644482"
+          },
+          {
+            "asset": {
+              "cw20": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
+            },
+            "distribution": "0.319813609183018885",
+            "total_vp": "7116430447951"
+          },
+          {
+            "asset": {
+              "cw20": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
+            },
+            "distribution": "0.127928264524515918",
+            "total_vp": "2846634948217"
+          },
+          {
+            "asset": {
+              "cw20": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
+            },
+            "distribution": "0.127918788727395683",
+            "total_vp": "2846424094616"
+          },
+          {
+            "asset": {
+              "cw20": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
+            },
+            "distribution": "0.04670551442013327",
+            "total_vp": "1039282054806"
+          },
+          {
+            "asset": {
+              "cw20": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su"
+            },
+            "distribution": "0.02263789258526609",
+            "total_vp": "503733998321"
+          }
+        ]
+      },
+      {
+        "gauge": "single",
+        "period": 187,
+        "total_gauge_vp": "24140419707821",
+        "assets": [
+          {
+            "asset": {
+              "native": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
+            },
+            "distribution": "0.321338738080778766",
+            "total_vp": "7752107378828"
+          },
+          {
+            "asset": {
+              "cw20": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr"
+            },
+            "distribution": "0.292607968519338288",
+            "total_vp": "7058994522137"
+          },
+          {
+            "asset": {
+              "cw20": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
+            },
+            "distribution": "0.10095244635242872",
+            "total_vp": "2435418178815"
+          },
+          {
+            "asset": {
+              "cw20": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0"
+            },
+            "distribution": "0.099552245172821045",
+            "total_vp": "2401639151857"
+          },
+          {
+            "asset": {
+              "native": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP"
+            },
+            "distribution": "0.066807943899762783",
+            "total_vp": "1611702211700"
+          },
+          {
+            "asset": {
+              "native": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP"
+            },
+            "distribution": "0.047308820481137902",
+            "total_vp": "1141297369019"
+          },
+          {
+            "asset": {
+              "native": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6"
+            },
+            "distribution": "0.03998210938480848",
+            "total_vp": "964544788575"
+          },
+          {
+            "asset": {
+              "cw20": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh"
+            },
+            "distribution": "0.019803126297940643",
+            "total_vp": "477738732700"
+          },
+          {
+            "asset": {
+              "cw20": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc"
+            },
+            "distribution": "0.011646601810983373",
+            "total_vp": "280967394023"
+          }
+        ]
+      }
+    ],
+    "asset_gauge_last_distribution_period": {
+      "period": 187
+    },
+    "asset_gauge_config": {
+      "global_config_addr": "terra1hwxg6s732eparz3ys7sa4t5f64ngpd2w8syrca6z7ckv3fs9uqnsvrpcqa",
+      "gauges": [
+        {
+          "name": "stable",
+          "min_gauge_percentage": "0.01"
+        },
+        {
+          "name": "project",
+          "min_gauge_percentage": "0.01"
+        },
+        {
+          "name": "bluechip",
+          "min_gauge_percentage": "0.01"
+        },
+        {
+          "name": "single",
+          "min_gauge_percentage": "0.01"
+        }
+      ],
+      "rebase_asset": {
+        "cw20": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
+      }
+    },
+    "voting_escrow_num_tokens": {
+      "count": 431
+    }
+  },
+  "directory": {
+    "ASSET_GAUGE": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
+    "ASSET_STAKING__bluechip": "terra14mmvqn0kthw6sre75vku263lafn5655mkjdejqjedjga4cw0qx2qlf4arv",
+    "ASSET_STAKING__project": "terra1awq6t7jfakg9wfjn40fk3wzwmd57mvrqtt3a39z9rmet7wdjj3ysgw3lpa",
+    "ASSET_STAKING__single": "terra1qdz5qgafx88kp5mf6m2tah8742g4u5g2cek0m3jrgssexexk7g4qw6e23k",
+    "ASSET_STAKING__stable": "terra1v399cx9drllm70wxfsgvfe694tdsd9x96p9ha36w7muffe4znlusqswspq",
+    "ASSET_WHITELIST_CONTROLLER": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+    "BRIBE_MANAGER": "terra1tuuwm8yrj54qeg0c8xu00aha9ryatyhtczq8qq2q8tntuw0auzas9037wh",
+    "BRIBE_WHITELIST_CONTROLLER": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+    "CONNECTOR__bluechip": "terra16l43xt2uq09yvz4axg73n8rtm0qte9lremdwm6ph0e35r2jnm43qnl8h53",
+    "CONNECTOR__project": "terra1x8v9fujf3c78q2we23x0vgzmxgtt0hgvuvfsxy4w3ar9kcua4c6qqcnhyh",
+    "CONNECTOR__single": "terra1u72y7gppxrsncctvgfyqduv3md6pgq77pqhz9rxgwl3dqgye00cq7vmf8u",
+    "CONNECTOR__stable": "terra1ym2495f63mdx63tu96085x2vf3xpy9z9k5urxwhvmf9jldm99q5qr4q6n8",
+    "DELEGATION_CONTROLLER": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+    "FEE_COLLECTOR": "terra1rgggsspquaxjp4lmegx7a3q4l9lg44hnu7rjxa",
+    "PDT_CONFIG_OWNER": "terra1kefa2zgjn45ctj32d3tje5jdwus7px6n2klgzl",
+    "PDT_CONTROLLER": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+    "TAKE_RECIPIENT": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+    "VE_GUARDIAN": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+    "VOTING_ESCROW": "terra1uqhj8agyeaz8fu6mdggfuwr3lp32jlrx5hqag4jxexde92rzkamq3l62zg",
+    "ZAPPER": "terra1qdjsxsv96aagrdxz83gwtjk8qvf2mrg4y8y3dqjxg556lm79pg5qdgmaxl"
+  },
+  "pools": [],
+  "buckets": {
+    "stable": {
+      "total_gauge_vp": "27535613041836",
+      "pool_count": 0
+    },
+    "project": {
+      "total_gauge_vp": "26454540939280",
+      "pool_count": 0
+    },
+    "bluechip": {
+      "total_gauge_vp": "22278207158436",
+      "pool_count": 0
+    },
+    "single": {
+      "total_gauge_vp": "24140419707821",
+      "pool_count": 0
+    }
+  },
+  "contracts": {
+    "global_config": "terra1hwxg6s732eparz3ys7sa4t5f64ngpd2w8syrca6z7ckv3fs9uqnsvrpcqa",
+    "asset_gauge": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
+    "voting_escrow": "terra1uqhj8agyeaz8fu6mdggfuwr3lp32jlrx5hqag4jxexde92rzkamq3l62zg"
+  },
+  "_errors": [],
+  "sources": {
+    "primary_lcd": "https://terra-lcd.publicnode.com",
+    "fallback_lcd": "https://terra-rest.publicnode.com"
+  }
+}
