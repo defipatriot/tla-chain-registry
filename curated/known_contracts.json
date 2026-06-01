@@ -259,7 +259,7 @@
     },
     "terra1c57ur376szdv8rtes6sa9nst4k536dynunksu8tx5zu4z5u3am6qmvqx47": {
       "name": "AllianceDAO Voting Module",
-      "type": "dao",
+      "type": "staking",
       "protocol": "TLA",
       "validActions": [
         "stake",
@@ -268,7 +268,10 @@
         "add_hook",
         "remove_hook"
       ],
-      "description": "NFT-based voting power (7 day unstaking)"
+      "description": "NFT-based voting power (7 day unstaking)",
+      "staking_module": "cw721",
+      "indexer_verified": true,
+      "notes": "aDAO's DAODAO voting module. 157 active NFT stakers as of last HAR capture. These are the canonical aDAO members (NFT holders who have staked for voting power). The DAO core is the council multi-sig at terra1yqv0af22675w..."
     },
     "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9": {
       "name": "aDAO NFT Collection",
@@ -376,14 +379,19 @@
       ]
     },
     "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz": {
-      "name": "Pixel Lions Staking",
+      "name": "Pixel Lions Voting Module",
       "type": "staking",
       "protocol": "DAODAO",
+      "staking_module": "cw721",
+      "description": "DAODAO dao-voting-cw721-staked voting module for the Pixel Lions NFT DAO. Tracks staked NFTs and voting power. Enumerable via DAODAO indexer's topStakers formula.",
       "validActions": [
         "stake",
-        "unstake"
+        "unstake",
+        "claim_nfts"
       ],
-      "canReceiveFunds": true
+      "canReceiveFunds": true,
+      "notes": "Address verified from DAODAO indexer HAR capture (Pixel Lions members page). 291 active stakers at last check.",
+      "indexer_verified": true
     },
     "terra1hzh32nfvzffzapa3xk7y0uqdaxfldjhw5nzthevsef2xwn28jn9qclac98": {
       "name": "ROAR/LUNA OTC Escrow",
@@ -407,7 +415,8 @@
         "claim"
       ],
       "canReceiveFunds": true,
-      "description": "Stake ROAR for governance voting power"
+      "description": "Stake ROAR for governance voting power",
+      "staking_module": "cw20"
     },
     "terra1zug2ur6d5ls7vgzwkh0m2002jrallfehpsadpltjqr3vhgvp6lnq90rj3w": {
       "name": "Lion DAO Rewards Distributor",
