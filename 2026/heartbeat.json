@@ -1,9 +1,9 @@
 {
-  "schemaVersion": 1,
-  "cron": "tla-chain-registry",
-  "capturedAt": "2026-06-01T16:26:20.327Z",
-  "capturedAtUnix": 1780331180327,
-  "runId": "chain-registry-20260601162620",
+  "schemaVersion": 2,
+  "cron": "tla-registry",
+  "capturedAt": "2026-06-01T19:03:30.989Z",
+  "capturedAtUnix": 1780340610989,
+  "runId": "tla-registry-20260601190330",
   "runMode": "daily",
   "status": "ok",
   "canonicalEpoch": 187,
@@ -11,12 +11,17 @@
     "directory_size": 20,
     "pool_count": 28,
     "bucket_count": 4,
-    "num_locks": 431,
-    "errors_count": 0
+    "tokens_catalog": 377,
+    "contracts_catalog": 42,
+    "wallets_catalog": 3,
+    "amplp_mappings": 65,
+    "unmapped_tokens": 0,
+    "chain_errors": 0,
+    "external_source_errors": 0
   },
-  "dataFingerprint": "940680e82b26",
-  "previousFingerprint": "4bf5a4ab10eb",
+  "dataFingerprint": "23032a483b2d",
+  "previousFingerprint": "940680e82b26",
   "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-06-02T16:26:20.327Z"
+  "next_expected_run_at": "2026-06-02T19:03:30.989Z"
 }
