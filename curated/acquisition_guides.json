@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "description": "Per-token guidance on how to safely acquire it. Critical for tokens with multiple bridge variants (wBTC, USDC) where 'just search the wallet' would give wrong address.",
+    "lastUpdated": "2026-06-01",
+    "schema": {
+      "native_chain": "the chain that originally issues this token",
+      "native_address": "the address on the native chain",
+      "route_to_terra": "ordered array of steps to safely acquire on Terra",
+      "warnings": "array of things to NOT do",
+      "alternative_routes": "other valid acquisition paths"
+    }
+  },
+  "tokens": {
+    "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB": {
+      "_label": "USDC (Noble)",
+      "native_chain": "Noble",
+      "native_address": "uusdc on Noble",
+      "route_to_terra": [
+        "1. Acquire USDC on Noble — either via Circle CCTP (from Ethereum, Polygon, Base, Avalanche, Solana, etc.) or directly on Noble",
+        "2. IBC send to Terra via Noble → Terra channel"
+      ],
+      "warnings": [
+        "Keplr search for 'USDC' shows DOZENS of variants across Ethereum, Polygon, Solana, Sei, Osmosis, etc. — only Noble-issued USDC routed via IBC is correct for Terra.",
+        "Do NOT use Polygon USDC, Solana USDC, or Ethereum-bridged USDC directly — those don't exist on Terra as the same address.",
+        "If unsure: use Skip.go and select 'send to Terra: USDC'. Skip.go will handle the bridging in one tx and select the correct path."
+      ],
+      "alternative_routes": [
+        "Skip.go can handle the full bridge in one transaction — select destination Terra and asset USDC."
+      ],
+      "verified": true
+    },
+    "_example_wbtc_atom_disabled": {
+      "_note": "REMOVE LEADING UNDERSCORE FROM KEY and replace with actual wBTC.atom Terra address.",
+      "_label": "wBTC.atom",
+      "native_chain": "Ethereum",
+      "native_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599 (WBTC)",
+      "route_to_terra": [
+        "1. Use Skip.go: select 'Send to Terra: WBTC' — Skip handles the Eureka IBC route",
+        "2. Alternative: get WBTC on Ethereum, transfer to Cosmos Hub via Eureka, then IBC to Terra"
+      ],
+      "warnings": [
+        "TLA uses wBTC.atom specifically — NOT wBTC.axl or wBTC.osmo. These are all different Terra addresses despite identical underlying.",
+        "Astroport's wallet view labels this as just 'WBTC' (no .atom suffix). The address is the only stable identity.",
+        "Eris UI is the source of truth for the .atom label — confirm address matches before depositing."
+      ]
+    }
+  },
+  "_curation_queue": {
+    "description": "Tokens we know need acquisition guides. Fill in addresses + steps as you confirm.",
+    "candidates": [
+      { "hint": "USDT (Kava) — IBC from Kava chain to Terra" },
+      { "hint": "ASTRO (Neutron) — native Neutron token, IBC to Terra" },
+      { "hint": "xASTRO (Neutron) — staked ASTRO, IBC to Terra" },
+      { "hint": "FUEL (Neutron) — native Neutron, IBC to Terra" },
+      { "hint": "ATOM (Cosmos Hub) — IBC to Terra" },
+      { "hint": "INJ (Injective) — IBC to Terra" },
+      { "hint": "ROAR — Terra-native cw20, available on Astroport/SS" },
+      { "hint": "CAPA — Terra-native, available on Astroport/SS" },
+      { "hint": "SOLID — Terra-native stablecoin, available via Solid Protocol" },
+      { "hint": "ampLUNA / arbLUNA / ampROAR / ampCAPA — Terra-native LSTs, available from Eris Protocol directly" }
+    ]
+  }
+}

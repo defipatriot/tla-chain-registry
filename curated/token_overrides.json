@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "description": "Per-token overrides for display name, subtype, or any field the auto-discovery got wrong. Address-keyed. Only fields you set here override the cron's auto-discovered values; everything else falls through.",
+    "lastUpdated": "2026-06-01",
+    "schema": {
+      "display_name": "preferred display (overrides Eris/Astroport/etc.)",
+      "subtype": "override subtype (e.g. force 'lst')",
+      "notes": "free text — shown on the catalog view page",
+      "flags_added": "extra flags to add to scoring.flags",
+      "verified": "boolean — has this been confirmed?",
+      "warning": "free text — shown prominently if present (for tokens that have a real risk)"
+    }
+  },
+  "tokens": {
+    "_example_wBTCatom_disabled": {
+      "_note": "REMOVE THE LEADING UNDERSCORE TO ACTIVATE. This is an example showing how to override a specific token. Replace the key with the actual wBTC.atom address when known.",
+      "display_name": "wBTC.atom",
+      "subtype": "ibc",
+      "notes": "Bridged via Skip.go / Eureka IBC route from Cosmos Hub. The .atom suffix is critical — wBTC.axl and wBTC.osmo exist on Terra too and are different tokens. Confirm address before any swap.",
+      "warning": "Multiple wBTC variants exist on Terra. The Eris UI label '.atom' is the bridge identity. Do not confuse with wBTC.axl or wBTC.osmo.",
+      "verified": true
+    }
+  },
+  "_curation_queue": {
+    "description": "Tokens we want to override but haven't filled in the address yet. Move to 'tokens' above when ready.",
+    "candidates": [
+      {
+        "hint": "wBTC.atom (Terra) — bridged from Cosmos Hub via Skip/Eureka. ibc/88386AC4...F484CB on Babylon — Terra-side address TBD."
+      },
+      {
+        "hint": "wBTC.axl (Terra) — bridged via Axelar. No CoinGecko mapping."
+      },
+      {
+        "hint": "wBTC.osmo (Terra) — bridged via Osmosis. No CoinGecko mapping."
+      }
+    ]
+  }
+}
