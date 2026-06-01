@@ -273,7 +273,7 @@
     "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9": {
       "name": "aDAO NFT Collection",
       "type": "nft_marketplace",
-      "protocol": "Eris",
+      "protocol": "TLA",
       "validActions": [
         "transfer",
         "send",
@@ -301,7 +301,7 @@
     "terra1eumwktcszm8p5p3apuxq4mrk008rx8sakntq68a5x6l6my33jl2qfvsfge": {
       "name": "Polytone Note (\u2192 Neutron)",
       "type": "bridge",
-      "protocol": "Eris",
+      "protocol": "Polytone",
       "validActions": [
         "execute",
         "callback"
@@ -310,7 +310,7 @@
     "terra1r7fej5936y57hzhavw6wt6lld5vq27av3ftl7jjvlgcc4lh0ehrs2n9cvy": {
       "name": "Polytone Note (\u2192 Cosmos Hub)",
       "type": "bridge",
-      "protocol": "Eris",
+      "protocol": "Polytone",
       "validActions": [
         "execute",
         "callback"
@@ -319,7 +319,7 @@
     "terra1hu8esz9yhfrhj2eyq70refpmmdem95my2rpc2d896nt2a3p34s0qf5chle": {
       "name": "Polytone Listener (DAO Callback - Neutron)",
       "type": "bridge",
-      "protocol": "Eris",
+      "protocol": "Polytone",
       "validActions": [
         "callback"
       ]
@@ -327,7 +327,7 @@
     "terra13ynfm5p6k3yaavm9rfyffsa4e5rtxsgl9mmtxnqtnwpcy5t5t75ql66wr8": {
       "name": "Polytone Listener (DAO Callback - Cosmos Hub)",
       "type": "bridge",
-      "protocol": "Eris",
+      "protocol": "Polytone",
       "validActions": [
         "callback"
       ]
@@ -368,7 +368,7 @@
     "terra17z7fpaa8kah698xn5tarrcucvualdy4wsztkfc404g3garucpu6qmxp50g": {
       "name": "Pixel Lions NFT Collection",
       "type": "nft_marketplace",
-      "protocol": "Eris",
+      "protocol": "DAODAO",
       "validActions": [
         "send_nft",
         "transfer_nft",
@@ -378,7 +378,7 @@
     "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz": {
       "name": "Pixel Lions Staking",
       "type": "staking",
-      "protocol": "Eris",
+      "protocol": "DAODAO",
       "validActions": [
         "stake",
         "unstake"
@@ -388,7 +388,7 @@
     "terra1hzh32nfvzffzapa3xk7y0uqdaxfldjhw5nzthevsef2xwn28jn9qclac98": {
       "name": "ROAR/LUNA OTC Escrow",
       "type": "protocol_core",
-      "protocol": "Eris",
+      "protocol": "DAODAO",
       "validActions": [
         "fund",
         "execute",
@@ -400,7 +400,7 @@
     "terra1xuqh84yz35h70p3ppt76dz5kgwwtwmsv34pg0gw6ld4ntptgjcrqe2e70t": {
       "name": "Lion DAO ROAR Staking",
       "type": "staking",
-      "protocol": "Eris",
+      "protocol": "DAODAO",
       "validActions": [
         "stake",
         "unstake",
@@ -412,7 +412,7 @@
     "terra1zug2ur6d5ls7vgzwkh0m2002jrallfehpsadpltjqr3vhgvp6lnq90rj3w": {
       "name": "Lion DAO Rewards Distributor",
       "type": "rewards",
-      "protocol": "Eris",
+      "protocol": "DAODAO",
       "validActions": [
         "claim",
         "fund"
@@ -423,7 +423,7 @@
     "terra1tkersa2mqwy2h8exj799qx2xrhdu0dkymk9psp6v0k4kz4tkxucssgluec": {
       "name": "Lion DAO Treasury",
       "type": "dao",
-      "protocol": "Eris",
+      "protocol": "DAODAO",
       "validActions": [
         "execute"
       ],
