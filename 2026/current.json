@@ -3,8 +3,8 @@
   "cron": "tla-registry",
   "layer": 0,
   "layerRole": "discovery-bootstrap-catalog",
-  "capturedAt": "2026-06-02T16:51:59.983Z",
-  "capturedAtUnix": 1780419119983,
+  "capturedAt": "2026-06-02T18:26:57.808Z",
+  "capturedAtUnix": 1780424817808,
   "canonicalEpoch": 187,
   "directory": {
     "ASSET_GAUGE": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
@@ -607,7 +607,7 @@
           "eris_name": "terra-luna-2",
           "symbol": "terra-luna-2",
           "decimals": 6,
-          "price_usd": "0.05711",
+          "price_usd": "0.057209",
           "looks_like_address": false
         },
         "astroport": {
@@ -637,14 +637,14 @@
         "address": "uluna"
       },
       "scoring": {
-        "confusion_score": 75,
+        "confusion_score": 85,
         "flags": [
-          "cross_source_name_mismatch:LUNA,terra-luna-2,LUNA,LUNA",
-          "no_acquisition_guide"
+          "cross_source_name_mismatch:LUNA,terra-luna-2,LUNA,LUNA"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "native_terra",
       "tier": "core"
     },
     "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995": {
@@ -668,7 +668,7 @@
           "eris_name": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
           "symbol": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
           "decimals": 6,
-          "price_usd": "0.00076096519563865",
+          "price_usd": "0.000760087780683655",
           "looks_like_address": true
         },
         "astroport": {
@@ -718,13 +718,12 @@
         "address": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
       },
       "scoring": {
-        "confusion_score": 90,
-        "flags": [
-          "no_acquisition_guide"
-        ]
+        "confusion_score": 100,
+        "flags": []
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "ibc_cosmos_native",
       "tier": "core"
     },
     "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct": {
@@ -748,7 +747,7 @@
           "eris_name": "eris-amplified-luna",
           "symbol": "eris-amplified-luna",
           "decimals": 6,
-          "price_usd": "0.12195508791933674",
+          "price_usd": "0.121926016858103",
           "looks_like_address": false
         },
         "astroport": {
@@ -778,14 +777,14 @@
         "address": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
       },
       "scoring": {
-        "confusion_score": 75,
+        "confusion_score": 85,
         "flags": [
-          "cross_source_name_mismatch:ampLUNA,eris-amplified-luna,ampLUNA,ampLUNA",
-          "no_acquisition_guide"
+          "cross_source_name_mismatch:ampLUNA,eris-amplified-luna,ampLUNA,ampLUNA"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "native_terra",
       "tier": "core"
     },
     "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv": {
@@ -809,7 +808,7 @@
           "eris_name": "lion-dao",
           "symbol": "lion-dao",
           "decimals": 6,
-          "price_usd": "2.29325554081e-7",
+          "price_usd": "2.29725078829e-7",
           "looks_like_address": false
         },
         "astroport": {
@@ -839,14 +838,14 @@
         "address": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
       },
       "scoring": {
-        "confusion_score": 75,
+        "confusion_score": 85,
         "flags": [
-          "cross_source_name_mismatch:ROAR,lion-dao,ROAR,ROAR",
-          "no_acquisition_guide"
+          "cross_source_name_mismatch:ROAR,lion-dao,ROAR,ROAR"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "native_terra",
       "tier": "core"
     },
     "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml": {
@@ -870,7 +869,7 @@
           "eris_name": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
           "symbol": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
           "decimals": 6,
-          "price_usd": "0.10033814643227082",
+          "price_usd": "0.10051208228407953",
           "looks_like_address": true
         },
         "astroport": {
@@ -916,14 +915,14 @@
         "address": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "native_terra",
       "tier": "core"
     },
     "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR": {
@@ -947,7 +946,7 @@
           "eris_name": "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
           "symbol": "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
           "decimals": 6,
-          "price_usd": "2.71728692481588e-7",
+          "price_usd": "2.7174388963961067e-7",
           "looks_like_address": true
         },
         "astroport": null,
@@ -972,14 +971,14 @@
         "address": "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "native_terra",
       "tier": "tracked"
     },
     "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5": {
@@ -1003,7 +1002,7 @@
           "eris_name": "tether",
           "symbol": "tether",
           "decimals": 6,
-          "price_usd": "0.998309",
+          "price_usd": "0.998483",
           "looks_like_address": false
         },
         "astroport": {
@@ -1053,14 +1052,15 @@
         "address": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
       },
       "scoring": {
-        "confusion_score": 75,
+        "confusion_score": 65,
         "flags": [
           "cross_source_name_mismatch:USDt,tether,USDT,USDt",
-          "no_acquisition_guide"
+          "no_acquisition_guide:required"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "wrapped_looks_native",
       "tier": "core"
     },
     "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB": {
@@ -1084,7 +1084,7 @@
           "eris_name": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
           "symbol": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
           "decimals": 6,
-          "price_usd": "0.999592",
+          "price_usd": "0.999678",
           "looks_like_address": true
         },
         "astroport": {
@@ -1168,6 +1168,7 @@
         ],
         "verified": true
       },
+      "acquisition_class": "wrapped_looks_native",
       "tier": "core"
     },
     "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490": {
@@ -1191,7 +1192,7 @@
           "eris_name": "eris-arbitrage-luna",
           "symbol": "eris-arbitrage-luna",
           "decimals": 6,
-          "price_usd": "0.14924529264906594",
+          "price_usd": "0.14931711374555678",
           "looks_like_address": false
         },
         "astroport": {
@@ -1237,14 +1238,14 @@
         "address": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
       },
       "scoring": {
-        "confusion_score": 75,
+        "confusion_score": 85,
         "flags": [
-          "cross_source_name_mismatch:arbLUNA,eris-arbitrage-luna,arbLUNA,arbLUNA",
-          "no_acquisition_guide"
+          "cross_source_name_mismatch:arbLUNA,eris-arbitrage-luna,arbLUNA,arbLUNA"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "native_terra",
       "tier": "core"
     },
     "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1": {
@@ -1334,14 +1335,15 @@
         "address": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
       },
       "scoring": {
-        "confusion_score": 75,
+        "confusion_score": 65,
         "flags": [
           "cross_source_name_mismatch:EURe,monerium-eur-money,EURe,EURe",
-          "no_acquisition_guide"
+          "no_acquisition_guide:required"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "wrapped_looks_native",
       "tier": "core"
     },
     "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst": {
@@ -1365,7 +1367,7 @@
           "eris_name": "solid-2",
           "symbol": "solid-2",
           "decimals": 6,
-          "price_usd": "1.0668414100003991",
+          "price_usd": "1.0639122210469563",
           "looks_like_address": false
         },
         "astroport": {
@@ -1395,14 +1397,14 @@
         "address": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
       },
       "scoring": {
-        "confusion_score": 75,
+        "confusion_score": 85,
         "flags": [
-          "cross_source_name_mismatch:SOLID,solid-2,SOLID,SOLID",
-          "no_acquisition_guide"
+          "cross_source_name_mismatch:SOLID,solid-2,SOLID,SOLID"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "native_terra",
       "tier": "core"
     },
     "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar": {
@@ -1426,7 +1428,7 @@
           "eris_name": "capapult",
           "symbol": "capapult",
           "decimals": 6,
-          "price_usd": "0.001337816500307849",
+          "price_usd": "0.001338528311648965",
           "looks_like_address": false
         },
         "astroport": {
@@ -1456,14 +1458,14 @@
         "address": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
       },
       "scoring": {
-        "confusion_score": 75,
+        "confusion_score": 85,
         "flags": [
-          "cross_source_name_mismatch:CAPA,capapult,CAPA,CAPA",
-          "no_acquisition_guide"
+          "cross_source_name_mismatch:CAPA,capapult,CAPA,CAPA"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "native_terra",
       "tier": "core"
     },
     "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA": {
@@ -1487,7 +1489,7 @@
           "eris_name": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
           "symbol": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
           "decimals": 6,
-          "price_usd": "0.001476202436888162",
+          "price_usd": "0.001481818568620377",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1527,14 +1529,14 @@
         "address": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62": {
@@ -1558,7 +1560,7 @@
           "eris_name": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
           "symbol": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
           "decimals": 18,
-          "price_usd": "4481.8",
+          "price_usd": "4478.44",
           "looks_like_address": true
         },
         "astroport": {
@@ -1616,14 +1618,15 @@
         "address": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 55,
         "flags": [
           "no_external_price_source",
-          "no_acquisition_guide"
+          "no_acquisition_guide:required"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "wrapped_looks_native",
       "tier": "core"
     },
     "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228": {
@@ -1672,14 +1675,14 @@
         "address": "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "ibc_cosmos_native",
       "tier": "tracked"
     },
     "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc": {
@@ -1698,7 +1701,7 @@
           "eris_name": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
           "symbol": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
           "decimals": 8,
-          "price_usd": "67556.82977857797",
+          "price_usd": "67401.57507680648",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1717,14 +1720,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP": {
@@ -1743,7 +1746,7 @@
           "eris_name": "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP",
           "symbol": "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP",
           "decimals": 6,
-          "price_usd": "0.5396798958384681",
+          "price_usd": "0.5401489783166525",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1762,14 +1765,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP": {
@@ -1788,7 +1791,7 @@
           "eris_name": "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP",
           "symbol": "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP",
           "decimals": 6,
-          "price_usd": "0.5298403482308393",
+          "price_usd": "0.5303384689038326",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1807,14 +1810,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par": {
@@ -1833,7 +1836,7 @@
           "eris_name": "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par",
           "symbol": "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par",
           "decimals": 6,
-          "price_usd": "0.20296314898547696",
+          "price_usd": "0.20331498494677205",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1852,14 +1855,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk": {
@@ -1878,7 +1881,7 @@
           "eris_name": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
           "symbol": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
           "decimals": 6,
-          "price_usd": "2.353038685911767",
+          "price_usd": "2.3476061458645665",
           "looks_like_address": true
         },
         "astroport": {
@@ -1916,14 +1919,14 @@
         "address": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8": {
@@ -1942,7 +1945,7 @@
           "eris_name": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
           "symbol": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
           "decimals": 6,
-          "price_usd": "0.6140168990321401",
+          "price_usd": "0.6131118421068237",
           "looks_like_address": true
         },
         "astroport": {
@@ -1980,14 +1983,14 @@
         "address": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht": {
@@ -2006,7 +2009,7 @@
           "eris_name": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
           "symbol": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
           "decimals": 6,
-          "price_usd": "0.014210847161687107",
+          "price_usd": "0.014160193822228608",
           "looks_like_address": true
         },
         "astroport": {
@@ -2044,14 +2047,14 @@
         "address": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP": {
@@ -2070,7 +2073,7 @@
           "eris_name": "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP",
           "symbol": "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP",
           "decimals": 6,
-          "price_usd": "0.00024008804142525736",
+          "price_usd": "0.00024030270617817748",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2089,14 +2092,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg/uLP": {
@@ -2115,7 +2118,7 @@
           "eris_name": "factory/terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg/uLP",
           "symbol": "factory/terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg/uLP",
           "decimals": 6,
-          "price_usd": "0.11914563425796032",
+          "price_usd": "0.11935217282899059",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2134,14 +2137,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP": {
@@ -2160,7 +2163,7 @@
           "eris_name": "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP",
           "symbol": "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP",
           "decimals": 6,
-          "price_usd": "0.017853934982446393",
+          "price_usd": "0.017903435513545434",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2179,14 +2182,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP": {
@@ -2205,7 +2208,7 @@
           "eris_name": "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP",
           "symbol": "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP",
           "decimals": 6,
-          "price_usd": "0.5145446479591655",
+          "price_usd": "0.5137912354155486",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2224,14 +2227,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su": {
@@ -2250,7 +2253,7 @@
           "eris_name": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
           "symbol": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
           "decimals": 6,
-          "price_usd": "0.9736060435352782",
+          "price_usd": "0.9771126352407384",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2269,14 +2272,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP": {
@@ -2295,7 +2298,7 @@
           "eris_name": "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP",
           "symbol": "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP",
           "decimals": 6,
-          "price_usd": "0.013655860972421942",
+          "price_usd": "0.013608160783371053",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2314,14 +2317,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP": {
@@ -2340,7 +2343,7 @@
           "eris_name": "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP",
           "symbol": "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP",
           "decimals": 6,
-          "price_usd": "2.1147216540325773",
+          "price_usd": "2.1098343353104023",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2359,14 +2362,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5": {
@@ -2385,7 +2388,7 @@
           "eris_name": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5",
           "symbol": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5",
           "decimals": 6,
-          "price_usd": "12.336525768561987",
+          "price_usd": "12.330029203589486",
           "looks_like_address": true
         },
         "astroport": {
@@ -2423,15 +2426,15 @@
         "address": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5"
       },
       "scoring": {
-        "confusion_score": 55,
+        "confusion_score": 65,
         "flags": [
           "no_external_price_source",
-          "no_acquisition_guide",
           "shared_base_symbol_with:wBNB.axl"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "related_variants": [
         "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C"
       ],
@@ -2453,7 +2456,7 @@
           "eris_name": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
           "symbol": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
           "decimals": 6,
-          "price_usd": "2.186111459697447",
+          "price_usd": "2.1861803302894094",
           "looks_like_address": true
         },
         "astroport": {
@@ -2491,14 +2494,14 @@
         "address": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt": {
@@ -2517,7 +2520,7 @@
           "eris_name": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
           "symbol": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
           "decimals": 6,
-          "price_usd": "0.7412962342547766",
+          "price_usd": "0.7439646591133245",
           "looks_like_address": true
         },
         "astroport": {
@@ -2555,14 +2558,14 @@
         "address": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961": {
@@ -2581,7 +2584,7 @@
           "eris_name": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
           "symbol": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
           "decimals": 6,
-          "price_usd": "0.003225746713135418",
+          "price_usd": "0.003231338534613275",
           "looks_like_address": true
         },
         "astroport": {
@@ -2606,14 +2609,14 @@
         "address": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "ibc_cosmos_native",
       "tier": "tracked"
     },
     "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431": {
@@ -2632,7 +2635,7 @@
           "eris_name": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
           "symbol": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
           "decimals": 6,
-          "price_usd": "0.05711",
+          "price_usd": "0.057209",
           "looks_like_address": true
         },
         "astroport": {
@@ -2662,14 +2665,14 @@
         "address": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "ibc_cosmos_native",
       "tier": "core"
     },
     "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C": {
@@ -2688,7 +2691,7 @@
           "eris_name": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
           "symbol": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
           "decimals": 18,
-          "price_usd": "666.15",
+          "price_usd": "664.29",
           "looks_like_address": true
         },
         "astroport": {
@@ -2716,12 +2719,13 @@
         "confusion_score": 55,
         "flags": [
           "no_external_price_source",
-          "no_acquisition_guide",
+          "no_acquisition_guide:useful",
           "shared_base_symbol_with:wBNB.axl-LUNA LP"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "wrapped_disclosed",
       "related_variants": [
         "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5"
       ],
@@ -2743,7 +2747,7 @@
           "eris_name": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
           "symbol": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
           "decimals": 6,
-          "price_usd": "0.000001303793070272312",
+          "price_usd": "0.0000012943956823348174",
           "looks_like_address": true
         },
         "astroport": {
@@ -2781,14 +2785,14 @@
         "address": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB": {
@@ -2807,7 +2811,7 @@
           "eris_name": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
           "symbol": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
           "decimals": 8,
-          "price_usd": "67446",
+          "price_usd": "67291",
           "looks_like_address": true
         },
         "astroport": {
@@ -2832,14 +2836,15 @@
         "address": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 55,
         "flags": [
           "no_external_price_source",
-          "no_acquisition_guide"
+          "no_acquisition_guide:required"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "wrapped_looks_native",
       "tier": "tracked"
     },
     "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2": {
@@ -2858,7 +2863,7 @@
           "eris_name": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
           "symbol": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
           "decimals": 6,
-          "price_usd": "1.83",
+          "price_usd": "1.84",
           "looks_like_address": true
         },
         "astroport": {
@@ -2883,14 +2888,14 @@
         "address": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "ibc_cosmos_native",
       "tier": "tracked"
     },
     "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc": {
@@ -2909,7 +2914,7 @@
           "eris_name": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
           "symbol": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
           "decimals": 6,
-          "price_usd": "32.1046655388173",
+          "price_usd": "32.120782452706294",
           "looks_like_address": true
         },
         "astroport": {
@@ -2947,14 +2952,14 @@
         "address": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211": {
@@ -2973,7 +2978,7 @@
           "eris_name": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
           "symbol": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
           "decimals": 18,
-          "price_usd": "6.84",
+          "price_usd": "6.73",
           "looks_like_address": true
         },
         "astroport": {
@@ -3003,14 +3008,14 @@
         "address": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "ibc_cosmos_native",
       "tier": "tracked"
     },
     "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": {
@@ -3029,7 +3034,7 @@
           "eris_name": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
           "symbol": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
           "decimals": 6,
-          "price_usd": "125.12219541645968",
+          "price_usd": "125.08875891482481",
           "looks_like_address": true
         },
         "astroport": {
@@ -3067,14 +3072,14 @@
         "address": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP": {
@@ -3093,7 +3098,7 @@
           "eris_name": "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP",
           "symbol": "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP",
           "decimals": 6,
-          "price_usd": "0.0000012958461299326264",
+          "price_usd": "0.000001286519160887417",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3112,14 +3117,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP": {
@@ -3138,7 +3143,7 @@
           "eris_name": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP",
           "symbol": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP",
           "decimals": 6,
-          "price_usd": "2.1768233370685546",
+          "price_usd": "2.1768920175111046",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3157,14 +3162,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr": {
@@ -3183,7 +3188,7 @@
           "eris_name": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
           "symbol": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
           "decimals": 6,
-          "price_usd": "34788.69598799068",
+          "price_usd": "34735.871690559456",
           "looks_like_address": true
         },
         "astroport": {
@@ -3221,14 +3226,14 @@
         "address": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh": {
@@ -3247,7 +3252,7 @@
           "eris_name": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh",
           "symbol": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh",
           "decimals": 6,
-          "price_usd": "6.962414582515565e-7",
+          "price_usd": "6.962803974278589e-7",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3266,14 +3271,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP": {
@@ -3292,7 +3297,7 @@
           "eris_name": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP",
           "symbol": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP",
           "decimals": 6,
-          "price_usd": "5.123098744409497e-7",
+          "price_usd": "5.123385267486884e-7",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3311,14 +3316,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq/uLP": {
@@ -3337,7 +3342,7 @@
           "eris_name": "factory/terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq/uLP",
           "symbol": "factory/terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq/uLP",
           "decimals": 6,
-          "price_usd": "0.19638549181029705",
+          "price_usd": "0.19672592542418638",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3356,14 +3361,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6": {
@@ -3382,7 +3387,7 @@
           "eris_name": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
           "symbol": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
           "decimals": 6,
-          "price_usd": "0.0010092159786126602",
+          "price_usd": "0.0010002362175874047",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3401,14 +3406,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4": {
@@ -3427,7 +3432,7 @@
           "eris_name": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4",
           "symbol": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4",
           "decimals": 6,
-          "price_usd": "0.4948040571680915",
+          "price_usd": "0.4952718797042778",
           "looks_like_address": true
         },
         "astroport": {
@@ -3465,14 +3470,14 @@
         "address": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx": {
@@ -3491,7 +3496,7 @@
           "eris_name": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
           "symbol": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
           "decimals": 6,
-          "price_usd": "0.5131362072388498",
+          "price_usd": "0.5136012004205761",
           "looks_like_address": true
         },
         "astroport": {
@@ -3529,14 +3534,14 @@
         "address": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc": {
@@ -3555,7 +3560,7 @@
           "eris_name": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc",
           "symbol": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc",
           "decimals": 6,
-          "price_usd": "0.5230147815992546",
+          "price_usd": "0.5234718856474644",
           "looks_like_address": true
         },
         "astroport": {
@@ -3593,14 +3598,14 @@
         "address": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP": {
@@ -3619,7 +3624,7 @@
           "eris_name": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP",
           "symbol": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP",
           "decimals": 6,
-          "price_usd": "0.5564901976303313",
+          "price_usd": "0.5569894263911676",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3638,14 +3643,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc": {
@@ -3664,7 +3669,7 @@
           "eris_name": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
           "symbol": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
           "decimals": 6,
-          "price_usd": "0.12252363589280543",
+          "price_usd": "0.12273603021872712",
           "looks_like_address": true
         },
         "astroport": {
@@ -3702,14 +3707,14 @@
         "address": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564": {
@@ -3728,7 +3733,7 @@
           "eris_name": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
           "symbol": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
           "decimals": 6,
-          "price_usd": "0.01771190866558842",
+          "price_usd": "0.01776086379037324",
           "looks_like_address": true
         },
         "astroport": {
@@ -3766,14 +3771,14 @@
         "address": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": {
@@ -3792,7 +3797,7 @@
           "eris_name": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
           "symbol": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
           "decimals": 6,
-          "price_usd": "0.027174184039223632",
+          "price_usd": "0.027221290399228586",
           "looks_like_address": true
         },
         "astroport": {
@@ -3830,14 +3835,14 @@
         "address": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u": {
@@ -3856,7 +3861,7 @@
           "eris_name": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
           "symbol": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
           "decimals": 6,
-          "price_usd": "0.13271509889582614",
+          "price_usd": "0.13294516008984975",
           "looks_like_address": true
         },
         "astroport": {
@@ -3894,14 +3899,14 @@
         "address": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4": {
@@ -3920,7 +3925,7 @@
           "eris_name": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
           "symbol": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
           "decimals": 6,
-          "price_usd": "0.16351539586408162",
+          "price_usd": "0.16379878746248516",
           "looks_like_address": true
         },
         "astroport": {
@@ -3958,14 +3963,14 @@
         "address": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k": {
@@ -3984,7 +3989,7 @@
           "eris_name": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
           "symbol": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
           "decimals": 6,
-          "price_usd": "0.16839381514055482",
+          "price_usd": "0.16868572527361234",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4003,14 +4008,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm": {
@@ -4029,7 +4034,7 @@
           "eris_name": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
           "symbol": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
           "decimals": 6,
-          "price_usd": "0.0002367151510287282",
+          "price_usd": "0.000236927880513886",
           "looks_like_address": true
         },
         "astroport": {
@@ -4067,14 +4072,14 @@
         "address": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry": {
@@ -4093,7 +4098,7 @@
           "eris_name": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
           "symbol": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
           "decimals": 6,
-          "price_usd": "2.004605149857284",
+          "price_usd": "2.004820791956559",
           "looks_like_address": true
         },
         "astroport": {
@@ -4131,14 +4136,14 @@
         "address": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0": {
@@ -4157,7 +4162,7 @@
           "eris_name": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
           "symbol": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
           "decimals": 6,
-          "price_usd": "0.19074428593210851",
+          "price_usd": "0.1910702222899942",
           "looks_like_address": true
         },
         "astroport": {
@@ -4195,14 +4200,14 @@
         "address": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn": {
@@ -4221,7 +4226,7 @@
           "eris_name": "terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn",
           "symbol": "terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn",
           "decimals": 6,
-          "price_usd": "3.0415162964344806",
+          "price_usd": "3.0581366040652704",
           "looks_like_address": true
         },
         "astroport": {
@@ -4259,14 +4264,14 @@
         "address": "terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP": {
@@ -4285,7 +4290,7 @@
           "eris_name": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP",
           "symbol": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP",
           "decimals": 6,
-          "price_usd": "1.0013068068812476",
+          "price_usd": "1.0014150352544078",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4304,14 +4309,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "factory/terra1c439uc3qdlfuqncxae7l07nsdgjtu45g98yhn5ydjn2866nsw3ws0e0vte/uLP": {
@@ -4330,7 +4335,7 @@
           "eris_name": "factory/terra1c439uc3qdlfuqncxae7l07nsdgjtu45g98yhn5ydjn2866nsw3ws0e0vte/uLP",
           "symbol": "factory/terra1c439uc3qdlfuqncxae7l07nsdgjtu45g98yhn5ydjn2866nsw3ws0e0vte/uLP",
           "decimals": 6,
-          "price_usd": "2.2235171592937912",
+          "price_usd": "2.2356675262844674",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4349,14 +4354,14 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
+      "acquisition_class": "lp_token",
       "tier": "core"
     },
     "_example_wBTCatom_disabled": {
@@ -4384,10 +4389,9 @@
       },
       "wallet_import": null,
       "scoring": {
-        "confusion_score": 50,
+        "confusion_score": 60,
         "flags": [
           "no_external_price_source",
-          "no_acquisition_guide",
           "not_in_active_use"
         ]
       },
@@ -4400,6 +4404,7 @@
         "verified": true
       },
       "notes": "Bridged via Skip.go / Eureka IBC route from Cosmos Hub. The .atom suffix is critical — wBTC.axl and wBTC.osmo exist on Terra too and are different tokens. Confirm address before any swap.",
+      "acquisition_class": "native_terra",
       "tier": "core"
     }
   },
