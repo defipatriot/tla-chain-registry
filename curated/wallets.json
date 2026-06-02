@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "description": "Known wallet addresses. Includes aDAO treasury/council, named members, bribers, and allied DAO treasuries. Edit this file to add new known wallets — next cron run picks them up automatically.",
-    "lastUpdated": "2026-06-01",
+    "description": "Known wallet addresses used across all Alliance DAO tooling. Catalog only includes COLLECTIVE / PUBLIC entities (treasuries, multi-sigs, protocol-owned wallets, named bribers). Individual member personal addresses are NOT included — members can paste their own address when needed.",
+    "lastUpdated": "2026-06-02",
     "schema": {
       "address": "the terra1... address",
       "label": "display name",
@@ -29,15 +29,6 @@
       "protocol": "TLA",
       "description": "Council operations wallet. Separate from the main treasury — used for council-level expenses and operations.",
       "flags": ["official", "verified"],
-      "verified": true
-    },
-    "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw": {
-      "label": "DeFi_Patriot",
-      "subtype": "member",
-      "protocol": "TLA",
-      "description": "Council member. Maintainer of TLA Stats dashboard and these chain-native crons.",
-      "associated_member": "DeFi_Patriot",
-      "flags": ["verified"],
       "verified": true
     }
   },
