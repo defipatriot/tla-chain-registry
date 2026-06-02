@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-02T19:39:40.553Z",
-  "capturedAtUnix": 1780429180553,
-  "runId": "tla-registry-20260602193940",
+  "capturedAt": "2026-06-02T22:38:51.614Z",
+  "capturedAtUnix": 1780439931614,
+  "runId": "tla-registry-20260602223851",
   "runMode": "daily",
   "status": "ok",
   "canonicalEpoch": 187,
@@ -12,9 +12,9 @@
     "pool_count": 28,
     "bucket_count": 4,
     "tokens_catalog": 119,
-    "tokens_core": 58,
-    "tokens_tracked": 11,
-    "tokens_noise": 50,
+    "tokens_core": 65,
+    "tokens_tracked": 54,
+    "tokens_noise": 0,
     "contracts_catalog": 42,
     "wallets_catalog": 668,
     "wallets_discovered_via_daodao": 347,
@@ -32,7 +32,7 @@
     "pfpk_names_found": 159,
     "pfpk_lookups_attempted": 666,
     "amplp_mappings": 65,
-    "unmapped_tokens": 2,
+    "unmapped_tokens": 0,
     "chain_errors": 0,
     "external_source_errors": 0,
     "scope": {
@@ -58,8 +58,8 @@
     }
   },
   "dataFingerprint": "fe36c3208967",
-  "previousFingerprint": "fd397773b58d",
+  "previousFingerprint": "fe36c3208967",
   "dataFreshness": "fresh",
-  "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-06-03T19:39:40.553Z"
+  "consecutiveStuckRuns": 2,
+  "next_expected_run_at": "2026-06-03T22:38:51.614Z"
 }
