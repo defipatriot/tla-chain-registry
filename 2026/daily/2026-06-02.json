@@ -3,8 +3,8 @@
   "cron": "tla-registry",
   "layer": 0,
   "layerRole": "discovery-bootstrap-catalog",
-  "capturedAt": "2026-06-02T22:38:51.614Z",
-  "capturedAtUnix": 1780439931614,
+  "capturedAt": "2026-06-02T23:04:36.174Z",
+  "capturedAtUnix": 1780441476174,
   "canonicalEpoch": 187,
   "directory": {
     "ASSET_GAUGE": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
@@ -671,7 +671,7 @@
           "display": "LUNA",
           "coingecko_id": "terra-luna-2",
           "decimals": 6,
-          "price_usd": "0.056855",
+          "price_usd": "0.055928",
           "eris_name": "LUNA",
           "symbol": "LUNA"
         },
@@ -737,7 +737,7 @@
           "display": "ASTRO",
           "coingecko_id": "astroport-fi",
           "decimals": 6,
-          "price_usd": "0.000757977508331252",
+          "price_usd": "0.000745853530904013",
           "eris_name": "ASTRO",
           "symbol": "ASTRO"
         },
@@ -820,7 +820,7 @@
           "display": "ampLUNA",
           "coingecko_id": "eris-amplified-luna",
           "decimals": 6,
-          "price_usd": "0.12121462592791032",
+          "price_usd": "0.12026466224057693",
           "eris_name": "ampLUNA",
           "symbol": "ampLUNA"
         },
@@ -883,7 +883,7 @@
           "display": "ROAR",
           "coingecko_id": "lion-dao",
           "decimals": 6,
-          "price_usd": "2.28669311158e-7",
+          "price_usd": "2.24922208588e-7",
           "eris_name": "ROAR",
           "symbol": "ROAR"
         },
@@ -947,7 +947,7 @@
           "display": "bLUNA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.09988837291648267",
+          "price_usd": "0.09847755989625656",
           "eris_name": "bLUNA",
           "symbol": "bLUNA"
         },
@@ -1028,7 +1028,7 @@
           "display": "ampROAR",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.6920362622551567e-7",
+          "price_usd": "2.6589298380088747e-7",
           "eris_name": "ampROAR",
           "symbol": "ampROAR"
         },
@@ -1174,7 +1174,7 @@
           "display": "USDC",
           "coingecko_id": "usd-coin",
           "decimals": 6,
-          "price_usd": "0.999746",
+          "price_usd": "0.999839",
           "eris_name": "USDC",
           "symbol": "USDC"
         },
@@ -1289,7 +1289,7 @@
           "display": "arbLUNA",
           "coingecko_id": "eris-arbitrage-luna",
           "decimals": 6,
-          "price_usd": "0.14877279616755146",
+          "price_usd": "0.14676957993882808",
           "eris_name": "arbLUNA",
           "symbol": "arbLUNA"
         },
@@ -1462,7 +1462,7 @@
           "display": "LUNA-USDC-ampLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.8867154574626552",
+          "price_usd": "1.8734547377695394",
           "eris_name": "LUNA-USDC-ampLP",
           "symbol": "LUNA-USDC-ampLP"
         },
@@ -1617,7 +1617,7 @@
           "display": "SOLID",
           "coingecko_id": "solid-2",
           "decimals": 6,
-          "price_usd": "1.055469033837279",
+          "price_usd": "1.0538845139078838",
           "eris_name": "SOLID",
           "symbol": "SOLID"
         },
@@ -1680,7 +1680,7 @@
           "display": "CAPA",
           "coingecko_id": "capapult",
           "decimals": 6,
-          "price_usd": "0.001330980794642934",
+          "price_usd": "0.001309269486854853",
           "eris_name": "CAPA",
           "symbol": "CAPA"
         },
@@ -1744,7 +1744,7 @@
           "display": "ampCAPA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0014677008516478603",
+          "price_usd": "0.0014496474203118232",
           "eris_name": "ampCAPA",
           "symbol": "ampCAPA"
         },
@@ -1818,7 +1818,7 @@
           "display": "PAXG",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "4480.64",
+          "price_usd": "4477.41",
           "eris_name": "PAXG",
           "symbol": "PAXG"
         },
@@ -1913,7 +1913,7 @@
           "display": "LUNA-ampLUNA-ampLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.3292798250033265",
+          "price_usd": "0.3246290564628131",
           "eris_name": "LUNA-ampLUNA-ampLP",
           "symbol": "LUNA-ampLUNA-ampLP"
         },
@@ -2064,7 +2064,7 @@
           "display": "wBTC.creda.a",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "67151.16426749763",
+          "price_usd": "66466.04029322862",
           "eris_name": "wBTC.creda.a",
           "symbol": "wBTC.creda.a"
         },
@@ -2112,7 +2112,7 @@
           "display": "LUNA-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.538477058049797",
+          "price_usd": "0.5346561758894272",
           "eris_name": "LUNA-EURe LP (S)",
           "symbol": "LUNA-EURe LP (S)"
         },
@@ -2160,7 +2160,7 @@
           "display": "LUNA-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.5287475661612405",
+          "price_usd": "0.5250103569818967",
           "eris_name": "LUNA-USDt LP (S)",
           "symbol": "LUNA-USDt LP (S)"
         },
@@ -2208,7 +2208,7 @@
           "display": "ampLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.20205410771209076",
+          "price_usd": "0.19920034789993243",
           "eris_name": "ampLUNA-LUNA LP (S)",
           "symbol": "ampLUNA-LUNA LP (S)"
         },
@@ -2256,7 +2256,7 @@
           "display": "USDC-SOLID LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.3400072774315857",
+          "price_usd": "2.3323727032395745",
           "eris_name": "USDC-SOLID LP",
           "symbol": "USDC-SOLID LP"
         },
@@ -2323,7 +2323,7 @@
           "display": "SOLID-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.6091959795597529",
+          "price_usd": "0.6028726289976118",
           "eris_name": "SOLID-LUNA LP",
           "symbol": "SOLID-LUNA LP"
         },
@@ -2390,7 +2390,7 @@
           "display": "ASTRO-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.013880727694927219",
+          "price_usd": "0.013780188965282669",
           "eris_name": "ASTRO-LUNA LP",
           "symbol": "ASTRO-LUNA LP"
         },
@@ -2457,7 +2457,7 @@
           "display": "LUNA-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00023843399802497476",
+          "price_usd": "0.00023528369888245213",
           "eris_name": "LUNA-ROAR LP (S)",
           "symbol": "LUNA-ROAR LP (S)"
         },
@@ -2505,7 +2505,7 @@
           "display": "LUNA-stLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.1186123274677574",
+          "price_usd": "0.11684124954057847",
           "eris_name": "LUNA-stLUNA LP (S)",
           "symbol": "LUNA-stLUNA LP (S)"
         },
@@ -2552,7 +2552,7 @@
           "display": "CAPA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.017762454687422914",
+          "price_usd": "0.017527769388477252",
           "eris_name": "CAPA-LUNA LP (S)",
           "symbol": "CAPA-LUNA LP (S)"
         },
@@ -2600,7 +2600,7 @@
           "display": "LUNA-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.5105075511526819",
+          "price_usd": "0.5052008721523601",
           "eris_name": "LUNA-SOLID LP (S)",
           "symbol": "LUNA-SOLID LP (S)"
         },
@@ -2648,7 +2648,7 @@
           "display": "ATOM-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.9714267746020633",
+          "price_usd": "0.9566049900864656",
           "eris_name": "ATOM-LUNA LP (S)",
           "symbol": "ATOM-LUNA LP (S)"
         },
@@ -2739,7 +2739,7 @@
           "display": "LUNA-ASTRO LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.013342059787517093",
+          "price_usd": "0.013244272763688128",
           "eris_name": "LUNA-ASTRO LP (S)",
           "symbol": "LUNA-ASTRO LP (S)"
         },
@@ -2786,7 +2786,7 @@
           "display": "USDC-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.1030187666447033",
+          "price_usd": "2.096161723535372",
           "eris_name": "USDC-SOLID LP (S)",
           "symbol": "USDC-SOLID LP (S)"
         },
@@ -2834,7 +2834,7 @@
           "display": "wBNB.axl-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "12.19730667924875",
+          "price_usd": "12.045271527647282",
           "eris_name": "wBNB.axl-LUNA LP",
           "symbol": "wBNB.axl-LUNA LP"
         },
@@ -2948,7 +2948,7 @@
           "display": "USDC-EURe LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.1862980159210514",
+          "price_usd": "2.1864079831795427",
           "eris_name": "USDC-EURe LP",
           "symbol": "USDC-EURe LP"
         },
@@ -3015,7 +3015,7 @@
           "display": "ATOM-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.7396365257141038",
+          "price_usd": "0.7283493484749965",
           "eris_name": "ATOM-LUNA LP",
           "symbol": "ATOM-LUNA LP"
         },
@@ -3082,7 +3082,7 @@
           "display": "FUEL",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.003212995463582348",
+          "price_usd": "0.003160608746587522",
           "eris_name": "FUEL",
           "symbol": "FUEL"
         },
@@ -3137,7 +3137,7 @@
           "display": "stLUNA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.056855",
+          "price_usd": "0.055928",
           "eris_name": "stLUNA",
           "symbol": "stLUNA"
         },
@@ -3197,7 +3197,7 @@
           "display": "wBNB.axl",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "654.09",
+          "price_usd": "647.04",
           "eris_name": "wBNB.axl",
           "symbol": "wBNB.axl"
         },
@@ -3257,7 +3257,7 @@
           "display": "LUNA-INJ LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000012836691677651754",
+          "price_usd": "0.0000012668965349644387",
           "eris_name": "LUNA-INJ LP",
           "symbol": "LUNA-INJ LP"
         },
@@ -3324,7 +3324,7 @@
           "display": "wBTC.atom",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "67041",
+          "price_usd": "66357",
           "eris_name": "wBTC.atom",
           "symbol": "wBTC.atom"
         },
@@ -3381,7 +3381,7 @@
           "display": "ATOM",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.83",
+          "price_usd": "1.8",
           "eris_name": "ATOM",
           "symbol": "ATOM"
         },
@@ -3437,7 +3437,7 @@
           "display": "LUNA-PAXG LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "32.028097035955874",
+          "price_usd": "31.789274152204626",
           "eris_name": "LUNA-PAXG LP",
           "symbol": "LUNA-PAXG LP"
         },
@@ -3547,7 +3547,7 @@
           "display": "INJ",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "6.66",
+          "price_usd": "6.58",
           "eris_name": "INJ",
           "symbol": "INJ"
         },
@@ -3607,7 +3607,7 @@
           "display": "LUNA-wBTC.atom LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "124.47168719673998",
+          "price_usd": "122.95702820149047",
           "eris_name": "LUNA-wBTC.atom LP",
           "symbol": "LUNA-wBTC.atom LP"
         },
@@ -3675,7 +3675,7 @@
           "display": "LUNA-INJ LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000012758246943793665",
+          "price_usd": "0.0000012591539817037819",
           "eris_name": "LUNA-INJ LP (S)",
           "symbol": "LUNA-INJ LP (S)"
         },
@@ -3766,7 +3766,7 @@
           "display": "USDC-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.1770121870964174",
+          "price_usd": "2.177125671799638",
           "eris_name": "USDC-EURe LP (S)",
           "symbol": "USDC-EURe LP (S)"
         },
@@ -3814,7 +3814,7 @@
           "display": "PAXG-wBTC.atom LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "34680.25645688692",
+          "price_usd": "34491.27798253489",
           "eris_name": "PAXG-wBTC.atom LP",
           "symbol": "PAXG-wBTC.atom LP"
         },
@@ -3925,7 +3925,7 @@
           "display": "ampROAR-ROAR LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "6.897715643428419e-7",
+          "price_usd": "6.81288814551416e-7",
           "eris_name": "ampROAR-ROAR LP",
           "symbol": "ampROAR-ROAR LP"
         },
@@ -3973,7 +3973,7 @@
           "display": "ampROAR-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "5.07549267498647e-7",
+          "price_usd": "5.013074714235735e-7",
           "eris_name": "ampROAR-ROAR LP (S)",
           "symbol": "ampROAR-ROAR LP (S)"
         },
@@ -4021,7 +4021,7 @@
           "display": "LUNA-arbLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.19550517862690645",
+          "price_usd": "0.19274388375869303",
           "eris_name": "LUNA-arbLUNA LP (S)",
           "symbol": "LUNA-arbLUNA LP (S)"
         },
@@ -4069,7 +4069,7 @@
           "display": "PAXG-wBTC.atom AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "36818.769605984875",
+          "price_usd": "36618.138018490485",
           "eris_name": "PAXG-wBTC.atom AMPLP",
           "symbol": "PAXG-wBTC.atom AMPLP"
         },
@@ -4112,7 +4112,7 @@
           "display": "ampROAR-ROAR AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.000001277467057587024",
+          "price_usd": "0.0000012617568805132215",
           "eris_name": "ampROAR-ROAR AMPLP",
           "symbol": "ampROAR-ROAR AMPLP"
         },
@@ -4155,7 +4155,7 @@
           "display": "USDC-USDt AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.2210389119791",
+          "price_usd": "2.2211797311567096",
           "eris_name": "USDC-USDt AMPLP",
           "symbol": "USDC-USDt AMPLP"
         },
@@ -4198,7 +4198,7 @@
           "display": "wBTC.creda.a AMPLP",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "67958.87353179004",
+          "price_usd": "67265.50873270076",
           "eris_name": "wBTC.creda.a AMPLP",
           "symbol": "wBTC.creda.a AMPLP"
         },
@@ -4241,7 +4241,7 @@
           "display": "LUNA-arbLUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.26786200128048554",
+          "price_usd": "0.2640768432849426",
           "eris_name": "LUNA-arbLUNA AMPLP",
           "symbol": "LUNA-arbLUNA AMPLP"
         },
@@ -4284,7 +4284,7 @@
           "display": "ATOM-stATOM AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "6.289569243503916",
+          "price_usd": "6.186461550987457",
           "eris_name": "ATOM-stATOM AMPLP",
           "symbol": "ATOM-stATOM AMPLP"
         },
@@ -4327,7 +4327,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0463265224856022",
+          "price_usd": "1.046390623189743",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -4370,7 +4370,7 @@
           "display": "ampCAPA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0028424144388366096",
+          "price_usd": "0.0028074513645544876",
           "eris_name": "ampCAPA",
           "symbol": "ampCAPA"
         },
@@ -4413,7 +4413,7 @@
           "display": "ampROAR-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000014185620865134942",
+          "price_usd": "0.000001401116735232652",
           "eris_name": "ampROAR-ROAR LP (S)",
           "symbol": "ampROAR-ROAR LP (S)"
         },
@@ -4456,7 +4456,7 @@
           "display": "LUNA-arbLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.3555641446826266",
+          "price_usd": "0.3505421935766332",
           "eris_name": "LUNA-arbLUNA LP (S)",
           "symbol": "LUNA-arbLUNA LP (S)"
         },
@@ -4499,7 +4499,7 @@
           "display": "USDt-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.836977922433814",
+          "price_usd": "1.823911566446201",
           "eris_name": "USDt-LUNA AMPLP",
           "symbol": "USDt-LUNA AMPLP"
         },
@@ -4542,7 +4542,7 @@
           "display": "LUNA-USDC AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.7781333267258752",
+          "price_usd": "1.7655455669491233",
           "eris_name": "LUNA-USDC AMPLP",
           "symbol": "LUNA-USDC AMPLP"
         },
@@ -4585,7 +4585,7 @@
           "display": "LUNA-EURe AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.7454077056643336",
+          "price_usd": "1.7329540442666327",
           "eris_name": "LUNA-EURe AMPLP",
           "symbol": "LUNA-EURe AMPLP"
         },
@@ -4628,7 +4628,7 @@
           "display": "LUNA-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.510898727602223",
+          "price_usd": "1.500177814040318",
           "eris_name": "LUNA-EURe LP (S)",
           "symbol": "LUNA-EURe LP (S)"
         },
@@ -4671,7 +4671,7 @@
           "display": "LUNA-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.1130876122837958",
+          "price_usd": "1.1052202640286697",
           "eris_name": "LUNA-USDt LP (S)",
           "symbol": "LUNA-USDt LP (S)"
         },
@@ -4714,7 +4714,7 @@
           "display": "xASTRO",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0009667213063223772",
+          "price_usd": "0.0009666953156971232",
           "eris_name": "xASTRO",
           "symbol": "xASTRO"
         },
@@ -4761,7 +4761,7 @@
           "display": "USDt-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.49376877267473607",
+          "price_usd": "0.4902566136658858",
           "eris_name": "USDt-LUNA LP",
           "symbol": "USDt-LUNA LP"
         },
@@ -4828,7 +4828,7 @@
           "display": "LUNA-USDC LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.5120307104462386",
+          "price_usd": "0.5084059431216844",
           "eris_name": "LUNA-USDC LP",
           "symbol": "LUNA-USDC LP"
         },
@@ -4895,7 +4895,7 @@
           "display": "LUNA-EURe LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.5218399918608789",
+          "price_usd": "0.5181166104747856",
           "eris_name": "LUNA-EURe LP",
           "symbol": "LUNA-EURe LP"
         },
@@ -4962,7 +4962,7 @@
           "display": "LUNA-USDC LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.5552993942656389",
+          "price_usd": "0.5513964901027522",
           "eris_name": "LUNA-USDC LP (S)",
           "symbol": "LUNA-USDC LP (S)"
         },
@@ -5010,7 +5010,7 @@
           "display": "ampLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.3080739522372521",
+          "price_usd": "0.30372279563854443",
           "eris_name": "ampLUNA-LUNA LP (S)",
           "symbol": "ampLUNA-LUNA LP (S)"
         },
@@ -5053,7 +5053,7 @@
           "display": "USDC-SOLID AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "5.630943724043078",
+          "price_usd": "5.612572047148366",
           "eris_name": "USDC-SOLID AMPLP",
           "symbol": "USDC-SOLID AMPLP"
         },
@@ -5096,7 +5096,7 @@
           "display": "stLUNA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.12197508065779618",
+          "price_usd": "0.12022499166335708",
           "eris_name": "stLUNA-LUNA LP",
           "symbol": "stLUNA-LUNA LP"
         },
@@ -5163,7 +5163,7 @@
           "display": "CAPA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.017621293383630943",
+          "price_usd": "0.017388378202440154",
           "eris_name": "CAPA-LUNA LP",
           "symbol": "CAPA-LUNA LP"
         },
@@ -5230,7 +5230,7 @@
           "display": "FUEL-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.02705964644621782",
+          "price_usd": "0.02664763794907313",
           "eris_name": "FUEL-LUNA LP",
           "symbol": "FUEL-LUNA LP"
         },
@@ -5297,7 +5297,7 @@
           "display": "bLUNA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.1321201931819874",
+          "price_usd": "0.13025414127490723",
           "eris_name": "bLUNA-LUNA LP",
           "symbol": "bLUNA-LUNA LP"
         },
@@ -5364,7 +5364,7 @@
           "display": "LUNA-ampLUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.1627833380922045",
+          "price_usd": "0.16048417619332006",
           "eris_name": "LUNA-ampLUNA LP",
           "symbol": "LUNA-ampLUNA LP"
         },
@@ -5431,7 +5431,7 @@
           "display": "bLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.16763897779663975",
+          "price_usd": "0.16527126225911026",
           "eris_name": "bLUNA-LUNA LP (S)",
           "symbol": "bLUNA-LUNA LP (S)"
         },
@@ -5479,7 +5479,7 @@
           "display": "ROAR-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00023508768238816763",
+          "price_usd": "0.0002319803597825867",
           "eris_name": "ROAR-LUNA LP",
           "symbol": "ROAR-LUNA LP"
         },
@@ -5546,7 +5546,7 @@
           "display": "SOLID-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.451922157107847",
+          "price_usd": "2.4264716225168623",
           "eris_name": "SOLID-LUNA AMPLP",
           "symbol": "SOLID-LUNA AMPLP"
         },
@@ -5589,7 +5589,7 @@
           "display": "ASTRO-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.04872874944445873",
+          "price_usd": "0.04837580493938758",
           "eris_name": "ASTRO-LUNA AMPLP",
           "symbol": "ASTRO-LUNA AMPLP"
         },
@@ -5632,7 +5632,7 @@
           "display": "stLUNA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.32845281777595764",
+          "price_usd": "0.32374020222791067",
           "eris_name": "stLUNA-LUNA AMPLP",
           "symbol": "stLUNA-LUNA AMPLP"
         },
@@ -5675,7 +5675,7 @@
           "display": "CAPA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.08685093914869219",
+          "price_usd": "0.08570295858971692",
           "eris_name": "CAPA-LUNA AMPLP",
           "symbol": "CAPA-LUNA AMPLP"
         },
@@ -5718,7 +5718,7 @@
           "display": "FUEL-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.05658438123040208",
+          "price_usd": "0.0557228309540917",
           "eris_name": "FUEL-LUNA AMPLP",
           "symbol": "FUEL-LUNA AMPLP"
         },
@@ -5761,7 +5761,7 @@
           "display": "bLUNA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.15066175309916452",
+          "price_usd": "0.14853382212265226",
           "eris_name": "bLUNA-LUNA AMPLP",
           "symbol": "bLUNA-LUNA AMPLP"
         },
@@ -5804,7 +5804,7 @@
           "display": "CAPA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.03938326791450044",
+          "price_usd": "0.03886291900064699",
           "eris_name": "CAPA-LUNA LP (S)",
           "symbol": "CAPA-LUNA LP (S)"
         },
@@ -5847,7 +5847,7 @@
           "display": "LUNA-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.4560844486405293",
+          "price_usd": "2.4305536768876164",
           "eris_name": "LUNA-SOLID LP (S)",
           "symbol": "LUNA-SOLID LP (S)"
         },
@@ -5890,7 +5890,7 @@
           "display": "USDC-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.379891869340532",
+          "price_usd": "2.3721320616762136",
           "eris_name": "USDC-SOLID LP (S)",
           "symbol": "USDC-SOLID LP (S)"
         },
@@ -5933,7 +5933,7 @@
           "display": "wBNB.axl-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "33.06563345477607",
+          "price_usd": "32.65348192597602",
           "eris_name": "wBNB.axl-LUNA AMPLP",
           "symbol": "wBNB.axl-LUNA AMPLP"
         },
@@ -5976,7 +5976,7 @@
           "display": "USDC-EURe AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "3.1381237431536864",
+          "price_usd": "3.138281585708694",
           "eris_name": "USDC-EURe AMPLP",
           "symbol": "USDC-EURe AMPLP"
         },
@@ -6019,7 +6019,7 @@
           "display": "LUNA-wBTC.atom AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "246.67500534642483",
+          "price_usd": "243.6732904651874",
           "eris_name": "LUNA-wBTC.atom AMPLP",
           "symbol": "LUNA-wBTC.atom AMPLP"
         },
@@ -6062,7 +6062,7 @@
           "display": "USDC-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.946410207209795",
+          "price_usd": "2.946563799592012",
           "eris_name": "USDC-EURe LP (S)",
           "symbol": "USDC-EURe LP (S)"
         },
@@ -6105,7 +6105,7 @@
           "display": "USDC-USDt LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.0050963322489004",
+          "price_usd": "2.0052234601506282",
           "eris_name": "USDC-USDt LP",
           "symbol": "USDC-USDt LP"
         },
@@ -6172,7 +6172,7 @@
           "display": "LUNA-arbLUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.18988406410544043",
+          "price_usd": "0.18720081235625977",
           "eris_name": "LUNA-arbLUNA LP",
           "symbol": "LUNA-arbLUNA LP"
         },
@@ -6239,7 +6239,7 @@
           "display": "ATOM-stATOM LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "3.0415162964344806",
+          "price_usd": "2.9916553735421116",
           "eris_name": "ATOM-stATOM LP",
           "symbol": "ATOM-stATOM LP"
         },
@@ -6306,7 +6306,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0015522549026217",
+          "price_usd": "1.0016136126178221",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -6354,7 +6354,7 @@
           "display": "ATOM-stATOM LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.2235171592937912",
+          "price_usd": "2.1870660583217614",
           "eris_name": "ATOM-stATOM LP (S)",
           "symbol": "ATOM-stATOM LP (S)"
         },
@@ -6401,7 +6401,7 @@
           "display": "bLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.3850356892518978",
+          "price_usd": "0.3795974851067317",
           "eris_name": "bLUNA-LUNA LP (S)",
           "symbol": "bLUNA-LUNA LP (S)"
         },
@@ -6487,7 +6487,7 @@
           "display": "ROAR-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0006852492238652537",
+          "price_usd": "0.0006761917931137033",
           "eris_name": "ROAR-LUNA AMPLP",
           "symbol": "ROAR-LUNA AMPLP"
         },
@@ -6530,7 +6530,7 @@
           "display": "LUNA-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00025405830391946",
+          "price_usd": "0.00025070156929428964",
           "eris_name": "LUNA-ROAR LP (S)",
           "symbol": "LUNA-ROAR LP (S)"
         },
@@ -6573,7 +6573,7 @@
           "display": "LUNA-PAXG AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "48.35402954376545",
+          "price_usd": "47.9934696027964",
           "eris_name": "LUNA-PAXG AMPLP",
           "symbol": "LUNA-PAXG AMPLP"
         },
@@ -6616,7 +6616,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0463265224856022",
+          "price_usd": "1.046390623189743",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -6659,7 +6659,7 @@
           "display": "LUNA-INJ LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.000002894298734897558",
+          "price_usd": "0.0000028564800417656953",
           "eris_name": "LUNA-INJ LP (S)",
           "symbol": "LUNA-INJ LP (S)"
         },
@@ -6788,7 +6788,7 @@
           "display": "ATOM-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.3261185388329784",
+          "price_usd": "2.2906209514178193",
           "eris_name": "ATOM-LUNA AMPLP",
           "symbol": "ATOM-LUNA AMPLP"
         },
@@ -6831,7 +6831,7 @@
           "display": "ATOM-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "3.07797820021286",
+          "price_usd": "3.031015185789101",
           "eris_name": "ATOM-LUNA LP (S)",
           "symbol": "ATOM-LUNA LP (S)"
         },
@@ -6874,7 +6874,7 @@
           "display": "LUNA-INJ AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000026631209249725557",
+          "price_usd": "0.0000026283241482794707",
           "eris_name": "LUNA-INJ AMPLP",
           "symbol": "LUNA-INJ AMPLP"
         },
@@ -6917,7 +6917,7 @@
           "display": "USDC-USDt AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.2210389119791",
+          "price_usd": "2.2211797311567096",
           "eris_name": "USDC-USDt AMPLP",
           "symbol": "USDC-USDt AMPLP"
         },
@@ -6986,50 +6986,6 @@
       "acquisition_class": "native_terra",
       "headline_name": "LUNA-WBTC.axl AMPLP",
       "tier": "tracked"
-    },
-    "_example_wBTCatom_disabled": {
-      "address": "_example_wBTCatom_disabled",
-      "type": null,
-      "category": "tokens",
-      "subtype": "ibc",
-      "symbol": null,
-      "display_name": "wBTC.atom",
-      "decimals": null,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": null,
-        "astroport": null,
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 0,
-        "tla_pools": [],
-        "is_lockable": false,
-        "is_amplp_underlying": false
-      },
-      "wallet_import": null,
-      "scoring": {
-        "confusion_score": 60,
-        "flags": [
-          "no_external_price_source",
-          "not_in_active_use"
-        ]
-      },
-      "override": {
-        "_note": "REMOVE THE LEADING UNDERSCORE TO ACTIVATE. This is an example showing how to override a specific token. Replace the key with the actual wBTC.atom address when known.",
-        "display_name": "wBTC.atom",
-        "subtype": "ibc",
-        "notes": "Bridged via Skip.go / Eureka IBC route from Cosmos Hub. The .atom suffix is critical — wBTC.axl and wBTC.osmo exist on Terra too and are different tokens. Confirm address before any swap.",
-        "warning": "Multiple wBTC variants exist on Terra. The Eris UI label '.atom' is the bridge identity. Do not confuse with wBTC.axl or wBTC.osmo.",
-        "verified": true
-      },
-      "notes": "Bridged via Skip.go / Eureka IBC route from Cosmos Hub. The .atom suffix is critical — wBTC.axl and wBTC.osmo exist on Terra too and are different tokens. Confirm address before any swap.",
-      "acquisition_class": "native_terra",
-      "headline_name": "wBTC.atom",
-      "tier": "core"
     }
   },
   "amplp_mappings": {
