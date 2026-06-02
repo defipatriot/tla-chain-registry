@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-02T18:26:57.808Z",
-  "capturedAtUnix": 1780424817808,
-  "runId": "tla-registry-20260602182657",
+  "capturedAt": "2026-06-02T19:39:40.553Z",
+  "capturedAtUnix": 1780429180553,
+  "runId": "tla-registry-20260602193940",
   "runMode": "daily",
   "status": "ok",
   "canonicalEpoch": 187,
@@ -11,10 +11,10 @@
     "directory_size": 20,
     "pool_count": 28,
     "bucket_count": 4,
-    "tokens_catalog": 65,
+    "tokens_catalog": 119,
     "tokens_core": 58,
-    "tokens_tracked": 7,
-    "tokens_noise": 0,
+    "tokens_tracked": 11,
+    "tokens_noise": 50,
     "contracts_catalog": 42,
     "wallets_catalog": 668,
     "wallets_discovered_via_daodao": 347,
@@ -32,7 +32,7 @@
     "pfpk_names_found": 159,
     "pfpk_lookups_attempted": 666,
     "amplp_mappings": 65,
-    "unmapped_tokens": 21,
+    "unmapped_tokens": 2,
     "chain_errors": 0,
     "external_source_errors": 0,
     "scope": {
@@ -41,15 +41,15 @@
       "total_lps": 44,
       "pair_lookups_succeeded": 26,
       "pair_lookups_failed": 1,
-      "native_lps_skipped": 17,
-      "underlyings_discovered": 20,
-      "amplp_denoms_added": 0,
-      "total_in_scope_addresses": 64,
+      "native_lps_skipped": 1,
+      "underlyings_discovered": 21,
+      "amplp_denoms_added": 65,
+      "total_in_scope_addresses": 129,
       "whitelist_buckets_checked": 4,
       "whitelist_buckets_succeeded": 4
     },
     "acquisition_classes": {
-      "native_terra": 9,
+      "native_terra": 63,
       "ibc_cosmos_native": 6,
       "wrapped_disclosed": 1,
       "wrapped_looks_native": 5,
@@ -57,9 +57,9 @@
       "unclassified": 0
     }
   },
-  "dataFingerprint": "fd397773b58d",
+  "dataFingerprint": "fe36c3208967",
   "previousFingerprint": "fd397773b58d",
   "dataFreshness": "fresh",
-  "consecutiveStuckRuns": 2,
-  "next_expected_run_at": "2026-06-03T18:26:57.808Z"
+  "consecutiveStuckRuns": 0,
+  "next_expected_run_at": "2026-06-03T19:39:40.553Z"
 }
