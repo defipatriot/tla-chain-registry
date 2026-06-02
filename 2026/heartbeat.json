@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-02T00:05:18.027Z",
-  "capturedAtUnix": 1780358718027,
-  "runId": "tla-registry-20260602000518",
+  "capturedAt": "2026-06-02T16:51:59.983Z",
+  "capturedAtUnix": 1780419119983,
+  "runId": "tla-registry-20260602165159",
   "runMode": "daily",
   "status": "ok",
   "canonicalEpoch": 187,
@@ -11,17 +11,17 @@
     "directory_size": 20,
     "pool_count": 28,
     "bucket_count": 4,
-    "tokens_catalog": 622,
-    "tokens_core": 98,
-    "tokens_tracked": 266,
-    "tokens_noise": 258,
+    "tokens_catalog": 65,
+    "tokens_core": 58,
+    "tokens_tracked": 7,
+    "tokens_noise": 0,
     "contracts_catalog": 42,
     "wallets_catalog": 668,
-    "wallets_discovered_via_daodao": 346,
+    "wallets_discovered_via_daodao": 347,
     "wallets_discovered_via_indexer": 186,
     "wallets_discovered_via_tla_locks": 133,
     "wallets_per_dao": {
-      "Lion DAO ROAR Staking": 346
+      "Lion DAO ROAR Staking": 347
     },
     "indexer_per_dao": {
       "AllianceDAO Voting Module": 88,
@@ -29,16 +29,29 @@
     },
     "tla_unique_holders": 202,
     "tla_total_locks_scanned": 431,
-    "pfpk_names_found": 158,
-    "pfpk_lookups_attempted": 665,
+    "pfpk_names_found": 159,
+    "pfpk_lookups_attempted": 666,
     "amplp_mappings": 65,
-    "unmapped_tokens": 8,
+    "unmapped_tokens": 21,
     "chain_errors": 0,
-    "external_source_errors": 0
+    "external_source_errors": 0,
+    "scope": {
+      "active_lps": 28,
+      "inactive_lps_discovered": 16,
+      "total_lps": 44,
+      "pair_lookups_succeeded": 26,
+      "pair_lookups_failed": 1,
+      "native_lps_skipped": 17,
+      "underlyings_discovered": 20,
+      "amplp_denoms_added": 0,
+      "total_in_scope_addresses": 64,
+      "whitelist_buckets_checked": 4,
+      "whitelist_buckets_succeeded": 4
+    }
   },
-  "dataFingerprint": "d7b03d767665",
+  "dataFingerprint": "fd397773b58d",
   "previousFingerprint": "d7b03d767665",
   "dataFreshness": "fresh",
-  "consecutiveStuckRuns": 4,
-  "next_expected_run_at": "2026-06-03T00:05:18.027Z"
+  "consecutiveStuckRuns": 0,
+  "next_expected_run_at": "2026-06-03T16:51:59.983Z"
 }
