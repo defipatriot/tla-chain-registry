@@ -3,8 +3,8 @@
   "cron": "tla-registry",
   "layer": 0,
   "layerRole": "discovery-bootstrap-catalog",
-  "capturedAt": "2026-06-01T21:58:16.205Z",
-  "capturedAtUnix": 1780351096205,
+  "capturedAt": "2026-06-02T00:05:18.027Z",
+  "capturedAtUnix": 1780358718027,
   "canonicalEpoch": 187,
   "directory": {
     "ASSET_GAUGE": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
@@ -328,7 +328,7 @@
           "eris_name": "terra-luna-2",
           "symbol": "terra-luna-2",
           "decimals": 6,
-          "price_usd": "0.060168",
+          "price_usd": "0.060412",
           "looks_like_address": false
         },
         "astroport": {
@@ -389,7 +389,7 @@
           "eris_name": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
           "symbol": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
           "decimals": 6,
-          "price_usd": "0.007489084052338059",
+          "price_usd": "0.007527874068549431",
           "looks_like_address": true
         },
         "astroport": {
@@ -478,7 +478,7 @@
           "eris_name": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
           "symbol": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
           "decimals": 6,
-          "price_usd": "0.000803866153895784",
+          "price_usd": "0.000807448836816174",
           "looks_like_address": true
         },
         "astroport": {
@@ -1047,7 +1047,7 @@
           "eris_name": "eris-amplified-luna",
           "symbol": "eris-amplified-luna",
           "decimals": 6,
-          "price_usd": "0.12851563225917825",
+          "price_usd": "0.1286986349913431",
           "looks_like_address": false
         },
         "astroport": {
@@ -1108,7 +1108,7 @@
           "eris_name": "lion-dao",
           "symbol": "lion-dao",
           "decimals": 6,
-          "price_usd": "2.4174279888e-7",
+          "price_usd": "2.4272779615e-7",
           "looks_like_address": false
         },
         "astroport": {
@@ -1419,7 +1419,7 @@
           "eris_name": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
           "symbol": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
           "decimals": 6,
-          "price_usd": "0.10565405292415556",
+          "price_usd": "0.10609656092403734",
           "looks_like_address": true
         },
         "astroport": {
@@ -1638,7 +1638,7 @@
           "eris_name": "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
           "symbol": "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
           "decimals": 6,
-          "price_usd": "2.8599780189879466e-7",
+          "price_usd": "2.8740266811354157e-7",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1843,7 +1843,7 @@
           "eris_name": "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
           "symbol": "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
           "decimals": 18,
-          "price_usd": "2469.14",
+          "price_usd": "2476.84",
           "looks_like_address": true
         },
         "astroport": {
@@ -2526,7 +2526,7 @@
           "eris_name": "tether",
           "symbol": "tether",
           "decimals": 6,
-          "price_usd": "0.998717",
+          "price_usd": "0.998647",
           "looks_like_address": false
         },
         "astroport": {
@@ -2661,7 +2661,7 @@
           "eris_name": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
           "symbol": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
           "decimals": 6,
-          "price_usd": "0.999721",
+          "price_usd": "0.999742",
           "looks_like_address": true
         },
         "astroport": {
@@ -2781,7 +2781,7 @@
           "eris_name": "dragon-coin-2",
           "symbol": "dragon-coin-2",
           "decimals": 6,
-          "price_usd": "0.00027509",
+          "price_usd": "0.00027017",
           "looks_like_address": false
         },
         "astroport": null,
@@ -2932,7 +2932,7 @@
           "eris_name": "eris-arbitrage-luna",
           "symbol": "eris-arbitrage-luna",
           "decimals": 6,
-          "price_usd": "0.15741030472680362",
+          "price_usd": "0.15789213256233736",
           "looks_like_address": false
         },
         "astroport": {
@@ -3151,7 +3151,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/1/stable/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/1/stable/amplp",
           "decimals": 6,
-          "price_usd": "1.938177653813851",
+          "price_usd": "1.9422597320050317",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3299,7 +3299,7 @@
           "eris_name": "solid-2",
           "symbol": "solid-2",
           "decimals": 6,
-          "price_usd": "1.0718239234695834",
+          "price_usd": "1.0719621733503848",
           "looks_like_address": false
         },
         "astroport": {
@@ -3360,7 +3360,7 @@
           "eris_name": "capapult",
           "symbol": "capapult",
           "decimals": 6,
-          "price_usd": "0.001552028609945792",
+          "price_usd": "0.001566443192114903",
           "looks_like_address": false
         },
         "astroport": {
@@ -3421,7 +3421,7 @@
           "eris_name": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
           "symbol": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
           "decimals": 6,
-          "price_usd": "0.0017154850258881658",
+          "price_usd": "0.0017239092234864876",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3492,7 +3492,7 @@
           "eris_name": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
           "symbol": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
           "decimals": 18,
-          "price_usd": "4477.33",
+          "price_usd": "4475.42",
           "looks_like_address": true
         },
         "astroport": {
@@ -3581,7 +3581,7 @@
           "eris_name": "ibc/F20FE45BF7122CF10559EDEA032E37956D3314774EA6D8D1D46B87D138290C45",
           "symbol": "ibc/F20FE45BF7122CF10559EDEA032E37956D3314774EA6D8D1D46B87D138290C45",
           "decimals": 6,
-          "price_usd": "4464.6",
+          "price_usd": "4462.75",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3665,7 +3665,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/32/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/32/project/amplp",
           "decimals": 6,
-          "price_usd": "0.34816061141701504",
+          "price_usd": "0.34961884154058304",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3834,7 +3834,7 @@
           "eris_name": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
           "symbol": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
           "decimals": 8,
-          "price_usd": "1993.4",
+          "price_usd": "2003.2",
           "looks_like_address": true
         },
         "astroport": {
@@ -3897,7 +3897,7 @@
           "eris_name": "factory/neutron14henrqx9y328fjrdvz6l6d92r0t7g5hk86q5nd/uastropepe",
           "symbol": "factory/neutron14henrqx9y328fjrdvz6l6d92r0t7g5hk86q5nd/uastropepe",
           "decimals": 6,
-          "price_usd": "4.3937406223e-8",
+          "price_usd": "4.3938344708e-8",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4076,7 +4076,7 @@
           "eris_name": "ibc/9598CDEB7C6DB7FC21E746C8E0250B30CD5154F39CA111A9D4948A4362F638BD",
           "symbol": "ibc/9598CDEB7C6DB7FC21E746C8E0250B30CD5154F39CA111A9D4948A4362F638BD",
           "decimals": 6,
-          "price_usd": "0.004497475846986857",
+          "price_usd": "0.004497583912966976",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4117,7 +4117,7 @@
           "eris_name": "ibc/BAA1D21893B1D36865C6CA44D18F4ACF08BAD70CB6863C4722E0A61703808F77",
           "symbol": "ibc/BAA1D21893B1D36865C6CA44D18F4ACF08BAD70CB6863C4722E0A61703808F77",
           "decimals": 18,
-          "price_usd": "0.19867779606963795",
+          "price_usd": "0.19652254828516996",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4158,7 +4158,7 @@
           "eris_name": "ibc/B7BF60BB54433071B49D586F54BD4DED5E20BEFBBA91958E87488A761115106B",
           "symbol": "ibc/B7BF60BB54433071B49D586F54BD4DED5E20BEFBBA91958E87488A761115106B",
           "decimals": 8,
-          "price_usd": "71175",
+          "price_usd": "71635",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4240,7 +4240,7 @@
           "eris_name": "ibc/739368B97C6A578432701EEE54CF8BAE535F2EDD28BE051E05268BFA99229090",
           "symbol": "ibc/739368B97C6A578432701EEE54CF8BAE535F2EDD28BE051E05268BFA99229090",
           "decimals": 6,
-          "price_usd": "0.072955",
+          "price_usd": "0.072123",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4281,7 +4281,7 @@
           "eris_name": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
           "symbol": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
           "decimals": 6,
-          "price_usd": "0.053897",
+          "price_usd": "0.05444",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4404,7 +4404,7 @@
           "eris_name": "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
           "symbol": "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
           "decimals": 6,
-          "price_usd": "0.03398315",
+          "price_usd": "0.03400605",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4445,7 +4445,7 @@
           "eris_name": "ibc/ED4795DE31C539500CC6B3B09A6567387C15CF86106943C5358FF9D0991F05DB",
           "symbol": "ibc/ED4795DE31C539500CC6B3B09A6567387C15CF86106943C5358FF9D0991F05DB",
           "decimals": 18,
-          "price_usd": "0.00047992",
+          "price_usd": "0.00047969",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4527,7 +4527,7 @@
           "eris_name": "ibc/20850C646CDDDC2270E9BBDB08558B5FEE57B647EC6827F41096AABFD8A0471B",
           "symbol": "ibc/20850C646CDDDC2270E9BBDB08558B5FEE57B647EC6827F41096AABFD8A0471B",
           "decimals": 18,
-          "price_usd": "1993.65",
+          "price_usd": "2002.79",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4710,7 +4710,7 @@
           "eris_name": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
           "symbol": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
           "decimals": 8,
-          "price_usd": "70955.40528251763",
+          "price_usd": "71282.9426210936",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4755,7 +4755,7 @@
           "eris_name": "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP",
           "symbol": "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP",
           "decimals": 6,
-          "price_usd": "0.5539196384776564",
+          "price_usd": "0.555082939969516",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4796,7 +4796,7 @@
           "eris_name": "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP",
           "symbol": "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP",
           "decimals": 6,
-          "price_usd": "0.5439339164333926",
+          "price_usd": "0.5450489165292168",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4837,7 +4837,7 @@
           "eris_name": "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par",
           "symbol": "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par",
           "decimals": 6,
-          "price_usd": "0.213765173570355",
+          "price_usd": "0.21466048044011515",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4878,7 +4878,7 @@
           "eris_name": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
           "symbol": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
           "decimals": 6,
-          "price_usd": "2.3498851264641445",
+          "price_usd": "2.3608902731174592",
           "looks_like_address": true
         },
         "astroport": {
@@ -4942,7 +4942,7 @@
           "eris_name": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
           "symbol": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
           "decimals": 6,
-          "price_usd": "0.6293358990405318",
+          "price_usd": "0.6336052468908242",
           "looks_like_address": true
         },
         "astroport": {
@@ -5006,7 +5006,7 @@
           "eris_name": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
           "symbol": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
           "decimals": 6,
-          "price_usd": "0.015594760442364825",
+          "price_usd": "0.015632218669543972",
           "looks_like_address": true
         },
         "astroport": {
@@ -5070,7 +5070,7 @@
           "eris_name": "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP",
           "symbol": "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP",
           "decimals": 6,
-          "price_usd": "0.00025284531218785307",
+          "price_usd": "0.0002539956165917182",
           "looks_like_address": true
         },
         "astroport": null,
@@ -5111,7 +5111,7 @@
           "eris_name": "factory/terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg/uLP",
           "symbol": "factory/terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg/uLP",
           "decimals": 6,
-          "price_usd": "0.12552538122978388",
+          "price_usd": "0.12604493379817147",
           "looks_like_address": true
         },
         "astroport": null,
@@ -5152,7 +5152,7 @@
           "eris_name": "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP",
           "symbol": "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP",
           "decimals": 6,
-          "price_usd": "0.019754098403462175",
+          "price_usd": "0.019843992264400277",
           "looks_like_address": true
         },
         "astroport": null,
@@ -5193,7 +5193,7 @@
           "eris_name": "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP",
           "symbol": "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP",
           "decimals": 6,
-          "price_usd": "0.5273788500675642",
+          "price_usd": "0.5309572101643372",
           "looks_like_address": true
         },
         "astroport": null,
@@ -5234,7 +5234,7 @@
           "eris_name": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
           "symbol": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
           "decimals": 6,
-          "price_usd": "1.018246523379789",
+          "price_usd": "1.02037581002643",
           "looks_like_address": true
         },
         "astroport": null,
@@ -5421,7 +5421,7 @@
           "eris_name": "neutron-3",
           "symbol": "neutron-3",
           "decimals": 6,
-          "price_usd": "0.00124819",
+          "price_usd": "0.00124575",
           "looks_like_address": false
         },
         "astroport": null,
@@ -5584,7 +5584,7 @@
           "eris_name": "factory/neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn/xASTRO",
           "symbol": "factory/neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn/xASTRO",
           "decimals": 6,
-          "price_usd": "0.0011500966260974128",
+          "price_usd": "0.0011512516934064306",
           "looks_like_address": true
         },
         "astroport": null,
@@ -5625,7 +5625,7 @@
           "eris_name": "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2",
           "symbol": "ibc/57503D7852EF4E1899FE6D71C5E81D7C839F76580F86F21E39348FC2BC9D7CE2",
           "decimals": 6,
-          "price_usd": "0.995929",
+          "price_usd": "0.986939",
           "looks_like_address": true
         },
         "astroport": null,
@@ -5666,7 +5666,7 @@
           "eris_name": "ibc/4A6A46D4263F2ED3DCE9CF866FE15E6903FB5E12D87EB8BDC1B6B1A1E2D397B4",
           "symbol": "ibc/4A6A46D4263F2ED3DCE9CF866FE15E6903FB5E12D87EB8BDC1B6B1A1E2D397B4",
           "decimals": 18,
-          "price_usd": "0.01938875",
+          "price_usd": "0.01937758",
           "looks_like_address": true
         },
         "astroport": null,
@@ -5707,7 +5707,7 @@
           "eris_name": "ibc/5A027DC380009335DC96374937E7AA5D7D45FA710E9A0AE76854541441026E11",
           "symbol": "ibc/5A027DC380009335DC96374937E7AA5D7D45FA710E9A0AE76854541441026E11",
           "decimals": 12,
-          "price_usd": "4.54",
+          "price_usd": "4.53",
           "looks_like_address": true
         },
         "astroport": null,
@@ -5748,7 +5748,7 @@
           "eris_name": "ibc/9C96F6DFDDF327E23EDA6C4BD232D7DDE18362EF2A3D3B9C768CE5992E4E2A01",
           "symbol": "ibc/9C96F6DFDDF327E23EDA6C4BD232D7DDE18362EF2A3D3B9C768CE5992E4E2A01",
           "decimals": 6,
-          "price_usd": "2.44699e-7",
+          "price_usd": "2.45903e-7",
           "looks_like_address": true
         },
         "astroport": null,
@@ -5830,7 +5830,7 @@
           "eris_name": "ibc/53E1B5B1C060CF4B556E91020EACD272CD9160E996E598FC93D2436814050471",
           "symbol": "ibc/53E1B5B1C060CF4B556E91020EACD272CD9160E996E598FC93D2436814050471",
           "decimals": 6,
-          "price_usd": "0.00079381",
+          "price_usd": "0.00079468",
           "looks_like_address": true
         },
         "astroport": null,
@@ -5912,7 +5912,7 @@
           "eris_name": "ibc/3D1DE9E56DFC9583441B43A2BB9F5965516B14128E300170FCF71CE7917F9615",
           "symbol": "ibc/3D1DE9E56DFC9583441B43A2BB9F5965516B14128E300170FCF71CE7917F9615",
           "decimals": 6,
-          "price_usd": "1.38",
+          "price_usd": "1.37",
           "looks_like_address": true
         },
         "astroport": null,
@@ -6060,7 +6060,7 @@
           "eris_name": "ibc/C0E66D1C81D8AAF0E6896E05190FDFBC222367148F86AC3EA679C28327A763CD",
           "symbol": "ibc/C0E66D1C81D8AAF0E6896E05190FDFBC222367148F86AC3EA679C28327A763CD",
           "decimals": 6,
-          "price_usd": "0.053897",
+          "price_usd": "0.05444",
           "looks_like_address": true
         },
         "astroport": null,
@@ -6101,7 +6101,7 @@
           "eris_name": "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
           "symbol": "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
           "decimals": 8,
-          "price_usd": "691.4",
+          "price_usd": "691.65",
           "looks_like_address": true
         },
         "astroport": {
@@ -6162,7 +6162,7 @@
           "eris_name": "ibc/C0F284F165E6152F6DDDA900537C1BC8DA1EA00F03B9C9EC1841FA7E004EF7A3",
           "symbol": "ibc/C0F284F165E6152F6DDDA900537C1BC8DA1EA00F03B9C9EC1841FA7E004EF7A3",
           "decimals": 8,
-          "price_usd": "70990",
+          "price_usd": "71270",
           "looks_like_address": true
         },
         "astroport": null,
@@ -6203,7 +6203,7 @@
           "eris_name": "ibc/830107B6700EF8D76F5DB4B586C436A3D2A672939F93BDFC6543E12DD281453A",
           "symbol": "ibc/830107B6700EF8D76F5DB4B586C436A3D2A672939F93BDFC6543E12DD281453A",
           "decimals": 6,
-          "price_usd": "0.055714",
+          "price_usd": "0.055771",
           "looks_like_address": true
         },
         "astroport": {
@@ -6364,7 +6364,7 @@
           "eris_name": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
           "symbol": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
           "decimals": 6,
-          "price_usd": "0.02486954",
+          "price_usd": "0.02435269",
           "looks_like_address": true
         },
         "astroport": {
@@ -6497,7 +6497,7 @@
           "eris_name": "ibc/E2A000FD3EDD91C9429B473995CE2C7C555BCC8CFC1D0A3D02F514392B7A80E8",
           "symbol": "ibc/E2A000FD3EDD91C9429B473995CE2C7C555BCC8CFC1D0A3D02F514392B7A80E8",
           "decimals": 8,
-          "price_usd": "70990",
+          "price_usd": "71270",
           "looks_like_address": true
         },
         "astroport": null,
@@ -6538,7 +6538,7 @@
           "eris_name": "ibc/74B554DD3FF10F5D60E30175ADFB47E59F77F7C57024A8104A4F78CDC2EAD125",
           "symbol": "ibc/74B554DD3FF10F5D60E30175ADFB47E59F77F7C57024A8104A4F78CDC2EAD125",
           "decimals": 6,
-          "price_usd": "0.0178262",
+          "price_usd": "0.01799005",
           "looks_like_address": true
         },
         "astroport": null,
@@ -6579,7 +6579,7 @@
           "eris_name": "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP",
           "symbol": "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP",
           "decimals": 6,
-          "price_usd": "0.014974795656507927",
+          "price_usd": "0.01501312300565058",
           "looks_like_address": true
         },
         "astroport": null,
@@ -6620,7 +6620,7 @@
           "eris_name": "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP",
           "symbol": "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP",
           "decimals": 6,
-          "price_usd": "2.1118850941842617",
+          "price_usd": "2.1217805310793754",
           "looks_like_address": true
         },
         "astroport": null,
@@ -6661,7 +6661,7 @@
           "eris_name": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5",
           "symbol": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5",
           "decimals": 6,
-          "price_usd": "12.884638181002849",
+          "price_usd": "12.92603870853436",
           "looks_like_address": true
         },
         "astroport": {
@@ -6827,7 +6827,7 @@
           "eris_name": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
           "symbol": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
           "decimals": 6,
-          "price_usd": "2.1861963622283884",
+          "price_usd": "2.1862105423161657",
           "looks_like_address": true
         },
         "astroport": {
@@ -6891,7 +6891,7 @@
           "eris_name": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
           "symbol": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
           "decimals": 6,
-          "price_usd": "0.7752630775881981",
+          "price_usd": "0.7768871199423125",
           "looks_like_address": true
         },
         "astroport": {
@@ -6955,7 +6955,7 @@
           "eris_name": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
           "symbol": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
           "decimals": 6,
-          "price_usd": "0.00079792605091021",
+          "price_usd": "0.000803011457670501",
           "looks_like_address": true
         },
         "astroport": null,
@@ -6995,7 +6995,7 @@
           "eris_name": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
           "symbol": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
           "decimals": 6,
-          "price_usd": "0.9873498577142074",
+          "price_usd": "0.992651778853286",
           "looks_like_address": true
         },
         "astroport": {
@@ -7064,7 +7064,7 @@
           "eris_name": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
           "symbol": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
           "decimals": 6,
-          "price_usd": "0.003381772502272706",
+          "price_usd": "0.003395486644184595",
           "looks_like_address": true
         },
         "astroport": {
@@ -7115,7 +7115,7 @@
           "eris_name": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia",
           "symbol": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia",
           "decimals": 6,
-          "price_usd": "0.4394132916472307",
+          "price_usd": "0.4465831919354638",
           "looks_like_address": true
         },
         "astroport": null,
@@ -7156,7 +7156,7 @@
           "eris_name": "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
           "symbol": "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
           "decimals": 6,
-          "price_usd": "0.9873415573430244",
+          "price_usd": "0.9926434381885163",
           "looks_like_address": true
         },
         "astroport": {
@@ -7215,7 +7215,7 @@
           "eris_name": "factory/neutron19lxlnqwzncg3dfty3umxvdxtgttnp3fefeqhmtg8xjrsz9vngnaq3yu8vn/eclipASTRO",
           "symbol": "factory/neutron19lxlnqwzncg3dfty3umxvdxtgttnp3fefeqhmtg8xjrsz9vngnaq3yu8vn/eclipASTRO",
           "decimals": 6,
-          "price_usd": "0.000879664187895834",
+          "price_usd": "0.00088527053475318",
           "looks_like_address": true
         },
         "astroport": null,
@@ -7338,7 +7338,7 @@
           "eris_name": "ibc/4D04085167777659C11784A356D6B0D13D5C7F0CE77F7DB1152FE03A2DE2CBF2",
           "symbol": "ibc/4D04085167777659C11784A356D6B0D13D5C7F0CE77F7DB1152FE03A2DE2CBF2",
           "decimals": 18,
-          "price_usd": "2435.53",
+          "price_usd": "2415.2",
           "looks_like_address": true
         },
         "astroport": null,
@@ -7420,7 +7420,7 @@
           "eris_name": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
           "symbol": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
           "decimals": 6,
-          "price_usd": "0.702642674278641",
+          "price_usd": "0.7026426744857185",
           "looks_like_address": true
         },
         "astroport": null,
@@ -7461,7 +7461,7 @@
           "eris_name": "ibc/6569E05DEE32B339D9286A52BE33DFCEFC97267F23EF9CFDE0C055140967A9A5",
           "symbol": "ibc/6569E05DEE32B339D9286A52BE33DFCEFC97267F23EF9CFDE0C055140967A9A5",
           "decimals": 6,
-          "price_usd": "0.453455",
+          "price_usd": "0.457867",
           "looks_like_address": true
         },
         "astroport": null,
@@ -7502,7 +7502,7 @@
           "eris_name": "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
           "symbol": "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
           "decimals": 6,
-          "price_usd": "0.06016746584678393",
+          "price_usd": "0.06041146297846725",
           "looks_like_address": true
         },
         "astroport": {
@@ -7553,7 +7553,7 @@
           "eris_name": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
           "symbol": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
           "decimals": 6,
-          "price_usd": "0.04835903",
+          "price_usd": "0.04710578",
           "looks_like_address": true
         },
         "astroport": null,
@@ -7799,7 +7799,7 @@
           "eris_name": "factory/neutron1r5qx58l3xx2y8gzjtkqjndjgx69mktmapl45vns0pa73z0zpn7fqgltnll/TAB",
           "symbol": "factory/neutron1r5qx58l3xx2y8gzjtkqjndjgx69mktmapl45vns0pa73z0zpn7fqgltnll/TAB",
           "decimals": 6,
-          "price_usd": "0.000925239198546741",
+          "price_usd": "0.000925754455262829",
           "looks_like_address": true
         },
         "astroport": null,
@@ -7881,7 +7881,7 @@
           "eris_name": "ibc/A139C0E0B5E87CBA8EAEEB12B9BEE13AC7C814CFBBFA87BBCADD67E31003466C",
           "symbol": "ibc/A139C0E0B5E87CBA8EAEEB12B9BEE13AC7C814CFBBFA87BBCADD67E31003466C",
           "decimals": 6,
-          "price_usd": "0.00012582",
+          "price_usd": "0.00012503",
           "looks_like_address": true
         },
         "astroport": null,
@@ -7922,7 +7922,7 @@
           "eris_name": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
           "symbol": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
           "decimals": 8,
-          "price_usd": "0.00030438",
+          "price_usd": "0.00030295",
           "looks_like_address": true
         },
         "astroport": {
@@ -7978,7 +7978,7 @@
           "eris_name": "ibc/B6643B477C69060B125279D9FF69EC20189E4D15DC24CF0457E0BAA9DD1A26AE",
           "symbol": "ibc/B6643B477C69060B125279D9FF69EC20189E4D15DC24CF0457E0BAA9DD1A26AE",
           "decimals": 8,
-          "price_usd": "0.084014",
+          "price_usd": "0.083077",
           "looks_like_address": true
         },
         "astroport": null,
@@ -8083,7 +8083,7 @@
           "eris_name": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
           "symbol": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
           "decimals": 6,
-          "price_usd": "0.060168",
+          "price_usd": "0.060412",
           "looks_like_address": true
         },
         "astroport": {
@@ -8139,7 +8139,7 @@
           "eris_name": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
           "symbol": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
           "decimals": 8,
-          "price_usd": "80.66",
+          "price_usd": "81.13",
           "looks_like_address": true
         },
         "astroport": {
@@ -8199,7 +8199,7 @@
           "eris_name": "ibc/78F7404035221CD1010518C7BC3DD99B90E59C2BA37ABFC3CE56B0CFB7E8901B",
           "symbol": "ibc/78F7404035221CD1010518C7BC3DD99B90E59C2BA37ABFC3CE56B0CFB7E8901B",
           "decimals": 8,
-          "price_usd": "70839",
+          "price_usd": "71166",
           "looks_like_address": true
         },
         "astroport": null,
@@ -8240,7 +8240,7 @@
           "eris_name": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
           "symbol": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C",
           "decimals": 6,
-          "price_usd": "3.56",
+          "price_usd": "3.55",
           "looks_like_address": true
         },
         "astroport": null,
@@ -8281,7 +8281,7 @@
           "eris_name": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
           "symbol": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
           "decimals": 18,
-          "price_usd": "689.66",
+          "price_usd": "691.19",
           "looks_like_address": true
         },
         "astroport": {
@@ -8337,7 +8337,7 @@
           "eris_name": "ibc/27F48DA7E6C8C1203C9EB2BB225C876F3A600C6C3C1DD94CE283D5D027BD91E4",
           "symbol": "ibc/27F48DA7E6C8C1203C9EB2BB225C876F3A600C6C3C1DD94CE283D5D027BD91E4",
           "decimals": 10,
-          "price_usd": "1.15",
+          "price_usd": "1.16",
           "looks_like_address": true
         },
         "astroport": null,
@@ -8378,7 +8378,7 @@
           "eris_name": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
           "symbol": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
           "decimals": 6,
-          "price_usd": "0.0000013410159850179607",
+          "price_usd": "0.0000013565089746762239",
           "looks_like_address": true
         },
         "astroport": {
@@ -8442,7 +8442,7 @@
           "eris_name": "axlusdc",
           "symbol": "axlusdc",
           "decimals": 6,
-          "price_usd": "0.999347",
+          "price_usd": "0.999371",
           "looks_like_address": false
         },
         "astroport": null,
@@ -8482,7 +8482,7 @@
           "eris_name": "celestia",
           "symbol": "celestia",
           "decimals": 6,
-          "price_usd": "0.393272",
+          "price_usd": "0.399693",
           "looks_like_address": false
         },
         "astroport": null,
@@ -8618,7 +8618,7 @@
           "eris_name": "drop-staked-atom",
           "symbol": "drop-staked-atom",
           "decimals": 6,
-          "price_usd": "2.870414991775439",
+          "price_usd": "2.8913518253212134",
           "looks_like_address": false
         },
         "astroport": null,
@@ -8658,7 +8658,7 @@
           "eris_name": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
           "symbol": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
           "decimals": 6,
-          "price_usd": "0.00088617",
+          "price_usd": "0.00088706",
           "looks_like_address": true
         },
         "astroport": null,
@@ -8698,7 +8698,7 @@
           "eris_name": "nolus",
           "symbol": "nolus",
           "decimals": 6,
-          "price_usd": "0.00302892",
+          "price_usd": "0.00300808",
           "looks_like_address": false
         },
         "astroport": null,
@@ -8738,7 +8738,7 @@
           "eris_name": "astrovault",
           "symbol": "astrovault",
           "decimals": 6,
-          "price_usd": "0.00033853",
+          "price_usd": "0.00033856",
           "looks_like_address": false
         },
         "astroport": null,
@@ -8778,7 +8778,7 @@
           "eris_name": "axlwbtc",
           "symbol": "axlwbtc",
           "decimals": 8,
-          "price_usd": "70990",
+          "price_usd": "71270",
           "looks_like_address": false
         },
         "astroport": null,
@@ -8818,7 +8818,7 @@
           "eris_name": "axlweth",
           "symbol": "axlweth",
           "decimals": 18,
-          "price_usd": "1993.65",
+          "price_usd": "1988.87",
           "looks_like_address": false
         },
         "astroport": null,
@@ -8858,7 +8858,7 @@
           "eris_name": "ethereum",
           "symbol": "ethereum",
           "decimals": 18,
-          "price_usd": "1993.4",
+          "price_usd": "2003.2",
           "looks_like_address": false
         },
         "astroport": {
@@ -8997,7 +8997,7 @@
           "eris_name": "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81",
           "symbol": "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81",
           "decimals": 6,
-          "price_usd": "0.999721",
+          "price_usd": "0.999742",
           "looks_like_address": true
         },
         "astroport": null,
@@ -9037,7 +9037,7 @@
           "eris_name": "dydx-chain",
           "symbol": "dydx-chain",
           "decimals": 18,
-          "price_usd": "0.17601954345131135",
+          "price_usd": "0.17411011953305244",
           "looks_like_address": false
         },
         "astroport": null,
@@ -9077,7 +9077,7 @@
           "eris_name": "factory/neutron17sp75wng9vl2hu3sf4ky86d7smmk3wle9gkts2gmedn9x4ut3xcqa5xp34/maxbtc",
           "symbol": "factory/neutron17sp75wng9vl2hu3sf4ky86d7smmk3wle9gkts2gmedn9x4ut3xcqa5xp34/maxbtc",
           "decimals": 8,
-          "price_usd": "69837.88733257847",
+          "price_usd": "70117.40335057401",
           "looks_like_address": true
         },
         "astroport": null,
@@ -9118,7 +9118,7 @@
           "eris_name": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
           "symbol": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
           "decimals": 8,
-          "price_usd": "70839",
+          "price_usd": "71166",
           "looks_like_address": true
         },
         "astroport": {
@@ -9177,7 +9177,7 @@
           "eris_name": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
           "symbol": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
           "decimals": 18,
-          "price_usd": "2469.14",
+          "price_usd": "2476.84",
           "looks_like_address": true
         },
         "astroport": null,
@@ -9218,7 +9218,7 @@
           "eris_name": "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
           "symbol": "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
           "decimals": 8,
-          "price_usd": "70839",
+          "price_usd": "71166",
           "looks_like_address": true
         },
         "astroport": {
@@ -9337,7 +9337,7 @@
           "eris_name": "ibc/0E293A7622DC9A6439DB60E6D234B5AF446962E27CA3AB44D0590603DFF6968E",
           "symbol": "ibc/0E293A7622DC9A6439DB60E6D234B5AF446962E27CA3AB44D0590603DFF6968E",
           "decimals": 8,
-          "price_usd": "70990",
+          "price_usd": "71270",
           "looks_like_address": true
         },
         "astroport": null,
@@ -9378,7 +9378,7 @@
           "eris_name": "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915",
           "symbol": "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915",
           "decimals": 6,
-          "price_usd": "2.869488209260217",
+          "price_usd": "2.892583430589892",
           "looks_like_address": true
         },
         "astroport": {
@@ -9474,7 +9474,7 @@
           "eris_name": "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS",
           "symbol": "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS",
           "decimals": 6,
-          "price_usd": "0.000028558242092566",
+          "price_usd": "0.000028572039713809",
           "looks_like_address": true
         },
         "astroport": null,
@@ -9515,7 +9515,7 @@
           "eris_name": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
           "symbol": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
           "decimals": 6,
-          "price_usd": "32.94351979033818",
+          "price_usd": "33.00708676917639",
           "looks_like_address": true
         },
         "astroport": {
@@ -9661,7 +9661,7 @@
           "eris_name": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
           "symbol": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
           "decimals": 18,
-          "price_usd": "6.87",
+          "price_usd": "7",
           "looks_like_address": true
         },
         "astroport": {
@@ -9717,7 +9717,7 @@
           "eris_name": "ibc/3F1D988D9EEA19EB0F3950B4C19664218031D8BCE68CE7DE30F187D5ACEA0463",
           "symbol": "ibc/3F1D988D9EEA19EB0F3950B4C19664218031D8BCE68CE7DE30F187D5ACEA0463",
           "decimals": 8,
-          "price_usd": "70990",
+          "price_usd": "71270",
           "looks_like_address": true
         },
         "astroport": null,
@@ -9826,7 +9826,7 @@
           "eris_name": "ibc/38C9F396219825CF172C499009B63F2BC8D15FC14205EA0AAA49F00C0E70E514",
           "symbol": "ibc/38C9F396219825CF172C499009B63F2BC8D15FC14205EA0AAA49F00C0E70E514",
           "decimals": 6,
-          "price_usd": "0.06386590712003168",
+          "price_usd": "0.06411780814825549",
           "looks_like_address": true
         },
         "astroport": null,
@@ -9867,7 +9867,7 @@
           "eris_name": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
           "symbol": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
           "decimals": 6,
-          "price_usd": "131.6318788071951",
+          "price_usd": "132.2179229514986",
           "looks_like_address": true
         },
         "astroport": {
@@ -9931,7 +9931,7 @@
           "eris_name": "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP",
           "symbol": "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP",
           "decimals": 6,
-          "price_usd": "0.0000013329237371928042",
+          "price_usd": "0.0000013482852869369034",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10013,7 +10013,7 @@
           "eris_name": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP",
           "symbol": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP",
           "decimals": 6,
-          "price_usd": "2.1769731513287893",
+          "price_usd": "2.1769846831313693",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10054,7 +10054,7 @@
           "eris_name": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
           "symbol": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
           "decimals": 6,
-          "price_usd": "35642.20470391205",
+          "price_usd": "35717.56321303299",
           "looks_like_address": true
         },
         "astroport": {
@@ -10159,7 +10159,7 @@
           "eris_name": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh",
           "symbol": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh",
           "decimals": 6,
-          "price_usd": "7.328717983401437e-7",
+          "price_usd": "7.36471779956762e-7",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10204,7 +10204,7 @@
           "eris_name": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP",
           "symbol": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP",
           "decimals": 6,
-          "price_usd": "5.392672861182003e-7",
+          "price_usd": "5.419162519003002e-7",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10249,7 +10249,7 @@
           "eris_name": "factory/terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq/uLP",
           "symbol": "factory/terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq/uLP",
           "decimals": 6,
-          "price_usd": "0.20690613955806594",
+          "price_usd": "0.20777271892199084",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10290,7 +10290,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/64/single/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/64/single/amplp",
           "decimals": 6,
-          "price_usd": "37786.01257919229",
+          "price_usd": "37865.90375307583",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10331,7 +10331,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/61/single/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/61/single/amplp",
           "decimals": 6,
-          "price_usd": "0.0000013572893233226393",
+          "price_usd": "0.000001363956542096046",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10372,7 +10372,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/52/single/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/52/single/amplp",
           "decimals": 6,
-          "price_usd": "2.2209318217061336",
+          "price_usd": "2.220847276576589",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10413,7 +10413,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/63/single/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/63/single/amplp",
           "decimals": 8,
-          "price_usd": "71799.78330404896",
+          "price_usd": "72131.21837710793",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10454,7 +10454,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/57/single/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/57/single/amplp",
           "decimals": 6,
-          "price_usd": "0.2832789389772059",
+          "price_usd": "0.28446538846235175",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10536,7 +10536,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/62/single/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/62/single/amplp",
           "decimals": 6,
-          "price_usd": "1.0462696031384768",
+          "price_usd": "1.0462286627952593",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10577,7 +10577,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/44/single/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/44/single/amplp",
           "decimals": 6,
-          "price_usd": "0.003319658894769942",
+          "price_usd": "0.0033359606765206097",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10618,7 +10618,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/22/single/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/22/single/amplp",
           "decimals": 6,
-          "price_usd": "0.0000015058002727467082",
+          "price_usd": "0.0000015131970006771104",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10659,7 +10659,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/29/single/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/29/single/amplp",
           "decimals": 6,
-          "price_usd": "0.37629900679993045",
+          "price_usd": "0.3778750497083466",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10700,7 +10700,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/2/stable/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/2/stable/amplp",
           "decimals": 6,
-          "price_usd": "1.8870992755751004",
+          "price_usd": "1.89099840032169",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10741,7 +10741,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/0/stable/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/0/stable/amplp",
           "decimals": 6,
-          "price_usd": "1.827316760299913",
+          "price_usd": "1.8311934671649488",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10782,7 +10782,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/48/stable/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/48/stable/amplp",
           "decimals": 6,
-          "price_usd": "1.7899185391061407",
+          "price_usd": "1.793704742132205",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10823,7 +10823,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/50/stable/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/50/stable/amplp",
           "decimals": 6,
-          "price_usd": "1.5542286611073752",
+          "price_usd": "1.5574927384113073",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10864,7 +10864,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/5/stable/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/5/stable/amplp",
           "decimals": 6,
-          "price_usd": "1.14505700457142",
+          "price_usd": "1.1474042357905962",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10905,7 +10905,7 @@
           "eris_name": "ibc/4698B7C533CB50F4120691368F71A0E7161DA26F58376262ADF3F44AAAA6EF9E",
           "symbol": "ibc/4698B7C533CB50F4120691368F71A0E7161DA26F58376262ADF3F44AAAA6EF9E",
           "decimals": 6,
-          "price_usd": "2.31",
+          "price_usd": "2.3",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10946,7 +10946,7 @@
           "eris_name": "ibc/3552CECB7BCE1891DB6070D37EC6E954C972B1400141308FCD85FD148BD06DE5",
           "symbol": "ibc/3552CECB7BCE1891DB6070D37EC6E954C972B1400141308FCD85FD148BD06DE5",
           "decimals": 6,
-          "price_usd": "0.03390201",
+          "price_usd": "0.03330144",
           "looks_like_address": true
         },
         "astroport": null,
@@ -10987,7 +10987,7 @@
           "eris_name": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
           "symbol": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
           "decimals": 6,
-          "price_usd": "0.001157500653373908",
+          "price_usd": "0.001162119332417388",
           "looks_like_address": true
         },
         "astroport": {
@@ -11038,7 +11038,7 @@
           "eris_name": "ibc/F16C7C5B6F7E96ACDA73E35BCA3A3DE49DDF7164066A359C843E9709041CE6B9",
           "symbol": "ibc/F16C7C5B6F7E96ACDA73E35BCA3A3DE49DDF7164066A359C843E9709041CE6B9",
           "decimals": 8,
-          "price_usd": "0.00004023",
+          "price_usd": "0.00004095",
           "looks_like_address": true
         },
         "astroport": null,
@@ -11079,7 +11079,7 @@
           "eris_name": "neutron149tpx0nequ0cpctw06nk29hwfps0343wvwfh6tkhju3ra7hxvpeq8pvstf",
           "symbol": "neutron149tpx0nequ0cpctw06nk29hwfps0343wvwfh6tkhju3ra7hxvpeq8pvstf",
           "decimals": 18,
-          "price_usd": "2469.14",
+          "price_usd": "2476.84",
           "looks_like_address": false
         },
         "astroport": null,
@@ -11120,7 +11120,7 @@
           "eris_name": "neutron1hr8ux3vyrtpxgnejwnmc9g6rx3ag92r6na3ajpeu7upr0tv6kgwsu4awa3",
           "symbol": "neutron1hr8ux3vyrtpxgnejwnmc9g6rx3ag92r6na3ajpeu7upr0tv6kgwsu4awa3",
           "decimals": 6,
-          "price_usd": "0.00124819",
+          "price_usd": "0.00124575",
           "looks_like_address": false
         },
         "astroport": null,
@@ -11161,7 +11161,7 @@
           "eris_name": "neutron1vfekl4kt5q73s6g9qalkkxaegsdctmhqhl6gqx2znf7ltlaae4nsv60hy8",
           "symbol": "neutron1vfekl4kt5q73s6g9qalkkxaegsdctmhqhl6gqx2znf7ltlaae4nsv60hy8",
           "decimals": 6,
-          "price_usd": "0.0167663",
+          "price_usd": "0.0168311",
           "looks_like_address": false
         },
         "astroport": null,
@@ -11243,7 +11243,7 @@
           "eris_name": "ibc/BED1812F0A7BEF7800FE1A8280289A40D137158C6CD3ADD65923C2D673D739E8",
           "symbol": "ibc/BED1812F0A7BEF7800FE1A8280289A40D137158C6CD3ADD65923C2D673D739E8",
           "decimals": 6,
-          "price_usd": "0.997811",
+          "price_usd": "0.989863",
           "looks_like_address": true
         },
         "astroport": null,
@@ -11284,7 +11284,7 @@
           "eris_name": "ibc/5CB2E12B07D0B6D8EC24A68BA6B6E6E8D5BF85B7D22091D3A480DCDD61C6AC84",
           "symbol": "ibc/5CB2E12B07D0B6D8EC24A68BA6B6E6E8D5BF85B7D22091D3A480DCDD61C6AC84",
           "decimals": 18,
-          "price_usd": "689.53",
+          "price_usd": "691.5",
           "looks_like_address": true
         },
         "astroport": null,
@@ -11325,7 +11325,7 @@
           "eris_name": "ibc/837E876EAB64260D5174BE8171B2889113757A8724258A855D6F8D92EDF41E9A",
           "symbol": "ibc/837E876EAB64260D5174BE8171B2889113757A8724258A855D6F8D92EDF41E9A",
           "decimals": 8,
-          "price_usd": "0.00030438",
+          "price_usd": "0.00030295",
           "looks_like_address": true
         },
         "astroport": null,
@@ -11366,7 +11366,7 @@
           "eris_name": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
           "symbol": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
           "decimals": 6,
-          "price_usd": "0.0011500966260974128",
+          "price_usd": "0.0011512516934064306",
           "looks_like_address": true
         },
         "astroport": null,
@@ -11411,7 +11411,7 @@
           "eris_name": "ibc/322C86EB54A505E28AFE380CED1721FA61E9580A7548A16B9DCF6E7C8CEE43D5",
           "symbol": "ibc/322C86EB54A505E28AFE380CED1721FA61E9580A7548A16B9DCF6E7C8CEE43D5",
           "decimals": 6,
-          "price_usd": "0.060168",
+          "price_usd": "0.06042",
           "looks_like_address": true
         },
         "astroport": null,
@@ -11452,7 +11452,7 @@
           "eris_name": "factory/neutron1zl2htquajn50vxu5ltz0y5hf2qzvkgnjaaza2rssef268xplq6vsjuruxm/fuel",
           "symbol": "factory/neutron1zl2htquajn50vxu5ltz0y5hf2qzvkgnjaaza2rssef268xplq6vsjuruxm/fuel",
           "decimals": 6,
-          "price_usd": "0.003381772502272706",
+          "price_usd": "0.003395486644184595",
           "looks_like_address": true
         },
         "astroport": null,
@@ -11493,7 +11493,7 @@
           "eris_name": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4",
           "symbol": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4",
           "decimals": 6,
-          "price_usd": "0.5080549438975266",
+          "price_usd": "0.5091046870827516",
           "looks_like_address": true
         },
         "astroport": {
@@ -11557,7 +11557,7 @@
           "eris_name": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
           "symbol": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
           "decimals": 6,
-          "price_usd": "0.5267944854146884",
+          "price_usd": "0.5279120955863014",
           "looks_like_address": true
         },
         "astroport": {
@@ -11621,7 +11621,7 @@
           "eris_name": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc",
           "symbol": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc",
           "decimals": 6,
-          "price_usd": "0.5369201567061662",
+          "price_usd": "0.5380559004160956",
           "looks_like_address": true
         },
         "astroport": {
@@ -11685,7 +11685,7 @@
           "eris_name": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP",
           "symbol": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP",
           "decimals": 6,
-          "price_usd": "0.5711871682871124",
+          "price_usd": "0.5723901698170077",
           "looks_like_address": true
         },
         "astroport": null,
@@ -11730,7 +11730,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/41/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/41/project/amplp",
           "decimals": 6,
-          "price_usd": "0.325929933413379",
+          "price_usd": "0.3272950168999528",
           "looks_like_address": true
         },
         "astroport": null,
@@ -11771,7 +11771,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/24/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/24/project/amplp",
           "decimals": 6,
-          "price_usd": "5.649732009582347",
+          "price_usd": "5.676191230340485",
           "looks_like_address": true
         },
         "astroport": null,
@@ -11812,7 +11812,7 @@
           "eris_name": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
           "symbol": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
           "decimals": 6,
-          "price_usd": "0.12908284253374827",
+          "price_usd": "0.12962171325870292",
           "looks_like_address": true
         },
         "astroport": {
@@ -11876,7 +11876,7 @@
           "eris_name": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
           "symbol": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
           "decimals": 6,
-          "price_usd": "0.01959350647586737",
+          "price_usd": "0.01968262249242742",
           "looks_like_address": true
         },
         "astroport": {
@@ -12045,7 +12045,7 @@
           "eris_name": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
           "symbol": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
           "decimals": 6,
-          "price_usd": "0.028558081659400075",
+          "price_usd": "0.028675774921875462",
           "looks_like_address": true
         },
         "astroport": {
@@ -12109,7 +12109,7 @@
           "eris_name": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
           "symbol": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
           "decimals": 6,
-          "price_usd": "0.13980801255646622",
+          "price_usd": "0.14039356665771988",
           "looks_like_address": true
         },
         "astroport": {
@@ -12169,7 +12169,7 @@
           "eris_name": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
           "symbol": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
           "decimals": 6,
-          "price_usd": "0.17222671228646427",
+          "price_usd": "0.17294806378833874",
           "looks_like_address": true
         },
         "astroport": {
@@ -12237,7 +12237,7 @@
           "eris_name": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
           "symbol": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
           "decimals": 6,
-          "price_usd": "0.17736293941274844",
+          "price_usd": "0.17810578379401443",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12282,7 +12282,7 @@
           "eris_name": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
           "symbol": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
           "decimals": 6,
-          "price_usd": "0.00024929343627650005",
+          "price_usd": "0.0002504273164155287",
           "looks_like_address": true
         },
         "astroport": {
@@ -12410,7 +12410,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/13/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/13/project/amplp",
           "decimals": 6,
-          "price_usd": "2.5299678545522832",
+          "price_usd": "2.5471308875806056",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12451,7 +12451,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/4/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/4/project/amplp",
           "decimals": 6,
-          "price_usd": "0.0546477360850672",
+          "price_usd": "0.054778998589590164",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12492,7 +12492,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/39/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/39/project/amplp",
           "decimals": 6,
-          "price_usd": "0.3471328630518031",
+          "price_usd": "0.3485820079102253",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12533,7 +12533,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/42/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/42/project/amplp",
           "decimals": 6,
-          "price_usd": "0.09638294055908908",
+          "price_usd": "0.09682131353421475",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12574,7 +12574,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/59/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/59/project/amplp",
           "decimals": 6,
-          "price_usd": "0.059608855605464674",
+          "price_usd": "0.05985451498736234",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12615,7 +12615,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/58/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/58/project/amplp",
           "decimals": 6,
-          "price_usd": "0.1594284701056502",
+          "price_usd": "0.16009620003628816",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12656,7 +12656,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/43/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/43/project/amplp",
           "decimals": 6,
-          "price_usd": "0.04379917998517527",
+          "price_usd": "0.04399849444207299",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12697,7 +12697,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/14/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/14/project/amplp",
           "decimals": 6,
-          "price_usd": "2.5372533457501727",
+          "price_usd": "2.554469064823232",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12738,7 +12738,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/9/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/9/project/amplp",
           "decimals": 6,
-          "price_usd": "2.38992549393627",
+          "price_usd": "2.4011237153614773",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12779,7 +12779,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/55/bluechip/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/55/bluechip/amplp",
           "decimals": 6,
-          "price_usd": "34.92891787457239",
+          "price_usd": "35.041150411163464",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12820,7 +12820,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/46/bluechip/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/46/bluechip/amplp",
           "decimals": 6,
-          "price_usd": "3.1366509696168188",
+          "price_usd": "3.136671314534981",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12861,7 +12861,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/56/bluechip/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/56/bluechip/amplp",
           "decimals": 6,
-          "price_usd": "260.5125980565986",
+          "price_usd": "261.6724377853317",
           "looks_like_address": true
         },
         "astroport": null,
@@ -12902,7 +12902,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/51/bluechip/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/51/bluechip/amplp",
           "decimals": 6,
-          "price_usd": "2.9463573754503463",
+          "price_usd": "2.9463729828139753",
           "looks_like_address": true
         },
         "astroport": null,
@@ -13104,7 +13104,7 @@
           "eris_name": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
           "symbol": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
           "decimals": 6,
-          "price_usd": "2.0051688223269672",
+          "price_usd": "2.0050924907366925",
           "looks_like_address": true
         },
         "astroport": {
@@ -13168,7 +13168,7 @@
           "eris_name": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
           "symbol": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
           "decimals": 6,
-          "price_usd": "0.20095216352188222",
+          "price_usd": "0.2017938060097082",
           "looks_like_address": true
         },
         "astroport": {
@@ -13292,7 +13292,7 @@
           "eris_name": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP",
           "symbol": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP",
           "decimals": 6,
-          "price_usd": "1.001593237849676",
+          "price_usd": "1.0015540456846748",
           "looks_like_address": true
         },
         "astroport": null,
@@ -13419,7 +13419,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/16/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/16/project/amplp",
           "decimals": 6,
-          "price_usd": "0.4070761915694307",
+          "price_usd": "0.4087811377247873",
           "looks_like_address": true
         },
         "astroport": null,
@@ -13501,7 +13501,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/12/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/12/project/amplp",
           "decimals": 6,
-          "price_usd": "0.0007261263987637423",
+          "price_usd": "0.0007294290942309002",
           "looks_like_address": true
         },
         "astroport": null,
@@ -13542,7 +13542,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/10/project/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/10/project/amplp",
           "decimals": 6,
-          "price_usd": "0.00026941397493869047",
+          "price_usd": "0.0002706396574682702",
           "looks_like_address": true
         },
         "astroport": null,
@@ -13583,7 +13583,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/60/bluechip/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/60/bluechip/amplp",
           "decimals": 6,
-          "price_usd": "49.696055489954375",
+          "price_usd": "49.79194773607068",
           "looks_like_address": true
         },
         "astroport": null,
@@ -13624,7 +13624,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/45/bluechip/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/45/bluechip/amplp",
           "decimals": 6,
-          "price_usd": "1.0462696031384768",
+          "price_usd": "1.0462286627952593",
           "looks_like_address": true
         },
         "astroport": null,
@@ -13665,7 +13665,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/17/bluechip/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/17/bluechip/amplp",
           "decimals": 6,
-          "price_usd": "0.00000302383196003958",
+          "price_usd": "0.000003058680724283041",
           "looks_like_address": true
         },
         "astroport": null,
@@ -13829,7 +13829,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/11/bluechip/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/11/bluechip/amplp",
           "decimals": 6,
-          "price_usd": "2.43508984772259",
+          "price_usd": "2.440190940710377",
           "looks_like_address": true
         },
         "astroport": null,
@@ -13870,7 +13870,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/6/bluechip/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/6/bluechip/amplp",
           "decimals": 6,
-          "price_usd": "3.2223533691021595",
+          "price_usd": "3.229091731416242",
           "looks_like_address": true
         },
         "astroport": null,
@@ -13911,7 +13911,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/36/bluechip/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/36/bluechip/amplp",
           "decimals": 6,
-          "price_usd": "0.0000027796410989741",
+          "price_usd": "0.0000028117547734427247",
           "looks_like_address": true
         },
         "astroport": null,
@@ -13952,7 +13952,7 @@
           "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/8/bluechip/amplp",
           "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/8/bluechip/amplp",
           "decimals": 6,
-          "price_usd": "2.2209318217061336",
+          "price_usd": "2.220847276576589",
           "looks_like_address": true
         },
         "astroport": null,
@@ -20403,105 +20403,6 @@
       "notes": null,
       "tier": "tracked"
     },
-    "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85": {
-      "address": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
-      "type": "cw20",
-      "category": "tokens",
-      "subtype": "cw20",
-      "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
-      "display_name": null,
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": null,
-        "astroport": {
-          "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
-          "name": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
-          "decimals": 6,
-          "price_usd": null
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 0,
-        "tla_pools": [],
-        "is_lockable": false,
-        "is_amplp_underlying": false
-      },
-      "wallet_import": {
-        "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
-        "name": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
-        "decimals": 6,
-        "address": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85"
-      },
-      "scoring": {
-        "confusion_score": 65,
-        "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "tier": "noise"
-    },
-    "terra1mckjrtvxvsxtxvc5jttxmvheyh4wjcrlrnfy28xnln5a87qhxz6s4el0sy": {
-      "address": "terra1mckjrtvxvsxtxvc5jttxmvheyh4wjcrlrnfy28xnln5a87qhxz6s4el0sy",
-      "type": "cw20",
-      "category": "tokens",
-      "subtype": "cw20",
-      "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85-ampLUNA LP",
-      "display_name": null,
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": null,
-        "astroport": {
-          "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85-ampLUNA LP",
-          "name": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85-ampLUNA LP (xyk)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "xyk",
-          "underlying_addresses": [
-            "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
-            "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
-          ],
-          "underlying_symbols": [
-            "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
-            "ampLUNA"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 0,
-        "tla_pools": [],
-        "is_lockable": false,
-        "is_amplp_underlying": false
-      },
-      "wallet_import": {
-        "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85-ampLUNA LP",
-        "name": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85-ampLUNA LP",
-        "decimals": 6,
-        "address": "terra1mckjrtvxvsxtxvc5jttxmvheyh4wjcrlrnfy28xnln5a87qhxz6s4el0sy"
-      },
-      "scoring": {
-        "confusion_score": 65,
-        "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "tier": "noise"
-    },
     "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv": {
       "address": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv",
       "type": "cw20",
@@ -20589,6 +20490,105 @@
         "name": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv-USDC.axl LP",
         "decimals": 6,
         "address": "terra1gusal9k9tlzn3c8e34tdwlk80e5agw22j0lk9eknc3v3ekuntwaqeewve3"
+      },
+      "scoring": {
+        "confusion_score": 65,
+        "flags": [
+          "no_external_price_source",
+          "no_acquisition_guide"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "tier": "noise"
+    },
+    "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85": {
+      "address": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
+      "type": "cw20",
+      "category": "tokens",
+      "subtype": "cw20",
+      "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": null,
+        "astroport": {
+          "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
+          "name": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
+          "decimals": 6,
+          "price_usd": null
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": {
+        "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
+        "name": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
+        "decimals": 6,
+        "address": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85"
+      },
+      "scoring": {
+        "confusion_score": 65,
+        "flags": [
+          "no_external_price_source",
+          "no_acquisition_guide"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "tier": "noise"
+    },
+    "terra1mckjrtvxvsxtxvc5jttxmvheyh4wjcrlrnfy28xnln5a87qhxz6s4el0sy": {
+      "address": "terra1mckjrtvxvsxtxvc5jttxmvheyh4wjcrlrnfy28xnln5a87qhxz6s4el0sy",
+      "type": "cw20",
+      "category": "tokens",
+      "subtype": "cw20",
+      "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85-ampLUNA LP",
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": null,
+        "astroport": {
+          "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85-ampLUNA LP",
+          "name": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85-ampLUNA LP (xyk)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "xyk",
+          "underlying_addresses": [
+            "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
+            "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
+          ],
+          "underlying_symbols": [
+            "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85",
+            "ampLUNA"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": {
+        "symbol": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85-ampLUNA LP",
+        "name": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85-ampLUNA LP",
+        "decimals": 6,
+        "address": "terra1mckjrtvxvsxtxvc5jttxmvheyh4wjcrlrnfy28xnln5a87qhxz6s4el0sy"
       },
       "scoring": {
         "confusion_score": 65,
@@ -24031,6 +24031,60 @@
       "notes": null,
       "tier": "noise"
     },
+    "terra1grtyeraraj8630j8kyl5rffux5qy0jw5ydpggkchy5yz0kk0ws6s9xptww": {
+      "address": "terra1grtyeraraj8630j8kyl5rffux5qy0jw5ydpggkchy5yz0kk0ws6s9xptww",
+      "type": "cw20",
+      "category": "tokens",
+      "subtype": "cw20",
+      "symbol": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv-CAPA LP",
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": null,
+        "astroport": {
+          "symbol": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv-CAPA LP",
+          "name": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv-CAPA LP (xyk)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "xyk",
+          "underlying_addresses": [
+            "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv",
+            "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
+          ],
+          "underlying_symbols": [
+            "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv",
+            "CAPA"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": {
+        "symbol": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv-CAPA LP",
+        "name": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv-CAPA LP",
+        "decimals": 6,
+        "address": "terra1grtyeraraj8630j8kyl5rffux5qy0jw5ydpggkchy5yz0kk0ws6s9xptww"
+      },
+      "scoring": {
+        "confusion_score": 65,
+        "flags": [
+          "no_external_price_source",
+          "no_acquisition_guide"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "tier": "noise"
+    },
     "terra1y349tesrreups0zgzc2y46l5xxt7tzj6rcv89z809grejh9fmgvsnj3q6v": {
       "address": "terra1y349tesrreups0zgzc2y46l5xxt7tzj6rcv89z809grejh9fmgvsnj3q6v",
       "type": "cw20",
@@ -24096,60 +24150,6 @@
         "ibc/BFAAB7870A9AAABF64A7366DAAA0B8E5065EAA1FCE762F45677DC24BE796EF65"
       ],
       "tier": "tracked"
-    },
-    "terra1grtyeraraj8630j8kyl5rffux5qy0jw5ydpggkchy5yz0kk0ws6s9xptww": {
-      "address": "terra1grtyeraraj8630j8kyl5rffux5qy0jw5ydpggkchy5yz0kk0ws6s9xptww",
-      "type": "cw20",
-      "category": "tokens",
-      "subtype": "cw20",
-      "symbol": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv-CAPA LP",
-      "display_name": null,
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": null,
-        "astroport": {
-          "symbol": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv-CAPA LP",
-          "name": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv-CAPA LP (xyk)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "xyk",
-          "underlying_addresses": [
-            "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv",
-            "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
-          ],
-          "underlying_symbols": [
-            "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv",
-            "CAPA"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 0,
-        "tla_pools": [],
-        "is_lockable": false,
-        "is_amplp_underlying": false
-      },
-      "wallet_import": {
-        "symbol": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv-CAPA LP",
-        "name": "terra1s4gl6854gjfy90h7hy90wk8zzh7f9ryuw4lmeep6g8jasyrhpt4stve6nv-CAPA LP",
-        "decimals": 6,
-        "address": "terra1grtyeraraj8630j8kyl5rffux5qy0jw5ydpggkchy5yz0kk0ws6s9xptww"
-      },
-      "scoring": {
-        "confusion_score": 65,
-        "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "tier": "noise"
     },
     "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg": {
       "address": "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg",
@@ -24412,6 +24412,60 @@
       "notes": null,
       "tier": "tracked"
     },
+    "terra1457whvjjshqfcudhwgkjfw6cs4h95c0mw9c7a9elh0ms2jl3ctfsjlkdj9": {
+      "address": "terra1457whvjjshqfcudhwgkjfw6cs4h95c0mw9c7a9elh0ms2jl3ctfsjlkdj9",
+      "type": "cw20",
+      "category": "tokens",
+      "subtype": "cw20",
+      "symbol": "CAPA-WBTC.axl LP",
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": null,
+        "astroport": {
+          "symbol": "CAPA-WBTC.axl LP",
+          "name": "CAPA-WBTC.axl LP (concentrated)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "concentrated",
+          "underlying_addresses": [
+            "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+            "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD"
+          ],
+          "underlying_symbols": [
+            "CAPA",
+            "WBTC.axl"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": {
+        "symbol": "CAPA-WBTC.axl LP",
+        "name": "CAPA-WBTC.axl LP",
+        "decimals": 6,
+        "address": "terra1457whvjjshqfcudhwgkjfw6cs4h95c0mw9c7a9elh0ms2jl3ctfsjlkdj9"
+      },
+      "scoring": {
+        "confusion_score": 65,
+        "flags": [
+          "no_external_price_source",
+          "no_acquisition_guide"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "tier": "tracked"
+    },
     "terra1uv507zlee8j5u4dzaxd6wekyqjuqqjkva94w7p26qxf8u62jjh0q4rlf6k": {
       "address": "terra1uv507zlee8j5u4dzaxd6wekyqjuqqjkva94w7p26qxf8u62jjh0q4rlf6k",
       "type": "cw20",
@@ -24476,60 +24530,6 @@
         "terra1yehzc2k78ywgckv2sn2lvaslquffdlf8aypytgt8gcv8ettaxmdqfaslw6",
         "ibc/BFAAB7870A9AAABF64A7366DAAA0B8E5065EAA1FCE762F45677DC24BE796EF65"
       ],
-      "tier": "tracked"
-    },
-    "terra1457whvjjshqfcudhwgkjfw6cs4h95c0mw9c7a9elh0ms2jl3ctfsjlkdj9": {
-      "address": "terra1457whvjjshqfcudhwgkjfw6cs4h95c0mw9c7a9elh0ms2jl3ctfsjlkdj9",
-      "type": "cw20",
-      "category": "tokens",
-      "subtype": "cw20",
-      "symbol": "CAPA-WBTC.axl LP",
-      "display_name": null,
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": null,
-        "astroport": {
-          "symbol": "CAPA-WBTC.axl LP",
-          "name": "CAPA-WBTC.axl LP (concentrated)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "concentrated",
-          "underlying_addresses": [
-            "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
-            "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD"
-          ],
-          "underlying_symbols": [
-            "CAPA",
-            "WBTC.axl"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 0,
-        "tla_pools": [],
-        "is_lockable": false,
-        "is_amplp_underlying": false
-      },
-      "wallet_import": {
-        "symbol": "CAPA-WBTC.axl LP",
-        "name": "CAPA-WBTC.axl LP",
-        "decimals": 6,
-        "address": "terra1457whvjjshqfcudhwgkjfw6cs4h95c0mw9c7a9elh0ms2jl3ctfsjlkdj9"
-      },
-      "scoring": {
-        "confusion_score": 65,
-        "flags": [
-          "no_external_price_source",
-          "no_acquisition_guide"
-        ]
-      },
-      "override": null,
-      "notes": null,
       "tier": "tracked"
     },
     "terra1zgtka8nyjvnet5v4xhecwl4afpmkv26mp7c22jegsavhp2pmpcrquhluuz": {
@@ -37572,7 +37572,7 @@
         {
           "dao": "Lion DAO ROAR Staking",
           "staking_contract": "terra1xuqh84yz35h70p3ppt76dz5kgwwtwmsv34pg0gw6ld4ntptgjcrqe2e70t",
-          "stake_balance": "20597578166200"
+          "stake_balance": "22846182180213"
         },
         {
           "dao": "AllianceDAO Voting Module",
