@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-02T23:04:36.174Z",
-  "capturedAtUnix": 1780441476174,
-  "runId": "tla-registry-20260602230436",
+  "capturedAt": "2026-06-02T23:29:11.009Z",
+  "capturedAtUnix": 1780442951009,
+  "runId": "tla-registry-20260602232911",
   "runMode": "daily",
   "status": "ok",
   "canonicalEpoch": 187,
@@ -11,9 +11,9 @@
     "directory_size": 20,
     "pool_count": 28,
     "bucket_count": 4,
-    "tokens_catalog": 118,
-    "tokens_core": 64,
-    "tokens_tracked": 54,
+    "tokens_catalog": 147,
+    "tokens_core": 84,
+    "tokens_tracked": 63,
     "tokens_noise": 0,
     "contracts_catalog": 42,
     "wallets_catalog": 668,
@@ -44,22 +44,24 @@
       "native_lps_skipped": 1,
       "underlyings_discovered": 21,
       "amplp_denoms_added": 65,
-      "total_in_scope_addresses": 129,
+      "amplp_wrapped_lps_resolved": 23,
+      "amplp_extra_underlyings": 12,
+      "total_in_scope_addresses": 164,
       "whitelist_buckets_checked": 4,
       "whitelist_buckets_succeeded": 4
     },
     "acquisition_classes": {
-      "native_terra": 62,
-      "ibc_cosmos_native": 6,
-      "wrapped_disclosed": 1,
+      "native_terra": 81,
+      "ibc_cosmos_native": 14,
+      "wrapped_disclosed": 6,
       "wrapped_looks_native": 5,
-      "lp_token": 44,
+      "lp_token": 41,
       "unclassified": 0
     }
   },
-  "dataFingerprint": "1a2f301bd228",
-  "previousFingerprint": "fe36c3208967",
+  "dataFingerprint": "6428a79547cb",
+  "previousFingerprint": "1a2f301bd228",
   "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-06-03T23:04:36.174Z"
+  "next_expected_run_at": "2026-06-03T23:29:11.009Z"
 }
