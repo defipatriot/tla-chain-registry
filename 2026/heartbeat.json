@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-02T16:51:59.983Z",
-  "capturedAtUnix": 1780419119983,
-  "runId": "tla-registry-20260602165159",
+  "capturedAt": "2026-06-02T18:26:57.808Z",
+  "capturedAtUnix": 1780424817808,
+  "runId": "tla-registry-20260602182657",
   "runMode": "daily",
   "status": "ok",
   "canonicalEpoch": 187,
@@ -47,11 +47,19 @@
       "total_in_scope_addresses": 64,
       "whitelist_buckets_checked": 4,
       "whitelist_buckets_succeeded": 4
+    },
+    "acquisition_classes": {
+      "native_terra": 9,
+      "ibc_cosmos_native": 6,
+      "wrapped_disclosed": 1,
+      "wrapped_looks_native": 5,
+      "lp_token": 44,
+      "unclassified": 0
     }
   },
   "dataFingerprint": "fd397773b58d",
-  "previousFingerprint": "d7b03d767665",
+  "previousFingerprint": "fd397773b58d",
   "dataFreshness": "fresh",
-  "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-06-03T16:51:59.983Z"
+  "consecutiveStuckRuns": 2,
+  "next_expected_run_at": "2026-06-03T18:26:57.808Z"
 }
