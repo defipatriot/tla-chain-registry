@@ -3,8 +3,8 @@
   "cron": "tla-registry",
   "layer": 0,
   "layerRole": "discovery-bootstrap-catalog",
-  "capturedAt": "2026-06-02T18:26:57.808Z",
-  "capturedAtUnix": 1780424817808,
+  "capturedAt": "2026-06-02T19:39:40.553Z",
+  "capturedAtUnix": 1780429180553,
   "canonicalEpoch": 187,
   "directory": {
     "ASSET_GAUGE": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
@@ -466,10 +466,10 @@
     "total_lps": 44,
     "pair_lookups_succeeded": 26,
     "pair_lookups_failed": 1,
-    "native_lps_skipped": 17,
-    "underlyings_discovered": 20,
-    "amplp_denoms_added": 0,
-    "total_in_scope_addresses": 64,
+    "native_lps_skipped": 1,
+    "underlyings_discovered": 21,
+    "amplp_denoms_added": 65,
+    "total_in_scope_addresses": 129,
     "whitelist_buckets_checked": 4,
     "whitelist_buckets_succeeded": 4,
     "lp_to_underlyings": {
@@ -480,6 +480,10 @@
       "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc": [
         "uluna",
         "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
+      ],
+      "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP": [
+        "uluna",
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
       ],
       "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4": [
         "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
@@ -545,6 +549,10 @@
         "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
         "uluna"
       ],
+      "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA": [
+        "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+        "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
+      ],
       "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr": [
         "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
         "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB"
@@ -557,9 +565,25 @@
         "uluna",
         "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
       ],
+      "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP": [
+        "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
+        "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
+      ],
+      "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP": [
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
+      ],
       "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh": [
         "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
         "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
+      ],
+      "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP": [
+        "uluna",
+        "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
+      ],
+      "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP": [
+        "uluna",
+        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
       ],
       "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par": [
         "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
@@ -569,13 +593,53 @@
         "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
         "uluna"
       ],
+      "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP": [
+        "uluna",
+        "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
+      ],
+      "factory/terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg/uLP": [
+        "uluna",
+        "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431"
+      ],
+      "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP": [
+        "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+        "uluna"
+      ],
+      "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP": [
+        "uluna",
+        "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
+      ],
+      "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP": [
+        "uluna",
+        "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
+      ],
+      "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP": [
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+        "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
+      ],
       "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5": [
         "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
         "uluna"
       ],
+      "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP": [
+        "uluna",
+        "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211"
+      ],
+      "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP": [
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+        "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
+      ],
       "terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn": [
         "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
         "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228"
+      ],
+      "factory/terra1c439uc3qdlfuqncxae7l07nsdgjtu45g98yhn5ydjn2866nsw3ws0e0vte/uLP": [
+        "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+        "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228"
+      ],
+      "factory/terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq/uLP": [
+        "uluna",
+        "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
       ]
     }
   },
@@ -607,7 +671,7 @@
           "eris_name": "terra-luna-2",
           "symbol": "terra-luna-2",
           "decimals": 6,
-          "price_usd": "0.057209",
+          "price_usd": "0.056503",
           "looks_like_address": false
         },
         "astroport": {
@@ -668,7 +732,7 @@
           "eris_name": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
           "symbol": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
           "decimals": 6,
-          "price_usd": "0.000760087780683655",
+          "price_usd": "0.000753552263762475",
           "looks_like_address": true
         },
         "astroport": {
@@ -747,7 +811,7 @@
           "eris_name": "eris-amplified-luna",
           "symbol": "eris-amplified-luna",
           "decimals": 6,
-          "price_usd": "0.121926016858103",
+          "price_usd": "0.12126743903480292",
           "looks_like_address": false
         },
         "astroport": {
@@ -808,7 +872,7 @@
           "eris_name": "lion-dao",
           "symbol": "lion-dao",
           "decimals": 6,
-          "price_usd": "2.29725078829e-7",
+          "price_usd": "2.27246462779e-7",
           "looks_like_address": false
         },
         "astroport": {
@@ -869,7 +933,7 @@
           "eris_name": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
           "symbol": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
           "decimals": 6,
-          "price_usd": "0.10051208228407953",
+          "price_usd": "0.09916100480891903",
           "looks_like_address": true
         },
         "astroport": {
@@ -946,7 +1010,7 @@
           "eris_name": "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
           "symbol": "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
           "decimals": 6,
-          "price_usd": "2.7174388963961067e-7",
+          "price_usd": "2.682356841606879e-7",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1002,7 +1066,7 @@
           "eris_name": "tether",
           "symbol": "tether",
           "decimals": 6,
-          "price_usd": "0.998483",
+          "price_usd": "0.998528",
           "looks_like_address": false
         },
         "astroport": {
@@ -1084,7 +1148,7 @@
           "eris_name": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
           "symbol": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
           "decimals": 6,
-          "price_usd": "0.999678",
+          "price_usd": "0.999523",
           "looks_like_address": true
         },
         "astroport": {
@@ -1192,7 +1256,7 @@
           "eris_name": "eris-arbitrage-luna",
           "symbol": "eris-arbitrage-luna",
           "decimals": 6,
-          "price_usd": "0.14931711374555678",
+          "price_usd": "0.14831098195832243",
           "looks_like_address": false
         },
         "astroport": {
@@ -1247,6 +1311,149 @@
       "notes": null,
       "acquisition_class": "native_terra",
       "tier": "core"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/21/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/21/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": "ampWHALE-ampLP",
+      "display_name": "Eris Protocol ampWHALE/WHALE ampLP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": {
+          "symbol": "ampWHALE-ampLP",
+          "name": "Eris Protocol ampWHALE/WHALE ampLP",
+          "description": "Eris Protocol ampWHALE/WHALE ampLP",
+          "logo_uri": null
+        },
+        "eris": null,
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": {
+        "symbol": "ampWHALE-ampLP",
+        "name": "Eris Protocol ampWHALE/WHALE ampLP",
+        "decimals": 6,
+        "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/21/single/amplp"
+      },
+      "scoring": {
+        "confusion_score": 60,
+        "flags": [
+          "no_external_price_source",
+          "not_in_active_use"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "tracked"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/30/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/30/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": "bWHALE-ampLP",
+      "display_name": "Eris Protocol bWHALE/WHALE ampLP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": {
+          "symbol": "bWHALE-ampLP",
+          "name": "Eris Protocol bWHALE/WHALE ampLP",
+          "description": "Eris Protocol bWHALE/WHALE ampLP",
+          "logo_uri": null
+        },
+        "eris": null,
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": {
+        "symbol": "bWHALE-ampLP",
+        "name": "Eris Protocol bWHALE/WHALE ampLP",
+        "decimals": 6,
+        "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/30/single/amplp"
+      },
+      "scoring": {
+        "confusion_score": 60,
+        "flags": [
+          "no_external_price_source",
+          "not_in_active_use"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "tracked"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/1/stable/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/1/stable/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": "LUNA-USDC-ampLP",
+      "display_name": "Eris Protocol LUNA/USDC ampLP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": {
+          "symbol": "LUNA-USDC-ampLP",
+          "name": "Eris Protocol LUNA/USDC ampLP",
+          "description": "Eris Protocol LUNA/USDC ampLP",
+          "logo_uri": null
+        },
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/1/stable/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/1/stable/amplp",
+          "decimals": 6,
+          "price_usd": "1.8795876947481163",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": {
+        "symbol": "LUNA-USDC-ampLP",
+        "name": "Eris Protocol LUNA/USDC ampLP",
+        "decimals": 6,
+        "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/1/stable/amplp"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "tracked"
     },
     "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1": {
       "address": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
@@ -1367,7 +1574,7 @@
           "eris_name": "solid-2",
           "symbol": "solid-2",
           "decimals": 6,
-          "price_usd": "1.0639122210469563",
+          "price_usd": "1.0542738949806165",
           "looks_like_address": false
         },
         "astroport": {
@@ -1428,7 +1635,7 @@
           "eris_name": "capapult",
           "symbol": "capapult",
           "decimals": 6,
-          "price_usd": "0.001338528311648965",
+          "price_usd": "0.001322736971670565",
           "looks_like_address": false
         },
         "astroport": {
@@ -1489,7 +1696,7 @@
           "eris_name": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
           "symbol": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
           "decimals": 6,
-          "price_usd": "0.001481818568620377",
+          "price_usd": "0.0014626706549192034",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1560,7 +1767,7 @@
           "eris_name": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
           "symbol": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
           "decimals": 18,
-          "price_usd": "4478.44",
+          "price_usd": "4479.9",
           "looks_like_address": true
         },
         "astroport": {
@@ -1629,6 +1836,57 @@
       "acquisition_class": "wrapped_looks_native",
       "tier": "core"
     },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/32/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/32/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": "LUNA-ampLUNA-ampLP",
+      "display_name": "Eris Protocol LUNA/ampLUNA ampLP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": {
+          "symbol": "LUNA-ampLUNA-ampLP",
+          "name": "Eris Protocol LUNA/ampLUNA ampLP",
+          "description": "Eris Protocol LUNA/ampLUNA ampLP",
+          "logo_uri": null
+        },
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/32/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/32/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.32688066599955906",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": {
+        "symbol": "LUNA-ampLUNA-ampLP",
+        "name": "Eris Protocol LUNA/ampLUNA ampLP",
+        "decimals": 6,
+        "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/32/project/amplp"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "tracked"
+    },
     "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228": {
       "address": "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228",
       "type": "ibc",
@@ -1685,6 +1943,47 @@
       "acquisition_class": "ibc_cosmos_native",
       "tier": "tracked"
     },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/49/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/49/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/49/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/49/single/amplp",
+          "decimals": 6,
+          "price_usd": "9.076729460429055e-9",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
     "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc": {
       "address": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
       "type": "cw20",
@@ -1701,7 +2000,7 @@
           "eris_name": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
           "symbol": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
           "decimals": 8,
-          "price_usd": "67401.57507680648",
+          "price_usd": "66656.35250830335",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1736,7 +2035,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "LUNA-EURe LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -1746,7 +2045,7 @@
           "eris_name": "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP",
           "symbol": "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP",
           "decimals": 6,
-          "price_usd": "0.5401489783166525",
+          "price_usd": "0.5365085673417215",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1767,7 +2066,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -1781,7 +2081,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "LUNA-USDt LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -1791,7 +2091,7 @@
           "eris_name": "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP",
           "symbol": "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP",
           "decimals": 6,
-          "price_usd": "0.5303384689038326",
+          "price_usd": "0.5267860074652467",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1812,7 +2112,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -1826,7 +2127,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "ampLUNA-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -1836,7 +2137,7 @@
           "eris_name": "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par",
           "symbol": "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par",
           "decimals": 6,
-          "price_usd": "0.20331498494677205",
+          "price_usd": "0.20058240441852052",
           "looks_like_address": true
         },
         "astroport": null,
@@ -1857,7 +2158,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -1871,7 +2173,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "USDC-SOLID LP",
-      "display_name": null,
+      "display_name": "USDC-SOLID LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -1881,7 +2183,7 @@
           "eris_name": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
           "symbol": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
           "decimals": 6,
-          "price_usd": "2.3476061458645665",
+          "price_usd": "2.3375091369222862",
           "looks_like_address": true
         },
         "astroport": {
@@ -1921,7 +2223,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -1935,7 +2238,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "SOLID-LUNA LP",
-      "display_name": null,
+      "display_name": "SOLID-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -1945,7 +2248,7 @@
           "eris_name": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
           "symbol": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
           "decimals": 6,
-          "price_usd": "0.6131118421068237",
+          "price_usd": "0.6063965833072031",
           "looks_like_address": true
         },
         "astroport": {
@@ -1985,7 +2288,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -1999,7 +2303,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "ASTRO-LUNA LP",
-      "display_name": null,
+      "display_name": "ASTRO-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2009,7 +2313,7 @@
           "eris_name": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
           "symbol": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
           "decimals": 6,
-          "price_usd": "0.014160193822228608",
+          "price_usd": "0.013839270162786202",
           "looks_like_address": true
         },
         "astroport": {
@@ -2049,7 +2353,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -2063,7 +2368,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "LUNA-ROAR LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2073,7 +2378,7 @@
           "eris_name": "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP",
           "symbol": "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP",
           "decimals": 6,
-          "price_usd": "0.00024030270617817748",
+          "price_usd": "0.0002371364808557304",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2094,7 +2399,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -2108,7 +2414,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "LUNA-stLUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2118,7 +2424,7 @@
           "eris_name": "factory/terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg/uLP",
           "symbol": "factory/terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg/uLP",
           "decimals": 6,
-          "price_usd": "0.11935217282899059",
+          "price_usd": "0.11779653103058753",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2139,7 +2445,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -2153,7 +2460,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "CAPA-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2163,7 +2470,7 @@
           "eris_name": "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP",
           "symbol": "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP",
           "decimals": 6,
-          "price_usd": "0.017903435513545434",
+          "price_usd": "0.017667335748292448",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2184,7 +2491,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -2198,7 +2506,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "LUNA-SOLID LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2208,7 +2516,7 @@
           "eris_name": "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP",
           "symbol": "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP",
           "decimals": 6,
-          "price_usd": "0.5137912354155486",
+          "price_usd": "0.5081579039635619",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2229,7 +2537,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -2243,7 +2552,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "ATOM-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2253,7 +2562,7 @@
           "eris_name": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
           "symbol": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
           "decimals": 6,
-          "price_usd": "0.9771126352407384",
+          "price_usd": "0.9625749683537123",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2274,7 +2583,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -2282,13 +2592,54 @@
       "acquisition_class": "lp_token",
       "tier": "core"
     },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/34/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/34/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/34/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/34/single/amplp",
+          "decimals": 6,
+          "price_usd": "9.427662349847985",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
     "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP": {
       "address": "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP",
       "type": "factory",
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "LUNA-ASTRO LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2298,7 +2649,7 @@
           "eris_name": "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP",
           "symbol": "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP",
           "decimals": 6,
-          "price_usd": "0.013608160783371053",
+          "price_usd": "0.01330193393411705",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2319,7 +2670,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -2333,7 +2685,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "USDC-SOLID LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2343,7 +2695,7 @@
           "eris_name": "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP",
           "symbol": "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP",
           "decimals": 6,
-          "price_usd": "2.1098343353104023",
+          "price_usd": "2.1007794291374573",
           "looks_like_address": true
         },
         "astroport": null,
@@ -2364,7 +2716,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -2378,7 +2731,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "wBNB.axl-LUNA LP",
-      "display_name": null,
+      "display_name": "wBNB.axl-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2388,7 +2741,7 @@
           "eris_name": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5",
           "symbol": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5",
           "decimals": 6,
-          "price_usd": "12.330029203589486",
+          "price_usd": "12.15928948481085",
           "looks_like_address": true
         },
         "astroport": {
@@ -2429,6 +2782,7 @@
         "confusion_score": 65,
         "flags": [
           "no_external_price_source",
+          "name_composed_from_underlyings",
           "shared_base_symbol_with:wBNB.axl"
         ]
       },
@@ -2440,13 +2794,54 @@
       ],
       "tier": "core"
     },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/33/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/33/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/33/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/33/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.02047831626960935",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
     "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn": {
       "address": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
       "type": "cw20",
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "USDC-EURe LP",
-      "display_name": null,
+      "display_name": "USDC-EURe LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2456,7 +2851,7 @@
           "eris_name": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
           "symbol": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
           "decimals": 6,
-          "price_usd": "2.1861803302894094",
+          "price_usd": "2.186027417448435",
           "looks_like_address": true
         },
         "astroport": {
@@ -2496,7 +2891,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -2510,7 +2906,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "ATOM-LUNA LP",
-      "display_name": null,
+      "display_name": "ATOM-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2520,7 +2916,7 @@
           "eris_name": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
           "symbol": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
           "decimals": 6,
-          "price_usd": "0.7439646591133245",
+          "price_usd": "0.7328973944955688",
           "looks_like_address": true
         },
         "astroport": {
@@ -2560,7 +2956,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -2584,7 +2981,7 @@
           "eris_name": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
           "symbol": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
           "decimals": 6,
-          "price_usd": "0.003231338534613275",
+          "price_usd": "0.003193103204270397",
           "looks_like_address": true
         },
         "astroport": {
@@ -2635,7 +3032,7 @@
           "eris_name": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
           "symbol": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
           "decimals": 6,
-          "price_usd": "0.057209",
+          "price_usd": "0.056503",
           "looks_like_address": true
         },
         "astroport": {
@@ -2691,7 +3088,7 @@
           "eris_name": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
           "symbol": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
           "decimals": 18,
-          "price_usd": "664.29",
+          "price_usd": "654.82",
           "looks_like_address": true
         },
         "astroport": {
@@ -2737,7 +3134,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "LUNA-INJ LP",
-      "display_name": null,
+      "display_name": "LUNA-INJ LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2747,7 +3144,7 @@
           "eris_name": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
           "symbol": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
           "decimals": 6,
-          "price_usd": "0.0000012943956823348174",
+          "price_usd": "0.0000012635193026827503",
           "looks_like_address": true
         },
         "astroport": {
@@ -2787,7 +3184,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -2811,7 +3209,7 @@
           "eris_name": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
           "symbol": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
           "decimals": 8,
-          "price_usd": "67291",
+          "price_usd": "66547",
           "looks_like_address": true
         },
         "astroport": {
@@ -2863,7 +3261,7 @@
           "eris_name": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
           "symbol": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
           "decimals": 6,
-          "price_usd": "1.84",
+          "price_usd": "1.81",
           "looks_like_address": true
         },
         "astroport": {
@@ -2904,7 +3302,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "LUNA-PAXG LP",
-      "display_name": null,
+      "display_name": "LUNA-PAXG LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -2914,7 +3312,7 @@
           "eris_name": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
           "symbol": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
           "decimals": 6,
-          "price_usd": "32.120782452706294",
+          "price_usd": "31.908407540650227",
           "looks_like_address": true
         },
         "astroport": {
@@ -2954,13 +3352,55 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
       "notes": null,
       "acquisition_class": "lp_token",
       "tier": "core"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/27/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/27/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/27/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/27/single/amplp",
+          "decimals": 6,
+          "price_usd": "10.435685883866364",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
     },
     "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211": {
       "address": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
@@ -2978,7 +3418,7 @@
           "eris_name": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
           "symbol": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
           "decimals": 18,
-          "price_usd": "6.73",
+          "price_usd": "6.5",
           "looks_like_address": true
         },
         "astroport": {
@@ -3024,7 +3464,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "LUNA-WBTC LP",
-      "display_name": null,
+      "display_name": "LUNA-WBTC LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3034,7 +3474,7 @@
           "eris_name": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
           "symbol": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
           "decimals": 6,
-          "price_usd": "125.08875891482481",
+          "price_usd": "123.56222698212575",
           "looks_like_address": true
         },
         "astroport": {
@@ -3074,7 +3514,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3088,7 +3529,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "LUNA-INJ LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3098,7 +3539,7 @@
           "eris_name": "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP",
           "symbol": "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP",
           "decimals": 6,
-          "price_usd": "0.000001286519160887417",
+          "price_usd": "0.0000012558407925705773",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3114,6 +3555,48 @@
         "is_amplp_underlying": true,
         "tla_distribution_pct": 0,
         "tla_total_vp": null
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source",
+          "name_composed_from_underlyings"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "tier": "core"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/47/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/47/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/47/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/47/single/amplp",
+          "decimals": 6,
+          "price_usd": "1833.0489538998572",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
       },
       "wallet_import": null,
       "scoring": {
@@ -3124,8 +3607,8 @@
       },
       "override": null,
       "notes": null,
-      "acquisition_class": "lp_token",
-      "tier": "core"
+      "acquisition_class": "native_terra",
+      "tier": "noise"
     },
     "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP": {
       "address": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP",
@@ -3133,7 +3616,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "USDC-EURe LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3143,7 +3626,7 @@
           "eris_name": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP",
           "symbol": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP",
           "decimals": 6,
-          "price_usd": "2.1768920175111046",
+          "price_usd": "2.1767437549684567",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3164,7 +3647,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3178,7 +3662,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "PAXG-WBTC LP",
-      "display_name": null,
+      "display_name": "PAXG-WBTC LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3188,7 +3672,7 @@
           "eris_name": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
           "symbol": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
           "decimals": 6,
-          "price_usd": "34735.871690559456",
+          "price_usd": "34549.75029562144",
           "looks_like_address": true
         },
         "astroport": {
@@ -3228,7 +3712,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3236,13 +3721,54 @@
       "acquisition_class": "lp_token",
       "tier": "core"
     },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/25/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/25/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/25/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/25/single/amplp",
+          "decimals": 6,
+          "price_usd": "2237.310975156578",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
     "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh": {
       "address": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh",
       "type": "cw20",
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "ampROAR-ROAR LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3252,7 +3778,7 @@
           "eris_name": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh",
           "symbol": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh",
           "decimals": 6,
-          "price_usd": "6.962803974278589e-7",
+          "price_usd": "6.872914383445014e-7",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3273,7 +3799,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3287,7 +3814,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "ampROAR-ROAR LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3297,7 +3824,7 @@
           "eris_name": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP",
           "symbol": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP",
           "decimals": 6,
-          "price_usd": "5.123385267486884e-7",
+          "price_usd": "5.057243355953417e-7",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3318,7 +3845,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3332,7 +3860,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "LUNA-arbLUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3342,7 +3870,7 @@
           "eris_name": "factory/terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq/uLP",
           "symbol": "factory/terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq/uLP",
           "decimals": 6,
-          "price_usd": "0.19672592542418638",
+          "price_usd": "0.194081547150642",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3363,13 +3891,629 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
       "notes": null,
       "acquisition_class": "lp_token",
       "tier": "core"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/64/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/64/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/64/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/64/single/amplp",
+          "decimals": 6,
+          "price_usd": "36680.21595111878",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/61/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/61/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/61/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/61/single/amplp",
+          "decimals": 6,
+          "price_usd": "0.0000012728738278493447",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/52/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/52/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/52/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/52/single/amplp",
+          "decimals": 6,
+          "price_usd": "2.2206852212092505",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/63/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/63/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 8,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/63/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/63/single/amplp",
+          "decimals": 8,
+          "price_usd": "67458.11006578112",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/57/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/57/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/57/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/57/single/amplp",
+          "decimals": 6,
+          "price_usd": "0.2659061784916317",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/40/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/40/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/40/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/40/single/amplp",
+          "decimals": 6,
+          "price_usd": "6.220830781826277",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/62/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/62/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/62/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/62/single/amplp",
+          "decimals": 6,
+          "price_usd": "1.0461610005329551",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/44/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/44/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/44/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/44/single/amplp",
+          "decimals": 6,
+          "price_usd": "0.0028326727371842117",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/22/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/22/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/22/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/22/single/amplp",
+          "decimals": 6,
+          "price_usd": "0.0000014134615388932483",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/29/single/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/29/single/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/29/single/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/29/single/amplp",
+          "decimals": 6,
+          "price_usd": "0.3529749942992128",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/2/stable/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/2/stable/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/2/stable/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/2/stable/amplp",
+          "decimals": 6,
+          "price_usd": "1.8301445612651",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/0/stable/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/0/stable/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/0/stable/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/0/stable/amplp",
+          "decimals": 6,
+          "price_usd": "1.7713849695328021",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/48/stable/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/48/stable/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/48/stable/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/48/stable/amplp",
+          "decimals": 6,
+          "price_usd": "1.739000166445366",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/50/stable/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/50/stable/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/50/stable/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/50/stable/amplp",
+          "decimals": 6,
+          "price_usd": "1.5053753908849639",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/5/stable/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/5/stable/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/5/stable/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/5/stable/amplp",
+          "decimals": 6,
+          "price_usd": "1.108958256755732",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
     },
     "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6": {
       "address": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
@@ -3387,7 +4531,7 @@
           "eris_name": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
           "symbol": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
           "decimals": 6,
-          "price_usd": "0.0010002362175874047",
+          "price_usd": "0.0009682547532123629",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3422,7 +4566,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "USDT-LUNA LP",
-      "display_name": null,
+      "display_name": "USDt-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3432,7 +4576,7 @@
           "eris_name": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4",
           "symbol": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4",
           "decimals": 6,
-          "price_usd": "0.4952718797042778",
+          "price_usd": "0.49193200571291607",
           "looks_like_address": true
         },
         "astroport": {
@@ -3472,7 +4616,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3486,7 +4631,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "LUNA-USDC LP",
-      "display_name": null,
+      "display_name": "LUNA-USDC LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3496,7 +4641,7 @@
           "eris_name": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
           "symbol": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
           "decimals": 6,
-          "price_usd": "0.5136012004205761",
+          "price_usd": "0.510087455643025",
           "looks_like_address": true
         },
         "astroport": {
@@ -3536,7 +4681,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3550,7 +4696,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "LUNA-EURe LP",
-      "display_name": null,
+      "display_name": "LUNA-EURe LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3560,7 +4706,7 @@
           "eris_name": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc",
           "symbol": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc",
           "decimals": 6,
-          "price_usd": "0.5234718856474644",
+          "price_usd": "0.519924273141967",
           "looks_like_address": true
         },
         "astroport": {
@@ -3600,7 +4746,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3614,7 +4761,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "LUNA-USDC LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3624,7 +4771,7 @@
           "eris_name": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP",
           "symbol": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP",
           "decimals": 6,
-          "price_usd": "0.5569894263911676",
+          "price_usd": "0.5532015462291492",
           "looks_like_address": true
         },
         "astroport": null,
@@ -3645,7 +4792,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3653,13 +4801,95 @@
       "acquisition_class": "lp_token",
       "tier": "core"
     },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/41/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/41/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/41/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/41/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.305830031263288",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/24/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/24/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/24/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/24/project/amplp",
+          "decimals": 6,
+          "price_usd": "5.624932251874471",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
     "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc": {
       "address": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
       "type": "cw20",
       "category": "lp_tokens",
       "subtype": "lst",
       "symbol": "stLUNA-LUNA LP",
-      "display_name": null,
+      "display_name": "stLUNA-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3669,7 +4899,7 @@
           "eris_name": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
           "symbol": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
           "decimals": 6,
-          "price_usd": "0.12273603021872712",
+          "price_usd": "0.12110054731447613",
           "looks_like_address": true
         },
         "astroport": {
@@ -3709,7 +4939,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3723,7 +4954,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "CAPA-LUNA LP",
-      "display_name": null,
+      "display_name": "CAPA-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3733,7 +4964,7 @@
           "eris_name": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
           "symbol": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
           "decimals": 6,
-          "price_usd": "0.01776086379037324",
+          "price_usd": "0.017526729618643388",
           "looks_like_address": true
         },
         "astroport": {
@@ -3773,7 +5004,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3787,7 +5019,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "FUEL-LUNA LP",
-      "display_name": null,
+      "display_name": "FUEL-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3797,7 +5029,7 @@
           "eris_name": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
           "symbol": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
           "decimals": 6,
-          "price_usd": "0.027221290399228586",
+          "price_usd": "0.026877517132783666",
           "looks_like_address": true
         },
         "astroport": {
@@ -3837,7 +5069,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3851,7 +5084,7 @@
       "category": "lp_tokens",
       "subtype": "lst",
       "symbol": "bLUNA-LUNA LP",
-      "display_name": null,
+      "display_name": "bLUNA-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3861,7 +5094,7 @@
           "eris_name": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
           "symbol": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
           "decimals": 6,
-          "price_usd": "0.13294516008984975",
+          "price_usd": "0.13115811909788877",
           "looks_like_address": true
         },
         "astroport": {
@@ -3901,7 +5134,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3915,7 +5149,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "LUNA-ampLUNA LP",
-      "display_name": null,
+      "display_name": "LUNA-ampLUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3925,7 +5159,7 @@
           "eris_name": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
           "symbol": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
           "decimals": 6,
-          "price_usd": "0.16379878746248516",
+          "price_usd": "0.16159728573918444",
           "looks_like_address": true
         },
         "astroport": {
@@ -3965,7 +5199,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -3979,7 +5214,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "bLUNA-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -3989,7 +5224,7 @@
           "eris_name": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
           "symbol": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
           "decimals": 6,
-          "price_usd": "0.16868572527361234",
+          "price_usd": "0.16641826268762705",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4010,7 +5245,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -4024,7 +5260,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "ROAR-LUNA LP",
-      "display_name": null,
+      "display_name": "ROAR-LUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -4034,7 +5270,7 @@
           "eris_name": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
           "symbol": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
           "decimals": 6,
-          "price_usd": "0.000236927880513886",
+          "price_usd": "0.00023380587906043365",
           "looks_like_address": true
         },
         "astroport": {
@@ -4074,7 +5310,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -4082,13 +5319,546 @@
       "acquisition_class": "lp_token",
       "tier": "core"
     },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/13/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/13/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/13/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/13/project/amplp",
+          "decimals": 6,
+          "price_usd": "2.4406550083930574",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/4/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/4/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/4/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/4/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.048583211419314445",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/39/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/39/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/39/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/39/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.32609788643011683",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/42/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/42/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/42/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/42/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.08638485804897934",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/59/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/59/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/59/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/59/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.05620353092901058",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/58/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/58/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/58/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/58/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.14956466290703987",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/43/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/43/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/43/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/43/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.03917236831028241",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/14/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/14/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/14/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/14/project/amplp",
+          "decimals": 6,
+          "price_usd": "2.4447801458776035",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/9/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/9/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/9/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/9/project/amplp",
+          "decimals": 6,
+          "price_usd": "2.377357711675973",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/55/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/55/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/55/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/55/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "32.962572783324624",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/46/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/46/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/46/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/46/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "3.1377353370509526",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/56/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/56/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/56/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/56/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "244.87265889837087",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/51/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/51/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/51/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/51/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "2.9460469059997907",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
     "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry": {
       "address": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
       "type": "cw20",
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "USDC-USDT LP",
-      "display_name": null,
+      "display_name": "USDC-USDt LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -4098,7 +5868,7 @@
           "eris_name": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
           "symbol": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
           "decimals": 6,
-          "price_usd": "2.004820791956559",
+          "price_usd": "2.004777029394029",
           "looks_like_address": true
         },
         "astroport": {
@@ -4138,7 +5908,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -4152,7 +5923,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "LUNA-arbLUNA LP",
-      "display_name": null,
+      "display_name": "LUNA-arbLUNA LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -4162,7 +5933,7 @@
           "eris_name": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
           "symbol": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
           "decimals": 6,
-          "price_usd": "0.1910702222899942",
+          "price_usd": "0.18849760548853223",
           "looks_like_address": true
         },
         "astroport": {
@@ -4202,7 +5973,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -4216,7 +5988,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "ATOM-stATOM LP",
-      "display_name": null,
+      "display_name": "ATOM-stATOM LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -4226,7 +5998,7 @@
           "eris_name": "terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn",
           "symbol": "terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn",
           "decimals": 6,
-          "price_usd": "3.0581366040652704",
+          "price_usd": "3.0082756811729015",
           "looks_like_address": true
         },
         "astroport": {
@@ -4266,7 +6038,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -4280,7 +6053,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "USDC-USDt LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -4290,7 +6063,7 @@
           "eris_name": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP",
           "symbol": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP",
           "decimals": 6,
-          "price_usd": "1.0014150352544078",
+          "price_usd": "1.001393815943705",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4311,7 +6084,8 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
@@ -4325,7 +6099,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": null,
+      "display_name": "ATOM-stATOM LP",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -4335,7 +6109,7 @@
           "eris_name": "factory/terra1c439uc3qdlfuqncxae7l07nsdgjtu45g98yhn5ydjn2866nsw3ws0e0vte/uLP",
           "symbol": "factory/terra1c439uc3qdlfuqncxae7l07nsdgjtu45g98yhn5ydjn2866nsw3ws0e0vte/uLP",
           "decimals": 6,
-          "price_usd": "2.2356675262844674",
+          "price_usd": "2.199216425312438",
           "looks_like_address": true
         },
         "astroport": null,
@@ -4356,13 +6130,588 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source"
+          "no_external_price_source",
+          "name_composed_from_underlyings"
         ]
       },
       "override": null,
       "notes": null,
       "acquisition_class": "lp_token",
       "tier": "core"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/16/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/16/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/16/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/16/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.38223193269386696",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/15/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/15/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/15/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/15/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "0.00008127139366554591",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/12/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/12/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/12/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/12/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.0006815129382098133",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/10/project/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/10/project/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/10/project/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/10/project/amplp",
+          "decimals": 6,
+          "price_usd": "0.0002526757619411551",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/60/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/60/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/60/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/60/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "48.17332978550037",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/45/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/45/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/45/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/45/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "1.0461610005329551",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/17/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/17/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/17/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/17/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "0.000002848963837416496",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/3/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/3/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/3/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/3/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "49.32279646364052",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/53/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/53/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/53/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/53/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "119.86676634488715",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/11/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/11/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/11/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/11/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "2.304924320432356",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/6/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/6/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/6/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/6/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "3.049931138532793",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/36/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/36/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/36/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/36/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "0.0000026213176872818016",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/8/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/8/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/8/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/8/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "2.2206852212092505",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/18/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/18/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": null,
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "eris_name": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/18/bluechip/amplp",
+          "symbol": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/18/bluechip/amplp",
+          "decimals": 6,
+          "price_usd": "452.12412657694534",
+          "looks_like_address": true
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "tier": "noise"
     },
     "_example_wBTCatom_disabled": {
       "address": "_example_wBTCatom_disabled",
@@ -20481,178 +22830,7 @@
         "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
       },
       {
-        "address": "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP",
-        "appears_in_pools": [
-          "stable"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP",
-        "appears_in_pools": [
-          "stable"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par",
-        "appears_in_pools": [
-          "project"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP",
-        "appears_in_pools": [
-          "project"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg/uLP",
-        "appears_in_pools": [
-          "project"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP",
-        "appears_in_pools": [
-          "project"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP",
-        "appears_in_pools": [
-          "project"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
-        "appears_in_pools": [
-          "bluechip"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP",
-        "appears_in_pools": [
-          "project"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP",
-        "appears_in_pools": [
-          "project"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP",
-        "appears_in_pools": [
-          "bluechip"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP",
-        "appears_in_pools": [
-          "bluechip"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh",
-        "appears_in_pools": [
-          "single"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP",
-        "appears_in_pools": [
-          "single"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq/uLP",
-        "appears_in_pools": [
-          "single"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
         "address": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
-        "appears_in_pools": [
-          "single"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP",
-        "appears_in_pools": [
-          "stable"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
-        "appears_in_pools": [
-          "project"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP",
-        "appears_in_pools": [
-          "single"
-        ],
-        "is_likely_lp": true,
-        "named_by_dex": false,
-        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
-      },
-      {
-        "address": "factory/terra1c439uc3qdlfuqncxae7l07nsdgjtu45g98yhn5ydjn2866nsw3ws0e0vte/uLP",
         "appears_in_pools": [
           "single"
         ],
