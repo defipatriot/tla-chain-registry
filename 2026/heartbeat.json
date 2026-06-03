@@ -1,20 +1,20 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-03T02:43:38.538Z",
-  "capturedAtUnix": 1780454618538,
-  "runId": "tla-registry-20260603024338",
+  "capturedAt": "2026-06-03T06:41:18.116Z",
+  "capturedAtUnix": 1780468878116,
+  "runId": "tla-registry-20260603064118",
   "runMode": "daily",
-  "status": "ok",
+  "status": "partial",
   "canonicalEpoch": 187,
   "stats": {
     "directory_size": 20,
     "pool_count": 28,
     "bucket_count": 4,
-    "tokens_catalog": 162,
-    "tokens_core": 108,
-    "tokens_tracked": 54,
-    "tokens_noise": 0,
+    "tokens_catalog": 173,
+    "tokens_core": 109,
+    "tokens_tracked": 60,
+    "tokens_noise": 4,
     "contracts_catalog": 42,
     "wallets_catalog": 668,
     "wallets_discovered_via_daodao": 347,
@@ -34,7 +34,7 @@
     "amplp_mappings": 65,
     "unmapped_tokens": 1,
     "chain_errors": 0,
-    "external_source_errors": 0,
+    "external_source_errors": 1,
     "scope": {
       "active_lps": 28,
       "inactive_lps_discovered": 47,
@@ -53,17 +53,17 @@
       "whitelist_buckets_succeeded": 4
     },
     "acquisition_classes": {
-      "native_terra": 67,
+      "native_terra": 77,
       "ibc_cosmos_native": 15,
-      "wrapped_disclosed": 3,
+      "wrapped_disclosed": 4,
       "wrapped_looks_native": 5,
       "lp_token": 72,
       "unclassified": 0
     }
   },
-  "dataFingerprint": "4d4b1db96e18",
+  "dataFingerprint": "61e6e889498e",
   "previousFingerprint": "4d4b1db96e18",
   "dataFreshness": "fresh",
-  "consecutiveStuckRuns": 3,
-  "next_expected_run_at": "2026-06-04T02:43:38.538Z"
+  "consecutiveStuckRuns": 0,
+  "next_expected_run_at": "2026-06-04T06:41:18.116Z"
 }
