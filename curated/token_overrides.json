@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "Per-token overrides for display name, subtype, or any field the auto-discovery got wrong. Address-keyed. Only fields you set here override the cron's auto-discovered values; everything else falls through.",
-    "lastUpdated": "2026-06-01",
+    "lastUpdated": "2026-06-02",
     "schema": {
       "display_name": "preferred display (overrides Eris/Astroport/etc.)",
       "subtype": "override subtype (e.g. force 'lst')",
@@ -9,29 +9,54 @@
       "flags_added": "extra flags to add to scoring.flags",
       "verified": "boolean — has this been confirmed?",
       "warning": "free text — shown prominently if present (for tokens that have a real risk)"
-    }
+    },
+    "note_on_hardcoded_overrides": "Some overrides live in the cron code itself (Stage 7b HARDCODED_OVERRIDES dict) rather than this file — specifically the boneLUNA naming case, which also needs to propagate _display_overridden + _display_original to sources.eris for transparency UI. Normal cases belong here. See PROJECT_KNOWLEDGE.md 'Two-tier override system' for context."
   },
   "tokens": {
-    "_example_wBTCatom_disabled": {
-      "_note": "REMOVE THE LEADING UNDERSCORE TO ACTIVATE. This is an example showing how to override a specific token. Replace the key with the actual wBTC.atom address when known.",
+    "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB": {
       "display_name": "wBTC.atom",
       "subtype": "ibc",
-      "notes": "Bridged via Skip.go / Eureka IBC route from Cosmos Hub. The .atom suffix is critical — wBTC.axl and wBTC.osmo exist on Terra too and are different tokens. Confirm address before any swap.",
-      "warning": "Multiple wBTC variants exist on Terra. The Eris UI label '.atom' is the bridge identity. Do not confuse with wBTC.axl or wBTC.osmo.",
+      "notes": "Bridged WBTC from Ethereum via Cosmos Hub (Eureka IBC route). The '.atom' suffix refers to the bridge path through Cosmos Hub, not a Cosmos-native asset. Acquire via Skip.go (Send to Terra → WBTC) or manually via Eureka bridge.",
+      "warning": "Multiple wBTC variants exist on Terra: wBTC.atom (this — Ethereum via Cosmos Hub), WBTC.axl (Ethereum via Axelar), WBTC.osmo (Ethereum via Osmosis). They are SEPARATE Terra addresses for the same underlying Ethereum WBTC. TLA pools whitelist specific variants — confirm address before depositing.",
       "verified": true
+    },
+
+    "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD": {
+      "display_name": "WBTC.axl",
+      "subtype": "ibc",
+      "notes": "Bridged WBTC from Ethereum via the Axelar network. Distinct from wBTC.atom (Cosmos Hub route) and WBTC.osmo (Osmosis route).",
+      "warning": "Variant trap: TLA may have pools for wBTC.atom but NOT WBTC.axl, or vice versa. WBTC.axl appears in the WBTC.axl-WBTC.osmo LP, NOT in LUNA-wBTC.atom LP. Always verify pool's exact underlying token addresses before depositing.",
+      "verified": true
+    },
+
+    "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73": {
+      "display_name": "WBTC.osmo",
+      "subtype": "ibc",
+      "notes": "Bridged WBTC from Ethereum via Osmosis. Distinct from wBTC.atom (Cosmos Hub route) and WBTC.axl (Axelar route).",
+      "warning": "Variant trap: WBTC.osmo appears in LUNA-WBTC.osmo LP (Skeleton Swap variant) and in the WBTC.axl-WBTC.osmo LP. Not interchangeable with wBTC.atom — they have separate Terra addresses despite the same underlying Ethereum asset.",
+      "verified": true
+    },
+
+    "_example_wBTCatom_disabled": {
+      "_note": "OBSOLETE — replaced by the live entry above at the actual ibc/88386AC4... address. Remove this stub when comfortable.",
+      "display_name": "wBTC.atom (stub)",
+      "verified": false
     }
   },
   "_curation_queue": {
-    "description": "Tokens we want to override but haven't filled in the address yet. Move to 'tokens' above when ready.",
+    "description": "Tokens we want to override but haven't filled in yet. Move to 'tokens' above when ready.",
     "candidates": [
       {
-        "hint": "wBTC.atom (Terra) — bridged from Cosmos Hub via Skip/Eureka. ibc/88386AC4...F484CB on Babylon — Terra-side address TBD."
+        "hint": "USDC at ibc/2C962DAB... — Eris API claims coingecko_id 'usd-coin' but CG actually maps this Terra address to 'ibc-bridged-usdc' (a.k.a. USDC.N for the Noble variant). Verified by independent CG terra-2 platform lookup during 2026-06-02 audit. Catalog Stage 7c surfaces this as a 'mismatch' status already; an override could add a note explaining the canonical CG ID is ibc-bridged-usdc."
       },
       {
-        "hint": "wBTC.axl (Terra) — bridged via Axelar. No CoinGecko mapping."
+        "hint": "EURe at ibc/8D52B251... — Eris API claims 'monerium-eur-money' (which is the deprecated v1 token labeled 'EURe [OLD]' on CG). Should be 'monerium-eur-money-2'. Catalog Stage 7c flags as 'mismatch'."
       },
       {
-        "hint": "wBTC.osmo (Terra) — bridged via Osmosis. No CoinGecko mapping."
+        "hint": "WETH.axl at the WETH.axl address — Eris API claims 'ethereum' (i.e. native ETH!). Should be 'weth' (the wrapped token). Critical confusion: WETH ≠ ETH, even at CG level."
+      },
+      {
+        "hint": "PAXG at ibc/0EF56305... — successfully resolved to 'pax-gold' via Stage 7c bridge-trace fallback (Ethereum 0x45804880...). Consider adding an explicit note that this token represents 1 troy ounce of physical gold held by Paxos (real-world counterparty risk distinct from pure crypto)."
       }
     ]
   }

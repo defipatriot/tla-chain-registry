@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "Known contracts. Auto-seeded from defipatriot/adao_json_storage/alliancedao_registry.json (44 entries) plus additions. Edit to add new contracts.",
-    "lastUpdated": "2026-06-01",
+    "lastUpdated": "2026-06-02",
     "absorbed_from": "defipatriot/adao_json_storage/alliancedao_registry.json @ 2026-01-07",
     "schema": {
       "address": "the terra1... address",
@@ -196,7 +196,8 @@
         "claim_rewards"
       ],
       "canReceiveFunds": true,
-      "description": "Stake Astroport LP tokens"
+      "description": "Stake Astroport LP tokens",
+      "_note_review_2026_06_02": "Maps to the 'project' bucket in the TLA gauge system (per global_config.all_addresses \u2192 asset_staking__project). Current label 'Astro LP' describes which DEX's LPs stake here, but the underlying bucket name is 'project'. Consider relabeling for consistency with bucket naming used elsewhere in the catalog."
     },
     "terra1qdz5qgafx88kp5mf6m2tah8742g4u5g2cek0m3jrgssexexk7g4qw6e23k": {
       "name": "Eris Asset Staking (WW LP)",
@@ -208,7 +209,8 @@
         "claim_rewards"
       ],
       "canReceiveFunds": true,
-      "description": "Stake White Whale LP tokens"
+      "description": "Stake White Whale LP tokens",
+      "_note_review_2026_06_02": "Maps to the 'single' bucket in the TLA gauge system. Holds single-asset stakes (ampCAPA, xASTRO, wBTC.creda.a, etc.) plus White Whale (Skeleton Swap) LPs. Current label 'WW LP' is partially accurate but misses single-asset stakes. Consider relabeling for consistency."
     },
     "terra1x8v9fujf3c78q2we23x0vgzmxgtt0hgvuvfsxy4w3ar9kcua4c6qqcnhyh": {
       "name": "TLA Connector Alliance (Primary)",
@@ -459,6 +461,37 @@
         "withdraw_liquidity"
       ],
       "canReceiveFunds": true
+    },
+    "terra1hwxg6s732eparz3ys7sa4t5f64ngpd2w8syrca6z7ckv3fs9uqnsvrpcqa": {
+      "name": "Eris Global Config",
+      "type": "registry",
+      "protocol": "Eris",
+      "notes": "Eris's root config contract. Holds the address book for the entire Eris stack (asset_gauge, voting_escrow, asset_compounder, bribe_manager, all four asset_staking buckets). The tla-registry cron queries {all_addresses: {}} on this contract as Q1 of every run to discover every other contract address it needs. If this returns null, the whole catalog run aborts.",
+      "validActions": [
+        "query"
+      ]
+    },
+    "terra14mmvqn0kthw6sre75vku263lafn5655mkjdejqjedjga4cw0qx2qlf4arv": {
+      "name": "Eris Asset Staking \u2014 Bluechip Bucket",
+      "type": "staking",
+      "protocol": "Eris",
+      "notes": "Holds the per-LP whitelist + take-rate metadata for the 'bluechip' bucket of TLA (LUNA pairs with major chain assets like ATOM, INJ, wBTC variants, wstETH, etc.). Query {whitelisted_asset_details: {}} returns active, below-threshold, AND dewhitelisted LPs with their take-rate state.",
+      "validActions": [
+        "stake",
+        "unstake",
+        "query"
+      ]
+    },
+    "terra1v399cx9drllm70wxfsgvfe694tdsd9x96p9ha36w7muffe4znlusqswspq": {
+      "name": "Eris Asset Staking \u2014 Stable Bucket",
+      "type": "staking",
+      "protocol": "Eris",
+      "notes": "Holds the per-LP whitelist + take-rate metadata for the 'stable' bucket of TLA (stablecoin pairs: USDC-USDt, LUNA-USDC, LUNA-EURe, USDC-EURe). Query {whitelisted_asset_details: {}}.",
+      "validActions": [
+        "stake",
+        "unstake",
+        "query"
+      ]
     }
   }
 }
