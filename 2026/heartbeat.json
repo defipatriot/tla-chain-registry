@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-03T06:41:18.116Z",
-  "capturedAtUnix": 1780468878116,
-  "runId": "tla-registry-20260603064118",
+  "capturedAt": "2026-06-04T00:05:12.327Z",
+  "capturedAtUnix": 1780531512327,
+  "runId": "tla-registry-20260604000512",
   "runMode": "daily",
-  "status": "partial",
+  "status": "ok",
   "canonicalEpoch": 187,
   "stats": {
     "directory_size": 20,
@@ -15,7 +15,7 @@
     "tokens_core": 109,
     "tokens_tracked": 60,
     "tokens_noise": 4,
-    "contracts_catalog": 42,
+    "contracts_catalog": 43,
     "wallets_catalog": 668,
     "wallets_discovered_via_daodao": 347,
     "wallets_discovered_via_indexer": 186,
@@ -29,12 +29,12 @@
     },
     "tla_unique_holders": 202,
     "tla_total_locks_scanned": 431,
-    "pfpk_names_found": 159,
+    "pfpk_names_found": 160,
     "pfpk_lookups_attempted": 666,
     "amplp_mappings": 65,
     "unmapped_tokens": 1,
     "chain_errors": 0,
-    "external_source_errors": 1,
+    "external_source_errors": 0,
     "scope": {
       "active_lps": 28,
       "inactive_lps_discovered": 47,
@@ -61,9 +61,9 @@
       "unclassified": 0
     }
   },
-  "dataFingerprint": "61e6e889498e",
-  "previousFingerprint": "4d4b1db96e18",
+  "dataFingerprint": "5e0b3d3f8e7f",
+  "previousFingerprint": "61e6e889498e",
   "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-06-04T06:41:18.116Z"
+  "next_expected_run_at": "2026-06-05T00:05:12.327Z"
 }
