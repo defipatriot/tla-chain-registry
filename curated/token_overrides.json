@@ -11,7 +11,8 @@
       "warning": "free text \u2014 shown prominently if present (for tokens that have a real risk)",
       "logo_url": "Direct URL to a token logo image (PNG/SVG, ~64-256px square). Used by catalog UI and downstream consumers. Falls back to a colored letter-circle if the URL 404s or isn't set."
     },
-    "note_on_hardcoded_overrides": "Some overrides live in the cron code itself (Stage 7b HARDCODED_OVERRIDES dict) rather than this file \u2014 specifically the boneLUNA naming case, which also needs to propagate _display_overridden + _display_original to sources.eris for transparency UI. Normal cases belong here. See PROJECT_KNOWLEDGE.md 'Two-tier override system' for context."
+    "note_on_hardcoded_overrides": "Some overrides live in the cron code itself (Stage 7b HARDCODED_OVERRIDES dict) rather than this file \u2014 specifically the boneLUNA naming case, which also needs to propagate _display_overridden + _display_original to sources.eris for transparency UI. Normal cases belong here. See PROJECT_KNOWLEDGE.md 'Two-tier override system' for context.",
+    "notes_2026_06_05": "Audited all curated logo URLs against chain-registry assetlists. Many had wrong filename casing (e.g. arbLUNA.png \u2192 arbluna.svg) or wrong chain (e.g. FUEL was on migaloo, actually on neutron). All 20 URLs now HTTP 200 verified."
   },
   "tokens": {
     "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB": {
@@ -51,7 +52,7 @@
     },
     "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915": {
       "display_name": "dATOM",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/dATOM.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/dATOM.svg",
       "notes": "Drop Protocol's liquid-staked ATOM (dATOM) \u2014 issued on Cosmos Hub via Drop's chain.",
       "verified": true
     },
@@ -63,13 +64,13 @@
     },
     "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6": {
       "display_name": "xASTRO",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/xASTRO.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/xAstro.svg",
       "notes": "Astroport's staked governance token, native on Neutron, bridged to Terra via IBC.",
       "verified": true
     },
     "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C": {
       "display_name": "wstETH",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg",
       "notes": "Lido's wrapped staked ETH, bridged via Neutron.",
       "verified": true
     },
@@ -81,13 +82,13 @@
     },
     "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098": {
       "display_name": "rSWTH",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/rSWTH.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.png",
       "notes": "Restricted SWTH \u2014 Carbon's vesting token variant.",
       "verified": true
     },
     "ibc/B3F639855EE7478750CC8F82072307ED6E131A8EFF20345E1D136B50C4E5EC36": {
       "display_name": "ampWHALE",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/ampWHALE.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/ampwhale.svg",
       "notes": "Eris's amplified WHALE \u2014 auto-compounded WHALE LST on Migaloo.",
       "verified": true
     },
@@ -99,43 +100,43 @@
     },
     "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961": {
       "display_name": "FUEL",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/fuel.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/fuel.png",
       "notes": "Migaloo's FUEL token.",
       "verified": true
     },
     "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat": {
       "display_name": "wETH.wh",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/weth.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/weth.svg",
       "notes": "Wormhole-bridged Ethereum WETH on Terra.",
       "verified": true
     },
     "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg": {
       "display_name": "wSOL.wh",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/solana/images/sol.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/sol.svg",
       "notes": "Wormhole-bridged Solana SOL on Terra.",
       "verified": true
     },
     "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388": {
       "display_name": "wBNB.wh",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bsc/images/bnb.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/bnb.png",
       "notes": "Wormhole-bridged BNB on Terra.",
       "verified": true
     },
     "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C": {
       "display_name": "wBNB.axl",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bsc/images/bnb.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/bnb.png",
       "notes": "Axelar-bridged BNB on Terra.",
       "verified": true
     },
     "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674": {
       "display_name": "WETH.axl",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/weth.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/weth.svg",
       "notes": "Axelar-bridged ETH (WETH) on Terra.",
       "verified": true
     },
     "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490": {
       "display_name": "arbLUNA",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/arbLUNA.png",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/arbluna.svg",
       "notes": "Eris's arbitrage-protected LUNA LST.",
       "verified": true
     },
