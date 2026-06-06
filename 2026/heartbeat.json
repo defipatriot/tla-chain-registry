@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-06T08:46:36.737Z",
-  "capturedAtUnix": 1780735596737,
-  "runId": "tla-registry-20260606084636",
+  "capturedAt": "2026-06-06T08:52:28.544Z",
+  "capturedAtUnix": 1780735948544,
+  "runId": "tla-registry-20260606085228",
   "runMode": "daily",
   "status": "ok",
   "canonicalEpoch": 187,
@@ -29,7 +29,7 @@
     },
     "tla_unique_holders": 202,
     "tla_total_locks_scanned": 431,
-    "pfpk_names_found": 159,
+    "pfpk_names_found": 160,
     "pfpk_lookups_attempted": 666,
     "amplp_mappings": 65,
     "unmapped_tokens": 9,
@@ -64,6 +64,6 @@
   "dataFingerprint": "5b43ff924594",
   "previousFingerprint": "5b43ff924594",
   "dataFreshness": "fresh",
-  "consecutiveStuckRuns": 2,
-  "next_expected_run_at": "2026-06-07T08:46:36.737Z"
+  "consecutiveStuckRuns": 3,
+  "next_expected_run_at": "2026-06-07T08:52:28.544Z"
 }
