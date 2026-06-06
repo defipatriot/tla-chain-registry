@@ -3,8 +3,8 @@
   "cron": "tla-registry",
   "layer": 0,
   "layerRole": "discovery-bootstrap-catalog",
-  "capturedAt": "2026-06-06T04:24:39.409Z",
-  "capturedAtUnix": 1780719879409,
+  "capturedAt": "2026-06-06T08:22:59.478Z",
+  "capturedAtUnix": 1780734179478,
   "canonicalEpoch": 187,
   "directory": {
     "ASSET_GAUGE": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
@@ -36,14 +36,7 @@
         "cw20": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
       },
       "distribution_pct": 0.6220692684826311,
-      "total_vp": "17076784294185",
-      "architecture": {
-        "pair_address": "terra1v3lqxl0eyte9x3nhdgcj8hwvjq76aupnnzz0yll8mxs5cckc29pqvg2scu",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "17076784294185"
     },
     {
       "gauge_pool_id": "cw20:terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc",
@@ -52,14 +45,7 @@
         "cw20": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc"
       },
       "distribution_pct": 0.24265982320946483,
-      "total_vp": "6661395551529",
-      "architecture": {
-        "pair_address": "terra1vhxl8ggscmhae3muvwvs2vs8ppprzqf07xngcdp798fwnrcksjxszqfa8n",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "6661395551529"
     },
     {
       "gauge_pool_id": "native:factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP",
@@ -68,14 +54,7 @@
         "native": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP"
       },
       "distribution_pct": 0.10033823753462787,
-      "total_vp": "2754443155530",
-      "architecture": {
-        "pair_address": "terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      }
+      "total_vp": "2754443155530"
     },
     {
       "gauge_pool_id": "cw20:terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4",
@@ -84,14 +63,7 @@
         "cw20": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4"
       },
       "distribution_pct": 0.03493267077327624,
-      "total_vp": "958957006621",
-      "architecture": {
-        "pair_address": "terra1aategw0787y4fyunmwdvdqraxfc8jtxykyed2skx3p5fd3lkgkmsqry7pz",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "958957006621"
     },
     {
       "gauge_pool_id": "cw20:terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
@@ -100,14 +72,7 @@
         "cw20": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
       },
       "distribution_pct": 0.22524916301313777,
-      "total_vp": "5929037395735",
-      "architecture": {
-        "pair_address": "terra183wqgrwa2k0uvlz99j57c496gfuwgtaccrhv4stcjzv3ydacl9zq0hmf25",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "5929037395735"
     },
     {
       "gauge_pool_id": "cw20:terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
@@ -116,14 +81,7 @@
         "cw20": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
       },
       "distribution_pct": 0.21259389887127214,
-      "total_vp": "5595923907781",
-      "architecture": {
-        "pair_address": "terra1fwjxdjpl98shj20l4swlen9hyu4lhvekrvqkqn393lzzghmsn2wqjdnvpu",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      }
+      "total_vp": "5595923907781"
     },
     {
       "gauge_pool_id": "cw20:terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
@@ -132,14 +90,7 @@
         "cw20": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4"
       },
       "distribution_pct": 0.18476154023581975,
-      "total_vp": "4863316989497",
-      "architecture": {
-        "pair_address": "terra1cupwgntu082ypw2ztgtxfzcenexcu6ggp5zzunn3yzfwgrvdcclqgjrjqg",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "4863316989497"
     },
     {
       "gauge_pool_id": "cw20:terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
@@ -148,14 +99,7 @@
         "cw20": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44"
       },
       "distribution_pct": 0.15690607782151425,
-      "total_vp": "4130101930579",
-      "architecture": {
-        "pair_address": "terra10yfnsqn20rzlnlzkeva5255q27zp6ws9te9uuql9e0lacfcze7zsffjct5",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "4130101930579"
     },
     {
       "gauge_pool_id": "cw20:terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
@@ -164,14 +108,7 @@
         "cw20": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k"
       },
       "distribution_pct": 0.10511175912649444,
-      "total_vp": "2766765222369",
-      "architecture": {
-        "pair_address": "terra1j5znhs9jeyty9u9jcagl3vefkvzwqp6u9tq9a3e5qrz4gmj2udyqp0z0xc",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      }
+      "total_vp": "2766765222369"
     },
     {
       "gauge_pool_id": "cw20:terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
@@ -180,14 +117,7 @@
         "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
       },
       "distribution_pct": 0.04847123423280158,
-      "total_vp": "1275866052239",
-      "architecture": {
-        "pair_address": "terra189v2ewgfx5wdhje6geefdtxefeemujplk8qw2wx3x5hdswn95l8qf4n2r0",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.16",
-        "dex": "Astroport"
-      }
+      "total_vp": "1275866052239"
     },
     {
       "gauge_pool_id": "cw20:terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
@@ -196,14 +126,7 @@
         "cw20": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
       },
       "distribution_pct": 0.02890607150692338,
-      "total_vp": "760869326375",
-      "architecture": {
-        "pair_address": "terra1nwepezm3mghyxm7fjfhfr2d4jwqzndtncf9tclgunqfcwhe52mpq4sxaqr",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "760869326375"
     },
     {
       "gauge_pool_id": "cw20:terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
@@ -212,14 +135,7 @@
         "cw20": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8"
       },
       "distribution_pct": 0.024632535718501627,
-      "total_vp": "648380768537",
-      "architecture": {
-        "pair_address": "terra1e45ctmel6t5m9vdgxv3zxh3ecflkfcd6mr42sluzrqnhveqmy3fss338s7",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      }
+      "total_vp": "648380768537"
     },
     {
       "gauge_pool_id": "cw20:terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
@@ -228,14 +144,7 @@
         "cw20": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc"
       },
       "distribution_pct": 0.013367719473535064,
-      "total_vp": "351866828689",
-      "architecture": {
-        "pair_address": "terra1re0yj0j6e9v2szg7kp02ut6u8jjea586t6pnpq6628wl36fphtpqwt6l7p",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
-      }
+      "total_vp": "351866828689"
     },
     {
       "gauge_pool_id": "cw20:terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
@@ -244,14 +153,7 @@
         "cw20": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
       },
       "distribution_pct": 0.35499593055967016,
-      "total_vp": "7899300644482",
-      "architecture": {
-        "pair_address": "terra1ys7edvw89krf47n4zsz4c4m9das7ppltjtfv2epw85thqpvl6hhqn55m6y",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "7899300644482"
     },
     {
       "gauge_pool_id": "cw20:terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
@@ -260,14 +162,7 @@
         "cw20": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
       },
       "distribution_pct": 0.3198136091830189,
-      "total_vp": "7116430447951",
-      "architecture": {
-        "pair_address": "terra1mea829xtsnxwv4l9lhzs0tzpnyamjpz5y45a9tpp06jgdhjd48yqc4ales",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "7116430447951"
     },
     {
       "gauge_pool_id": "cw20:terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
@@ -276,14 +171,7 @@
         "cw20": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
       },
       "distribution_pct": 0.12792826452451592,
-      "total_vp": "2846634948217",
-      "architecture": {
-        "pair_address": "terra10m23jmgtx0lvc6v5gffdmcutlmrgy9pnf8wun4mxft2xd3dnqdvsv392j5",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      }
+      "total_vp": "2846634948217"
     },
     {
       "gauge_pool_id": "cw20:terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
@@ -292,14 +180,7 @@
         "cw20": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
       },
       "distribution_pct": 0.12791878872739568,
-      "total_vp": "2846424094616",
-      "architecture": {
-        "pair_address": "terra1xgdyzzhs2v2ne3us2kyj5ry47fwc7uk44k035dyyygq42xechwwqlddmcr",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "2846424094616"
     },
     {
       "gauge_pool_id": "cw20:terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
@@ -308,14 +189,7 @@
         "cw20": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
       },
       "distribution_pct": 0.04670551442013327,
-      "total_vp": "1039282054806",
-      "architecture": {
-        "pair_address": "terra1j3d29y506cvtavdpakdzl6e0g2xcskvmmulsetcd0jfwrpr8eu9qfe0dmf",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      }
+      "total_vp": "1039282054806"
     },
     {
       "gauge_pool_id": "cw20:terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
@@ -324,14 +198,7 @@
         "cw20": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su"
       },
       "distribution_pct": 0.02263789258526609,
-      "total_vp": "503733998321",
-      "architecture": {
-        "pair_address": "terra1frfcj4xhvx0emkup4vel5jun9zun0797j5yhn7ant3r4jzy9mkxqzcwev6",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      }
+      "total_vp": "503733998321"
     },
     {
       "gauge_pool_id": "native:factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
@@ -340,14 +207,7 @@
         "native": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
       },
       "distribution_pct": 0.3213387380807788,
-      "total_vp": "7752107378828",
-      "architecture": {
-        "pair_address": "terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y",
-        "pair_type": "custom",
-        "contract": "eris-alliance-hub-lst",
-        "version": "1.4.0",
-        "dex": "eris-alliance-hub-lst"
-      }
+      "total_vp": "7752107378828"
     },
     {
       "gauge_pool_id": "cw20:terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
@@ -356,14 +216,7 @@
         "cw20": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr"
       },
       "distribution_pct": 0.2926079685193383,
-      "total_vp": "7058994522137",
-      "architecture": {
-        "pair_address": "terra1g55qjcptzqgdyqfgzu5mj8x82955rvlxy4c37z5t6ldgz7cz033q0xr2lx",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "7058994522137"
     },
     {
       "gauge_pool_id": "cw20:terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
@@ -372,14 +225,7 @@
         "cw20": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
       },
       "distribution_pct": 0.10095244635242873,
-      "total_vp": "2435418178815",
-      "architecture": {
-        "pair_address": "terra1dnssvse0fqw4d4gqc8kvchfud5r6e8cr7w9cdpervhl2pgr2eecquujpg6",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
-      }
+      "total_vp": "2435418178815"
     },
     {
       "gauge_pool_id": "cw20:terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
@@ -388,14 +234,7 @@
         "cw20": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0"
       },
       "distribution_pct": 0.09955224517282105,
-      "total_vp": "2401639151857",
-      "architecture": {
-        "pair_address": "terra1p9lcjw8knxhtv2pyr9wa8e2ushjnjllljvsuu9cugv7trqynjzasz4x52j",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "2401639151857"
     },
     {
       "gauge_pool_id": "native:factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP",
@@ -404,14 +243,7 @@
         "native": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP"
       },
       "distribution_pct": 0.06680794389976279,
-      "total_vp": "1611702211700",
-      "architecture": {
-        "pair_address": "terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      }
+      "total_vp": "1611702211700"
     },
     {
       "gauge_pool_id": "native:factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP",
@@ -420,14 +252,7 @@
         "native": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP"
       },
       "distribution_pct": 0.0473088204811379,
-      "total_vp": "1141297369019",
-      "architecture": {
-        "pair_address": "terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj",
-        "pair_type": "stable_swap",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      }
+      "total_vp": "1141297369019"
     },
     {
       "gauge_pool_id": "native:ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
@@ -445,14 +270,7 @@
         "cw20": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh"
       },
       "distribution_pct": 0.01980312629794064,
-      "total_vp": "477738732700",
-      "architecture": {
-        "pair_address": "terra1tkj3j48d0xrh932szzsap3w8htfv3gmj2zld06an2kp90xzq5kzqvtjwfl",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      }
+      "total_vp": "477738732700"
     },
     {
       "gauge_pool_id": "cw20:terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
@@ -478,13 +296,6 @@
         "harvested_raw": "0",
         "last_taken_s": null,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra14pjddv489quqra07lzswm8mf6cltvz9de3pqygau2csckh9k4zdsyts3ew",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
       }
     },
     {
@@ -502,13 +313,6 @@
         "harvested_raw": "0",
         "last_taken_s": null,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -522,17 +326,10 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4202825411",
-        "harvested_raw": "4202825411",
-        "last_taken_s": 1780718399,
+        "taken_raw": "4202885843",
+        "harvested_raw": "4202885843",
+        "last_taken_s": 1780732824,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -546,17 +343,10 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "11301300442",
-        "harvested_raw": "11301300442",
-        "last_taken_s": 1780718399,
+        "taken_raw": "11301301573",
+        "harvested_raw": "11301301573",
+        "last_taken_s": 1780732824,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -570,17 +360,10 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4270526147",
-        "harvested_raw": "4270526147",
-        "last_taken_s": 1780718399,
+        "taken_raw": "4270561412",
+        "harvested_raw": "4270561412",
+        "last_taken_s": 1780732824,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1tsx0dmasjvd45k6tdywzv77d5t9k3lpzyuleavuah77pg3lwm9cq4469pm",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -598,13 +381,6 @@
         "harvested_raw": "0",
         "last_taken_s": null,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1z8q0mwfgsxk25wv7egj5adanztvz9kv26t58hgavw9g5d7km9qqs72k22h",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
       }
     },
     {
@@ -618,17 +394,10 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "5053089083",
-        "harvested_raw": "5053089083",
-        "last_taken_s": 1780718399,
+        "taken_raw": "5054776997",
+        "harvested_raw": "5054776997",
+        "last_taken_s": 1780732824,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1h32epkd72x7st0wk49z35qlpsxf26pw4ydacs8acq6uka7hgshmq7z7vl9",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
       }
     },
     {
@@ -646,13 +415,6 @@
         "harvested_raw": "729676152",
         "last_taken_s": 1741680053,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1a6d0lcvfzyllulaaazzg5j70yn4m3e2t90shtlxsr3fwhcg34g2sgwfr75",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
       }
     },
     {
@@ -670,13 +432,6 @@
         "harvested_raw": "127139213288",
         "last_taken_s": 1771664677,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1crlsemxx6yjpeq3am9dzccln0dykusm685ecxscuyny7u596elqqj6xd9z",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
       }
     },
     {
@@ -690,17 +445,10 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "388604893214",
-        "harvested_raw": "388604893214",
-        "last_taken_s": 1780718399,
+        "taken_raw": "388604893437",
+        "harvested_raw": "388604893437",
+        "last_taken_s": 1780732824,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -718,13 +466,6 @@
         "harvested_raw": "11432941",
         "last_taken_s": 1739203222,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -738,17 +479,10 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "24579988118",
-        "harvested_raw": "24579988118",
-        "last_taken_s": 1780718399,
+        "taken_raw": "24580100155",
+        "harvested_raw": "24580100155",
+        "last_taken_s": 1780732824,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -762,17 +496,10 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "99867459",
-        "harvested_raw": "99867459",
-        "last_taken_s": 1780718399,
+        "taken_raw": "99868858",
+        "harvested_raw": "99868858",
+        "last_taken_s": 1780732824,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -790,13 +517,6 @@
         "harvested_raw": "1238609515",
         "last_taken_s": 1768204802,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1nll8xy7m2dyac3sww2tg7dqj8s0mlak68drgtzd9gh4yvnvpplhsn3sxnv",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -814,13 +534,6 @@
         "harvested_raw": "205148197",
         "last_taken_s": 1780358431,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -838,13 +551,6 @@
         "harvested_raw": "1390799473",
         "last_taken_s": 1755803044,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1zushwxgqdkg22mtv9p946yp53r6den6lv427esjaadua3ftzyjpsqgtl5z",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -858,17 +564,10 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "36209375",
-        "harvested_raw": "36209375",
-        "last_taken_s": 1780718399,
+        "taken_raw": "36209381",
+        "harvested_raw": "36209381",
+        "last_taken_s": 1780732824,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra10clh64cpvjjen8f24qz2046d24s79w2ev2dyd9ke29wmqdqp4yjs3cyk0y",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
       }
     },
     {
@@ -886,13 +585,6 @@
         "harvested_raw": "18722094",
         "last_taken_s": 1748688027,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1v3xmc8nn8h8e7z55d80a72g4rgz6mrxyasxq089k8n6m40xldlksf2w5x8",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.13",
-        "dex": "Astroport"
       }
     },
     {
@@ -910,13 +602,6 @@
         "harvested_raw": "14314580",
         "last_taken_s": 1776062866,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1u0sp5gaw9amfa8vsaaqvvjpqqdyz4eeslzdjsgaq40afctpx7f6s6augj2",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.13",
-        "dex": "Astroport"
       }
     },
     {
@@ -934,13 +619,6 @@
         "harvested_raw": "28953828",
         "last_taken_s": 1779718330,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1afkvgc0mxfqakqlaqpxdgy58n79x4r239q3tucxmrsqvqk7ce3ksnctxfu",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
       }
     },
     {
@@ -958,13 +636,6 @@
         "harvested_raw": "2314889",
         "last_taken_s": 1759584769,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1p996av7ftzj973swd4yt2er2sn3v9y5j9qfxz67gatnrpf8lfgwsel8hcg",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
       }
     },
     {
@@ -982,13 +653,6 @@
         "harvested_raw": "99453508",
         "last_taken_s": 1748688015,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra16zzqwekwsqn4zlsyu4vhjr52ee2hdvppjcr8h22qznjadaazzdgsvd905d",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.13",
-        "dex": "Astroport"
       }
     },
     {
@@ -1006,13 +670,6 @@
         "harvested_raw": "134835568288925",
         "last_taken_s": 1779718277,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra12hs75vlyd38zjvhegsqzr8uvz2r764fdy8mhqw0qg0s2mv858yvstwmsf8",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1030,13 +687,6 @@
         "harvested_raw": "1225395563",
         "last_taken_s": 1753385082,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra12u7a9wkjqrkhxjcxx70uhfx8y49j4lclfnet2smw9agpnrv9chps27n9mh",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1054,13 +704,6 @@
         "harvested_raw": "1675522607",
         "last_taken_s": 1744853783,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra17vas9rhxhc6j6f5wrup9cqapxn74jvpft069py7l7l9kr7wx3tnsxrazux",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1078,13 +721,6 @@
         "harvested_raw": "293092245",
         "last_taken_s": 1779718301,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1aysexulsnuxna62m5rlnuzfcvct3df93gd4q0kkjtjcqsvv93s5sd0fyd2",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1102,13 +738,6 @@
         "harvested_raw": "8030845",
         "last_taken_s": 1730923203,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1m5juz238n27dd24d9e3kacmqax8gu7j5ee9hhfczpl52f3n7adaqudk2c9",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1122,17 +751,10 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "605984160840616",
-        "harvested_raw": "605984160840616",
-        "last_taken_s": 1780718399,
+        "taken_raw": "605984557067915",
+        "harvested_raw": "605984557067915",
+        "last_taken_s": 1780732824,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1146,17 +768,10 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "784971886",
-        "harvested_raw": "784971886",
-        "last_taken_s": 1780718399,
+        "taken_raw": "785018678",
+        "harvested_raw": "785018678",
+        "last_taken_s": 1780732824,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1174,13 +789,6 @@
         "harvested_raw": "10024006",
         "last_taken_s": 1779651402,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1mps5z5gt2c2akwcp86mq0zhw66kdugtc3selcyradtje0vp0z49sfrk8jx",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
       }
     },
     {
@@ -1198,13 +806,6 @@
         "harvested_raw": "0",
         "last_taken_s": null,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1sjujvcvkszrt84280agzv0du7tsrf44y4n7hcd9n8y0q7snfgersd68ens",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
       }
     },
     {
@@ -1222,13 +823,6 @@
         "harvested_raw": "1610290730",
         "last_taken_s": 1767108716,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1a0h6vrzkztjystg8sd949qyrc6mw9gzxk2870cr2mukg53uzgvqs46qul9",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
       }
     },
     {
@@ -1246,13 +840,6 @@
         "harvested_raw": "892136631159",
         "last_taken_s": 1759525460,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1ntx595elf3ukxcd0wy76h24rzztcv2p6n3wmfd358ks95prv42fs9mn63n",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1270,13 +857,6 @@
         "harvested_raw": "597890171158421771",
         "last_taken_s": 1779718259,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1yga5eepqnpg77gaj59uqfkm2qtllvpq642cmx5gj5lzjf5v88wzs2srzp7",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
       }
     },
     {
@@ -1294,13 +874,6 @@
         "harvested_raw": "10316448376",
         "last_taken_s": 1771122857,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra16nfwldn9j5xhry2y78gvm3x4vte8vu77zr3ctlan79w5f5aheawqnz7a4f",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
       }
     },
     {
@@ -1318,13 +891,6 @@
         "harvested_raw": "939671847823",
         "last_taken_s": 1759525478,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1j9jmsplecj9ay2py27953p84nfmv7f6ce75ms5fleyhd0aecpc7q0hgmsa",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1342,13 +908,6 @@
         "harvested_raw": "105709167159869",
         "last_taken_s": 1747357400,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1rzw2egugtjhxz2x58z55kwldm96fzck8qsf9srf5v0uehf64a2asjsak68",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
       }
     },
     {
@@ -1366,13 +925,6 @@
         "harvested_raw": "188223561",
         "last_taken_s": 1780718399,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra1f9vmtntpjmkyhkxtlc49jcq6cv8rfz0kr06zv6efdtdgae4m9y9qlzm36t",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
       }
     },
     {
@@ -1407,13 +959,6 @@
         "harvested_raw": "10971600679",
         "last_taken_s": 1744853771,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra18hhsyrjac6hud4tc9q05s8em35utm6jndswhw5v56lh5ld37ml6secl2rd",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
       }
     },
     {
@@ -1431,13 +976,6 @@
         "harvested_raw": "14806061246",
         "last_taken_s": 1745254749,
         "stake_mechanism": "astroport"
-      },
-      "architecture": {
-        "pair_address": "terra129hvq9mgqtye4kg0cfmv9z6sq5f7sgpmrspr72968xx20gx4t2rqvpue0z",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
       }
     },
     {
@@ -1455,13 +993,6 @@
         "harvested_raw": "3722820842593",
         "last_taken_s": 1748458498,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra12252e02w0k5yv9mryctth4j3y2sdas0xremw0jznzwal5v3xeqjst7q537",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1479,13 +1010,6 @@
         "harvested_raw": "9760765",
         "last_taken_s": 1779718229,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra13ywdferm4jtcperal9png3cvhtmar5se9nu4r49k7vujrakwy9zqa3rhwe",
-        "pair_type": "stable_swap",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1503,13 +1027,6 @@
         "harvested_raw": "594595131",
         "last_taken_s": 1775601550,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1aa8nurhuk7rwedhjyzptggypuxd3y66qp4nsx6ph240g37esdm7qyheqkd",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1527,13 +1044,6 @@
         "harvested_raw": "87",
         "last_taken_s": 1780660828,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1c439uc3qdlfuqncxae7l07nsdgjtu45g98yhn5ydjn2866nsw3ws0e0vte",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1551,13 +1061,6 @@
         "harvested_raw": "0",
         "last_taken_s": null,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1nezkc3lxdxv26hqwy44jr7j9typtk39pns254ev52s9guqc2zsyqx7hvc9",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     },
     {
@@ -1571,17 +1074,10 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "6979297024",
-        "harvested_raw": "6979297024",
-        "last_taken_s": 1780718399,
+        "taken_raw": "6979304473",
+        "harvested_raw": "6979304473",
+        "last_taken_s": 1780732824,
         "stake_mechanism": "default"
-      },
-      "architecture": {
-        "pair_address": "terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
       }
     }
   ],
@@ -1609,243 +1105,20 @@
     "below_threshold_lps": 15,
     "dewhitelisted_lps": 32,
     "total_lps": 75,
-    "pair_lookups_succeeded": 45,
-    "pair_lookups_failed": 2,
-    "native_lps_skipped": 1,
-    "underlyings_discovered": 35,
+    "pair_lookups_succeeded": 0,
+    "pair_lookups_failed": 0,
+    "native_lps_skipped": 0,
+    "underlyings_discovered": 0,
     "amplp_denoms_added": 65,
-    "amplp_wrapped_lps_resolved": 0,
-    "amplp_extra_underlyings": 0,
-    "total_in_scope_addresses": 174,
+    "amplp_wrapped_lps_resolved": 62,
+    "amplp_extra_underlyings": 32,
+    "total_in_scope_addresses": 172,
     "whitelist_buckets_checked": 4,
     "whitelist_buckets_succeeded": 4,
     "lp_to_underlyings": {
-      "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx": [
-        "uluna",
-        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
-      ],
-      "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc": [
-        "uluna",
-        "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
-      ],
-      "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP": [
-        "uluna",
-        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
-      ],
-      "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4": [
-        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
-        "uluna"
-      ],
-      "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564": [
-        "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
-        "uluna"
-      ],
-      "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk": [
-        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-        "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
-      ],
-      "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4": [
-        "uluna",
-        "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
-      ],
-      "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": [
-        "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
-        "uluna"
-      ],
-      "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k": [
-        "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-        "uluna"
-      ],
-      "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm": [
-        "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
-        "uluna"
-      ],
-      "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht": [
-        "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
-        "uluna"
-      ],
-      "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8": [
-        "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
-        "uluna"
-      ],
-      "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc": [
-        "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
-        "uluna"
-      ],
-      "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn": [
-        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-        "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
-      ],
-      "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": [
-        "uluna",
-        "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB"
-      ],
-      "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl": [
-        "uluna",
-        "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211"
-      ],
-      "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc": [
-        "uluna",
-        "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
-      ],
-      "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt": [
-        "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-        "uluna"
-      ],
-      "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su": [
-        "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-        "uluna"
-      ],
-      "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA": [
-        "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
-      ],
-      "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr": [
-        "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
-        "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB"
-      ],
-      "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry": [
-        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
-      ],
-      "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0": [
-        "uluna",
-        "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
-      ],
-      "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP": [
-        "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
-        "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
-      ],
-      "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP": [
-        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
-      ],
-      "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh": [
-        "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
-        "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
-      ],
-      "terra1yqp35sjllqjqh25pt49pcqnnpe3960tanmf2upfadej2gdumz6psn8t5vp": [
-        "uluna",
-        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
-      ],
-      "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP": [
-        "uluna",
-        "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
-      ],
-      "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP": [
-        "uluna",
-        "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
-      ],
-      "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP": [
-        "uluna",
-        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
-      ],
-      "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par": [
-        "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
-        "uluna"
-      ],
-      "terra1a2nc0k4m6hun6yr4g6ujnc46wlpfuywzves689at3tdkezrjg8wq7p35ra": [
-        "uluna",
-        "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB"
-      ],
-      "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u": [
-        "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-        "uluna"
-      ],
-      "terra1stavsz7hhsw56tngxt6p5xmkm86a9nvgztgvv56wj7q6yceutmwsvrwjdz": [
-        "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB",
-        "uluna"
-      ],
-      "terra1wwy8xjk4mff7qp2g7qzmgfu9agd6wjdmz99crj94zv9tmh7dvhmq0jsf6a": [
-        "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
-        "uluna"
-      ],
-      "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP": [
-        "uluna",
-        "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
-      ],
-      "factory/terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg/uLP": [
-        "uluna",
-        "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431"
-      ],
-      "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP": [
-        "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
-        "uluna"
-      ],
-      "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP": [
-        "uluna",
-        "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
-      ],
-      "factory/terra1nll8xy7m2dyac3sww2tg7dqj8s0mlak68drgtzd9gh4yvnvpplhsn3sxnv/uLP": [
-        "uluna",
-        "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B"
-      ],
-      "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP": [
-        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-        "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
-      ],
-      "factory/terra1zushwxgqdkg22mtv9p946yp53r6den6lv427esjaadua3ftzyjpsqgtl5z/uLP": [
-        "uluna",
-        "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB"
-      ],
-      "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5": [
-        "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
-        "uluna"
-      ],
-      "terra12eu8jk4w7lgn2rk7xs46nz7c7r9fw8q98afy9adlwtkghazj40asjf65zu": [
-        "uluna",
-        "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388"
-      ],
-      "terra19d8tttv0lvhwpj828qqrcmm6yaqdfhrchfheuufcw4kywtmk9u3q98ask3": [
-        "uluna",
-        "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C"
-      ],
-      "terra1a5apghncafx0nem740fsrmd6demaywvp332a4uat63u2jtwn8mgsz7khkw": [
-        "uluna",
-        "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD"
-      ],
-      "terra1tfr4ghftlsf2l9nxr3clewk52g5q8wj7m2rglw67dkql9x6u7w6q53gwrn": [
-        "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
-        "uluna"
-      ],
-      "terra1vc66wpr2ghcesnf203em6yefpze3vrmq99n8yz0me3jzs6g4e8rs2kec75": [
-        "uluna",
-        "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg"
-      ],
-      "factory/terra12hs75vlyd38zjvhegsqzr8uvz2r764fdy8mhqw0qg0s2mv858yvstwmsf8/uLP": [
-        "uluna",
-        "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C"
-      ],
-      "factory/terra12u7a9wkjqrkhxjcxx70uhfx8y49j4lclfnet2smw9agpnrv9chps27n9mh/uLP": [
-        "uluna",
-        "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg"
-      ],
-      "factory/terra17vas9rhxhc6j6f5wrup9cqapxn74jvpft069py7l7l9kr7wx3tnsxrazux/uLP": [
-        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
-      ],
-      "factory/terra1aysexulsnuxna62m5rlnuzfcvct3df93gd4q0kkjtjcqsvv93s5sd0fyd2/uLP": [
-        "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
-        "uluna"
-      ],
-      "factory/terra1m5juz238n27dd24d9e3kacmqax8gu7j5ee9hhfczpl52f3n7adaqudk2c9/uLP": [
-        "uluna",
-        "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388"
-      ],
-      "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP": [
-        "uluna",
-        "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211"
-      ],
-      "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP": [
-        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-        "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
-      ],
       "terra10e2rz5etaped4nh0vk502hf7uwtz5lqvxqatxl4qyr0chcynxf2swhfwww": [
         "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
         "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73"
-      ],
-      "terra10xwhrfj2hqtwr4jwam3e24w92ypgl85lqz35lqzqhuay5r2h7pgqv4596s": [
-        "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
-        "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/amproar"
       ],
       "terra12mvtdvn4fgtsqs4fwxr56vcwjw0xe23lhdfyjq5ghk7vmfeuxn0srau9q2": [
         "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
@@ -1863,13 +1136,25 @@
         "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490",
         "uluna"
       ],
+      "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr": [
+        "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
+        "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB"
+      ],
+      "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh": [
+        "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
+        "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
+      ],
+      "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry": [
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
+      ],
       "terra1le46uu9qjk53aktjs8dev96sl9sd2ujvcpspk75pdeg0txfvhyuswm6653": [
         "ibc/517E13F14A1245D4DE8CF467ADD4DA0058974CDCC880FA6AE536DBCA1D16D84E",
         "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB"
       ],
-      "terra1mnucaeckccseq66kglv299wasp02akyh535jcpcdu37tdakr92esf9mjm5": [
-        "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
-        "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098"
+      "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0": [
+        "uluna",
+        "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
       ],
       "terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn": [
         "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
@@ -1891,529 +1176,196 @@
         "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
         "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD"
       ],
+      "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP": [
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
+      ],
+      "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA": [
+        "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+        "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
+      ],
       "factory/terra1aa8nurhuk7rwedhjyzptggypuxd3y66qp4nsx6ph240g37esdm7qyheqkd/uLP": [
         "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
         "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915"
       ],
-      "factory/terra1c439uc3qdlfuqncxae7l07nsdgjtu45g98yhn5ydjn2866nsw3ws0e0vte/uLP": [
-        "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-        "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228"
-      ],
-      "factory/terra1nezkc3lxdxv26hqwy44jr7j9typtk39pns254ev52s9guqc2zsyqx7hvc9/uLP": [
-        "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
-        "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098"
+      "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP": [
+        "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
+        "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
       ],
       "factory/terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq/uLP": [
         "uluna",
         "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
+      ],
+      "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4": [
+        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
+        "uluna"
+      ],
+      "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx": [
+        "uluna",
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
+      ],
+      "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc": [
+        "uluna",
+        "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
+      ],
+      "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP": [
+        "uluna",
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
+      ],
+      "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP": [
+        "uluna",
+        "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
+      ],
+      "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP": [
+        "uluna",
+        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
+      ],
+      "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par": [
+        "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
+        "uluna"
+      ],
+      "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk": [
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+        "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
+      ],
+      "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8": [
+        "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
+        "uluna"
+      ],
+      "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht": [
+        "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
+        "uluna"
+      ],
+      "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc": [
+        "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
+        "uluna"
+      ],
+      "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564": [
+        "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+        "uluna"
+      ],
+      "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": [
+        "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
+        "uluna"
+      ],
+      "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u": [
+        "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+        "uluna"
+      ],
+      "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4": [
+        "uluna",
+        "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
+      ],
+      "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k": [
+        "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+        "uluna"
+      ],
+      "terra1stavsz7hhsw56tngxt6p5xmkm86a9nvgztgvv56wj7q6yceutmwsvrwjdz": [
+        "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB",
+        "uluna"
+      ],
+      "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm": [
+        "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
+        "uluna"
+      ],
+      "terra1wwy8xjk4mff7qp2g7qzmgfu9agd6wjdmz99crj94zv9tmh7dvhmq0jsf6a": [
+        "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
+        "uluna"
+      ],
+      "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP": [
+        "uluna",
+        "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
+      ],
+      "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP": [
+        "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+        "uluna"
+      ],
+      "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP": [
+        "uluna",
+        "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
+      ],
+      "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP": [
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+        "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
+      ],
+      "factory/terra1zushwxgqdkg22mtv9p946yp53r6den6lv427esjaadua3ftzyjpsqgtl5z/uLP": [
+        "uluna",
+        "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB"
+      ],
+      "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5": [
+        "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
+        "uluna"
+      ],
+      "terra12eu8jk4w7lgn2rk7xs46nz7c7r9fw8q98afy9adlwtkghazj40asjf65zu": [
+        "uluna",
+        "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388"
+      ],
+      "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn": [
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+        "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
+      ],
+      "terra19d8tttv0lvhwpj828qqrcmm6yaqdfhrchfheuufcw4kywtmk9u3q98ask3": [
+        "uluna",
+        "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C"
+      ],
+      "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt": [
+        "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+        "uluna"
+      ],
+      "terra1a5apghncafx0nem740fsrmd6demaywvp332a4uat63u2jtwn8mgsz7khkw": [
+        "uluna",
+        "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD"
+      ],
+      "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su": [
+        "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+        "uluna"
+      ],
+      "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl": [
+        "uluna",
+        "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211"
+      ],
+      "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc": [
+        "uluna",
+        "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
+      ],
+      "terra1tfr4ghftlsf2l9nxr3clewk52g5q8wj7m2rglw67dkql9x6u7w6q53gwrn": [
+        "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
+        "uluna"
+      ],
+      "terra1vc66wpr2ghcesnf203em6yefpze3vrmq99n8yz0me3jzs6g4e8rs2kec75": [
+        "uluna",
+        "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg"
+      ],
+      "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": [
+        "uluna",
+        "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB"
+      ],
+      "factory/terra12hs75vlyd38zjvhegsqzr8uvz2r764fdy8mhqw0qg0s2mv858yvstwmsf8/uLP": [
+        "uluna",
+        "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C"
+      ],
+      "factory/terra12u7a9wkjqrkhxjcxx70uhfx8y49j4lclfnet2smw9agpnrv9chps27n9mh/uLP": [
+        "uluna",
+        "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg"
+      ],
+      "factory/terra17vas9rhxhc6j6f5wrup9cqapxn74jvpft069py7l7l9kr7wx3tnsxrazux/uLP": [
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+        "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
+      ],
+      "factory/terra1aysexulsnuxna62m5rlnuzfcvct3df93gd4q0kkjtjcqsvv93s5sd0fyd2/uLP": [
+        "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
+        "uluna"
+      ],
+      "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP": [
+        "uluna",
+        "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211"
+      ],
+      "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP": [
+        "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+        "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
       ]
     },
-    "lp_to_architecture": {
-      "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx": {
-        "pair_address": "terra1v3lqxl0eyte9x3nhdgcj8hwvjq76aupnnzz0yll8mxs5cckc29pqvg2scu",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc": {
-        "pair_address": "terra1vhxl8ggscmhae3muvwvs2vs8ppprzqf07xngcdp798fwnrcksjxszqfa8n",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP": {
-        "pair_address": "terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4": {
-        "pair_address": "terra1aategw0787y4fyunmwdvdqraxfc8jtxykyed2skx3p5fd3lkgkmsqry7pz",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564": {
-        "pair_address": "terra183wqgrwa2k0uvlz99j57c496gfuwgtaccrhv4stcjzv3ydacl9zq0hmf25",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk": {
-        "pair_address": "terra1fwjxdjpl98shj20l4swlen9hyu4lhvekrvqkqn393lzzghmsn2wqjdnvpu",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      },
-      "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4": {
-        "pair_address": "terra1cupwgntu082ypw2ztgtxfzcenexcu6ggp5zzunn3yzfwgrvdcclqgjrjqg",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": {
-        "pair_address": "terra10yfnsqn20rzlnlzkeva5255q27zp6ws9te9uuql9e0lacfcze7zsffjct5",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k": {
-        "pair_address": "terra1j5znhs9jeyty9u9jcagl3vefkvzwqp6u9tq9a3e5qrz4gmj2udyqp0z0xc",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm": {
-        "pair_address": "terra189v2ewgfx5wdhje6geefdtxefeemujplk8qw2wx3x5hdswn95l8qf4n2r0",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.16",
-        "dex": "Astroport"
-      },
-      "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht": {
-        "pair_address": "terra1nwepezm3mghyxm7fjfhfr2d4jwqzndtncf9tclgunqfcwhe52mpq4sxaqr",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8": {
-        "pair_address": "terra1e45ctmel6t5m9vdgxv3zxh3ecflkfcd6mr42sluzrqnhveqmy3fss338s7",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      },
-      "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc": {
-        "pair_address": "terra1re0yj0j6e9v2szg7kp02ut6u8jjea586t6pnpq6628wl36fphtpqwt6l7p",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
-      },
-      "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn": {
-        "pair_address": "terra1ys7edvw89krf47n4zsz4c4m9das7ppltjtfv2epw85thqpvl6hhqn55m6y",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": {
-        "pair_address": "terra1mea829xtsnxwv4l9lhzs0tzpnyamjpz5y45a9tpp06jgdhjd48yqc4ales",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl": {
-        "pair_address": "terra10m23jmgtx0lvc6v5gffdmcutlmrgy9pnf8wun4mxft2xd3dnqdvsv392j5",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      },
-      "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc": {
-        "pair_address": "terra1xgdyzzhs2v2ne3us2kyj5ry47fwc7uk44k035dyyygq42xechwwqlddmcr",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt": {
-        "pair_address": "terra1j3d29y506cvtavdpakdzl6e0g2xcskvmmulsetcd0jfwrpr8eu9qfe0dmf",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      },
-      "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su": {
-        "pair_address": "terra1frfcj4xhvx0emkup4vel5jun9zun0797j5yhn7ant3r4jzy9mkxqzcwev6",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA": {
-        "pair_address": "terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y",
-        "pair_type": "custom",
-        "contract": "eris-alliance-hub-lst",
-        "version": "1.4.0",
-        "dex": "eris-alliance-hub-lst"
-      },
-      "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr": {
-        "pair_address": "terra1g55qjcptzqgdyqfgzu5mj8x82955rvlxy4c37z5t6ldgz7cz033q0xr2lx",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry": {
-        "pair_address": "terra1dnssvse0fqw4d4gqc8kvchfud5r6e8cr7w9cdpervhl2pgr2eecquujpg6",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
-      },
-      "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0": {
-        "pair_address": "terra1p9lcjw8knxhtv2pyr9wa8e2ushjnjllljvsuu9cugv7trqynjzasz4x52j",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP": {
-        "pair_address": "terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP": {
-        "pair_address": "terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj",
-        "pair_type": "stable_swap",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh": {
-        "pair_address": "terra1tkj3j48d0xrh932szzsap3w8htfv3gmj2zld06an2kp90xzq5kzqvtjwfl",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1yqp35sjllqjqh25pt49pcqnnpe3960tanmf2upfadej2gdumz6psn8t5vp": {
-        "pair_address": "terra14pjddv489quqra07lzswm8mf6cltvz9de3pqygau2csckh9k4zdsyts3ew",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      },
-      "factory/terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5/uLP": {
-        "pair_address": "terra18fved7svlqq9q9h23cg4uw97lllmg7fa03psevczy20ayhdwrm3sznjeh5",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP": {
-        "pair_address": "terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP": {
-        "pair_address": "terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par": {
-        "pair_address": "terra1tsx0dmasjvd45k6tdywzv77d5t9k3lpzyuleavuah77pg3lwm9cq4469pm",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "terra1a2nc0k4m6hun6yr4g6ujnc46wlpfuywzves689at3tdkezrjg8wq7p35ra": {
-        "pair_address": "terra1z8q0mwfgsxk25wv7egj5adanztvz9kv26t58hgavw9g5d7km9qqs72k22h",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
-      },
-      "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u": {
-        "pair_address": "terra1h32epkd72x7st0wk49z35qlpsxf26pw4ydacs8acq6uka7hgshmq7z7vl9",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
-      },
-      "terra1stavsz7hhsw56tngxt6p5xmkm86a9nvgztgvv56wj7q6yceutmwsvrwjdz": {
-        "pair_address": "terra1a6d0lcvfzyllulaaazzg5j70yn4m3e2t90shtlxsr3fwhcg34g2sgwfr75",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1wwy8xjk4mff7qp2g7qzmgfu9agd6wjdmz99crj94zv9tmh7dvhmq0jsf6a": {
-        "pair_address": "terra1crlsemxx6yjpeq3am9dzccln0dykusm685ecxscuyny7u596elqqj6xd9z",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      },
-      "factory/terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45/uLP": {
-        "pair_address": "terra126w5m24usxydxn0tjqd73k8uw06r42wttahf9t0cjyhmljlqhrdsjucx45",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg/uLP": {
-        "pair_address": "terra12exvyhctk6ggqvzj2tlhsv769llctntf5zdj9erz6q2uq4h8hn8q5k5xpg",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc/uLP": {
-        "pair_address": "terra15rzp38yq2cqy2jnewc9vgzqguf3t2q0gqpv9evg8tckrtqp8x44qezhthc",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6/uLP": {
-        "pair_address": "terra1hvntefafgn05llkqyl6uxx6j0jjwmqjtxqdrwdm43s9tkzx7xkfqkcl7h6",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1nll8xy7m2dyac3sww2tg7dqj8s0mlak68drgtzd9gh4yvnvpplhsn3sxnv/uLP": {
-        "pair_address": "terra1nll8xy7m2dyac3sww2tg7dqj8s0mlak68drgtzd9gh4yvnvpplhsn3sxnv",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3/uLP": {
-        "pair_address": "terra1wje8lj3372njwuw8t4scmyp94t5pyxxh89tsnkrfyxghqh6aunzqz4a9k3",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1zushwxgqdkg22mtv9p946yp53r6den6lv427esjaadua3ftzyjpsqgtl5z/uLP": {
-        "pair_address": "terra1zushwxgqdkg22mtv9p946yp53r6den6lv427esjaadua3ftzyjpsqgtl5z",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5": {
-        "pair_address": "terra10clh64cpvjjen8f24qz2046d24s79w2ev2dyd9ke29wmqdqp4yjs3cyk0y",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra12eu8jk4w7lgn2rk7xs46nz7c7r9fw8q98afy9adlwtkghazj40asjf65zu": {
-        "pair_address": "terra1v3xmc8nn8h8e7z55d80a72g4rgz6mrxyasxq089k8n6m40xldlksf2w5x8",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.13",
-        "dex": "Astroport"
-      },
-      "terra19d8tttv0lvhwpj828qqrcmm6yaqdfhrchfheuufcw4kywtmk9u3q98ask3": {
-        "pair_address": "terra1u0sp5gaw9amfa8vsaaqvvjpqqdyz4eeslzdjsgaq40afctpx7f6s6augj2",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.13",
-        "dex": "Astroport"
-      },
-      "terra1a5apghncafx0nem740fsrmd6demaywvp332a4uat63u2jtwn8mgsz7khkw": {
-        "pair_address": "terra1afkvgc0mxfqakqlaqpxdgy58n79x4r239q3tucxmrsqvqk7ce3ksnctxfu",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1tfr4ghftlsf2l9nxr3clewk52g5q8wj7m2rglw67dkql9x6u7w6q53gwrn": {
-        "pair_address": "terra1p996av7ftzj973swd4yt2er2sn3v9y5j9qfxz67gatnrpf8lfgwsel8hcg",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1vc66wpr2ghcesnf203em6yefpze3vrmq99n8yz0me3jzs6g4e8rs2kec75": {
-        "pair_address": "terra16zzqwekwsqn4zlsyu4vhjr52ee2hdvppjcr8h22qznjadaazzdgsvd905d",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.13",
-        "dex": "Astroport"
-      },
-      "factory/terra12hs75vlyd38zjvhegsqzr8uvz2r764fdy8mhqw0qg0s2mv858yvstwmsf8/uLP": {
-        "pair_address": "terra12hs75vlyd38zjvhegsqzr8uvz2r764fdy8mhqw0qg0s2mv858yvstwmsf8",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra12u7a9wkjqrkhxjcxx70uhfx8y49j4lclfnet2smw9agpnrv9chps27n9mh/uLP": {
-        "pair_address": "terra12u7a9wkjqrkhxjcxx70uhfx8y49j4lclfnet2smw9agpnrv9chps27n9mh",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra17vas9rhxhc6j6f5wrup9cqapxn74jvpft069py7l7l9kr7wx3tnsxrazux/uLP": {
-        "pair_address": "terra17vas9rhxhc6j6f5wrup9cqapxn74jvpft069py7l7l9kr7wx3tnsxrazux",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1aysexulsnuxna62m5rlnuzfcvct3df93gd4q0kkjtjcqsvv93s5sd0fyd2/uLP": {
-        "pair_address": "terra1aysexulsnuxna62m5rlnuzfcvct3df93gd4q0kkjtjcqsvv93s5sd0fyd2",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1m5juz238n27dd24d9e3kacmqax8gu7j5ee9hhfczpl52f3n7adaqudk2c9/uLP": {
-        "pair_address": "terra1m5juz238n27dd24d9e3kacmqax8gu7j5ee9hhfczpl52f3n7adaqudk2c9",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP": {
-        "pair_address": "terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP": {
-        "pair_address": "terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "terra10e2rz5etaped4nh0vk502hf7uwtz5lqvxqatxl4qyr0chcynxf2swhfwww": {
-        "pair_address": "terra1mps5z5gt2c2akwcp86mq0zhw66kdugtc3selcyradtje0vp0z49sfrk8jx",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
-      },
-      "terra10xwhrfj2hqtwr4jwam3e24w92ypgl85lqz35lqzqhuay5r2h7pgqv4596s": {
-        "pair_address": "terra1sjujvcvkszrt84280agzv0du7tsrf44y4n7hcd9n8y0q7snfgersd68ens",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      },
-      "terra12mvtdvn4fgtsqs4fwxr56vcwjw0xe23lhdfyjq5ghk7vmfeuxn0srau9q2": {
-        "pair_address": "terra1a0h6vrzkztjystg8sd949qyrc6mw9gzxk2870cr2mukg53uzgvqs46qul9",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra16z3ksy6aqjkug8l3u48q0kvdaqk3dgaytl7ykt6vg2he9d6z9rgslr4k7l": {
-        "pair_address": "terra1ntx595elf3ukxcd0wy76h24rzztcv2p6n3wmfd358ks95prv42fs9mn63n",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "terra18336lhc2vt9s9tw4pqetvdwywg9555rduzv527r9q47smw89epcsxgxuny": {
-        "pair_address": "terra1yga5eepqnpg77gaj59uqfkm2qtllvpq642cmx5gj5lzjf5v88wzs2srzp7",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      },
-      "terra19z7g4fnu529250sdkdmgm9kw4qgwmmqrjas9t24ll84mpd94lxnshf0z2h": {
-        "pair_address": "terra16nfwldn9j5xhry2y78gvm3x4vte8vu77zr3ctlan79w5f5aheawqnz7a4f",
-        "pair_type": "stable",
-        "contract": "astroport-pair-stable",
-        "version": "1.0.0-fix1",
-        "dex": "Astroport"
-      },
-      "terra1le46uu9qjk53aktjs8dev96sl9sd2ujvcpspk75pdeg0txfvhyuswm6653": {
-        "pair_address": "terra1j9jmsplecj9ay2py27953p84nfmv7f6ce75ms5fleyhd0aecpc7q0hgmsa",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "terra1mnucaeckccseq66kglv299wasp02akyh535jcpcdu37tdakr92esf9mjm5": {
-        "pair_address": "terra1rzw2egugtjhxz2x58z55kwldm96fzck8qsf9srf5v0uehf64a2asjsak68",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      },
-      "terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn": {
-        "pair_address": "terra1f9vmtntpjmkyhkxtlc49jcq6cv8rfz0kr06zv6efdtdgae4m9y9qlzm36t",
-        "pair_type": "custom",
-        "contract": "astroport-pair-concentrated",
-        "version": "1.2.15",
-        "dex": "Astroport"
-      },
-      "terra1yxj707eppjphy4fshmt2rcqfnmat4ym58z6x9jk52mvte56ktv7sqfy2r5": {
-        "pair_address": "terra18hhsyrjac6hud4tc9q05s8em35utm6jndswhw5v56lh5ld37ml6secl2rd",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      },
-      "terra1zn0kcywt3epp6md4ugnprslf84hhxklwz4g0d8ck7ldf9uspudqqpmf0ya": {
-        "pair_address": "terra129hvq9mgqtye4kg0cfmv9z6sq5f7sgpmrspr72968xx20gx4t2rqvpue0z",
-        "pair_type": "xyk",
-        "contract": "astroport-pair",
-        "version": "1.0.1",
-        "dex": "Astroport"
-      },
-      "factory/terra12252e02w0k5yv9mryctth4j3y2sdas0xremw0jznzwal5v3xeqjst7q537/uLP": {
-        "pair_address": "terra12252e02w0k5yv9mryctth4j3y2sdas0xremw0jznzwal5v3xeqjst7q537",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra13ywdferm4jtcperal9png3cvhtmar5se9nu4r49k7vujrakwy9zqa3rhwe/uLP": {
-        "pair_address": "terra13ywdferm4jtcperal9png3cvhtmar5se9nu4r49k7vujrakwy9zqa3rhwe",
-        "pair_type": "stable_swap",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1aa8nurhuk7rwedhjyzptggypuxd3y66qp4nsx6ph240g37esdm7qyheqkd/uLP": {
-        "pair_address": "terra1aa8nurhuk7rwedhjyzptggypuxd3y66qp4nsx6ph240g37esdm7qyheqkd",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1c439uc3qdlfuqncxae7l07nsdgjtu45g98yhn5ydjn2866nsw3ws0e0vte/uLP": {
-        "pair_address": "terra1c439uc3qdlfuqncxae7l07nsdgjtu45g98yhn5ydjn2866nsw3ws0e0vte",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1nezkc3lxdxv26hqwy44jr7j9typtk39pns254ev52s9guqc2zsyqx7hvc9/uLP": {
-        "pair_address": "terra1nezkc3lxdxv26hqwy44jr7j9typtk39pns254ev52s9guqc2zsyqx7hvc9",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      },
-      "factory/terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq/uLP": {
-        "pair_address": "terra1wttdzwa6pdegtrdjdw49y0pd3dd8qd3cqn89j6t9v978lx05rr8sew5jyq",
-        "pair_type": "constant_product",
-        "contract": "white_whale-pool",
-        "version": "1.3.8",
-        "dex": "Skeleton Swap"
-      }
-    }
+    "lp_to_architecture": {}
   },
   "contracts": {
     "global_config": "terra1hwxg6s732eparz3ys7sa4t5f64ngpd2w8syrca6z7ckv3fs9uqnsvrpcqa",
@@ -2443,7 +1395,7 @@
           "display": "LUNA",
           "coingecko_id": "terra-luna-2",
           "decimals": 6,
-          "price_usd": "0.048096",
+          "price_usd": "0.04942073",
           "eris_name": "LUNA",
           "symbol": "LUNA"
         },
@@ -2470,10 +1422,10 @@
       "appears_in": {
         "tla_pools_count": 4,
         "tla_pools": [
+          "single",
           "stable",
           "project",
-          "bluechip",
-          "single"
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -2516,7 +1468,7 @@
           "display": "ASTRO",
           "coingecko_id": "astroport-fi",
           "decimals": 6,
-          "price_usd": "0.000642635331727903",
+          "price_usd": "0.00066546040522414",
           "eris_name": "ASTRO",
           "symbol": "ASTRO"
         },
@@ -2617,7 +1569,7 @@
           "display": "ampLUNA",
           "coingecko_id": "eris-amplified-luna",
           "decimals": 6,
-          "price_usd": "0.10393850296456741",
+          "price_usd": "0.10383198938587475",
           "eris_name": "ampLUNA",
           "symbol": "ampLUNA"
         },
@@ -2687,7 +1639,7 @@
           "display": "ROAR",
           "coingecko_id": "lion-dao",
           "decimals": 6,
-          "price_usd": "1.93817074984e-7",
+          "price_usd": "1.99529404718e-7",
           "eris_name": "ROAR",
           "symbol": "ROAR"
         },
@@ -2714,8 +1666,8 @@
       "appears_in": {
         "tla_pools_count": 2,
         "tla_pools": [
-          "project",
-          "single"
+          "single",
+          "project"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -2758,7 +1710,7 @@
           "display": "boneLUNA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.08460491152908832",
+          "price_usd": "0.08696086149306641",
           "eris_name": "bLUNA",
           "symbol": "bLUNA",
           "_display_original": "bLUNA",
@@ -2847,7 +1799,7 @@
           "display": "ampROAR",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.3003412807356788e-7",
+          "price_usd": "2.3564525862695957e-7",
           "eris_name": "ampROAR",
           "symbol": "ampROAR"
         },
@@ -2907,7 +1859,7 @@
           "display": "wstETH",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "1906.99",
+          "price_usd": "1947.48",
           "eris_name": "wstETH",
           "symbol": "wstETH"
         },
@@ -2948,8 +1900,8 @@
       "appears_in": {
         "tla_pools_count": 2,
         "tla_pools": [
-          "bluechip",
-          "single"
+          "single",
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -3014,7 +1966,7 @@
           "display": "USDt",
           "coingecko_id": "tether",
           "decimals": 6,
-          "price_usd": "0.999676",
+          "price_usd": "0.999447",
           "eris_name": "USDt",
           "symbol": "USDt"
         },
@@ -3055,8 +2007,8 @@
       "appears_in": {
         "tla_pools_count": 3,
         "tla_pools": [
-          "stable",
           "single",
+          "stable",
           "bluechip"
         ],
         "is_lockable": false,
@@ -3117,7 +2069,7 @@
           "display": "USDC",
           "coingecko_id": "usd-coin",
           "decimals": 6,
-          "price_usd": "0.999602",
+          "price_usd": "0.999698",
           "eris_name": "USDC",
           "symbol": "USDC"
         },
@@ -3175,10 +2127,10 @@
       "appears_in": {
         "tla_pools_count": 4,
         "tla_pools": [
+          "single",
           "stable",
           "project",
-          "bluechip",
-          "single"
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -3281,8 +2233,8 @@
       "appears_in": {
         "tla_pools_count": 2,
         "tla_pools": [
-          "project",
-          "single"
+          "single",
+          "project"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -3342,7 +2294,7 @@
           "display": "arbLUNA",
           "coingecko_id": "eris-arbitrage-luna",
           "decimals": 6,
-          "price_usd": "0.12333594919299999",
+          "price_usd": "0.12005824667422015",
           "eris_name": "arbLUNA",
           "symbol": "arbLUNA"
         },
@@ -3533,7 +2485,7 @@
           "display": "LUNA-USDC-ampLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.7436174490272358",
+          "price_usd": "1.7687661797429097",
           "eris_name": "LUNA-USDC-ampLP",
           "symbol": "LUNA-USDC-ampLP"
         },
@@ -3716,7 +2668,7 @@
           "display": "SOLID",
           "coingecko_id": "solid-2",
           "decimals": 6,
-          "price_usd": "1.014773116186911",
+          "price_usd": "1.0330726420455034",
           "eris_name": "SOLID",
           "symbol": "SOLID"
         },
@@ -3787,7 +2739,7 @@
           "display": "CAPA",
           "coingecko_id": "capapult",
           "decimals": 6,
-          "price_usd": "0.001131947340032549",
+          "price_usd": "0.001162435155958357",
           "eris_name": "CAPA",
           "symbol": "CAPA"
         },
@@ -3814,8 +2766,8 @@
       "appears_in": {
         "tla_pools_count": 2,
         "tla_pools": [
-          "project",
-          "single"
+          "single",
+          "project"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -3858,7 +2810,7 @@
           "display": "ampCAPA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.001252872757513301",
+          "price_usd": "0.0012856630069577075",
           "eris_name": "ampCAPA",
           "symbol": "ampCAPA"
         },
@@ -3935,7 +2887,7 @@
           "display": "PAXG",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "4310.67",
+          "price_usd": "4304.28",
           "eris_name": "PAXG",
           "symbol": "PAXG"
         },
@@ -3994,8 +2946,8 @@
       "appears_in": {
         "tla_pools_count": 2,
         "tla_pools": [
-          "bluechip",
-          "single"
+          "single",
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -4061,7 +3013,7 @@
           "display": "LUNA-ampLUNA-ampLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.279347404414709",
+          "price_usd": "0.2872383741801842",
           "eris_name": "LUNA-ampLUNA-ampLP",
           "symbol": "LUNA-ampLUNA-ampLP"
         },
@@ -4113,7 +3065,7 @@
           "display": "wETH.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "1542.9",
+          "price_usd": "1574.04",
           "eris_name": "wETH.wh",
           "symbol": "wETH.wh"
         },
@@ -4367,7 +3319,7 @@
           "display": "wBTC.creda.a",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "60147.6747527478",
+          "price_usd": "60983.04521260211",
           "eris_name": "wBTC.creda.a",
           "symbol": "wBTC.creda.a"
         },
@@ -4442,7 +3394,7 @@
           "display": "LUNA-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.4931807282639865",
+          "price_usd": "0.5000230928478663",
           "eris_name": "LUNA-EURe LP (S)",
           "symbol": "LUNA-EURe LP (S)"
         },
@@ -4462,9 +3414,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "4202825411",
-          "harvested_raw": "4202825411",
-          "last_taken_s": 1780718399,
+          "taken_raw": "4202885843",
+          "harvested_raw": "4202885843",
+          "last_taken_s": 1780732824,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -4498,7 +3450,7 @@
           "display": "LUNA-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.4866667978563876",
+          "price_usd": "0.4933725350097257",
           "eris_name": "LUNA-USDt LP (S)",
           "symbol": "LUNA-USDt LP (S)"
         },
@@ -4518,9 +3470,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "11301300442",
-          "harvested_raw": "11301300442",
-          "last_taken_s": 1780718399,
+          "taken_raw": "11301301573",
+          "harvested_raw": "11301301573",
+          "last_taken_s": 1780732824,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -4554,7 +3506,7 @@
           "display": "ampLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.17109999594405864",
+          "price_usd": "0.17591235448261783",
           "eris_name": "ampLUNA-LUNA LP (S)",
           "symbol": "ampLUNA-LUNA LP (S)"
         },
@@ -4574,9 +3526,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "4270526147",
-          "harvested_raw": "4270526147",
-          "last_taken_s": 1780718399,
+          "taken_raw": "4270561412",
+          "harvested_raw": "4270561412",
+          "last_taken_s": 1780732824,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -4610,7 +3562,7 @@
           "display": "USDC-SOLID LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.288640710309774",
+          "price_usd": "2.322568098804705",
           "eris_name": "USDC-SOLID LP",
           "symbol": "USDC-SOLID LP"
         },
@@ -4678,7 +3630,7 @@
           "display": "SOLID-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.5480910350661653",
+          "price_usd": "0.5638778447736046",
           "eris_name": "SOLID-LUNA LP",
           "symbol": "SOLID-LUNA LP"
         },
@@ -4746,7 +3698,7 @@
           "display": "ASTRO-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.01175620149618535",
+          "price_usd": "0.011897829676305585",
           "eris_name": "ASTRO-LUNA LP",
           "symbol": "ASTRO-LUNA LP"
         },
@@ -4814,7 +3766,7 @@
           "display": "LUNA-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00020263257303124293",
+          "price_usd": "0.00020792580604497257",
           "eris_name": "LUNA-ROAR LP (S)",
           "symbol": "LUNA-ROAR LP (S)"
         },
@@ -4834,9 +3786,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "388604893214",
-          "harvested_raw": "388604893214",
-          "last_taken_s": 1780718399,
+          "taken_raw": "388604893437",
+          "harvested_raw": "388604893437",
+          "last_taken_s": 1780732824,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -4870,7 +3822,7 @@
           "display": "LUNA-stLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.10032156760643396",
+          "price_usd": "0.10310390862093169",
           "eris_name": "LUNA-stLUNA LP (S)",
           "symbol": "LUNA-stLUNA LP (S)"
         },
@@ -4925,7 +3877,7 @@
           "display": "CAPA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.015092590643483929",
+          "price_usd": "0.015500165258955858",
           "eris_name": "CAPA-LUNA LP (S)",
           "symbol": "CAPA-LUNA LP (S)"
         },
@@ -4945,9 +3897,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "24579988118",
-          "harvested_raw": "24579988118",
-          "last_taken_s": 1780718399,
+          "taken_raw": "24580100155",
+          "harvested_raw": "24580100155",
+          "last_taken_s": 1780732824,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -4981,7 +3933,7 @@
           "display": "LUNA-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.45926200060642297",
+          "price_usd": "0.47247638359287264",
           "eris_name": "LUNA-SOLID LP (S)",
           "symbol": "LUNA-SOLID LP (S)"
         },
@@ -5037,7 +3989,7 @@
           "display": "ATOM-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.835479443960543",
+          "price_usd": "0.8523993463501486",
           "eris_name": "ATOM-LUNA LP (S)",
           "symbol": "ATOM-LUNA LP (S)"
         },
@@ -5161,7 +4113,7 @@
           "display": "wBNB.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "568.21",
+          "price_usd": "580.56",
           "eris_name": "wBNB.wh",
           "symbol": "wBNB.wh"
         },
@@ -5401,7 +4353,7 @@
           "display": "LUNA-ASTRO LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.011299020671304264",
+          "price_usd": "0.011439996369889498",
           "eris_name": "LUNA-ASTRO LP (S)",
           "symbol": "LUNA-ASTRO LP (S)"
         },
@@ -5421,9 +4373,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "99867459",
-          "harvested_raw": "99867459",
-          "last_taken_s": 1780718399,
+          "taken_raw": "99868858",
+          "harvested_raw": "99868858",
+          "last_taken_s": 1780732824,
           "stake_mechanism": "default"
         }
       },
@@ -5456,7 +4408,7 @@
           "display": "USDC-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.0566952266165184",
+          "price_usd": "2.0871289286991956",
           "eris_name": "USDC-SOLID LP (S)",
           "symbol": "USDC-SOLID LP (S)"
         },
@@ -5512,7 +4464,7 @@
           "display": "wBNB.axl-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "10.445717498899963",
+          "price_usd": "10.697045258008512",
           "eris_name": "wBNB.axl-LUNA LP",
           "symbol": "wBNB.axl-LUNA LP"
         },
@@ -5546,9 +4498,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "36209375",
-          "harvested_raw": "36209375",
-          "last_taken_s": 1780718399,
+          "taken_raw": "36209381",
+          "harvested_raw": "36209381",
+          "last_taken_s": 1780732824,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -5714,7 +4666,7 @@
           "display": "USDC-EURe LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.1767758546563574",
+          "price_usd": "2.1769133367803666",
           "eris_name": "USDC-EURe LP",
           "symbol": "USDC-EURe LP"
         },
@@ -5782,7 +4734,7 @@
           "display": "ATOM-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.6362023682274243",
+          "price_usd": "0.6490502374549291",
           "eris_name": "ATOM-LUNA LP",
           "symbol": "ATOM-LUNA LP"
         },
@@ -5850,7 +4802,7 @@
           "display": "FUEL",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.002731097167680006",
+          "price_usd": "0.002799751627613159",
           "eris_name": "FUEL",
           "symbol": "FUEL"
         },
@@ -5911,7 +4863,7 @@
           "display": "SWTH",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "0.00027441",
+          "price_usd": "0.00027337",
           "eris_name": "SWTH",
           "symbol": "SWTH"
         },
@@ -5930,10 +4882,9 @@
       },
       "bridge": null,
       "appears_in": {
-        "tla_pools_count": 2,
+        "tla_pools_count": 1,
         "tla_pools": [
-          "project",
-          "single"
+          "project"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -6005,8 +4956,8 @@
       "appears_in": {
         "tla_pools_count": 2,
         "tla_pools": [
-          "bluechip",
-          "single"
+          "single",
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -6060,7 +5011,7 @@
           "display": "stLUNA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.048096",
+          "price_usd": "0.04942073",
           "eris_name": "stLUNA",
           "symbol": "stLUNA"
         },
@@ -6126,7 +5077,7 @@
           "display": "wSOL.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "61.9",
+          "price_usd": "62.9",
           "eris_name": "wSOL.wh",
           "symbol": "wSOL.wh"
         },
@@ -6192,7 +5143,7 @@
           "display": "wBNB.axl",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "567.03",
+          "price_usd": "578.6",
           "eris_name": "wBNB.axl",
           "symbol": "wBNB.axl"
         },
@@ -6259,7 +5210,7 @@
           "display": "LUNA-INJ LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000010212216119016664",
+          "price_usd": "0.0000010620445835033536",
           "eris_name": "LUNA-INJ LP",
           "symbol": "LUNA-INJ LP"
         },
@@ -6311,72 +5262,6 @@
       "headline_name": "LUNA-INJ LP",
       "tier": "core"
     },
-    "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098": {
-      "address": "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098",
-      "type": "ibc",
-      "category": "tokens",
-      "subtype": "ibc",
-      "symbol": "rSWTH",
-      "display_name": "rSWTH",
-      "decimals": 8,
-      "coingecko_id": "stafi-staked-swth",
-      "coingecko_match": "unverified_no_terra_addr",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "rSWTH",
-          "coingecko_id": "stafi-staked-swth",
-          "decimals": 8,
-          "price_usd": "0.00188089",
-          "eris_name": "rSWTH",
-          "symbol": "rSWTH"
-        },
-        "astroport": {
-          "symbol": "rSWTH",
-          "name": "rSWTH",
-          "decimals": 8,
-          "price_usd": null
-        },
-        "skeletonswap": {
-          "symbol": "rSWTH",
-          "name": "Staked SWTH on Terra",
-          "decimals": 8,
-          "logo_url": null
-        }
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "single"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false
-      },
-      "wallet_import": {
-        "symbol": "rSWTH",
-        "name": "rSWTH",
-        "decimals": 8,
-        "address": "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098"
-      },
-      "scoring": {
-        "confusion_score": 85,
-        "flags": [
-          "cg_mapping_unverified"
-        ]
-      },
-      "override": {
-        "display_name": "rSWTH",
-        "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.png",
-        "notes": "Restricted SWTH — Carbon's vesting token variant.",
-        "verified": true
-      },
-      "notes": "Restricted SWTH — Carbon's vesting token variant.",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.png",
-      "acquisition_class": "ibc_cosmos_native",
-      "headline_name": "rSWTH",
-      "tier": "core"
-    },
     "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674": {
       "address": "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
       "type": "ibc",
@@ -6393,7 +5278,7 @@
           "display": "WETH.axl",
           "coingecko_id": "ethereum",
           "decimals": 18,
-          "price_usd": "1542.9",
+          "price_usd": "1574.04",
           "eris_name": "WETH.axl",
           "symbol": "WETH.axl"
         },
@@ -6467,7 +5352,7 @@
           "display": "wBTC.atom",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "60049",
+          "price_usd": "60883",
           "eris_name": "wBTC.atom",
           "symbol": "wBTC.atom"
         },
@@ -6489,8 +5374,8 @@
       "appears_in": {
         "tla_pools_count": 2,
         "tla_pools": [
-          "bluechip",
-          "single"
+          "single",
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -6564,7 +5449,7 @@
           "display": "WBTC.osmo",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "60049",
+          "price_usd": "60883",
           "eris_name": "WBTC.osmo",
           "symbol": "WBTC.osmo"
         },
@@ -6585,8 +5470,8 @@
       "appears_in": {
         "tla_pools_count": 2,
         "tla_pools": [
-          "bluechip",
-          "single"
+          "single",
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -6640,7 +5525,7 @@
           "display": "ATOM",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.6",
+          "price_usd": "1.62",
           "eris_name": "ATOM",
           "symbol": "ATOM"
         },
@@ -6662,8 +5547,8 @@
       "appears_in": {
         "tla_pools_count": 2,
         "tla_pools": [
-          "bluechip",
-          "single"
+          "single",
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -6727,7 +5612,7 @@
           "display": "dATOM",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.827516416549003",
+          "price_usd": "2.889227201903379",
           "eris_name": "dATOM",
           "symbol": "dATOM"
         },
@@ -6788,7 +5673,7 @@
           "display": "LUNA-PAXG LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "28.88112146638539",
+          "price_usd": "29.263665806619592",
           "eris_name": "LUNA-PAXG LP",
           "symbol": "LUNA-PAXG LP"
         },
@@ -6959,7 +5844,7 @@
           "display": "INJ",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "4.98",
+          "price_usd": "5.24",
           "eris_name": "INJ",
           "symbol": "INJ"
         },
@@ -7106,7 +5991,7 @@
           "display": "LUNA-wBTC.atom LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "108.30751350470699",
+          "price_usd": "110.57597373574897",
           "eris_name": "LUNA-wBTC.atom LP",
           "symbol": "LUNA-wBTC.atom LP"
         },
@@ -7175,7 +6060,7 @@
           "display": "LUNA-INJ LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.000001014809521023392",
+          "price_usd": "0.0000010553608414471866",
           "eris_name": "LUNA-INJ LP (S)",
           "symbol": "LUNA-INJ LP (S)"
         },
@@ -7195,9 +6080,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "605984160840616",
-          "harvested_raw": "605984160840616",
-          "last_taken_s": 1780718399,
+          "taken_raw": "605984557067915",
+          "harvested_raw": "605984557067915",
+          "last_taken_s": 1780732824,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -7278,7 +6163,7 @@
           "display": "USDC-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.1674423710749746",
+          "price_usd": "2.1675697392583477",
           "eris_name": "USDC-EURe LP (S)",
           "symbol": "USDC-EURe LP (S)"
         },
@@ -7298,9 +6183,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "784971886",
-          "harvested_raw": "784971886",
-          "last_taken_s": 1780718399,
+          "taken_raw": "785018678",
+          "harvested_raw": "785018678",
+          "last_taken_s": 1780732824,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -7334,7 +6219,7 @@
           "display": "PAXG-wBTC.atom LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "32187.1294766046",
+          "price_usd": "32387.92263787878",
           "eris_name": "PAXG-wBTC.atom LP",
           "symbol": "PAXG-wBTC.atom LP"
         },
@@ -7450,7 +6335,7 @@
           "display": "ampROAR-ROAR LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "5.892447295474893e-7",
+          "price_usd": "6.036179407447927e-7",
           "eris_name": "ampROAR-ROAR LP",
           "symbol": "ampROAR-ROAR LP"
         },
@@ -7499,7 +6384,7 @@
           "display": "ampROAR-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "4.335701804578156e-7",
+          "price_usd": "4.4414616537100956e-7",
           "eris_name": "ampROAR-ROAR LP (S)",
           "symbol": "ampROAR-ROAR LP (S)"
         },
@@ -7548,7 +6433,7 @@
           "display": "LUNA-arbLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.16577014133883577",
+          "price_usd": "0.17044262671634752",
           "eris_name": "LUNA-arbLUNA LP (S)",
           "symbol": "LUNA-arbLUNA LP (S)"
         },
@@ -7568,9 +6453,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "6979297024",
-          "harvested_raw": "6979297024",
-          "last_taken_s": 1780718399,
+          "taken_raw": "6979304473",
+          "harvested_raw": "6979304473",
+          "last_taken_s": 1780732824,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -7604,7 +6489,7 @@
           "display": "PAXG-wBTC.atom AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "34325.18969453818",
+          "price_usd": "34553.115464636314",
           "eris_name": "PAXG-wBTC.atom AMPLP",
           "symbol": "PAXG-wBTC.atom AMPLP"
         },
@@ -7651,7 +6536,7 @@
           "display": "ampROAR-ROAR AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000010912898846023653",
+          "price_usd": "0.0000011179092826255198",
           "eris_name": "ampROAR-ROAR AMPLP",
           "symbol": "ampROAR-ROAR AMPLP"
         },
@@ -7698,7 +6583,7 @@
           "display": "USDC-USDt AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.222464794648279",
+          "price_usd": "2.2223939060930737",
           "eris_name": "USDC-USDt AMPLP",
           "symbol": "USDC-USDt AMPLP"
         },
@@ -7745,7 +6630,7 @@
           "display": "wBTC.creda.a AMPLP",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "60914.873079565565",
+          "price_usd": "61767.22015339473",
           "eris_name": "wBTC.creda.a AMPLP",
           "symbol": "wBTC.creda.a AMPLP"
         },
@@ -7792,7 +6677,7 @@
           "display": "LUNA-arbLUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.22783335853818096",
+          "price_usd": "0.2344410531206396",
           "eris_name": "LUNA-arbLUNA AMPLP",
           "symbol": "LUNA-arbLUNA AMPLP"
         },
@@ -7839,7 +6724,7 @@
           "display": "ATOM-stATOM AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "5.499691486401222",
+          "price_usd": "5.568437629981237",
           "eris_name": "ATOM-stATOM AMPLP",
           "symbol": "ATOM-stATOM AMPLP"
         },
@@ -7886,7 +6771,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.047001072105702",
+          "price_usd": "1.0469741428930763",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -7933,7 +6818,7 @@
           "display": "ampCAPA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.002433098250639271",
+          "price_usd": "0.0024973092656025223",
           "eris_name": "ampCAPA",
           "symbol": "ampCAPA"
         },
@@ -7980,7 +6865,7 @@
           "display": "ampROAR-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000012154341494622648",
+          "price_usd": "0.0000012453661720170612",
           "eris_name": "ampROAR-ROAR LP (S)",
           "symbol": "ampROAR-ROAR LP (S)"
         },
@@ -8027,7 +6912,7 @@
           "display": "LUNA-arbLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.30148520327199846",
+          "price_usd": "0.30998302557248864",
           "eris_name": "LUNA-arbLUNA LP (S)",
           "symbol": "LUNA-arbLUNA LP (S)"
         },
@@ -8074,7 +6959,7 @@
           "display": "USDt-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.6988138410880873",
+          "price_usd": "1.7232841953586977",
           "eris_name": "USDt-LUNA AMPLP",
           "symbol": "USDt-LUNA AMPLP"
         },
@@ -8121,7 +7006,7 @@
           "display": "LUNA-USDC AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.6420210031949536",
+          "price_usd": "1.6657486085922424",
           "eris_name": "LUNA-USDC AMPLP",
           "symbol": "LUNA-USDC AMPLP"
         },
@@ -8168,7 +7053,7 @@
           "display": "LUNA-EURe AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.6133145150049872",
+          "price_usd": "1.6369359370387107",
           "eris_name": "LUNA-EURe AMPLP",
           "symbol": "LUNA-EURe AMPLP"
         },
@@ -8215,7 +7100,7 @@
           "display": "LUNA-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.38380293769746",
+          "price_usd": "1.4030017499570133",
           "eris_name": "LUNA-EURe LP (S)",
           "symbol": "LUNA-EURe LP (S)"
         },
@@ -8262,7 +7147,7 @@
           "display": "LUNA-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.024501706809892",
+          "price_usd": "1.0386182218244229",
           "eris_name": "LUNA-USDt LP (S)",
           "symbol": "LUNA-USDt LP (S)"
         },
@@ -8309,7 +7194,7 @@
           "display": "xASTRO",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.000819900264262574",
+          "price_usd": "0.0008166254454805705",
           "eris_name": "xASTRO",
           "symbol": "xASTRO"
         },
@@ -8364,7 +7249,7 @@
           "display": "USDt-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.4542577563217807",
+          "price_usd": "0.46055370089952957",
           "eris_name": "USDt-LUNA LP",
           "symbol": "USDt-LUNA LP"
         },
@@ -8432,7 +7317,7 @@
           "display": "LUNA-USDC LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.4709167875518876",
+          "price_usd": "0.477533028422632",
           "eris_name": "LUNA-USDC LP",
           "symbol": "LUNA-USDC LP"
         },
@@ -8500,7 +7385,7 @@
           "display": "LUNA-EURe LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.47770587064040776",
+          "price_usd": "0.4843625120230692",
           "eris_name": "LUNA-EURe LP",
           "symbol": "LUNA-EURe LP"
         },
@@ -8568,7 +7453,7 @@
           "display": "LUNA-USDC LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.5108676863814878",
+          "price_usd": "0.5179969651200608",
           "eris_name": "LUNA-USDC LP (S)",
           "symbol": "LUNA-USDC LP (S)"
         },
@@ -8617,7 +7502,7 @@
           "display": "ampLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.26087790332564337",
+          "price_usd": "0.268215355314836",
           "eris_name": "ampLUNA-LUNA LP (S)",
           "symbol": "ampLUNA-LUNA LP (S)"
         },
@@ -8664,7 +7549,7 @@
           "display": "USDC-SOLID AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "5.525256058789926",
+          "price_usd": "5.609132730898603",
           "eris_name": "USDC-SOLID AMPLP",
           "symbol": "USDC-SOLID AMPLP"
         },
@@ -8711,7 +7596,7 @@
           "display": "stLUNA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.1031630043473924",
+          "price_usd": "0.10603290661815101",
           "eris_name": "stLUNA-LUNA LP",
           "symbol": "stLUNA-LUNA LP"
         },
@@ -8779,7 +7664,7 @@
           "display": "CAPA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.01497219298612014",
+          "price_usd": "0.015376638553786405",
           "eris_name": "CAPA-LUNA LP",
           "symbol": "CAPA-LUNA LP"
         },
@@ -8977,7 +7862,7 @@
           "display": "FUEL-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0229434200906485",
+          "price_usd": "0.023550917475047742",
           "eris_name": "FUEL-LUNA LP",
           "symbol": "FUEL-LUNA LP"
         },
@@ -9045,7 +7930,7 @@
           "display": "bLUNA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.11184035996347486",
+          "price_usd": "0.11495472161532334",
           "eris_name": "bLUNA-LUNA LP",
           "symbol": "bLUNA-LUNA LP"
         },
@@ -9079,9 +7964,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "5053089083",
-          "harvested_raw": "5053089083",
-          "last_taken_s": 1780718399,
+          "taken_raw": "5054776997",
+          "harvested_raw": "5054776997",
+          "last_taken_s": 1780732824,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -9120,7 +8005,7 @@
           "display": "LUNA-ampLUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.13781537408909386",
+          "price_usd": "0.14168614010928185",
           "eris_name": "LUNA-ampLUNA LP",
           "symbol": "LUNA-ampLUNA LP"
         },
@@ -9188,7 +8073,7 @@
           "display": "bLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.14190728876761005",
+          "price_usd": "0.1458588960526555",
           "eris_name": "bLUNA-LUNA LP (S)",
           "symbol": "bLUNA-LUNA LP (S)"
         },
@@ -9237,7 +8122,7 @@
           "display": "ROAR-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00019978403333175066",
+          "price_usd": "0.00020500427589025298",
           "eris_name": "ROAR-LUNA LP",
           "symbol": "ROAR-LUNA LP"
         },
@@ -9380,7 +8265,7 @@
           "display": "SOLID-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.214270655505535",
+          "price_usd": "2.2786565304435165",
           "eris_name": "SOLID-LUNA AMPLP",
           "symbol": "SOLID-LUNA AMPLP"
         },
@@ -9427,7 +8312,7 @@
           "display": "ASTRO-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.04148097514457478",
+          "price_usd": "0.041998343354513315",
           "eris_name": "ASTRO-LUNA AMPLP",
           "symbol": "ASTRO-LUNA AMPLP"
         },
@@ -9474,7 +8359,7 @@
           "display": "stLUNA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.2789865932952001",
+          "price_usd": "0.2868411407765526",
           "eris_name": "stLUNA-LUNA AMPLP",
           "symbol": "stLUNA-LUNA AMPLP"
         },
@@ -9521,7 +8406,7 @@
           "display": "CAPA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.07427033275463558",
+          "price_usd": "0.07631377199825515",
           "eris_name": "CAPA-LUNA AMPLP",
           "symbol": "CAPA-LUNA AMPLP"
         },
@@ -9568,7 +8453,7 @@
           "display": "FUEL-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.04825961388131862",
+          "price_usd": "0.049559568134975016",
           "eris_name": "FUEL-LUNA AMPLP",
           "symbol": "FUEL-LUNA AMPLP"
         },
@@ -9615,7 +8500,7 @@
           "display": "bLUNA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.1275358769429652",
+          "price_usd": "0.13108730367760513",
           "eris_name": "bLUNA-LUNA AMPLP",
           "symbol": "bLUNA-LUNA AMPLP"
         },
@@ -9662,7 +8547,7 @@
           "display": "CAPA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.03346359223970799",
+          "price_usd": "0.0343672747857722",
           "eris_name": "CAPA-LUNA LP (S)",
           "symbol": "CAPA-LUNA LP (S)"
         },
@@ -9709,7 +8594,7 @@
           "display": "LUNA-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.209538830511081",
+          "price_usd": "2.273114071422047",
           "eris_name": "LUNA-SOLID LP (S)",
           "symbol": "LUNA-SOLID LP (S)"
         },
@@ -9756,7 +8641,7 @@
           "display": "USDC-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.32746959997199",
+          "price_usd": "2.361910053518704",
           "eris_name": "USDC-SOLID LP (S)",
           "symbol": "USDC-SOLID LP (S)"
         },
@@ -9803,7 +8688,7 @@
           "display": "wBNB.axl-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "28.317256839855055",
+          "price_usd": "28.998580330214764",
           "eris_name": "wBNB.axl-LUNA AMPLP",
           "symbol": "wBNB.axl-LUNA AMPLP"
         },
@@ -9850,7 +8735,7 @@
           "display": "USDC-EURe AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "3.1281995866854833",
+          "price_usd": "3.1286363873536778",
           "eris_name": "USDC-EURe AMPLP",
           "symbol": "USDC-EURe AMPLP"
         },
@@ -9897,7 +8782,7 @@
           "display": "LUNA-wBTC.atom AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "215.67461970831113",
+          "price_usd": "220.30336257777228",
           "eris_name": "LUNA-wBTC.atom AMPLP",
           "symbol": "LUNA-wBTC.atom AMPLP"
         },
@@ -9944,7 +8829,7 @@
           "display": "USDC-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.9334582339623205",
+          "price_usd": "2.9336306165138692",
           "eris_name": "USDC-EURe LP (S)",
           "symbol": "USDC-EURe LP (S)"
         },
@@ -10197,7 +9082,7 @@
           "display": "USDC-USDt LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.0060374591499093",
+          "price_usd": "2.0059475577779473",
           "eris_name": "USDC-USDt LP",
           "symbol": "USDC-USDt LP"
         },
@@ -10265,7 +9150,7 @@
           "display": "LUNA-arbLUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.1609052014240711",
+          "price_usd": "0.16544710086219902",
           "eris_name": "LUNA-arbLUNA LP",
           "symbol": "LUNA-arbLUNA LP"
         },
@@ -10333,7 +9218,7 @@
           "display": "ATOM-stATOM LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.659546406699938",
+          "price_usd": "2.6927907367836874",
           "eris_name": "ATOM-stATOM LP",
           "symbol": "ATOM-stATOM LP"
         },
@@ -10408,7 +9293,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0019923635651262",
+          "price_usd": "1.0019482540947098",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -10457,7 +9342,7 @@
           "display": "ATOM-stATOM LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.9440587185082328",
+          "price_usd": "1.9683594524895853",
           "eris_name": "ATOM-stATOM LP (S)",
           "symbol": "ATOM-stATOM LP (S)"
         },
@@ -10568,7 +9453,7 @@
           "display": "bLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.32675788041010395",
+          "price_usd": "0.3359468057099595",
           "eris_name": "bLUNA-LUNA LP (S)",
           "symbol": "bLUNA-LUNA LP (S)"
         },
@@ -10662,7 +9547,7 @@
           "display": "ROAR-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0005837101491213294",
+          "price_usd": "0.0005990687761281683",
           "eris_name": "ROAR-LUNA AMPLP",
           "symbol": "ROAR-LUNA AMPLP"
         },
@@ -10709,7 +9594,7 @@
           "display": "LUNA-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0002159108526870458",
+          "price_usd": "0.0002215509451774539",
           "eris_name": "LUNA-ROAR LP (S)",
           "symbol": "LUNA-ROAR LP (S)"
         },
@@ -10756,7 +9641,7 @@
           "display": "LUNA-PAXG AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "43.73016730129426",
+          "price_usd": "44.33651326525978",
           "eris_name": "LUNA-PAXG AMPLP",
           "symbol": "LUNA-PAXG AMPLP"
         },
@@ -10803,7 +9688,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.047001072105702",
+          "price_usd": "1.0469741428930763",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -10850,7 +9735,7 @@
           "display": "LUNA-INJ LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.000002302167316402981",
+          "price_usd": "0.0000023941608605929288",
           "eris_name": "LUNA-INJ LP (S)",
           "symbol": "LUNA-INJ LP (S)"
         },
@@ -11047,7 +9932,7 @@
           "display": "ATOM-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.0087740771912417",
+          "price_usd": "2.0499693420508294",
           "eris_name": "ATOM-LUNA AMPLP",
           "symbol": "ATOM-LUNA AMPLP"
         },
@@ -11094,7 +9979,7 @@
           "display": "ATOM-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.6584436243329317",
+          "price_usd": "2.7139564494948827",
           "eris_name": "ATOM-LUNA LP (S)",
           "symbol": "ATOM-LUNA LP (S)"
         },
@@ -11141,7 +10026,7 @@
           "display": "LUNA-INJ AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.000002126765375144759",
+          "price_usd": "0.000002212524342458804",
           "eris_name": "LUNA-INJ AMPLP",
           "symbol": "LUNA-INJ AMPLP"
         },
@@ -11188,7 +10073,7 @@
           "display": "USDC-USDt AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.222464794648279",
+          "price_usd": "2.2223939060930737",
           "eris_name": "USDC-USDt AMPLP",
           "symbol": "USDC-USDt AMPLP"
         },
@@ -11345,7 +10230,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "SWTH-rSWTH LP",
-      "display_name": "SWTH-rSWTH LP",
+      "display_name": null,
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -11397,8 +10282,7 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "name_composed_from_underlyings"
+          "no_external_price_source"
         ]
       },
       "override": null,
@@ -11693,7 +10577,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": "LUNA-WHALE LP",
-      "display_name": "LUNA-WHALE LP",
+      "display_name": null,
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -11745,8 +10629,7 @@
       "scoring": {
         "confusion_score": 75,
         "flags": [
-          "no_external_price_source",
-          "name_composed_from_underlyings"
+          "no_external_price_source"
         ]
       },
       "override": null,
@@ -11761,7 +10644,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": null,
-      "display_name": "LUNA-USDC LP",
+      "display_name": null,
       "decimals": null,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -11795,13 +10678,13 @@
         "confusion_score": 75,
         "flags": [
           "no_external_price_source",
-          "name_composed_from_underlyings"
+          "no_display_name"
         ]
       },
       "override": null,
       "notes": null,
       "acquisition_class": "lp_token",
-      "headline_name": "LUNA-USDC LP",
+      "headline_name": "terra1yqp35s…n8t5vp",
       "tier": "core"
     },
     "factory/terra1zushwxgqdkg22mtv9p946yp53r6den6lv427esjaadua3ftzyjpsqgtl5z/uLP": {
@@ -11960,7 +10843,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": "LUNA-wBNB.wh LP",
+      "display_name": null,
       "decimals": null,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -11994,13 +10877,13 @@
         "confusion_score": 75,
         "flags": [
           "no_external_price_source",
-          "name_composed_from_underlyings"
+          "no_display_name"
         ]
       },
       "override": null,
       "notes": null,
       "acquisition_class": "lp_token",
-      "headline_name": "LUNA-wBNB.wh LP",
+      "headline_name": "factory/terr…c9/uLP",
       "tier": "core"
     },
     "terra10xwhrfj2hqtwr4jwam3e24w92ypgl85lqz35lqzqhuay5r2h7pgqv4596s": {
@@ -12009,7 +10892,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_cw20_lp",
       "symbol": null,
-      "display_name": "ROAR-factory/… LP",
+      "display_name": null,
       "decimals": null,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -12043,13 +10926,13 @@
         "confusion_score": 75,
         "flags": [
           "no_external_price_source",
-          "name_composed_from_underlyings"
+          "no_display_name"
         ]
       },
       "override": null,
       "notes": null,
       "acquisition_class": "lp_token",
-      "headline_name": "ROAR-factory/… LP",
+      "headline_name": "terra10xwhrf…v4596s",
       "tier": "core"
     },
     "terra16z3ksy6aqjkug8l3u48q0kvdaqk3dgaytl7ykt6vg2he9d6z9rgslr4k7l": {
@@ -12257,7 +11140,7 @@
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": "SWTH-rSWTH LP",
+      "display_name": null,
       "decimals": null,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
@@ -12291,13 +11174,13 @@
         "confusion_score": 75,
         "flags": [
           "no_external_price_source",
-          "name_composed_from_underlyings"
+          "no_display_name"
         ]
       },
       "override": null,
       "notes": null,
       "acquisition_class": "lp_token",
-      "headline_name": "SWTH-rSWTH LP",
+      "headline_name": "factory/terr…c9/uLP",
       "tier": "core"
     },
     "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/20/single/amplp": {
@@ -12793,6 +11676,49 @@
       "notes": null,
       "acquisition_class": "native_terra",
       "headline_name": "factory/terr…/amplp",
+      "tier": "core"
+    },
+    "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098": {
+      "address": "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098",
+      "type": null,
+      "category": "tokens",
+      "subtype": "native",
+      "symbol": null,
+      "display_name": "rSWTH",
+      "decimals": null,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": null,
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 0,
+        "tla_pools": [],
+        "is_lockable": false,
+        "is_amplp_underlying": false
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 60,
+        "flags": [
+          "no_external_price_source",
+          "not_in_active_use"
+        ]
+      },
+      "override": {
+        "display_name": "rSWTH",
+        "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.png",
+        "notes": "Restricted SWTH — Carbon's vesting token variant.",
+        "verified": true
+      },
+      "notes": "Restricted SWTH — Carbon's vesting token variant.",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.png",
+      "acquisition_class": "native_terra",
+      "headline_name": "rSWTH",
       "tier": "core"
     }
   },
@@ -29577,7 +28503,7 @@
       "note": "SkeletonSwap pool data — only assets in current SS pools"
     },
     "coingecko_list": {
-      "coin_count": 17370,
+      "coin_count": 17372,
       "fetched_ok": true,
       "note": "CG /coins/list with platforms — used for independent CG-mapping verification"
     }
@@ -29585,7 +28511,43 @@
   "_unmapped": {
     "tokens": [
       {
+        "address": "terra1yqp35sjllqjqh25pt49pcqnnpe3960tanmf2upfadej2gdumz6psn8t5vp",
+        "appears_in_pools": [
+          "stable"
+        ],
+        "is_likely_lp": true,
+        "named_by_dex": false,
+        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
+      },
+      {
+        "address": "factory/terra1m5juz238n27dd24d9e3kacmqax8gu7j5ee9hhfczpl52f3n7adaqudk2c9/uLP",
+        "appears_in_pools": [
+          "bluechip"
+        ],
+        "is_likely_lp": true,
+        "named_by_dex": false,
+        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
+      },
+      {
+        "address": "terra10xwhrfj2hqtwr4jwam3e24w92ypgl85lqz35lqzqhuay5r2h7pgqv4596s",
+        "appears_in_pools": [
+          "single"
+        ],
+        "is_likely_lp": true,
+        "named_by_dex": false,
+        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
+      },
+      {
         "address": "terra1sjujvcvkszrt84280agzv0du7tsrf44y4n7hcd9n8y0q7snfgersd68ens",
+        "appears_in_pools": [
+          "single"
+        ],
+        "is_likely_lp": true,
+        "named_by_dex": false,
+        "note": "LP token — no DEX returned a name. Check Astroport / SS reachability."
+      },
+      {
+        "address": "factory/terra1nezkc3lxdxv26hqwy44jr7j9typtk39pns254ev52s9guqc2zsyqx7hvc9/uLP",
         "appears_in_pools": [
           "single"
         ],
