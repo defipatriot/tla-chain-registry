@@ -3,8 +3,8 @@
   "cron": "tla-registry",
   "layer": 0,
   "layerRole": "discovery-bootstrap-catalog",
-  "capturedAt": "2026-06-07T00:05:13.519Z",
-  "capturedAtUnix": 1780790713519,
+  "capturedAt": "2026-06-08T00:05:17.695Z",
+  "capturedAtUnix": 1780877117695,
   "canonicalEpoch": 187,
   "directory": {
     "ASSET_GAUGE": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
@@ -30,31 +30,21 @@
   },
   "pools": [
     {
-      "gauge_pool_id": "cw20:terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
+      "gauge_pool_id": "cw20:terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
       "bucket": "stable",
       "asset_raw": {
-        "cw20": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
+        "cw20": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8"
       },
-      "distribution_pct": 0.6220692684826311,
-      "total_vp": "17076784294185"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc",
-      "bucket": "stable",
-      "asset_raw": {
-        "cw20": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc"
-      },
-      "distribution_pct": 0.24265982320946483,
-      "total_vp": "6661395551529"
-    },
-    {
-      "gauge_pool_id": "native:factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP",
-      "bucket": "stable",
-      "asset_raw": {
-        "native": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP"
-      },
-      "distribution_pct": 0.10033823753462787,
-      "total_vp": "2754443155530"
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "dewhitelisted",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "5875",
+        "harvested_raw": "1847",
+        "last_taken_s": 1724944694,
+        "stake_mechanism": "astroport"
+      }
     },
     {
       "gauge_pool_id": "cw20:terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4",
@@ -62,224 +52,50 @@
       "asset_raw": {
         "cw20": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4"
       },
-      "distribution_pct": 0.03493267077327624,
-      "total_vp": "958957006621"
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "6355781140",
+        "harvested_raw": "6355781140",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
     },
     {
-      "gauge_pool_id": "cw20:terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
-      "bucket": "project",
+      "gauge_pool_id": "cw20:terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
+      "bucket": "stable",
       "asset_raw": {
-        "cw20": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
+        "cw20": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
       },
-      "distribution_pct": 0.22524916301313777,
-      "total_vp": "5929037395735"
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "151363125363",
+        "harvested_raw": "151363125363",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
     },
     {
-      "gauge_pool_id": "cw20:terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
-      "bucket": "project",
+      "gauge_pool_id": "cw20:terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc",
+      "bucket": "stable",
       "asset_raw": {
-        "cw20": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
+        "cw20": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc"
       },
-      "distribution_pct": 0.21259389887127214,
-      "total_vp": "5595923907781"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
-      "bucket": "project",
-      "asset_raw": {
-        "cw20": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4"
-      },
-      "distribution_pct": 0.18476154023581975,
-      "total_vp": "4863316989497"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
-      "bucket": "project",
-      "asset_raw": {
-        "cw20": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44"
-      },
-      "distribution_pct": 0.15690607782151425,
-      "total_vp": "4130101930579"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
-      "bucket": "project",
-      "asset_raw": {
-        "cw20": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k"
-      },
-      "distribution_pct": 0.10511175912649444,
-      "total_vp": "2766765222369"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
-      "bucket": "project",
-      "asset_raw": {
-        "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
-      },
-      "distribution_pct": 0.04847123423280158,
-      "total_vp": "1275866052239"
-    },
-    {
-      "gauge_pool_id": "cw20:terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
-      "bucket": "project",
-      "asset_raw": {
-        "cw20": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
-      },
-      "distribution_pct": 0.02890607150692338,
-      "total_vp": "760869326375"
-    },
-    {
-      "gauge_pool_id": "cw20:terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
-      "bucket": "project",
-      "asset_raw": {
-        "cw20": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8"
-      },
-      "distribution_pct": 0.024632535718501627,
-      "total_vp": "648380768537"
-    },
-    {
-      "gauge_pool_id": "cw20:terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
-      "bucket": "project",
-      "asset_raw": {
-        "cw20": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc"
-      },
-      "distribution_pct": 0.013367719473535064,
-      "total_vp": "351866828689"
-    },
-    {
-      "gauge_pool_id": "cw20:terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
-      "bucket": "bluechip",
-      "asset_raw": {
-        "cw20": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
-      },
-      "distribution_pct": 0.35499593055967016,
-      "total_vp": "7899300644482"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
-      "bucket": "bluechip",
-      "asset_raw": {
-        "cw20": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
-      },
-      "distribution_pct": 0.3198136091830189,
-      "total_vp": "7116430447951"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
-      "bucket": "bluechip",
-      "asset_raw": {
-        "cw20": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
-      },
-      "distribution_pct": 0.12792826452451592,
-      "total_vp": "2846634948217"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
-      "bucket": "bluechip",
-      "asset_raw": {
-        "cw20": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
-      },
-      "distribution_pct": 0.12791878872739568,
-      "total_vp": "2846424094616"
-    },
-    {
-      "gauge_pool_id": "cw20:terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
-      "bucket": "bluechip",
-      "asset_raw": {
-        "cw20": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
-      },
-      "distribution_pct": 0.04670551442013327,
-      "total_vp": "1039282054806"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
-      "bucket": "bluechip",
-      "asset_raw": {
-        "cw20": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su"
-      },
-      "distribution_pct": 0.02263789258526609,
-      "total_vp": "503733998321"
-    },
-    {
-      "gauge_pool_id": "native:factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
-      "bucket": "single",
-      "asset_raw": {
-        "native": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
-      },
-      "distribution_pct": 0.3213387380807788,
-      "total_vp": "7752107378828"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
-      "bucket": "single",
-      "asset_raw": {
-        "cw20": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr"
-      },
-      "distribution_pct": 0.2926079685193383,
-      "total_vp": "7058994522137"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
-      "bucket": "single",
-      "asset_raw": {
-        "cw20": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
-      },
-      "distribution_pct": 0.10095244635242873,
-      "total_vp": "2435418178815"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
-      "bucket": "single",
-      "asset_raw": {
-        "cw20": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0"
-      },
-      "distribution_pct": 0.09955224517282105,
-      "total_vp": "2401639151857"
-    },
-    {
-      "gauge_pool_id": "native:factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP",
-      "bucket": "single",
-      "asset_raw": {
-        "native": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP"
-      },
-      "distribution_pct": 0.06680794389976279,
-      "total_vp": "1611702211700"
-    },
-    {
-      "gauge_pool_id": "native:factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP",
-      "bucket": "single",
-      "asset_raw": {
-        "native": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP"
-      },
-      "distribution_pct": 0.0473088204811379,
-      "total_vp": "1141297369019"
-    },
-    {
-      "gauge_pool_id": "native:ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
-      "bucket": "single",
-      "asset_raw": {
-        "native": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6"
-      },
-      "distribution_pct": 0.03998210938480848,
-      "total_vp": "964544788575"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh",
-      "bucket": "single",
-      "asset_raw": {
-        "cw20": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh"
-      },
-      "distribution_pct": 0.01980312629794064,
-      "total_vp": "477738732700"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
-      "bucket": "single",
-      "asset_raw": {
-        "cw20": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc"
-      },
-      "distribution_pct": 0.011646601810983374,
-      "total_vp": "280967394023"
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "13314249051",
+        "harvested_raw": "13314249051",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
     },
     {
       "gauge_pool_id": "cw20:terra1yqp35sjllqjqh25pt49pcqnnpe3960tanmf2upfadej2gdumz6psn8t5vp",
@@ -296,6 +112,23 @@
         "harvested_raw": "0",
         "last_taken_s": null,
         "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "native:factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP",
+      "bucket": "stable",
+      "asset_raw": {
+        "native": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "46886923988",
+        "harvested_raw": "46886923988",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "default"
       }
     },
     {
@@ -326,9 +159,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4203127197",
-        "harvested_raw": "4203127197",
-        "last_taken_s": 1780790441,
+        "taken_raw": "4203488910",
+        "harvested_raw": "4203488910",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "default"
       }
     },
@@ -343,9 +176,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "11301306090",
-        "harvested_raw": "11301306090",
-        "last_taken_s": 1780790441,
+        "taken_raw": "11301312859",
+        "harvested_raw": "11301312859",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "default"
       }
     },
@@ -360,10 +193,61 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4270702252",
-        "harvested_raw": "4270702252",
-        "last_taken_s": 1780790441,
+        "taken_raw": "4270913325",
+        "harvested_raw": "4270913325",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "default"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
+      "bucket": "project",
+      "asset_raw": {
+        "cw20": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "5678893514",
+        "harvested_raw": "5678893514",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
+      "bucket": "project",
+      "asset_raw": {
+        "cw20": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "105918480267",
+        "harvested_raw": "105918480267",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
+      "bucket": "project",
+      "asset_raw": {
+        "cw20": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "4012900767",
+        "harvested_raw": "4012900767",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
       }
     },
     {
@@ -384,6 +268,40 @@
       }
     },
     {
+      "gauge_pool_id": "cw20:terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
+      "bucket": "project",
+      "asset_raw": {
+        "cw20": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "250858830255",
+        "harvested_raw": "250858830255",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
+      "bucket": "project",
+      "asset_raw": {
+        "cw20": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "57747415235",
+        "harvested_raw": "57747415235",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
       "gauge_pool_id": "cw20:terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
       "bucket": "project",
       "asset_raw": {
@@ -394,10 +312,44 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "5061518172",
-        "harvested_raw": "5061518172",
-        "last_taken_s": 1780790441,
+        "taken_raw": "5071621016",
+        "harvested_raw": "5071621016",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
+      "bucket": "project",
+      "asset_raw": {
+        "cw20": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "64391654252",
+        "harvested_raw": "64391654252",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
+      "bucket": "project",
+      "asset_raw": {
+        "cw20": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "46753586336",
+        "harvested_raw": "46753586336",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "default"
       }
     },
     {
@@ -414,6 +366,23 @@
         "taken_raw": "729676152",
         "harvested_raw": "729676152",
         "last_taken_s": 1741680053,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
+      "bucket": "project",
+      "asset_raw": {
+        "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "17973112798048",
+        "harvested_raw": "17973112798048",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "astroport"
       }
     },
@@ -445,9 +414,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "388604894327",
-        "harvested_raw": "388604894327",
-        "last_taken_s": 1780790441,
+        "taken_raw": "388604895660",
+        "harvested_raw": "388604895660",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "default"
       }
     },
@@ -479,9 +448,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "24580547608",
-        "harvested_raw": "24580547608",
-        "last_taken_s": 1780790441,
+        "taken_raw": "24581218196",
+        "harvested_raw": "24581218196",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "default"
       }
     },
@@ -496,9 +465,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "99874447",
-        "harvested_raw": "99874447",
-        "last_taken_s": 1780790441,
+        "taken_raw": "99882823",
+        "harvested_raw": "99882823",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "default"
       }
     },
@@ -530,9 +499,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "205148197",
-        "harvested_raw": "205148197",
-        "last_taken_s": 1780358431,
+        "taken_raw": "205148198",
+        "harvested_raw": "205148198",
+        "last_taken_s": 1780819213,
         "stake_mechanism": "default"
       }
     },
@@ -564,9 +533,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "36209405",
-        "harvested_raw": "36209405",
-        "last_taken_s": 1780790441,
+        "taken_raw": "36209441",
+        "harvested_raw": "36209441",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "astroport"
       }
     },
@@ -588,6 +557,23 @@
       }
     },
     {
+      "gauge_pool_id": "cw20:terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
+      "bucket": "bluechip",
+      "asset_raw": {
+        "cw20": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "13615250251",
+        "harvested_raw": "13615250251",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
       "gauge_pool_id": "cw20:terra19d8tttv0lvhwpj828qqrcmm6yaqdfhrchfheuufcw4kywtmk9u3q98ask3",
       "bucket": "bluechip",
       "asset_raw": {
@@ -605,6 +591,23 @@
       }
     },
     {
+      "gauge_pool_id": "cw20:terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
+      "bucket": "bluechip",
+      "asset_raw": {
+        "cw20": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "6110663311",
+        "harvested_raw": "6110663311",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
       "gauge_pool_id": "cw20:terra1a5apghncafx0nem740fsrmd6demaywvp332a4uat63u2jtwn8mgsz7khkw",
       "bucket": "bluechip",
       "asset_raw": {
@@ -618,6 +621,74 @@
         "taken_raw": "29564596",
         "harvested_raw": "28953828",
         "last_taken_s": 1779718330,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
+      "bucket": "bluechip",
+      "asset_raw": {
+        "cw20": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "2019211858",
+        "harvested_raw": "2019211858",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "default"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
+      "bucket": "bluechip",
+      "asset_raw": {
+        "cw20": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "1695628766049025",
+        "harvested_raw": "1695628766049025",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
+      "bucket": "bluechip",
+      "asset_raw": {
+        "cw20": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "dewhitelisted",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "7875816820",
+        "harvested_raw": "7371194420",
+        "last_taken_s": 1767885703,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
+      "bucket": "bluechip",
+      "asset_raw": {
+        "cw20": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "71314697",
+        "harvested_raw": "71314697",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "astroport"
       }
     },
@@ -656,6 +727,23 @@
       }
     },
     {
+      "gauge_pool_id": "cw20:terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
+      "bucket": "bluechip",
+      "asset_raw": {
+        "cw20": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "46469769",
+        "harvested_raw": "46469769",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
       "gauge_pool_id": "native:factory/terra12hs75vlyd38zjvhegsqzr8uvz2r764fdy8mhqw0qg0s2mv858yvstwmsf8/uLP",
       "bucket": "bluechip",
       "asset_raw": {
@@ -686,6 +774,23 @@
         "taken_raw": "1251871365",
         "harvested_raw": "1225395563",
         "last_taken_s": 1753385082,
+        "stake_mechanism": "default"
+      }
+    },
+    {
+      "gauge_pool_id": "native:factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP",
+      "bucket": "bluechip",
+      "asset_raw": {
+        "native": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "dewhitelisted",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "2462013898",
+        "harvested_raw": "2212490007",
+        "last_taken_s": 1747357353,
         "stake_mechanism": "default"
       }
     },
@@ -751,9 +856,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "605986139516444",
-        "harvested_raw": "605986139516444",
-        "last_taken_s": 1780790441,
+        "taken_raw": "605988511095959",
+        "harvested_raw": "605988511095959",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "default"
       }
     },
@@ -768,9 +873,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "785205556",
-        "harvested_raw": "785205556",
-        "last_taken_s": 1780790441,
+        "taken_raw": "785485625",
+        "harvested_raw": "785485625",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "default"
       }
     },
@@ -877,6 +982,57 @@
       }
     },
     {
+      "gauge_pool_id": "cw20:terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
+      "bucket": "single",
+      "asset_raw": {
+        "cw20": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "30668",
+        "harvested_raw": "30668",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh",
+      "bucket": "single",
+      "asset_raw": {
+        "cw20": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "426311064605306",
+        "harvested_raw": "426311064605306",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
+      "gauge_pool_id": "cw20:terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
+      "bucket": "single",
+      "asset_raw": {
+        "cw20": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "1921340",
+        "harvested_raw": "1921340",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "default"
+      }
+    },
+    {
       "gauge_pool_id": "cw20:terra1le46uu9qjk53aktjs8dev96sl9sd2ujvcpspk75pdeg0txfvhyuswm6653",
       "bucket": "single",
       "asset_raw": {
@@ -911,6 +1067,23 @@
       }
     },
     {
+      "gauge_pool_id": "cw20:terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
+      "bucket": "single",
+      "asset_raw": {
+        "cw20": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "14398091959",
+        "harvested_raw": "14398091959",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "astroport"
+      }
+    },
+    {
       "gauge_pool_id": "cw20:terra1pz99udaf85erk8lumjylczz0cuf70mmq9gns3ejxt7s3mk266mqq6gkqkn",
       "bucket": "single",
       "asset_raw": {
@@ -921,9 +1094,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "188223562",
-        "harvested_raw": "188223562",
-        "last_taken_s": 1780761643,
+        "taken_raw": "188223564",
+        "harvested_raw": "188223564",
+        "last_taken_s": 1780848000,
         "stake_mechanism": "astroport"
       }
     },
@@ -1013,6 +1186,23 @@
       }
     },
     {
+      "gauge_pool_id": "native:factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
+      "bucket": "single",
+      "asset_raw": {
+        "native": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "16662676991266",
+        "harvested_raw": "16662676991266",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "default"
+      }
+    },
+    {
       "gauge_pool_id": "native:factory/terra1aa8nurhuk7rwedhjyzptggypuxd3y66qp4nsx6ph240g37esdm7qyheqkd/uLP",
       "bucket": "single",
       "asset_raw": {
@@ -1040,9 +1230,26 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "88",
-        "harvested_raw": "88",
-        "last_taken_s": 1780747212,
+        "taken_raw": "89",
+        "harvested_raw": "89",
+        "last_taken_s": 1780833658,
+        "stake_mechanism": "default"
+      }
+    },
+    {
+      "gauge_pool_id": "native:factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP",
+      "bucket": "single",
+      "asset_raw": {
+        "native": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "13090581464943986",
+        "harvested_raw": "13090581464943986",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "default"
       }
     },
@@ -1074,36 +1281,53 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "6979334221",
-        "harvested_raw": "6979334221",
-        "last_taken_s": 1780790441,
+        "taken_raw": "6979378805",
+        "harvested_raw": "6979378805",
+        "last_taken_s": 1780876810,
+        "stake_mechanism": "default"
+      }
+    },
+    {
+      "gauge_pool_id": "native:ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
+      "bucket": "single",
+      "asset_raw": {
+        "native": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6"
+      },
+      "distribution_pct": 0,
+      "total_vp": null,
+      "gauge_status": "inactive_below_threshold",
+      "take_rate": {
+        "yearly_rate": "0.1",
+        "taken_raw": "1172753302754",
+        "harvested_raw": "1172753302754",
+        "last_taken_s": 1780876810,
         "stake_mechanism": "default"
       }
     }
   ],
   "buckets": {
     "stable": {
-      "total_gauge_vp": "27535613041836",
-      "pool_count": 4
+      "total_gauge_vp": "0",
+      "pool_count": 0
     },
     "project": {
-      "total_gauge_vp": "26454540939280",
-      "pool_count": 9
+      "total_gauge_vp": "0",
+      "pool_count": 0
     },
     "bluechip": {
-      "total_gauge_vp": "22278207158436",
-      "pool_count": 6
+      "total_gauge_vp": "0",
+      "pool_count": 0
     },
     "single": {
-      "total_gauge_vp": "24140419707821",
-      "pool_count": 9
+      "total_gauge_vp": "0",
+      "pool_count": 0
     }
   },
   "scope": {
-    "active_lps": 28,
-    "inactive_lps_discovered": 47,
-    "below_threshold_lps": 15,
-    "dewhitelisted_lps": 32,
+    "active_lps": 0,
+    "inactive_lps_discovered": 75,
+    "below_threshold_lps": 40,
+    "dewhitelisted_lps": 35,
     "total_lps": 75,
     "pair_lookups_succeeded": 0,
     "pair_lookups_failed": 0,
@@ -1383,7 +1607,7 @@
       "display_name": "LUNA",
       "decimals": 6,
       "coingecko_id": "terra-luna-2",
-      "coingecko_match": "verified",
+      "coingecko_match": "unverified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "LUNA",
@@ -1395,7 +1619,7 @@
           "display": "LUNA",
           "coingecko_id": "terra-luna-2",
           "decimals": 6,
-          "price_usd": "0.04962083",
+          "price_usd": "0.051449",
           "eris_name": "LUNA",
           "symbol": "LUNA"
         },
@@ -1410,12 +1634,6 @@
           "name": "Luna",
           "decimals": 6,
           "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/luna.png"
-        },
-        "coingecko": {
-          "cg_id": "terra-luna-2",
-          "symbol": "luna",
-          "name": "Terra",
-          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -1437,8 +1655,10 @@
         "address": "uluna"
       },
       "scoring": {
-        "confusion_score": 100,
-        "flags": []
+        "confusion_score": 90,
+        "flags": [
+          "cg_mapping_status_unknown"
+        ]
       },
       "override": null,
       "notes": null,
@@ -1456,7 +1676,7 @@
       "display_name": "ASTRO",
       "decimals": 6,
       "coingecko_id": "astroport-fi",
-      "coingecko_match": "unverified_no_terra_addr",
+      "coingecko_match": "unverified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "ASTRO",
@@ -1468,7 +1688,7 @@
           "display": "ASTRO",
           "coingecko_id": "astroport-fi",
           "decimals": 6,
-          "price_usd": "0.000620864768373317",
+          "price_usd": "0.000609546867987135",
           "eris_name": "ASTRO",
           "symbol": "ASTRO"
         },
@@ -1521,9 +1741,9 @@
         "address": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
       },
       "scoring": {
-        "confusion_score": 85,
+        "confusion_score": 90,
         "flags": [
-          "cg_mapping_unverified"
+          "cg_mapping_status_unknown"
         ]
       },
       "override": null,
@@ -1557,7 +1777,7 @@
       "display_name": "ampLUNA",
       "decimals": 6,
       "coingecko_id": "eris-amplified-luna",
-      "coingecko_match": "verified",
+      "coingecko_match": "unverified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "ampLUNA",
@@ -1569,7 +1789,7 @@
           "display": "ampLUNA",
           "coingecko_id": "eris-amplified-luna",
           "decimals": 6,
-          "price_usd": "0.1044456820563588",
+          "price_usd": "0.10907581757472297",
           "eris_name": "ampLUNA",
           "symbol": "ampLUNA"
         },
@@ -1584,12 +1804,6 @@
           "name": "ERIS Liquid Staked LUNA",
           "decimals": 6,
           "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/ampluna.svg"
-        },
-        "coingecko": {
-          "cg_id": "eris-amplified-luna",
-          "symbol": "ampluna",
-          "name": "Eris Amplified Luna",
-          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -1608,8 +1822,10 @@
         "address": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
       },
       "scoring": {
-        "confusion_score": 100,
-        "flags": []
+        "confusion_score": 90,
+        "flags": [
+          "cg_mapping_status_unknown"
+        ]
       },
       "override": null,
       "notes": null,
@@ -1627,7 +1843,7 @@
       "display_name": "ROAR",
       "decimals": 6,
       "coingecko_id": "lion-dao",
-      "coingecko_match": "verified",
+      "coingecko_match": "unverified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "ROAR",
@@ -1639,7 +1855,7 @@
           "display": "ROAR",
           "coingecko_id": "lion-dao",
           "decimals": 6,
-          "price_usd": "2.02514612581e-7",
+          "price_usd": "2.14252303292e-7",
           "eris_name": "ROAR",
           "symbol": "ROAR"
         },
@@ -1654,12 +1870,6 @@
           "name": "ROAR",
           "decimals": 6,
           "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/roar.png"
-        },
-        "coingecko": {
-          "cg_id": "lion-dao",
-          "symbol": "roar",
-          "name": "Lion DAO",
-          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -1679,8 +1889,10 @@
         "address": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
       },
       "scoring": {
-        "confusion_score": 100,
-        "flags": []
+        "confusion_score": 90,
+        "flags": [
+          "cg_mapping_status_unknown"
+        ]
       },
       "override": null,
       "notes": null,
@@ -1698,7 +1910,7 @@
       "display_name": "boneLUNA",
       "decimals": 6,
       "coingecko_id": "backbone-labs-staked-luna",
-      "coingecko_match": "verified",
+      "coingecko_match": "hardcoded_override",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "bLUNA",
@@ -1710,7 +1922,7 @@
           "display": "boneLUNA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.08735558022183018",
+          "price_usd": "0.0906283317963079",
           "eris_name": "bLUNA",
           "symbol": "bLUNA",
           "_display_original": "bLUNA",
@@ -1727,12 +1939,6 @@
           "name": "BackBone Labs Liquid Staked LUNA",
           "decimals": 6,
           "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/bLUNA.png"
-        },
-        "coingecko": {
-          "cg_id": "backbone-labs-staked-luna",
-          "symbol": "bluna",
-          "name": "Backbone Labs Staked LUNA",
-          "platform": "terra-2"
         }
       },
       "bridge": {
@@ -1799,7 +2005,7 @@
           "display": "ampROAR",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.400429423523782e-7",
+          "price_usd": "2.5361119984541635e-7",
           "eris_name": "ampROAR",
           "symbol": "ampROAR"
         },
@@ -1859,7 +2065,7 @@
           "display": "wstETH",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "1941.17",
+          "price_usd": "2084.43",
           "eris_name": "wstETH",
           "symbol": "wstETH"
         },
@@ -1954,7 +2160,7 @@
       "display_name": "USDt",
       "decimals": 6,
       "coingecko_id": "tether",
-      "coingecko_match": "unverified_no_terra_addr",
+      "coingecko_match": "unverified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "USDt",
@@ -1966,7 +2172,7 @@
           "display": "USDt",
           "coingecko_id": "tether",
           "decimals": 6,
-          "price_usd": "0.999496",
+          "price_usd": "0.999536",
           "eris_name": "USDt",
           "symbol": "USDt"
         },
@@ -2005,11 +2211,10 @@
         ]
       },
       "appears_in": {
-        "tla_pools_count": 3,
+        "tla_pools_count": 2,
         "tla_pools": [
-          "single",
-          "stable",
-          "bluechip"
+          "bluechip",
+          "stable"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -2021,9 +2226,9 @@
         "address": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
       },
       "scoring": {
-        "confusion_score": 85,
+        "confusion_score": 90,
         "flags": [
-          "cg_mapping_unverified"
+          "cg_mapping_status_unknown"
         ]
       },
       "override": null,
@@ -2057,7 +2262,7 @@
       "display_name": "USDC",
       "decimals": 6,
       "coingecko_id": "usd-coin",
-      "coingecko_match": "mismatch",
+      "coingecko_match": "unverified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "USDC",
@@ -2069,7 +2274,7 @@
           "display": "USDC",
           "coingecko_id": "usd-coin",
           "decimals": 6,
-          "price_usd": "0.999653",
+          "price_usd": "0.999752",
           "eris_name": "USDC",
           "symbol": "USDC"
         },
@@ -2079,13 +2284,7 @@
           "decimals": 6,
           "price_usd": null
         },
-        "skeletonswap": null,
-        "coingecko": {
-          "cg_id": "ibc-bridged-usdc",
-          "symbol": "usdc.n",
-          "name": "Noble USDC",
-          "platform": "terra-2"
-        }
+        "skeletonswap": null
       },
       "bridge": {
         "source_chain": "noble",
@@ -2125,12 +2324,11 @@
         ]
       },
       "appears_in": {
-        "tla_pools_count": 4,
+        "tla_pools_count": 3,
         "tla_pools": [
-          "single",
+          "bluechip",
           "stable",
-          "project",
-          "bluechip"
+          "project"
         ],
         "is_lockable": false,
         "is_amplp_underlying": true
@@ -2142,16 +2340,14 @@
         "address": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
       },
       "scoring": {
-        "confusion_score": 70,
+        "confusion_score": 90,
         "flags": [
-          "cg_mapping_mismatch:claimed=usd-coin,actual=ibc-bridged-usdc"
+          "cg_mapping_status_unknown"
         ]
       },
       "override": null,
       "notes": null,
       "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.png",
-      "coingecko_id_claimed": "usd-coin",
-      "coingecko_id_actual": "ibc-bridged-usdc",
       "acquisition": {
         "_label": "USDC (Noble)",
         "native_chain": "Noble",
@@ -2282,7 +2478,7 @@
       "display_name": "arbLUNA",
       "decimals": 6,
       "coingecko_id": "eris-arbitrage-luna",
-      "coingecko_match": "verified",
+      "coingecko_match": "unverified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "arbLUNA",
@@ -2294,7 +2490,7 @@
           "display": "arbLUNA",
           "coingecko_id": "eris-arbitrage-luna",
           "decimals": 6,
-          "price_usd": "0.12268754613471203",
+          "price_usd": "0.13143465870314014",
           "eris_name": "arbLUNA",
           "symbol": "arbLUNA"
         },
@@ -2309,12 +2505,6 @@
           "name": "Arb LUNA on Terra",
           "decimals": 6,
           "logo_url": null
-        },
-        "coingecko": {
-          "cg_id": "eris-arbitrage-luna",
-          "symbol": "arbluna",
-          "name": "ERIS Arbitrage LUNA",
-          "platform": "terra-2"
         }
       },
       "bridge": {
@@ -2349,8 +2539,10 @@
         "address": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
       },
       "scoring": {
-        "confusion_score": 100,
-        "flags": []
+        "confusion_score": 90,
+        "flags": [
+          "cg_mapping_status_unknown"
+        ]
       },
       "override": {
         "display_name": "arbLUNA",
@@ -2485,7 +2677,7 @@
           "display": "LUNA-USDC-ampLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.7739930940661943",
+          "price_usd": "1.8101844360628443",
           "eris_name": "LUNA-USDC-ampLP",
           "symbol": "LUNA-USDC-ampLP"
         },
@@ -2500,7 +2692,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP"
       },
       "wallet_import": {
@@ -2530,7 +2722,7 @@
       "display_name": "EURe",
       "decimals": 6,
       "coingecko_id": "monerium-eur-money",
-      "coingecko_match": "mismatch",
+      "coingecko_match": "unverified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "EURe",
@@ -2557,12 +2749,6 @@
           "name": "Monerium EUR on Terra",
           "decimals": 6,
           "logo_url": null
-        },
-        "coingecko": {
-          "cg_id": "monerium-eur-money-2",
-          "symbol": "eure",
-          "name": "Monerium EUR emoney",
-          "platform": "terra-2"
         }
       },
       "bridge": {
@@ -2618,16 +2804,14 @@
         "address": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
       },
       "scoring": {
-        "confusion_score": 70,
+        "confusion_score": 90,
         "flags": [
-          "cg_mapping_mismatch:claimed=monerium-eur-money,actual=monerium-eur-money-2"
+          "cg_mapping_status_unknown"
         ]
       },
       "override": null,
       "notes": null,
       "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eure.png",
-      "coingecko_id_claimed": "monerium-eur-money",
-      "coingecko_id_actual": "monerium-eur-money-2",
       "acquisition": {
         "native_chain": "noble",
         "route_to_terra": [
@@ -2656,7 +2840,7 @@
       "display_name": "SOLID",
       "decimals": 6,
       "coingecko_id": "solid-2",
-      "coingecko_match": "verified",
+      "coingecko_match": "unverified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "SOLID",
@@ -2668,7 +2852,7 @@
           "display": "SOLID",
           "coingecko_id": "solid-2",
           "decimals": 6,
-          "price_usd": "1.0370437708190203",
+          "price_usd": "1.0323128209117067",
           "eris_name": "SOLID",
           "symbol": "SOLID"
         },
@@ -2683,12 +2867,6 @@
           "name": "Solid on Terra",
           "decimals": 6,
           "logo_url": null
-        },
-        "coingecko": {
-          "cg_id": "solid-2",
-          "symbol": "solid",
-          "name": "Solid",
-          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -2708,8 +2886,10 @@
         "address": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
       },
       "scoring": {
-        "confusion_score": 100,
-        "flags": []
+        "confusion_score": 90,
+        "flags": [
+          "cg_mapping_status_unknown"
+        ]
       },
       "override": null,
       "notes": null,
@@ -2727,7 +2907,7 @@
       "display_name": "CAPA",
       "decimals": 6,
       "coingecko_id": "capapult",
-      "coingecko_match": "verified",
+      "coingecko_match": "unverified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "CAPA",
@@ -2739,7 +2919,7 @@
           "display": "CAPA",
           "coingecko_id": "capapult",
           "decimals": 6,
-          "price_usd": "0.00116996775379073",
+          "price_usd": "0.001239445303106843",
           "eris_name": "CAPA",
           "symbol": "CAPA"
         },
@@ -2754,12 +2934,6 @@
           "name": "Capapult on Terra",
           "decimals": 6,
           "logo_url": null
-        },
-        "coingecko": {
-          "cg_id": "capapult",
-          "symbol": "capa",
-          "name": "Capa",
-          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -2779,8 +2953,10 @@
         "address": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
       },
       "scoring": {
-        "confusion_score": 100,
-        "flags": []
+        "confusion_score": 90,
+        "flags": [
+          "cg_mapping_status_unknown"
+        ]
       },
       "override": null,
       "notes": null,
@@ -2810,7 +2986,7 @@
           "display": "ampCAPA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0012911243634059775",
+          "price_usd": "0.001367870793494731",
           "eris_name": "ampCAPA",
           "symbol": "ampCAPA"
         },
@@ -2842,9 +3018,16 @@
         "is_lockable": false,
         "is_amplp_underlying": false,
         "is_single_asset_stake": true,
-        "tla_distribution_pct": 0.3213387380807788,
-        "tla_total_vp": "7752107378828",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "16662676991266",
+          "harvested_raw": "16662676991266",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "default"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -2874,8 +3057,8 @@
       "symbol": "PAXG",
       "display_name": "PAXG",
       "decimals": 18,
-      "coingecko_id": "pax-gold",
-      "coingecko_match": "verified_via_bridge",
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "PAXG",
@@ -2887,7 +3070,7 @@
           "display": "PAXG",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "4297.51",
+          "price_usd": "4334.64",
           "eris_name": "PAXG",
           "symbol": "PAXG"
         },
@@ -2897,17 +3080,7 @@
           "decimals": 18,
           "price_usd": null
         },
-        "skeletonswap": null,
-        "coingecko": {
-          "cg_id": "pax-gold",
-          "symbol": "paxg",
-          "name": "PAX Gold",
-          "platform": "ethereum",
-          "original_address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
-          "matched_via": "bridge_trace",
-          "source_chain": "ethereum",
-          "source_address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78"
-        }
+        "skeletonswap": null
       },
       "bridge": {
         "source_chain": "cosmoshub",
@@ -2959,15 +3132,14 @@
         "address": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
       },
       "scoring": {
-        "confusion_score": 95,
+        "confusion_score": 75,
         "flags": [
-          "cg_verified_via_bridge_provenance"
+          "no_external_price_source"
         ]
       },
       "override": null,
       "notes": null,
       "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/paxg.png",
-      "coingecko_match_source": "ethereum:0x45804880De22913dAFE09f4980848ECE6EcbAf78",
       "acquisition": {
         "_label": "PAXG",
         "native_chain": "Ethereum",
@@ -3013,7 +3185,7 @@
           "display": "LUNA-ampLUNA-ampLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.2885045619111489",
+          "price_usd": "0.2994714312990881",
           "eris_name": "LUNA-ampLUNA-ampLP",
           "symbol": "LUNA-ampLUNA-ampLP"
         },
@@ -3028,7 +3200,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4"
       },
       "wallet_import": {
@@ -3065,7 +3237,7 @@
           "display": "wETH.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "1569.92",
+          "price_usd": "1685.73",
           "eris_name": "wETH.wh",
           "symbol": "wETH.wh"
         },
@@ -3319,7 +3491,7 @@
           "display": "wBTC.creda.a",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "60851.82994852428",
+          "price_usd": "63318.87724183504",
           "eris_name": "wBTC.creda.a",
           "symbol": "wBTC.creda.a"
         },
@@ -3335,9 +3507,16 @@
         "is_lockable": false,
         "is_amplp_underlying": false,
         "is_single_asset_stake": true,
-        "tla_distribution_pct": 0.011646601810983374,
-        "tla_total_vp": "280967394023",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "1921340",
+          "harvested_raw": "1921340",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "default"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": null,
@@ -3394,7 +3573,7 @@
           "display": "LUNA-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.501033353543801",
+          "price_usd": "0.5102233161153219",
           "eris_name": "LUNA-EURe LP (S)",
           "symbol": "LUNA-EURe LP (S)"
         },
@@ -3414,9 +3593,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "4203127197",
-          "harvested_raw": "4203127197",
-          "last_taken_s": 1780790441,
+          "taken_raw": "4203488910",
+          "harvested_raw": "4203488910",
+          "last_taken_s": 1780876810,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3450,7 +3629,7 @@
           "display": "LUNA-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.49437528017190113",
+          "price_usd": "0.5034716376759186",
           "eris_name": "LUNA-USDt LP (S)",
           "symbol": "LUNA-USDt LP (S)"
         },
@@ -3470,9 +3649,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "11301306090",
-          "harvested_raw": "11301306090",
-          "last_taken_s": 1780790441,
+          "taken_raw": "11301312859",
+          "harvested_raw": "11301312859",
+          "last_taken_s": 1780876810,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3506,7 +3685,7 @@
           "display": "ampLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.17663388472284955",
+          "price_usd": "0.18325325683179797",
           "eris_name": "ampLUNA-LUNA LP (S)",
           "symbol": "ampLUNA-LUNA LP (S)"
         },
@@ -3526,9 +3705,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "4270702252",
-          "harvested_raw": "4270702252",
-          "last_taken_s": 1780790441,
+          "taken_raw": "4270913325",
+          "harvested_raw": "4270913325",
+          "last_taken_s": 1780876810,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3562,7 +3741,7 @@
           "display": "USDC-SOLID LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.3280965002911835",
+          "price_usd": "2.3092392910395536",
           "eris_name": "USDC-SOLID LP",
           "symbol": "USDC-SOLID LP"
         },
@@ -3591,9 +3770,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.21259389887127214,
-        "tla_total_vp": "5595923907781",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "5678893514",
+          "harvested_raw": "5678893514",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -3630,7 +3816,7 @@
           "display": "SOLID-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.5663694751798867",
+          "price_usd": "0.5720656341405262",
           "eris_name": "SOLID-LUNA LP",
           "symbol": "SOLID-LUNA LP"
         },
@@ -3655,13 +3841,20 @@
       "appears_in": {
         "tla_pools_count": 1,
         "tla_pools": [
-          "project"
+          "stable"
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.024632535718501627,
-        "tla_total_vp": "648380768537",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "dewhitelisted",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "5875",
+          "harvested_raw": "1847",
+          "last_taken_s": 1724944694,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -3698,7 +3891,7 @@
           "display": "ASTRO-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.012080102330240804",
+          "price_usd": "0.012175868020660867",
           "eris_name": "ASTRO-LUNA LP",
           "symbol": "ASTRO-LUNA LP"
         },
@@ -3727,9 +3920,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.02890607150692338,
-        "tla_total_vp": "760869326375",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "105918480267",
+          "harvested_raw": "105918480267",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -3766,7 +3966,7 @@
           "display": "LUNA-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00021025455960663859",
+          "price_usd": "0.00022005342345679166",
           "eris_name": "LUNA-ROAR LP (S)",
           "symbol": "LUNA-ROAR LP (S)"
         },
@@ -3786,9 +3986,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "388604894327",
-          "harvested_raw": "388604894327",
-          "last_taken_s": 1780790441,
+          "taken_raw": "388604895660",
+          "harvested_raw": "388604895660",
+          "last_taken_s": 1780876810,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3822,7 +4022,7 @@
           "display": "LUNA-stLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.10351829329142158",
+          "price_usd": "0.10734063724651792",
           "eris_name": "LUNA-stLUNA LP (S)",
           "symbol": "LUNA-stLUNA LP (S)"
         },
@@ -3877,7 +4077,7 @@
           "display": "CAPA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.015564015176182078",
+          "price_usd": "0.016313579387755257",
           "eris_name": "CAPA-LUNA LP (S)",
           "symbol": "CAPA-LUNA LP (S)"
         },
@@ -3897,9 +4097,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "24580547608",
-          "harvested_raw": "24580547608",
-          "last_taken_s": 1780790441,
+          "taken_raw": "24581218196",
+          "harvested_raw": "24581218196",
+          "last_taken_s": 1780876810,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3933,7 +4133,7 @@
           "display": "LUNA-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.47455039611939126",
+          "price_usd": "0.47932380537152536",
           "eris_name": "LUNA-SOLID LP (S)",
           "symbol": "LUNA-SOLID LP (S)"
         },
@@ -3989,7 +4189,7 @@
           "display": "ATOM-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.8567189472741958",
+          "price_usd": "0.8935971467828381",
           "eris_name": "ATOM-LUNA LP (S)",
           "symbol": "ATOM-LUNA LP (S)"
         },
@@ -4004,9 +4204,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.02263789258526609,
-        "tla_total_vp": "503733998321",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "2019211858",
+          "harvested_raw": "2019211858",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "default"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": null,
@@ -4113,7 +4320,7 @@
           "display": "wBNB.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "574.7",
+          "price_usd": "603.36",
           "eris_name": "wBNB.wh",
           "symbol": "wBNB.wh"
         },
@@ -4353,7 +4560,7 @@
           "display": "LUNA-ASTRO LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.011608402755408111",
+          "price_usd": "0.011726919821502394",
           "eris_name": "LUNA-ASTRO LP (S)",
           "symbol": "LUNA-ASTRO LP (S)"
         },
@@ -4373,9 +4580,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "99874447",
-          "harvested_raw": "99874447",
-          "last_taken_s": 1780790441,
+          "taken_raw": "99882823",
+          "harvested_raw": "99882823",
+          "last_taken_s": 1780876810,
           "stake_mechanism": "default"
         }
       },
@@ -4408,7 +4615,7 @@
           "display": "USDC-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.092107687455454",
+          "price_usd": "2.0751286438101983",
           "eris_name": "USDC-SOLID LP (S)",
           "symbol": "USDC-SOLID LP (S)"
         },
@@ -4428,9 +4635,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "205148197",
-          "harvested_raw": "205148197",
-          "last_taken_s": 1780358431,
+          "taken_raw": "205148198",
+          "harvested_raw": "205148198",
+          "last_taken_s": 1780819213,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -4464,7 +4671,7 @@
           "display": "wBNB.axl-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "10.68487926250917",
+          "price_usd": "11.152174981389521",
           "eris_name": "wBNB.axl-LUNA LP",
           "symbol": "wBNB.axl-LUNA LP"
         },
@@ -4498,9 +4705,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "36209405",
-          "harvested_raw": "36209405",
-          "last_taken_s": 1780790441,
+          "taken_raw": "36209441",
+          "harvested_raw": "36209441",
+          "last_taken_s": 1780876810,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -4666,7 +4873,7 @@
           "display": "USDC-EURe LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.1768811229943617",
+          "price_usd": "2.1770465858590344",
           "eris_name": "USDC-EURe LP",
           "symbol": "USDC-EURe LP"
         },
@@ -4695,9 +4902,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.35499593055967016,
-        "tla_total_vp": "7899300644482",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "13615250251",
+          "harvested_raw": "13615250251",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -4734,7 +4948,7 @@
           "display": "ATOM-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.6523562474386437",
+          "price_usd": "0.6804372220622343",
           "eris_name": "ATOM-LUNA LP",
           "symbol": "ATOM-LUNA LP"
         },
@@ -4763,9 +4977,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.04670551442013327,
-        "tla_total_vp": "1039282054806",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "6110663311",
+          "harvested_raw": "6110663311",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -4802,7 +5023,7 @@
           "display": "FUEL",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00281119871740589",
+          "price_usd": "0.002921872211715662",
           "eris_name": "FUEL",
           "symbol": "FUEL"
         },
@@ -4863,7 +5084,7 @@
           "display": "SWTH",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "0.00028084",
+          "price_usd": "0.00028312",
           "eris_name": "SWTH",
           "symbol": "SWTH"
         },
@@ -4921,8 +5142,8 @@
       "symbol": "WBTC.axl",
       "display_name": "WBTC.axl",
       "decimals": 8,
-      "coingecko_id": "axlwbtc",
-      "coingecko_match": "discovered",
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
       "sources": {
         "cosmos_chain_registry": null,
         "eris": {
@@ -4944,12 +5165,6 @@
           "name": "Wrapped BTC (Axelar) on Terra",
           "decimals": 8,
           "logo_url": null
-        },
-        "coingecko": {
-          "cg_id": "axlwbtc",
-          "symbol": "axlwbtc",
-          "name": "axlWBTC",
-          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -4969,8 +5184,9 @@
         "address": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD"
       },
       "scoring": {
-        "confusion_score": 80,
+        "confusion_score": 55,
         "flags": [
+          "no_external_price_source",
           "no_acquisition_guide:useful",
           "shared_base_symbol_with:WBTC,WBTC.osmo,WBTC.axl-WBTC.osmo LP,wBTC.atom-LUNA AMPLP"
         ]
@@ -5011,7 +5227,7 @@
           "display": "stLUNA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.04962083",
+          "price_usd": "0.051449",
           "eris_name": "stLUNA",
           "symbol": "stLUNA"
         },
@@ -5077,7 +5293,7 @@
           "display": "wSOL.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "62.27",
+          "price_usd": "66.34",
           "eris_name": "wSOL.wh",
           "symbol": "wSOL.wh"
         },
@@ -5143,7 +5359,7 @@
           "display": "wBNB.axl",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "575.05",
+          "price_usd": "604.02",
           "eris_name": "wBNB.axl",
           "symbol": "wBNB.axl"
         },
@@ -5210,7 +5426,7 @@
           "display": "LUNA-INJ LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.000001057083457295012",
+          "price_usd": "0.000001103295658099546",
           "eris_name": "LUNA-INJ LP",
           "symbol": "LUNA-INJ LP"
         },
@@ -5239,9 +5455,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.12792826452451592,
-        "tla_total_vp": "2846634948217",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "1695628766049025",
+          "harvested_raw": "1695628766049025",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -5271,14 +5494,14 @@
       "display_name": "WETH.axl",
       "decimals": 18,
       "coingecko_id": "ethereum",
-      "coingecko_match": "mismatch",
+      "coingecko_match": "unverified",
       "sources": {
         "cosmos_chain_registry": null,
         "eris": {
           "display": "WETH.axl",
           "coingecko_id": "ethereum",
           "decimals": 18,
-          "price_usd": "1569.92",
+          "price_usd": "1685.73",
           "eris_name": "WETH.axl",
           "symbol": "WETH.axl"
         },
@@ -5288,13 +5511,7 @@
           "decimals": 18,
           "price_usd": null
         },
-        "skeletonswap": null,
-        "coingecko": {
-          "cg_id": "weth",
-          "symbol": "weth",
-          "name": "WETH",
-          "platform": "terra-2"
-        }
+        "skeletonswap": null
       },
       "bridge": null,
       "appears_in": {
@@ -5312,9 +5529,9 @@
         "address": "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674"
       },
       "scoring": {
-        "confusion_score": 50,
+        "confusion_score": 70,
         "flags": [
-          "cg_mapping_mismatch:claimed=ethereum,actual=weth",
+          "cg_mapping_status_unknown",
           "no_acquisition_guide:useful",
           "shared_base_symbol_with:WETH.wh"
         ]
@@ -5327,8 +5544,6 @@
       },
       "notes": "Axelar-bridged ETH (WETH) on Terra.",
       "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/weth.svg",
-      "coingecko_id_claimed": "ethereum",
-      "coingecko_id_actual": "weth",
       "acquisition_class": "wrapped_disclosed",
       "related_variants": [
         "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat"
@@ -5344,15 +5559,15 @@
       "symbol": "WBTC",
       "display_name": "wBTC.atom",
       "decimals": 8,
-      "coingecko_id": "eureka-bridged-wbtc-terra",
-      "coingecko_match": "discovered",
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
       "sources": {
         "cosmos_chain_registry": null,
         "eris": {
           "display": "wBTC.atom",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "60752",
+          "price_usd": "63215",
           "eris_name": "wBTC.atom",
           "symbol": "wBTC.atom"
         },
@@ -5362,13 +5577,7 @@
           "decimals": 8,
           "price_usd": null
         },
-        "skeletonswap": null,
-        "coingecko": {
-          "cg_id": "eureka-bridged-wbtc-terra",
-          "symbol": "wbtc",
-          "name": "Eureka Bridged WBTC (Terra)",
-          "platform": "terra-2"
-        }
+        "skeletonswap": null
       },
       "bridge": null,
       "appears_in": {
@@ -5387,8 +5596,9 @@
         "address": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB"
       },
       "scoring": {
-        "confusion_score": 90,
+        "confusion_score": 65,
         "flags": [
+          "no_external_price_source",
           "shared_base_symbol_with:WBTC.axl,WBTC.osmo,WBTC.axl-WBTC.osmo LP,wBTC.atom-LUNA AMPLP"
         ]
       },
@@ -5449,7 +5659,7 @@
           "display": "WBTC.osmo",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "60752",
+          "price_usd": "63215",
           "eris_name": "WBTC.osmo",
           "symbol": "WBTC.osmo"
         },
@@ -5517,15 +5727,15 @@
       "symbol": "ATOM",
       "display_name": "ATOM",
       "decimals": 6,
-      "coingecko_id": "cosmos",
-      "coingecko_match": "discovered",
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
       "sources": {
         "cosmos_chain_registry": null,
         "eris": {
           "display": "ATOM",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.63",
+          "price_usd": "1.71",
           "eris_name": "ATOM",
           "symbol": "ATOM"
         },
@@ -5535,13 +5745,7 @@
           "decimals": 6,
           "price_usd": null
         },
-        "skeletonswap": null,
-        "coingecko": {
-          "cg_id": "cosmos",
-          "symbol": "atom",
-          "name": "Cosmos Hub",
-          "platform": "terra-2"
-        }
+        "skeletonswap": null
       },
       "bridge": null,
       "appears_in": {
@@ -5560,8 +5764,10 @@
         "address": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2"
       },
       "scoring": {
-        "confusion_score": 100,
-        "flags": []
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
       },
       "override": {
         "display_name": "ATOM",
@@ -5612,7 +5818,7 @@
           "display": "dATOM",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.907061937717597",
+          "price_usd": "2.8834411626830105",
           "eris_name": "dATOM",
           "symbol": "dATOM"
         },
@@ -5673,7 +5879,7 @@
           "display": "LUNA-PAXG LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "29.30067276538564",
+          "price_usd": "29.968229832948204",
           "eris_name": "LUNA-PAXG LP",
           "symbol": "LUNA-PAXG LP"
         },
@@ -5702,9 +5908,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.12791878872739568,
-        "tla_total_vp": "2846424094616",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "71314697",
+          "harvested_raw": "71314697",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -5836,15 +6049,15 @@
       "symbol": "INJ",
       "display_name": "INJ",
       "decimals": 18,
-      "coingecko_id": "injective-protocol",
-      "coingecko_match": "discovered",
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
       "sources": {
         "cosmos_chain_registry": null,
         "eris": {
           "display": "INJ",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "5.17",
+          "price_usd": "5.43",
           "eris_name": "INJ",
           "symbol": "INJ"
         },
@@ -5859,12 +6072,6 @@
           "name": "INJ on Terra",
           "decimals": 18,
           "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png"
-        },
-        "coingecko": {
-          "cg_id": "injective-protocol",
-          "symbol": "inj",
-          "name": "Injective",
-          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -5883,8 +6090,10 @@
         "address": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211"
       },
       "scoring": {
-        "confusion_score": 100,
-        "flags": []
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
       },
       "override": null,
       "notes": null,
@@ -5991,7 +6200,7 @@
           "display": "LUNA-wBTC.atom LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "110.6819947107195",
+          "price_usd": "114.9723259614266",
           "eris_name": "LUNA-wBTC.atom LP",
           "symbol": "LUNA-wBTC.atom LP"
         },
@@ -6020,9 +6229,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.3198136091830189,
-        "tla_total_vp": "7116430447951",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "46469769",
+          "harvested_raw": "46469769",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -6060,7 +6276,7 @@
           "display": "LUNA-INJ LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.000001050406826523843",
+          "price_usd": "0.000001096261932986349",
           "eris_name": "LUNA-INJ LP (S)",
           "symbol": "LUNA-INJ LP (S)"
         },
@@ -6080,9 +6296,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "605986139516444",
-          "harvested_raw": "605986139516444",
-          "last_taken_s": 1780790441,
+          "taken_raw": "605988511095959",
+          "harvested_raw": "605988511095959",
+          "last_taken_s": 1780876810,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -6163,7 +6379,7 @@
           "display": "USDC-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.1675256532599345",
+          "price_usd": "2.167648496065187",
           "eris_name": "USDC-EURe LP (S)",
           "symbol": "USDC-EURe LP (S)"
         },
@@ -6183,9 +6399,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "785205556",
-          "harvested_raw": "785205556",
-          "last_taken_s": 1780790441,
+          "taken_raw": "785485625",
+          "harvested_raw": "785485625",
+          "last_taken_s": 1780876810,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -6219,7 +6435,7 @@
           "display": "PAXG-wBTC.atom LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "32328.785629694295",
+          "price_usd": "33126.267967344145",
           "eris_name": "PAXG-wBTC.atom LP",
           "symbol": "PAXG-wBTC.atom LP"
         },
@@ -6248,9 +6464,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.2926079685193383,
-        "tla_total_vp": "7058994522137",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "30668",
+          "harvested_raw": "30668",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -6335,7 +6558,7 @@
           "display": "ampROAR-ROAR LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "6.148224398453722e-7",
+          "price_usd": "6.495137048720661e-7",
           "eris_name": "ampROAR-ROAR LP",
           "symbol": "ampROAR-ROAR LP"
         },
@@ -6350,9 +6573,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.01980312629794064,
-        "tla_total_vp": "477738732700",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "426311064605306",
+          "harvested_raw": "426311064605306",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": null,
@@ -6384,7 +6614,7 @@
           "display": "ampROAR-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "4.5238690816433286e-7",
+          "price_usd": "4.779092984499867e-7",
           "eris_name": "ampROAR-ROAR LP (S)",
           "symbol": "ampROAR-ROAR LP (S)"
         },
@@ -6399,9 +6629,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.06680794389976279,
-        "tla_total_vp": "1611702211700",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "13090581464943986",
+          "harvested_raw": "13090581464943986",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "default"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": null,
@@ -6433,7 +6670,7 @@
           "display": "LUNA-arbLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.17113574143198246",
+          "price_usd": "0.1775320478988918",
           "eris_name": "LUNA-arbLUNA LP (S)",
           "symbol": "LUNA-arbLUNA LP (S)"
         },
@@ -6453,9 +6690,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "6979334221",
-          "harvested_raw": "6979334221",
-          "last_taken_s": 1780790441,
+          "taken_raw": "6979378805",
+          "harvested_raw": "6979378805",
+          "last_taken_s": 1780876810,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -6489,7 +6726,7 @@
           "display": "PAXG-wBTC.atom AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "34518.20347507967",
+          "price_usd": "35428.500546039286",
           "eris_name": "PAXG-wBTC.atom AMPLP",
           "symbol": "PAXG-wBTC.atom AMPLP"
         },
@@ -6504,7 +6741,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr"
       },
       "wallet_import": null,
@@ -6536,7 +6773,7 @@
           "display": "ampROAR-ROAR AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000011386601793537583",
+          "price_usd": "0.0000012029089111782483",
           "eris_name": "ampROAR-ROAR AMPLP",
           "symbol": "ampROAR-ROAR AMPLP"
         },
@@ -6551,7 +6788,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh"
       },
       "wallet_import": null,
@@ -6583,7 +6820,7 @@
           "display": "USDC-USDt AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.222463123593501",
+          "price_usd": "2.2227746690047687",
           "eris_name": "USDC-USDt AMPLP",
           "symbol": "USDC-USDt AMPLP"
         },
@@ -6594,11 +6831,11 @@
       "appears_in": {
         "tla_pools_count": 1,
         "tla_pools": [
-          "single"
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "dewhitelisted",
         "wraps_lp_address": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
       },
       "wallet_import": null,
@@ -6630,7 +6867,7 @@
           "display": "wBTC.creda.a AMPLP",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "61647.29998218961",
+          "price_usd": "64168.90705708378",
           "eris_name": "wBTC.creda.a AMPLP",
           "symbol": "wBTC.creda.a AMPLP"
         },
@@ -6645,7 +6882,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc"
       },
       "wallet_import": null,
@@ -6677,7 +6914,7 @@
           "display": "LUNA-arbLUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.23570153887655945",
+          "price_usd": "0.24509027271956524",
           "eris_name": "LUNA-arbLUNA AMPLP",
           "symbol": "LUNA-arbLUNA AMPLP"
         },
@@ -6692,7 +6929,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0"
       },
       "wallet_import": null,
@@ -6724,7 +6961,7 @@
           "display": "ATOM-stATOM AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "5.602810701771244",
+          "price_usd": "5.877795276091306",
           "eris_name": "ATOM-stATOM AMPLP",
           "symbol": "ATOM-stATOM AMPLP"
         },
@@ -6771,7 +7008,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0470191250992034",
+          "price_usd": "1.0472021390474116",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -6782,11 +7019,11 @@
       "appears_in": {
         "tla_pools_count": 1,
         "tla_pools": [
-          "single"
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "dewhitelisted",
         "wraps_lp_address": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP"
       },
       "wallet_import": null,
@@ -6818,7 +7055,7 @@
           "display": "ampCAPA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.002508984865257699",
+          "price_usd": "0.002660360392692129",
           "eris_name": "ampCAPA",
           "symbol": "ampCAPA"
         },
@@ -6833,7 +7070,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
       },
       "wallet_import": null,
@@ -6865,7 +7102,7 @@
           "display": "ampROAR-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000012690531686892741",
+          "price_usd": "0.0000013418514320566665",
           "eris_name": "ampROAR-ROAR LP (S)",
           "symbol": "ampROAR-ROAR LP (S)"
         },
@@ -6880,7 +7117,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP"
       },
       "wallet_import": null,
@@ -6912,7 +7149,7 @@
           "display": "LUNA-arbLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.3112435893220658",
+          "price_usd": "0.3228765151300043",
           "eris_name": "LUNA-arbLUNA LP (S)",
           "symbol": "LUNA-arbLUNA LP (S)"
         },
@@ -6959,7 +7196,7 @@
           "display": "USDt-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.7286480012158476",
+          "price_usd": "1.764138088721976",
           "eris_name": "USDt-LUNA AMPLP",
           "symbol": "USDt-LUNA AMPLP"
         },
@@ -6974,7 +7211,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4"
       },
       "wallet_import": null,
@@ -7006,7 +7243,7 @@
           "display": "LUNA-USDC AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.6704903130299193",
+          "price_usd": "1.7044309839033942",
           "eris_name": "LUNA-USDC AMPLP",
           "symbol": "LUNA-USDC AMPLP"
         },
@@ -7021,7 +7258,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
       },
       "wallet_import": null,
@@ -7053,7 +7290,7 @@
           "display": "LUNA-EURe AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.6426011317301195",
+          "price_usd": "1.6774403607355124",
           "eris_name": "LUNA-EURe AMPLP",
           "symbol": "LUNA-EURe AMPLP"
         },
@@ -7068,7 +7305,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc"
       },
       "wallet_import": null,
@@ -7100,7 +7337,7 @@
           "display": "LUNA-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.4058364140846966",
+          "price_usd": "1.4316222902858309",
           "eris_name": "LUNA-EURe LP (S)",
           "symbol": "LUNA-EURe LP (S)"
         },
@@ -7147,7 +7384,7 @@
           "display": "LUNA-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0407291407008885",
+          "price_usd": "1.0598782460634633",
           "eris_name": "LUNA-USDt LP (S)",
           "symbol": "LUNA-USDt LP (S)"
         },
@@ -7194,7 +7431,7 @@
           "display": "xASTRO",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0008383276175676589",
+          "price_usd": "0.0008223046932522853",
           "eris_name": "xASTRO",
           "symbol": "xASTRO"
         },
@@ -7210,9 +7447,16 @@
         "is_lockable": false,
         "is_amplp_underlying": false,
         "is_single_asset_stake": true,
-        "tla_distribution_pct": 0.03998210938480848,
-        "tla_total_vp": "964544788575",
-        "gauge_status": "active"
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "1172753302754",
+          "harvested_raw": "1172753302754",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "default"
+        }
       },
       "wallet_import": null,
       "scoring": {
@@ -7249,7 +7493,7 @@
           "display": "USDt-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.4614923965185686",
+          "price_usd": "0.470044678191754",
           "eris_name": "USDt-LUNA LP",
           "symbol": "USDt-LUNA LP"
         },
@@ -7278,9 +7522,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.03493267077327624,
-        "tla_total_vp": "958957006621",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "6355781140",
+          "harvested_raw": "6355781140",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -7317,7 +7568,7 @@
           "display": "LUNA-USDC LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.47850192791550156",
+          "price_usd": "0.48740287016454886",
           "eris_name": "LUNA-USDC LP",
           "symbol": "LUNA-USDC LP"
         },
@@ -7346,9 +7597,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.6220692684826311,
-        "tla_total_vp": "17076784294185",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "151363125363",
+          "harvested_raw": "151363125363",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -7385,7 +7643,7 @@
           "display": "LUNA-EURe LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.48535763782716995",
+          "price_usd": "0.4943158751221636",
           "eris_name": "LUNA-EURe LP",
           "symbol": "LUNA-EURe LP"
         },
@@ -7414,9 +7672,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.24265982320946483,
-        "tla_total_vp": "6661395551529",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "13314249051",
+          "harvested_raw": "13314249051",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -7453,7 +7718,7 @@
           "display": "LUNA-USDC LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.5190384573251456",
+          "price_usd": "0.5286157338100627",
           "eris_name": "LUNA-USDC LP (S)",
           "symbol": "LUNA-USDC LP (S)"
         },
@@ -7468,9 +7733,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.10033823753462787,
-        "tla_total_vp": "2754443155530",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "46886923988",
+          "harvested_raw": "46886923988",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "default"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": null,
@@ -7502,7 +7774,7 @@
           "display": "ampLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.2693154798076457",
+          "price_usd": "0.2794081037588426",
           "eris_name": "ampLUNA-LUNA LP (S)",
           "symbol": "ampLUNA-LUNA LP (S)"
         },
@@ -7549,7 +7821,7 @@
           "display": "USDC-SOLID AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "5.626436433844138",
+          "price_usd": "5.588842295404203",
           "eris_name": "USDC-SOLID AMPLP",
           "symbol": "USDC-SOLID AMPLP"
         },
@@ -7564,7 +7836,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
       },
       "wallet_import": null,
@@ -7596,7 +7868,7 @@
           "display": "stLUNA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.1064584936447936",
+          "price_usd": "0.11039470006845975",
           "eris_name": "stLUNA-LUNA LP",
           "symbol": "stLUNA-LUNA LP"
         },
@@ -7625,9 +7897,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.013367719473535064,
-        "tla_total_vp": "351866828689",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "4012900767",
+          "harvested_raw": "4012900767",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -7664,7 +7943,7 @@
           "display": "CAPA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.015440076618430516",
+          "price_usd": "0.016182889955280125",
           "eris_name": "CAPA-LUNA LP",
           "symbol": "CAPA-LUNA LP"
         },
@@ -7693,9 +7972,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.22524916301313777,
-        "tla_total_vp": "5929037395735",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "250858830255",
+          "harvested_raw": "250858830255",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -7862,7 +8148,7 @@
           "display": "FUEL-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.02364619480096324",
+          "price_usd": "0.024549084859504865",
           "eris_name": "FUEL-LUNA LP",
           "symbol": "FUEL-LUNA LP"
         },
@@ -7891,9 +8177,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.15690607782151425,
-        "tla_total_vp": "4130101930579",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "57747415235",
+          "harvested_raw": "57747415235",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -7930,7 +8223,7 @@
           "display": "bLUNA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.11542605872070834",
+          "price_usd": "0.11970336787850237",
           "eris_name": "bLUNA-LUNA LP",
           "symbol": "bLUNA-LUNA LP"
         },
@@ -7964,9 +8257,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "5061518172",
-          "harvested_raw": "5061518172",
-          "last_taken_s": 1780790441,
+          "taken_raw": "5071621016",
+          "harvested_raw": "5071621016",
+          "last_taken_s": 1780876810,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -8005,7 +8298,7 @@
           "display": "LUNA-ampLUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.14226607338985245",
+          "price_usd": "0.14758152233634095",
           "eris_name": "LUNA-ampLUNA LP",
           "symbol": "LUNA-ampLUNA LP"
         },
@@ -8034,9 +8327,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.18476154023581975,
-        "tla_total_vp": "4863316989497",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "64391654252",
+          "harvested_raw": "64391654252",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -8073,7 +8373,7 @@
           "display": "bLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.14648187269591947",
+          "price_usd": "0.15193389217752698",
           "eris_name": "bLUNA-LUNA LP (S)",
           "symbol": "bLUNA-LUNA LP (S)"
         },
@@ -8088,9 +8388,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.10511175912649444,
-        "tla_total_vp": "2766765222369",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "46753586336",
+          "harvested_raw": "46753586336",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "default"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": null,
@@ -8122,7 +8429,7 @@
           "display": "ROAR-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00020729303948236307",
+          "price_usd": "0.00021694509522466468",
           "eris_name": "ROAR-LUNA LP",
           "symbol": "ROAR-LUNA LP"
         },
@@ -8151,9 +8458,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.04847123423280158,
-        "tla_total_vp": "1275866052239",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "17973112798048",
+          "harvested_raw": "17973112798048",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -8265,7 +8579,7 @@
           "display": "SOLID-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.289947944228466",
+          "price_usd": "2.3154898102632773",
           "eris_name": "SOLID-LUNA AMPLP",
           "symbol": "SOLID-LUNA AMPLP"
         },
@@ -8276,11 +8590,11 @@
       "appears_in": {
         "tla_pools_count": 1,
         "tla_pools": [
-          "project"
+          "stable"
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "dewhitelisted",
         "wraps_lp_address": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8"
       },
       "wallet_import": null,
@@ -8312,7 +8626,7 @@
           "display": "ASTRO-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.04268073560387294",
+          "price_usd": "0.04310016301311513",
           "eris_name": "ASTRO-LUNA AMPLP",
           "symbol": "ASTRO-LUNA AMPLP"
         },
@@ -8327,7 +8641,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
       },
       "wallet_import": null,
@@ -8359,7 +8673,7 @@
           "display": "stLUNA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.28818040514744586",
+          "price_usd": "0.2992251570600717",
           "eris_name": "stLUNA-LUNA AMPLP",
           "symbol": "stLUNA-LUNA AMPLP"
         },
@@ -8374,7 +8688,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc"
       },
       "wallet_import": null,
@@ -8406,7 +8720,7 @@
           "display": "CAPA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.07670344111908006",
+          "price_usd": "0.08055002571716662",
           "eris_name": "CAPA-LUNA AMPLP",
           "symbol": "CAPA-LUNA AMPLP"
         },
@@ -8421,7 +8735,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
       },
       "wallet_import": null,
@@ -8453,7 +8767,7 @@
           "display": "FUEL-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.049804702532566726",
+          "price_usd": "0.051798954210650026",
           "eris_name": "FUEL-LUNA AMPLP",
           "symbol": "FUEL-LUNA AMPLP"
         },
@@ -8468,7 +8782,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44"
       },
       "wallet_import": null,
@@ -8500,7 +8814,7 @@
           "display": "bLUNA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.1316247875616937",
+          "price_usd": "0.13650236820050418",
           "eris_name": "bLUNA-LUNA AMPLP",
           "symbol": "bLUNA-LUNA AMPLP"
         },
@@ -8547,7 +8861,7 @@
           "display": "CAPA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.03450884409253133",
+          "price_usd": "0.036170792774906306",
           "eris_name": "CAPA-LUNA LP (S)",
           "symbol": "CAPA-LUNA LP (S)"
         },
@@ -8594,7 +8908,7 @@
           "display": "LUNA-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.2830922782108916",
+          "price_usd": "2.306057455130786",
           "eris_name": "LUNA-SOLID LP (S)",
           "symbol": "LUNA-SOLID LP (S)"
         },
@@ -8641,7 +8955,7 @@
           "display": "USDC-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.367544291154316",
+          "price_usd": "2.3483298701698603",
           "eris_name": "USDC-SOLID LP (S)",
           "symbol": "USDC-SOLID LP (S)"
         },
@@ -8688,7 +9002,7 @@
           "display": "wBNB.axl-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "28.96559957812151",
+          "price_usd": "30.2323898099168",
           "eris_name": "wBNB.axl-LUNA AMPLP",
           "symbol": "wBNB.axl-LUNA AMPLP"
         },
@@ -8735,7 +9049,7 @@
           "display": "USDC-EURe AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "3.129074545439551",
+          "price_usd": "3.1303312654169555",
           "eris_name": "USDC-EURe AMPLP",
           "symbol": "USDC-EURe AMPLP"
         },
@@ -8750,7 +9064,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
       },
       "wallet_import": null,
@@ -8782,7 +9096,7 @@
           "display": "LUNA-wBTC.atom AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "220.73604120457472",
+          "price_usd": "229.7155521566522",
           "eris_name": "LUNA-wBTC.atom AMPLP",
           "symbol": "LUNA-wBTC.atom AMPLP"
         },
@@ -8797,7 +9111,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
       },
       "wallet_import": null,
@@ -8829,7 +9143,7 @@
           "display": "USDC-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.9335709496748454",
+          "price_usd": "2.9337372074925203",
           "eris_name": "USDC-EURe LP (S)",
           "symbol": "USDC-EURe LP (S)"
         },
@@ -9082,7 +9396,7 @@
           "display": "USDC-USDt LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.005955110614368",
+          "price_usd": "2.0061068058541967",
           "eris_name": "USDC-USDt LP",
           "symbol": "USDC-USDt LP"
         },
@@ -9107,13 +9421,20 @@
       "appears_in": {
         "tla_pools_count": 1,
         "tla_pools": [
-          "single"
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.10095244635242873,
-        "tla_total_vp": "2435418178815",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "dewhitelisted",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "7875816820",
+          "harvested_raw": "7371194420",
+          "last_taken_s": 1767885703,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -9150,7 +9471,7 @@
           "display": "LUNA-arbLUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.16610662996021075",
+          "price_usd": "0.17229592020048964",
           "eris_name": "LUNA-arbLUNA LP",
           "symbol": "LUNA-arbLUNA LP"
         },
@@ -9179,9 +9500,16 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.09955224517282105,
-        "tla_total_vp": "2401639151857",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "14398091959",
+          "harvested_raw": "14398091959",
+          "last_taken_s": 1780876810,
+          "stake_mechanism": "astroport"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": {
@@ -9218,7 +9546,7 @@
           "display": "ATOM-stATOM LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.7094129018255617",
+          "price_usd": "2.842390222160559",
           "eris_name": "ATOM-stATOM LP",
           "symbol": "ATOM-stATOM LP"
         },
@@ -9252,9 +9580,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "188223562",
-          "harvested_raw": "188223562",
-          "last_taken_s": 1780761643,
+          "taken_raw": "188223564",
+          "harvested_raw": "188223564",
+          "last_taken_s": 1780848000,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -9293,7 +9621,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.001950514848095",
+          "price_usd": "1.0020254286062646",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -9304,13 +9632,20 @@
       "appears_in": {
         "tla_pools_count": 1,
         "tla_pools": [
-          "single"
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.0473088204811379,
-        "tla_total_vp": "1141297369019",
-        "gauge_status": "active",
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "dewhitelisted",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "2462013898",
+          "harvested_raw": "2212490007",
+          "last_taken_s": 1747357353,
+          "stake_mechanism": "default"
+        },
         "is_wrapped_by_amplp": true
       },
       "wallet_import": null,
@@ -9342,7 +9677,7 @@
           "display": "ATOM-stATOM LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.9805098194802617",
+          "price_usd": "2.0777127554056736",
           "eris_name": "ATOM-stATOM LP (S)",
           "symbol": "ATOM-stATOM LP (S)"
         },
@@ -9362,9 +9697,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "88",
-          "harvested_raw": "88",
-          "last_taken_s": 1780747212,
+          "taken_raw": "89",
+          "harvested_raw": "89",
+          "last_taken_s": 1780833658,
           "stake_mechanism": "default"
         }
       },
@@ -9453,7 +9788,7 @@
           "display": "bLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.33756237830324104",
+          "price_usd": "0.35050142317205957",
           "eris_name": "bLUNA-LUNA LP (S)",
           "symbol": "bLUNA-LUNA LP (S)"
         },
@@ -9468,7 +9803,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k"
       },
       "wallet_import": null,
@@ -9547,7 +9882,7 @@
           "display": "ROAR-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.000605973105258684",
+          "price_usd": "0.0006346354575989304",
           "eris_name": "ROAR-LUNA AMPLP",
           "symbol": "ROAR-LUNA AMPLP"
         },
@@ -9562,7 +9897,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
       },
       "wallet_import": null,
@@ -9594,7 +9929,7 @@
           "display": "LUNA-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00022403229928393204",
+          "price_usd": "0.0002344732714218351",
           "eris_name": "LUNA-ROAR LP (S)",
           "symbol": "LUNA-ROAR LP (S)"
         },
@@ -9641,7 +9976,7 @@
           "display": "LUNA-PAXG AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "44.445777706875454",
+          "price_usd": "45.56873657167991",
           "eris_name": "LUNA-PAXG AMPLP",
           "symbol": "LUNA-PAXG AMPLP"
         },
@@ -9656,7 +9991,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
       },
       "wallet_import": null,
@@ -9688,7 +10023,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0470191250992034",
+          "price_usd": "1.0472021390474116",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -9699,11 +10034,11 @@
       "appears_in": {
         "tla_pools_count": 1,
         "tla_pools": [
-          "single"
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "dewhitelisted",
         "wraps_lp_address": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP"
       },
       "wallet_import": null,
@@ -9735,7 +10070,7 @@
           "display": "LUNA-INJ LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000023829223266560448",
+          "price_usd": "0.000002486947885345819",
           "eris_name": "LUNA-INJ LP (S)",
           "symbol": "LUNA-INJ LP (S)"
         },
@@ -9932,7 +10267,7 @@
           "display": "ATOM-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.0618108538709983",
+          "price_usd": "2.1534871601172383",
           "eris_name": "ATOM-LUNA AMPLP",
           "symbol": "ATOM-LUNA AMPLP"
         },
@@ -9947,7 +10282,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
       },
       "wallet_import": null,
@@ -9979,7 +10314,7 @@
           "display": "ATOM-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.7302150118305932",
+          "price_usd": "2.8529623279397613",
           "eris_name": "ATOM-LUNA LP (S)",
           "symbol": "ATOM-LUNA LP (S)"
         },
@@ -9994,7 +10329,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su"
       },
       "wallet_import": null,
@@ -10026,7 +10361,7 @@
           "display": "LUNA-INJ AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000022036907756302817",
+          "price_usd": "0.0000023031719414455957",
           "eris_name": "LUNA-INJ AMPLP",
           "symbol": "LUNA-INJ AMPLP"
         },
@@ -10041,7 +10376,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "inactive_below_threshold",
         "wraps_lp_address": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
       },
       "wallet_import": null,
@@ -10073,7 +10408,7 @@
           "display": "USDC-USDt AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.222463123593501",
+          "price_usd": "2.2227746690047687",
           "eris_name": "USDC-USDt AMPLP",
           "symbol": "USDC-USDt AMPLP"
         },
@@ -10084,11 +10419,11 @@
       "appears_in": {
         "tla_pools_count": 1,
         "tla_pools": [
-          "single"
+          "bluechip"
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "gauge_status": "active",
+        "gauge_status": "dewhitelisted",
         "wraps_lp_address": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
       },
       "wallet_import": null,
@@ -13371,7 +13706,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 263894078,
+          "total_vp": 250004916,
           "lock_count": 1,
           "token_ids": [
             "51"
@@ -14398,7 +14733,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5579131808,
+          "total_vp": 5558758484,
           "lock_count": 4,
           "token_ids": [
             "1152",
@@ -14805,7 +15140,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 39734656,
+          "total_vp": 36678144,
           "lock_count": 1,
           "token_ids": [
             "160"
@@ -14905,7 +15240,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 196530048,
+          "total_vp": 184246920,
           "lock_count": 1,
           "token_ids": [
             "71"
@@ -15280,7 +15615,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 1028864480,
+          "total_vp": 1003142868,
           "lock_count": 2,
           "token_ids": [
             "146",
@@ -15401,7 +15736,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 610173,
+          "total_vp": 587574,
           "lock_count": 1,
           "token_ids": [
             "505"
@@ -16114,7 +16449,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5085647874,
+          "total_vp": 5092512579,
           "lock_count": 3,
           "token_ids": [
             "583",
@@ -16365,7 +16700,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 194334064,
+          "total_vp": 182188185,
           "lock_count": 1,
           "token_ids": [
             "308"
@@ -16642,7 +16977,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 315684489,
+          "total_vp": 312612540,
           "lock_count": 2,
           "token_ids": [
             "248",
@@ -16694,7 +17029,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 166537550,
+          "total_vp": 162712730,
           "lock_count": 9,
           "token_ids": [
             "100",
@@ -16856,7 +17191,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 353862522,
+          "total_vp": 339713001,
           "lock_count": 2,
           "token_ids": [
             "205",
@@ -17204,7 +17539,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 40159018064,
+          "total_vp": 39594753103,
           "lock_count": 5,
           "token_ids": [
             "280",
@@ -17650,7 +17985,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5171489630442,
+          "total_vp": 5178134437137,
           "lock_count": 1,
           "token_ids": [
             "1000"
@@ -18690,7 +19025,6 @@
       ],
       "verified": false,
       "daodao_name": "RyanLion",
-      "daodao_avatar": "https://i.stargaze-apis.com/U7G1af660pLEpczHUW1j0tsKv7L1L5KkK7sxng7SUlA/resize:fit:512:::/dpr:2/plain/ipfs://bafybeie2e7jrkvurzyowkpvhibt6itb3kygqfxg3utz3nxo5qhs5vo7vgi/42.jpg",
       "headline_name": "RyanLion"
     },
     "terra1nuzsnr2jmthuwchjr2vzmj3hjnhz5ud7t4jprv": {
@@ -19155,7 +19489,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 15841571464,
+          "total_vp": 15446699868,
           "lock_count": 8,
           "token_ids": [
             "1098",
@@ -19389,7 +19723,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 15462043293,
+          "total_vp": 15423521210,
           "lock_count": 2,
           "token_ids": [
             "400",
@@ -19547,7 +19881,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 501787889,
+          "total_vp": 489549160,
           "lock_count": 1,
           "token_ids": [
             "26"
@@ -20186,7 +20520,7 @@
         {
           "dao": "Lion DAO ROAR Staking",
           "staking_contract": "terra1xuqh84yz35h70p3ppt76dz5kgwwtwmsv34pg0gw6ld4ntptgjcrqe2e70t",
-          "stake_balance": "128673849558184845"
+          "stake_balance": "128700059794166917"
         }
       ],
       "verified": false,
@@ -20390,7 +20724,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 295340968,
+          "total_vp": 290577404,
           "lock_count": 1,
           "token_ids": [
             "762"
@@ -21258,7 +21592,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 991021266,
+          "total_vp": 958433090,
           "lock_count": 5,
           "token_ids": [
             "539",
@@ -21551,7 +21885,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 299415838365,
+          "total_vp": 301687997562,
           "lock_count": 1,
           "token_ids": [
             "1269"
@@ -21767,7 +22101,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 2313816583,
+          "total_vp": 2213546819,
           "lock_count": 3,
           "token_ids": [
             "473",
@@ -21941,7 +22275,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 14789519484,
+          "total_vp": 14544630047,
           "lock_count": 3,
           "token_ids": [
             "250",
@@ -21971,7 +22305,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 62490666546,
+          "total_vp": 61796535938,
           "lock_count": 2,
           "token_ids": [
             "1197",
@@ -22453,7 +22787,7 @@
       ],
       "verified": false,
       "daodao_name": "Cookso",
-      "daodao_avatar": "ipfs://bafybeia4nhuub3mshjejilpfuexqbrnd77jy33uhi6llvi6gxnawjn4siq/metadata.json",
+      "daodao_avatar": "ipfs://bafkreif3e4ri5otfgon5pq6jceswlsmuvquqvgafsyzkzklzcxv5xgmwky",
       "headline_name": "Cookso"
     },
     "terra1xhpknfxfp8agkse5u6gk8zugh0jh4a946d5swp": {
@@ -22981,7 +23315,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 78661701630,
+          "total_vp": 77615684382,
           "lock_count": 4,
           "token_ids": [
             "1053",
@@ -23225,7 +23559,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 13748661300,
+          "total_vp": 13565345816,
           "lock_count": 2,
           "token_ids": [
             "1056",
@@ -24827,7 +25161,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 18876164460,
+          "total_vp": 18673445815,
           "lock_count": 2,
           "token_ids": [
             "1208",
@@ -24895,7 +25229,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 1124994,
+          "total_vp": 1038456,
           "lock_count": 1,
           "token_ids": [
             "154"
@@ -25533,7 +25867,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 30674047425,
+          "total_vp": 30265060126,
           "lock_count": 2,
           "token_ids": [
             "1055",
@@ -25605,7 +25939,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 60121043009,
+          "total_vp": 57440398204,
           "lock_count": 3,
           "token_ids": [
             "1096",
@@ -25628,7 +25962,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 3914575135,
+          "total_vp": 3797124980,
           "lock_count": 3,
           "token_ids": [
             "1097",
@@ -25651,7 +25985,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 379618290,
+          "total_vp": 350800983,
           "lock_count": 2,
           "token_ids": [
             "1102",
@@ -25673,7 +26007,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 463464399,
+          "total_vp": 454943526,
           "lock_count": 3,
           "token_ids": [
             "1110",
@@ -25698,7 +26032,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 89453708,
+          "total_vp": 83891426,
           "lock_count": 10,
           "token_ids": [
             "112",
@@ -25752,7 +26086,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 68686749658,
+          "total_vp": 67807075232,
           "lock_count": 4,
           "token_ids": [
             "1123",
@@ -25776,7 +26110,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 70994890483,
+          "total_vp": 70078286016,
           "lock_count": 3,
           "token_ids": [
             "1127",
@@ -25799,7 +26133,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 65967844773,
+          "total_vp": 65275365845,
           "lock_count": 2,
           "token_ids": [
             "1130",
@@ -25821,7 +26155,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 46649263635,
+          "total_vp": 46073346800,
           "lock_count": 1,
           "token_ids": [
             "1131"
@@ -25842,7 +26176,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 10786879211,
+          "total_vp": 10780540342,
           "lock_count": 7,
           "token_ids": [
             "1154",
@@ -25869,7 +26203,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 131138348,
+          "total_vp": 129480781,
           "lock_count": 3,
           "token_ids": [
             "116",
@@ -25917,7 +26251,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 262975121691,
+          "total_vp": 262940160153,
           "lock_count": 10,
           "token_ids": [
             "117",
@@ -25968,7 +26302,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 770192294,
+          "total_vp": 761538448,
           "lock_count": 1,
           "token_ids": [
             "1190"
@@ -26010,7 +26344,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 11762816,
+          "total_vp": 10907416,
           "lock_count": 5,
           "token_ids": [
             "120",
@@ -26036,7 +26370,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 35295661232,
+          "total_vp": 34956279874,
           "lock_count": 2,
           "token_ids": [
             "1214",
@@ -26060,7 +26394,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 297988989880,
+          "total_vp": 290619237196,
           "lock_count": 3,
           "token_ids": [
             "1222",
@@ -26313,7 +26647,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 12178257,
+          "total_vp": 11241468,
           "lock_count": 1,
           "token_ids": [
             "130"
@@ -26467,7 +26801,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 329809463,
+          "total_vp": 306444079,
           "lock_count": 2,
           "token_ids": [
             "222",
@@ -26489,7 +26823,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 20803123449,
+          "total_vp": 20798753817,
           "lock_count": 2,
           "token_ids": [
             "223",
@@ -26534,7 +26868,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 87935899,
+          "total_vp": 81531137,
           "lock_count": 2,
           "token_ids": [
             "240",
@@ -26709,7 +27043,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 10519320,
+          "total_vp": 9767940,
           "lock_count": 2,
           "token_ids": [
             "3",
@@ -26822,7 +27156,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 72547792884,
+          "total_vp": 72697634829,
           "lock_count": 3,
           "token_ids": [
             "337",
@@ -26931,7 +27265,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 2868749988,
+          "total_vp": 2758413450,
           "lock_count": 1,
           "token_ids": [
             "382"
@@ -27019,7 +27353,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 103836,
+          "total_vp": 95183,
           "lock_count": 1,
           "token_ids": [
             "43"
@@ -27246,7 +27580,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 247844401423,
+          "total_vp": 244295805923,
           "lock_count": 3,
           "token_ids": [
             "478",
@@ -27269,7 +27603,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 16581960,
+          "total_vp": 16167411,
           "lock_count": 1,
           "token_ids": [
             "480"
@@ -27290,7 +27624,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 37319646,
+          "total_vp": 35884275,
           "lock_count": 1,
           "token_ids": [
             "484"
@@ -27332,7 +27666,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 138159008,
+          "total_vp": 132845200,
           "lock_count": 1,
           "token_ids": [
             "497"
@@ -27442,7 +27776,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 10941476,
+          "total_vp": 10550709,
           "lock_count": 1,
           "token_ids": [
             "510"
@@ -27527,7 +27861,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 18718897236,
+          "total_vp": 18358918443,
           "lock_count": 2,
           "token_ids": [
             "538",
@@ -27618,7 +27952,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 4250493902,
+          "total_vp": 4147387086,
           "lock_count": 8,
           "token_ids": [
             "592",
@@ -27667,7 +28001,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 3288444,
+          "total_vp": 3201906,
           "lock_count": 1,
           "token_ids": [
             "626"
@@ -27709,7 +28043,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 31208190,
+          "total_vp": 31035114,
           "lock_count": 4,
           "token_ids": [
             "657",
@@ -27733,7 +28067,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 2008560,
+          "total_vp": 1966715,
           "lock_count": 1,
           "token_ids": [
             "685"
@@ -27754,7 +28088,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 623076,
+          "total_vp": 571153,
           "lock_count": 1,
           "token_ids": [
             "70"
@@ -27838,7 +28172,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 300091966614,
+          "total_vp": 290998270656,
           "lock_count": 1,
           "token_ids": [
             "737"
@@ -27859,7 +28193,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5430094612389,
+          "total_vp": 5439368779587,
           "lock_count": 1,
           "token_ids": [
             "748"
@@ -27880,7 +28214,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 980194704030,
+          "total_vp": 981643274973,
           "lock_count": 1,
           "token_ids": [
             "754"
@@ -27966,7 +28300,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 152782046,
+          "total_vp": 0,
           "lock_count": 1,
           "token_ids": [
             "833"
@@ -28052,7 +28386,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 23066481699,
+          "total_vp": 24570250785,
           "lock_count": 2,
           "token_ids": [
             "878",
@@ -28503,8 +28837,8 @@
       "note": "SkeletonSwap pool data — only assets in current SS pools"
     },
     "coingecko_list": {
-      "coin_count": 17354,
-      "fetched_ok": true,
+      "coin_count": 0,
+      "fetched_ok": false,
       "note": "CG /coins/list with platforms — used for independent CG-mapping verification"
     }
   },
@@ -28681,227 +29015,27 @@
     "asset_gauge_distributions": [
       {
         "gauge": "stable",
-        "period": 187,
-        "total_gauge_vp": "27535613041836",
-        "assets": [
-          {
-            "asset": {
-              "cw20": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
-            },
-            "distribution": "0.622069268482631063",
-            "total_vp": "17076784294185"
-          },
-          {
-            "asset": {
-              "cw20": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc"
-            },
-            "distribution": "0.242659823209464828",
-            "total_vp": "6661395551529"
-          },
-          {
-            "asset": {
-              "native": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP"
-            },
-            "distribution": "0.10033823753462787",
-            "total_vp": "2754443155530"
-          },
-          {
-            "asset": {
-              "cw20": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4"
-            },
-            "distribution": "0.034932670773276239",
-            "total_vp": "958957006621"
-          }
-        ]
+        "period": 188,
+        "total_gauge_vp": "0",
+        "assets": []
       },
       {
         "gauge": "project",
-        "period": 187,
-        "total_gauge_vp": "26454540939280",
-        "assets": [
-          {
-            "asset": {
-              "cw20": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
-            },
-            "distribution": "0.225249163013137764",
-            "total_vp": "5929037395735"
-          },
-          {
-            "asset": {
-              "cw20": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
-            },
-            "distribution": "0.212593898871272142",
-            "total_vp": "5595923907781"
-          },
-          {
-            "asset": {
-              "cw20": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4"
-            },
-            "distribution": "0.184761540235819747",
-            "total_vp": "4863316989497"
-          },
-          {
-            "asset": {
-              "cw20": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44"
-            },
-            "distribution": "0.156906077821514258",
-            "total_vp": "4130101930579"
-          },
-          {
-            "asset": {
-              "cw20": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k"
-            },
-            "distribution": "0.105111759126494441",
-            "total_vp": "2766765222369"
-          },
-          {
-            "asset": {
-              "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
-            },
-            "distribution": "0.048471234232801577",
-            "total_vp": "1275866052239"
-          },
-          {
-            "asset": {
-              "cw20": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
-            },
-            "distribution": "0.028906071506923381",
-            "total_vp": "760869326375"
-          },
-          {
-            "asset": {
-              "cw20": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8"
-            },
-            "distribution": "0.024632535718501627",
-            "total_vp": "648380768537"
-          },
-          {
-            "asset": {
-              "cw20": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc"
-            },
-            "distribution": "0.013367719473535063",
-            "total_vp": "351866828689"
-          }
-        ]
+        "period": 188,
+        "total_gauge_vp": "0",
+        "assets": []
       },
       {
         "gauge": "bluechip",
-        "period": 187,
-        "total_gauge_vp": "22278207158436",
-        "assets": [
-          {
-            "asset": {
-              "cw20": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
-            },
-            "distribution": "0.354995930559670154",
-            "total_vp": "7899300644482"
-          },
-          {
-            "asset": {
-              "cw20": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
-            },
-            "distribution": "0.319813609183018885",
-            "total_vp": "7116430447951"
-          },
-          {
-            "asset": {
-              "cw20": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
-            },
-            "distribution": "0.127928264524515918",
-            "total_vp": "2846634948217"
-          },
-          {
-            "asset": {
-              "cw20": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
-            },
-            "distribution": "0.127918788727395683",
-            "total_vp": "2846424094616"
-          },
-          {
-            "asset": {
-              "cw20": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
-            },
-            "distribution": "0.04670551442013327",
-            "total_vp": "1039282054806"
-          },
-          {
-            "asset": {
-              "cw20": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su"
-            },
-            "distribution": "0.02263789258526609",
-            "total_vp": "503733998321"
-          }
-        ]
+        "period": 188,
+        "total_gauge_vp": "0",
+        "assets": []
       },
       {
         "gauge": "single",
-        "period": 187,
-        "total_gauge_vp": "24140419707821",
-        "assets": [
-          {
-            "asset": {
-              "native": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
-            },
-            "distribution": "0.321338738080778766",
-            "total_vp": "7752107378828"
-          },
-          {
-            "asset": {
-              "cw20": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr"
-            },
-            "distribution": "0.292607968519338288",
-            "total_vp": "7058994522137"
-          },
-          {
-            "asset": {
-              "cw20": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
-            },
-            "distribution": "0.10095244635242872",
-            "total_vp": "2435418178815"
-          },
-          {
-            "asset": {
-              "cw20": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0"
-            },
-            "distribution": "0.099552245172821045",
-            "total_vp": "2401639151857"
-          },
-          {
-            "asset": {
-              "native": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP"
-            },
-            "distribution": "0.066807943899762783",
-            "total_vp": "1611702211700"
-          },
-          {
-            "asset": {
-              "native": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP"
-            },
-            "distribution": "0.047308820481137902",
-            "total_vp": "1141297369019"
-          },
-          {
-            "asset": {
-              "native": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6"
-            },
-            "distribution": "0.03998210938480848",
-            "total_vp": "964544788575"
-          },
-          {
-            "asset": {
-              "cw20": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh"
-            },
-            "distribution": "0.019803126297940643",
-            "total_vp": "477738732700"
-          },
-          {
-            "asset": {
-              "cw20": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc"
-            },
-            "distribution": "0.011646601810983373",
-            "total_vp": "280967394023"
-          }
-        ]
+        "period": 188,
+        "total_gauge_vp": "0",
+        "assets": []
       }
     ],
     "asset_gauge_last_distribution_period": {
@@ -29848,7 +29982,9 @@
     ]
   },
   "_errors": [],
-  "source_errors": {},
+  "source_errors": {
+    "coingecko_list": "fetch failed"
+  },
   "sources": {
     "primary_lcd": "https://terra-lcd.publicnode.com",
     "fallback_lcd": "https://terra-rest.publicnode.com"
