@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-08T00:05:17.695Z",
-  "capturedAtUnix": 1780877117695,
-  "runId": "tla-registry-20260608000517",
+  "capturedAt": "2026-06-09T00:05:15.682Z",
+  "capturedAtUnix": 1780963515682,
+  "runId": "tla-registry-20260609000515",
   "runMode": "daily",
-  "status": "partial",
-  "canonicalEpoch": 187,
+  "status": "ok",
+  "canonicalEpoch": 188,
   "stats": {
     "directory_size": 20,
-    "pool_count": 0,
+    "pool_count": 27,
     "bucket_count": 4,
     "tokens_catalog": 173,
     "tokens_core": 173,
@@ -34,12 +34,12 @@
     "amplp_mappings": 65,
     "unmapped_tokens": 9,
     "chain_errors": 0,
-    "external_source_errors": 1,
+    "external_source_errors": 0,
     "scope": {
-      "active_lps": 0,
-      "inactive_lps_discovered": 75,
-      "below_threshold_lps": 40,
-      "dewhitelisted_lps": 35,
+      "active_lps": 27,
+      "inactive_lps_discovered": 48,
+      "below_threshold_lps": 16,
+      "dewhitelisted_lps": 32,
       "total_lps": 75,
       "pair_lookups_succeeded": 0,
       "pair_lookups_failed": 0,
@@ -61,9 +61,9 @@
       "unclassified": 0
     }
   },
-  "dataFingerprint": "dc03f1e3d7ff",
-  "previousFingerprint": "5b43ff924594",
+  "dataFingerprint": "8ea6eb30fa2c",
+  "previousFingerprint": "dc03f1e3d7ff",
   "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-06-09T00:05:17.695Z"
+  "next_expected_run_at": "2026-06-10T00:05:15.682Z"
 }
