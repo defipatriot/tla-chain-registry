@@ -492,6 +492,63 @@
         "unstake",
         "query"
       ]
+    },
+    "terra13aae4futz6jk7hmdv0gwm2xs6p4nxv4xwz5tc0c2vt4960u4j6jqpqmye9": {
+      "name": "Votion arbLUNA-MAX",
+      "type": "staking",
+      "protocol": "Votion",
+      "description": "Votion vote-aggregator vault (code_id 3677). Users deposit arbLUNA, receive a factory vToken share; vault pools into one permanent veLUNA max-lock, auto-chases bribes, auto-compounds. Biggest single TLA lock holder. Holds lock_id 748.",
+      "canReceiveFunds": false,
+      "risk_level": "low"
+    },
+    "terra163jnveun52hxv2kg4ys9a28h20trmccr98tnrvr92snn6yzdeg7qd9zj9l": {
+      "name": "Votion arbLUNA-3mo",
+      "type": "staking",
+      "protocol": "Votion",
+      "description": "Votion vault (code_id 3677), arbLUNA / 3-month lock strategy.",
+      "canReceiveFunds": false,
+      "risk_level": "low"
+    },
+    "terra16xzky47caqc3krsxpla58m36ttxcjty3zpp92344m2tere5t26ysuxkjuj": {
+      "name": "Votion arbLUNA-1wk",
+      "type": "staking",
+      "protocol": "Votion",
+      "description": "Votion vault (code_id 3677), arbLUNA / 1-week lock strategy.",
+      "canReceiveFunds": false,
+      "risk_level": "low"
+    },
+    "terra1v7aw9eartqrjrhwd6c7hkmlkspcy5q4tvc07gjmvzqezk3fttr4s3mffyz": {
+      "name": "Votion ampLUNA-MAX",
+      "type": "staking",
+      "protocol": "Votion",
+      "description": "Votion vote-aggregator vault (code_id 3677). ampLUNA / permanent max-lock strategy. Second-largest TLA lock holder.",
+      "canReceiveFunds": false,
+      "risk_level": "low"
+    },
+    "terra1dr7mv4w6chznedhp7uw6ntz9zjj4hxcdga2lmenlfuj35vmwpf0qhnzm5p": {
+      "name": "Votion ampLUNA-3mo",
+      "type": "staking",
+      "protocol": "Votion",
+      "description": "Votion vault (code_id 3677), ampLUNA / 3-month lock strategy.",
+      "canReceiveFunds": false,
+      "risk_level": "low"
+    },
+    "terra1mzelg87h36y6wvtgj6fh9s4crgx9acw63l3zc6f9px6pc5f8h8lqs0sux0": {
+      "name": "Votion ampLUNA-1wk",
+      "type": "staking",
+      "protocol": "Votion",
+      "description": "Votion vault (code_id 3677), ampLUNA / 1-week lock strategy.",
+      "canReceiveFunds": false,
+      "risk_level": "low"
+    },
+    "terra1nmnrcrvsxkrcylzmkn55ghjr3xe8z58x3ntcl97kgm4r7tq9wukslh68dg": {
+      "name": "Polytone Proxy (ROAR/WHALE IBC bridge)",
+      "type": "bridge",
+      "protocol": "Osmosis",
+      "description": "Polytone IBC proxy bridging ROAR/WHALE to/from osmosis-1. NOT a TLA participant \u2014 was mistaken for a whale lock-holder. Exclude from TLA holder/VP counts.",
+      "canReceiveFunds": false,
+      "risk_level": "low",
+      "exclude_from_holders": true
     }
   }
 }
