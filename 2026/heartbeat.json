@@ -1,21 +1,21 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-14T00:05:23.277Z",
-  "capturedAtUnix": 1781395523277,
-  "runId": "tla-registry-20260614000523",
+  "capturedAt": "2026-06-15T00:05:14.569Z",
+  "capturedAtUnix": 1781481914569,
+  "runId": "tla-registry-20260615000514",
   "runMode": "daily",
   "status": "ok",
   "canonicalEpoch": 188,
   "stats": {
     "directory_size": 20,
-    "pool_count": 27,
+    "pool_count": 0,
     "bucket_count": 4,
     "tokens_catalog": 173,
     "tokens_core": 173,
     "tokens_tracked": 0,
     "tokens_noise": 0,
-    "contracts_catalog": 43,
+    "contracts_catalog": 50,
     "wallets_catalog": 669,
     "wallets_discovered_via_daodao": 347,
     "wallets_discovered_via_indexer": 186,
@@ -36,10 +36,10 @@
     "chain_errors": 0,
     "external_source_errors": 0,
     "scope": {
-      "active_lps": 27,
-      "inactive_lps_discovered": 48,
-      "below_threshold_lps": 16,
-      "dewhitelisted_lps": 32,
+      "active_lps": 0,
+      "inactive_lps_discovered": 75,
+      "below_threshold_lps": 40,
+      "dewhitelisted_lps": 35,
       "total_lps": 75,
       "pair_lookups_succeeded": 0,
       "pair_lookups_failed": 0,
@@ -61,9 +61,9 @@
       "unclassified": 0
     }
   },
-  "dataFingerprint": "ba75e67e0646",
-  "previousFingerprint": "8ea6eb30fa2c",
+  "dataFingerprint": "0dad3dd7f7de",
+  "previousFingerprint": "ba75e67e0646",
   "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-06-15T00:05:23.277Z"
+  "next_expected_run_at": "2026-06-16T00:05:14.569Z"
 }
