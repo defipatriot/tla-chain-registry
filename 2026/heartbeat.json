@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-06-20T00:05:22.104Z",
-  "capturedAtUnix": 1781913922104,
-  "runId": "tla-registry-20260620000522",
+  "capturedAt": "2026-06-21T00:05:18.906Z",
+  "capturedAtUnix": 1782000318906,
+  "runId": "tla-registry-20260621000518",
   "runMode": "daily",
   "status": "ok",
   "canonicalEpoch": 189,
@@ -28,7 +28,7 @@
       "Pixel Lions Voting Module": 98
     },
     "tla_unique_holders": 202,
-    "tla_total_locks_scanned": 431,
+    "tla_total_locks_scanned": 432,
     "pfpk_names_found": 159,
     "pfpk_lookups_attempted": 667,
     "amplp_mappings": 65,
@@ -64,6 +64,6 @@
   "dataFingerprint": "b58095f01a34",
   "previousFingerprint": "b58095f01a34",
   "dataFreshness": "fresh",
-  "consecutiveStuckRuns": 5,
-  "next_expected_run_at": "2026-06-21T00:05:22.104Z"
+  "consecutiveStuckRuns": 6,
+  "next_expected_run_at": "2026-06-22T00:05:18.906Z"
 }
