@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "cron": "tla-registry",
-  "capturedAt": "2026-07-15T00:05:21.278Z",
-  "capturedAtUnix": 1784073921278,
-  "runId": "tla-registry-20260715000521",
+  "capturedAt": "2026-07-16T00:05:20.334Z",
+  "capturedAtUnix": 1784160320334,
+  "runId": "tla-registry-20260716000520",
   "runMode": "daily",
   "status": "ok",
   "canonicalEpoch": 193,
@@ -64,6 +64,6 @@
   "dataFingerprint": "f697ca745a02",
   "previousFingerprint": "f697ca745a02",
   "dataFreshness": "fresh",
-  "consecutiveStuckRuns": 3,
-  "next_expected_run_at": "2026-07-16T00:05:21.278Z"
+  "consecutiveStuckRuns": 4,
+  "next_expected_run_at": "2026-07-17T00:05:20.334Z"
 }
