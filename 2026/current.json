@@ -3,9 +3,9 @@
   "cron": "tla-registry",
   "layer": 0,
   "layerRole": "discovery-bootstrap-catalog",
-  "capturedAt": "2026-07-26T00:05:24.664Z",
-  "capturedAtUnix": 1785024324664,
-  "canonicalEpoch": 194,
+  "capturedAt": "2026-07-27T00:05:19.630Z",
+  "capturedAtUnix": 1785110719630,
+  "canonicalEpoch": 195,
   "directory": {
     "ASSET_GAUGE": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
     "ASSET_STAKING__bluechip": "terra14mmvqn0kthw6sre75vku263lafn5655mkjdejqjedjga4cw0qx2qlf4arv",
@@ -35,8 +35,8 @@
       "asset_raw": {
         "cw20": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc"
       },
-      "distribution_pct": 0.4644796542022716,
-      "total_vp": "13460747016218"
+      "distribution_pct": 0.4758792992034445,
+      "total_vp": "13970587847067"
     },
     {
       "gauge_pool_id": "cw20:terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
@@ -44,8 +44,8 @@
       "asset_raw": {
         "cw20": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
       },
-      "distribution_pct": 0.4118354541934979,
-      "total_vp": "11935103746856"
+      "distribution_pct": 0.41738876622034093,
+      "total_vp": "12253456779105"
     },
     {
       "gauge_pool_id": "native:factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP",
@@ -53,8 +53,8 @@
       "asset_raw": {
         "native": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP"
       },
-      "distribution_pct": 0.09503350409116483,
-      "total_vp": "2754096858845"
+      "distribution_pct": 0.09381095164133109,
+      "total_vp": "2754047387890"
     },
     {
       "gauge_pool_id": "cw20:terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4",
@@ -62,8 +62,8 @@
       "asset_raw": {
         "cw20": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4"
       },
-      "distribution_pct": 0.028651387513065694,
-      "total_vp": "830325021748"
+      "distribution_pct": 0.012920982934883467,
+      "total_vp": "379326706298"
     },
     {
       "gauge_pool_id": "cw20:terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
@@ -71,8 +71,8 @@
       "asset_raw": {
         "cw20": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
       },
-      "distribution_pct": 0.20082633725255775,
-      "total_vp": "5600096703350"
+      "distribution_pct": 0.19098001946237136,
+      "total_vp": "5395847138993"
     },
     {
       "gauge_pool_id": "cw20:terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
@@ -80,8 +80,8 @@
       "asset_raw": {
         "cw20": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
       },
-      "distribution_pct": 0.1885966633547696,
-      "total_vp": "5259068940682"
+      "distribution_pct": 0.19097785843526294,
+      "total_vp": "5395786082491"
     },
     {
       "gauge_pool_id": "cw20:terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
@@ -89,8 +89,8 @@
       "asset_raw": {
         "cw20": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4"
       },
-      "distribution_pct": 0.1715499554553352,
-      "total_vp": "4783716882697"
+      "distribution_pct": 0.17037263941917322,
+      "total_vp": "4813617265097"
     },
     {
       "gauge_pool_id": "cw20:terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
@@ -98,8 +98,8 @@
       "asset_raw": {
         "cw20": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44"
       },
-      "distribution_pct": 0.14873044093236046,
-      "total_vp": "4147388551461"
+      "distribution_pct": 0.1490456243924417,
+      "total_vp": "4211055209971"
     },
     {
       "gauge_pool_id": "cw20:terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
@@ -107,8 +107,8 @@
       "asset_raw": {
         "cw20": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8"
       },
-      "distribution_pct": 0.09938485595047182,
-      "total_vp": "2771373574728"
+      "distribution_pct": 0.09800318429487466,
+      "total_vp": "2768929457010"
     },
     {
       "gauge_pool_id": "cw20:terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k",
@@ -116,17 +116,8 @@
       "asset_raw": {
         "cw20": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k"
       },
-      "distribution_pct": 0.09897587233282387,
-      "total_vp": "2759968955990"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
-      "bucket": "project",
-      "asset_raw": {
-        "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
-      },
-      "distribution_pct": 0.04515050582305905,
-      "total_vp": "1259034060340"
+      "distribution_pct": 0.09765167355078691,
+      "total_vp": "2758998060793"
     },
     {
       "gauge_pool_id": "cw20:terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
@@ -134,8 +125,17 @@
       "asset_raw": {
         "cw20": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
       },
-      "distribution_pct": 0.03548287264736632,
-      "total_vp": "989449495800"
+      "distribution_pct": 0.04743878050311813,
+      "total_vp": "1340309885692"
+    },
+    {
+      "gauge_pool_id": "cw20:terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm",
+      "bucket": "project",
+      "asset_raw": {
+        "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
+      },
+      "distribution_pct": 0.04456054878287104,
+      "total_vp": "1258989868882"
     },
     {
       "gauge_pool_id": "cw20:terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
@@ -143,8 +143,8 @@
       "asset_raw": {
         "cw20": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc"
       },
-      "distribution_pct": 0.011302496251255957,
-      "total_vp": "315173163352"
+      "distribution_pct": 0.010969671159100063,
+      "total_vp": "309931211161"
     },
     {
       "gauge_pool_id": "cw20:terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
@@ -152,8 +152,8 @@
       "asset_raw": {
         "cw20": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
       },
-      "distribution_pct": 0.4136927383728459,
-      "total_vp": "9949518393441"
+      "distribution_pct": 0.42149546023438883,
+      "total_vp": "10291777148567"
     },
     {
       "gauge_pool_id": "cw20:terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
@@ -161,26 +161,8 @@
       "asset_raw": {
         "cw20": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
       },
-      "distribution_pct": 0.34579816420987025,
-      "total_vp": "8316619742364"
-    },
-    {
-      "gauge_pool_id": "cw20:terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
-      "bucket": "bluechip",
-      "asset_raw": {
-        "cw20": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
-      },
-      "distribution_pct": 0.08178723633187145,
-      "total_vp": "1967024162506"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
-      "bucket": "bluechip",
-      "asset_raw": {
-        "cw20": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
-      },
-      "distribution_pct": 0.0688965381134027,
-      "total_vp": "1656996387947"
+      "distribution_pct": 0.34869793792079334,
+      "total_vp": "8514258889645"
     },
     {
       "gauge_pool_id": "cw20:terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
@@ -188,8 +170,26 @@
       "asset_raw": {
         "cw20": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
       },
-      "distribution_pct": 0.068889965249383,
-      "total_vp": "1656838307262"
+      "distribution_pct": 0.06972979620960786,
+      "total_vp": "1702612699091"
+    },
+    {
+      "gauge_pool_id": "cw20:terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
+      "bucket": "bluechip",
+      "asset_raw": {
+        "cw20": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
+      },
+      "distribution_pct": 0.06972928321640998,
+      "total_vp": "1702600173187"
+    },
+    {
+      "gauge_pool_id": "cw20:terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
+      "bucket": "bluechip",
+      "asset_raw": {
+        "cw20": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
+      },
+      "distribution_pct": 0.06972798273690588,
+      "total_vp": "1702568419001"
     },
     {
       "gauge_pool_id": "cw20:terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
@@ -197,8 +197,8 @@
       "asset_raw": {
         "cw20": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su"
       },
-      "distribution_pct": 0.02093535772262665,
-      "total_vp": "503505881089"
+      "distribution_pct": 0.0206195396818941,
+      "total_vp": "503473292913"
     },
     {
       "gauge_pool_id": "native:factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
@@ -206,8 +206,8 @@
       "asset_raw": {
         "native": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
       },
-      "distribution_pct": 0.3006743481234633,
-      "total_vp": "7926067781127"
+      "distribution_pct": 0.3070948668565573,
+      "total_vp": "8215881137073"
     },
     {
       "gauge_pool_id": "cw20:terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
@@ -215,17 +215,8 @@
       "asset_raw": {
         "cw20": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
       },
-      "distribution_pct": 0.2697269990006532,
-      "total_vp": "7110265607365"
-    },
-    {
-      "gauge_pool_id": "cw20:terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
-      "bucket": "single",
-      "asset_raw": {
-        "cw20": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc"
-      },
-      "distribution_pct": 0.10786038476383479,
-      "total_vp": "2843304478324"
+      "distribution_pct": 0.2641207866378063,
+      "total_vp": "7066171476777"
     },
     {
       "gauge_pool_id": "cw20:terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
@@ -233,8 +224,17 @@
       "asset_raw": {
         "cw20": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr"
       },
-      "distribution_pct": 0.10785826117115943,
-      "total_vp": "2843248498359"
+      "distribution_pct": 0.11380648121586873,
+      "total_vp": "3044728594356"
+    },
+    {
+      "gauge_pool_id": "cw20:terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
+      "bucket": "single",
+      "asset_raw": {
+        "cw20": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc"
+      },
+      "distribution_pct": 0.10493270136627901,
+      "total_vp": "2807323387206"
     },
     {
       "gauge_pool_id": "native:factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP",
@@ -242,8 +242,8 @@
       "asset_raw": {
         "native": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP"
       },
-      "distribution_pct": 0.06396102277545809,
-      "total_vp": "1686074668599"
+      "distribution_pct": 0.06298861073327333,
+      "total_vp": "1685169615732"
     },
     {
       "gauge_pool_id": "cw20:terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
@@ -251,8 +251,8 @@
       "asset_raw": {
         "cw20": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0"
       },
-      "distribution_pct": 0.053909722022941135,
-      "total_vp": "1421112620622"
+      "distribution_pct": 0.05275567580230548,
+      "total_vp": "1411402170718"
     },
     {
       "gauge_pool_id": "native:factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP",
@@ -260,8 +260,8 @@
       "asset_raw": {
         "native": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP"
       },
-      "distribution_pct": 0.04329496581619852,
-      "total_vp": "1141297339738"
+      "distribution_pct": 0.042659642643134814,
+      "total_vp": "1141297335555"
     },
     {
       "gauge_pool_id": "native:ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
@@ -269,8 +269,8 @@
       "asset_raw": {
         "native": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6"
       },
-      "distribution_pct": 0.03349963181679004,
-      "total_vp": "883082823925"
+      "distribution_pct": 0.03270853185346919,
+      "total_vp": "875069689790"
     },
     {
       "gauge_pool_id": "cw20:terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh",
@@ -278,7 +278,7 @@
       "asset_raw": {
         "cw20": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh"
       },
-      "distribution_pct": 0.01921466450950149,
+      "distribution_pct": 0.018932702891305848,
       "total_vp": "506517214536"
     },
     {
@@ -326,9 +326,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4220517719",
-        "harvested_raw": "4220517719",
-        "last_taken_s": 1785024011,
+        "taken_raw": "4220866860",
+        "harvested_raw": "4220866860",
+        "last_taken_s": 1785110417,
         "stake_mechanism": "default"
       }
     },
@@ -343,9 +343,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "11301635764",
-        "harvested_raw": "11301635764",
-        "last_taken_s": 1785024011,
+        "taken_raw": "11301642447",
+        "harvested_raw": "11301642447",
+        "last_taken_s": 1785110417,
         "stake_mechanism": "default"
       }
     },
@@ -360,9 +360,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4279105421",
-        "harvested_raw": "4279105421",
-        "last_taken_s": 1785024011,
+        "taken_raw": "4279126816",
+        "harvested_raw": "4279126816",
+        "last_taken_s": 1785110417,
         "stake_mechanism": "default"
       }
     },
@@ -394,9 +394,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "5553489779",
-        "harvested_raw": "5553489779",
-        "last_taken_s": 1785024011,
+        "taken_raw": "5563462170",
+        "harvested_raw": "5563462170",
+        "last_taken_s": 1785110417,
         "stake_mechanism": "astroport"
       }
     },
@@ -445,9 +445,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "388604959272",
-        "harvested_raw": "388604959272",
-        "last_taken_s": 1785024011,
+        "taken_raw": "388604960588",
+        "harvested_raw": "388604960588",
+        "last_taken_s": 1785110417,
         "stake_mechanism": "default"
       }
     },
@@ -479,9 +479,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "24613202738",
-        "harvested_raw": "24613202738",
-        "last_taken_s": 1785024011,
+        "taken_raw": "24613864666",
+        "harvested_raw": "24613864666",
+        "last_taken_s": 1785110417,
         "stake_mechanism": "default"
       }
     },
@@ -496,9 +496,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "100282323",
-        "harvested_raw": "100282323",
-        "last_taken_s": 1785024011,
+        "taken_raw": "100290592",
+        "harvested_raw": "100290592",
+        "last_taken_s": 1785110417,
         "stake_mechanism": "default"
       }
     },
@@ -564,9 +564,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "36211169",
-        "harvested_raw": "36211169",
-        "last_taken_s": 1785024011,
+        "taken_raw": "36211205",
+        "harvested_raw": "36211205",
+        "last_taken_s": 1785110417,
         "stake_mechanism": "astroport"
       }
     },
@@ -751,9 +751,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "606101626784215",
-        "harvested_raw": "606101626784215",
-        "last_taken_s": 1785024011,
+        "taken_raw": "606103967740654",
+        "harvested_raw": "606103967740654",
+        "last_taken_s": 1785110417,
         "stake_mechanism": "default"
       }
     },
@@ -768,9 +768,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "798843918",
-        "harvested_raw": "798843918",
-        "last_taken_s": 1785024011,
+        "taken_raw": "799120372",
+        "harvested_raw": "799120372",
+        "last_taken_s": 1785110417,
         "stake_mechanism": "default"
       }
     },
@@ -921,9 +921,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "188223660",
-        "harvested_raw": "188223660",
-        "last_taken_s": 1784995210,
+        "taken_raw": "188223662",
+        "harvested_raw": "188223662",
+        "last_taken_s": 1785081595,
         "stake_mechanism": "astroport"
       }
     },
@@ -1040,9 +1040,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "137",
-        "harvested_raw": "137",
-        "last_taken_s": 1784980805,
+        "taken_raw": "138",
+        "harvested_raw": "138",
+        "last_taken_s": 1785067197,
         "stake_mechanism": "default"
       }
     },
@@ -1074,28 +1074,28 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "6981505289",
-        "harvested_raw": "6981505289",
-        "last_taken_s": 1785024011,
+        "taken_raw": "6981549296",
+        "harvested_raw": "6981549296",
+        "last_taken_s": 1785110417,
         "stake_mechanism": "default"
       }
     }
   ],
   "buckets": {
     "stable": {
-      "total_gauge_vp": "29066316234292",
+      "total_gauge_vp": "29444011434285",
       "pool_count": 4
     },
     "project": {
-      "total_gauge_vp": "27948688909264",
+      "total_gauge_vp": "28316681687777",
       "pool_count": 9
     },
     "bluechip": {
-      "total_gauge_vp": "24076093284489",
+      "total_gauge_vp": "24442765237975",
       "pool_count": 6
     },
     "single": {
-      "total_gauge_vp": "26398605239172",
+      "total_gauge_vp": "26769570601910",
       "pool_count": 9
     }
   },
@@ -2842,8 +2842,8 @@
         "is_lockable": false,
         "is_amplp_underlying": false,
         "is_single_asset_stake": true,
-        "tla_distribution_pct": 0.3006743481234633,
-        "tla_total_vp": "7926067781127",
+        "tla_distribution_pct": 0.3070948668565573,
+        "tla_total_vp": "8215881137073",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -3335,8 +3335,8 @@
         "is_lockable": false,
         "is_amplp_underlying": false,
         "is_single_asset_stake": true,
-        "tla_distribution_pct": 0.10786038476383479,
-        "tla_total_vp": "2843304478324",
+        "tla_distribution_pct": 0.10493270136627901,
+        "tla_total_vp": "2807323387206",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -3414,9 +3414,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "4220517719",
-          "harvested_raw": "4220517719",
-          "last_taken_s": 1785024011,
+          "taken_raw": "4220866860",
+          "harvested_raw": "4220866860",
+          "last_taken_s": 1785110417,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3470,9 +3470,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "11301635764",
-          "harvested_raw": "11301635764",
-          "last_taken_s": 1785024011,
+          "taken_raw": "11301642447",
+          "harvested_raw": "11301642447",
+          "last_taken_s": 1785110417,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3526,9 +3526,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "4279105421",
-          "harvested_raw": "4279105421",
-          "last_taken_s": 1785024011,
+          "taken_raw": "4279126816",
+          "harvested_raw": "4279126816",
+          "last_taken_s": 1785110417,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3591,8 +3591,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.1885966633547696,
-        "tla_total_vp": "5259068940682",
+        "tla_distribution_pct": 0.19097785843526294,
+        "tla_total_vp": "5395786082491",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -3659,8 +3659,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.09938485595047182,
-        "tla_total_vp": "2771373574728",
+        "tla_distribution_pct": 0.09800318429487466,
+        "tla_total_vp": "2768929457010",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -3727,8 +3727,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.03548287264736632,
-        "tla_total_vp": "989449495800",
+        "tla_distribution_pct": 0.04743878050311813,
+        "tla_total_vp": "1340309885692",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -3786,9 +3786,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "388604959272",
-          "harvested_raw": "388604959272",
-          "last_taken_s": 1785024011,
+          "taken_raw": "388604960588",
+          "harvested_raw": "388604960588",
+          "last_taken_s": 1785110417,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3897,9 +3897,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "24613202738",
-          "harvested_raw": "24613202738",
-          "last_taken_s": 1785024011,
+          "taken_raw": "24613864666",
+          "harvested_raw": "24613864666",
+          "last_taken_s": 1785110417,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -4004,8 +4004,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.02093535772262665,
-        "tla_total_vp": "503505881089",
+        "tla_distribution_pct": 0.0206195396818941,
+        "tla_total_vp": "503473292913",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -4373,9 +4373,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "100282323",
-          "harvested_raw": "100282323",
-          "last_taken_s": 1785024011,
+          "taken_raw": "100290592",
+          "harvested_raw": "100290592",
+          "last_taken_s": 1785110417,
           "stake_mechanism": "default"
         }
       },
@@ -4498,9 +4498,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "36211169",
-          "harvested_raw": "36211169",
-          "last_taken_s": 1785024011,
+          "taken_raw": "36211205",
+          "harvested_raw": "36211205",
+          "last_taken_s": 1785110417,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -4695,8 +4695,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.4136927383728459,
-        "tla_total_vp": "9949518393441",
+        "tla_distribution_pct": 0.42149546023438883,
+        "tla_total_vp": "10291777148567",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -4763,8 +4763,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.08178723633187145,
-        "tla_total_vp": "1967024162506",
+        "tla_distribution_pct": 0.06972928321640998,
+        "tla_total_vp": "1702600173187",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -5234,8 +5234,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.068889965249383,
-        "tla_total_vp": "1656838307262",
+        "tla_distribution_pct": 0.06972979620960786,
+        "tla_total_vp": "1702612699091",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -5697,8 +5697,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.0688965381134027,
-        "tla_total_vp": "1656996387947",
+        "tla_distribution_pct": 0.06972798273690588,
+        "tla_total_vp": "1702568419001",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -6015,8 +6015,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.34579816420987025,
-        "tla_total_vp": "8316619742364",
+        "tla_distribution_pct": 0.34869793792079334,
+        "tla_total_vp": "8514258889645",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -6075,9 +6075,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "606101626784215",
-          "harvested_raw": "606101626784215",
-          "last_taken_s": 1785024011,
+          "taken_raw": "606103967740654",
+          "harvested_raw": "606103967740654",
+          "last_taken_s": 1785110417,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -6178,9 +6178,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "798843918",
-          "harvested_raw": "798843918",
-          "last_taken_s": 1785024011,
+          "taken_raw": "799120372",
+          "harvested_raw": "799120372",
+          "last_taken_s": 1785110417,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -6243,8 +6243,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.10785826117115943,
-        "tla_total_vp": "2843248498359",
+        "tla_distribution_pct": 0.11380648121586873,
+        "tla_total_vp": "3044728594356",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -6345,7 +6345,7 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.01921466450950149,
+        "tla_distribution_pct": 0.018932702891305848,
         "tla_total_vp": "506517214536",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
@@ -6394,8 +6394,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.06396102277545809,
-        "tla_total_vp": "1686074668599",
+        "tla_distribution_pct": 0.06298861073327333,
+        "tla_total_vp": "1685169615732",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -6448,9 +6448,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "6981505289",
-          "harvested_raw": "6981505289",
-          "last_taken_s": 1785024011,
+          "taken_raw": "6981549296",
+          "harvested_raw": "6981549296",
+          "last_taken_s": 1785110417,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -7205,8 +7205,8 @@
         "is_lockable": false,
         "is_amplp_underlying": false,
         "is_single_asset_stake": true,
-        "tla_distribution_pct": 0.03349963181679004,
-        "tla_total_vp": "883082823925",
+        "tla_distribution_pct": 0.03270853185346919,
+        "tla_total_vp": "875069689790",
         "gauge_status": "active"
       },
       "wallet_import": null,
@@ -7273,8 +7273,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.028651387513065694,
-        "tla_total_vp": "830325021748",
+        "tla_distribution_pct": 0.012920982934883467,
+        "tla_total_vp": "379326706298",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -7341,8 +7341,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.4118354541934979,
-        "tla_total_vp": "11935103746856",
+        "tla_distribution_pct": 0.41738876622034093,
+        "tla_total_vp": "12253456779105",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -7409,8 +7409,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.4644796542022716,
-        "tla_total_vp": "13460747016218",
+        "tla_distribution_pct": 0.4758792992034445,
+        "tla_total_vp": "13970587847067",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -7463,8 +7463,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.09503350409116483,
-        "tla_total_vp": "2754096858845",
+        "tla_distribution_pct": 0.09381095164133109,
+        "tla_total_vp": "2754047387890",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -7620,8 +7620,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.011302496251255957,
-        "tla_total_vp": "315173163352",
+        "tla_distribution_pct": 0.010969671159100063,
+        "tla_total_vp": "309931211161",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -7688,8 +7688,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.20082633725255775,
-        "tla_total_vp": "5600096703350",
+        "tla_distribution_pct": 0.19098001946237136,
+        "tla_total_vp": "5395847138993",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -7886,8 +7886,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.14873044093236046,
-        "tla_total_vp": "4147388551461",
+        "tla_distribution_pct": 0.1490456243924417,
+        "tla_total_vp": "4211055209971",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -7959,9 +7959,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "5553489779",
-          "harvested_raw": "5553489779",
-          "last_taken_s": 1785024011,
+          "taken_raw": "5563462170",
+          "harvested_raw": "5563462170",
+          "last_taken_s": 1785110417,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -8029,8 +8029,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.1715499554553352,
-        "tla_total_vp": "4783716882697",
+        "tla_distribution_pct": 0.17037263941917322,
+        "tla_total_vp": "4813617265097",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -8083,8 +8083,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.09897587233282387,
-        "tla_total_vp": "2759968955990",
+        "tla_distribution_pct": 0.09765167355078691,
+        "tla_total_vp": "2758998060793",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -8146,8 +8146,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.04515050582305905,
-        "tla_total_vp": "1259034060340",
+        "tla_distribution_pct": 0.04456054878287104,
+        "tla_total_vp": "1258989868882",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -9106,8 +9106,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.2697269990006532,
-        "tla_total_vp": "7110265607365",
+        "tla_distribution_pct": 0.2641207866378063,
+        "tla_total_vp": "7066171476777",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -9174,8 +9174,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.053909722022941135,
-        "tla_total_vp": "1421112620622",
+        "tla_distribution_pct": 0.05275567580230548,
+        "tla_total_vp": "1411402170718",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -9247,9 +9247,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "188223660",
-          "harvested_raw": "188223660",
-          "last_taken_s": 1784995210,
+          "taken_raw": "188223662",
+          "harvested_raw": "188223662",
+          "last_taken_s": 1785081595,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -9303,8 +9303,8 @@
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.04329496581619852,
-        "tla_total_vp": "1141297339738",
+        "tla_distribution_pct": 0.042659642643134814,
+        "tla_total_vp": "1141297335555",
         "gauge_status": "active",
         "is_wrapped_by_amplp": true
       },
@@ -9357,9 +9357,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "137",
-          "harvested_raw": "137",
-          "last_taken_s": 1784980805,
+          "taken_raw": "138",
+          "harvested_raw": "138",
+          "last_taken_s": 1785067197,
           "stake_mechanism": "default"
         }
       },
@@ -13450,7 +13450,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 166669944,
+          "total_vp": 152780782,
           "lock_count": 1,
           "token_ids": [
             "51"
@@ -14476,7 +14476,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5436518540,
+          "total_vp": 5416145216,
           "lock_count": 4,
           "token_ids": [
             "1152",
@@ -14883,7 +14883,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 18339072,
+          "total_vp": 15282560,
           "lock_count": 1,
           "token_ids": [
             "160"
@@ -14983,7 +14983,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 110548152,
+          "total_vp": 98265024,
           "lock_count": 1,
           "token_ids": [
             "71"
@@ -15358,7 +15358,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 848813196,
+          "total_vp": 823091584,
           "lock_count": 2,
           "token_ids": [
             "146",
@@ -15479,7 +15479,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 451980,
+          "total_vp": 429381,
           "lock_count": 1,
           "token_ids": [
             "505"
@@ -16443,7 +16443,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 109312911,
+          "total_vp": 97167032,
           "lock_count": 1,
           "token_ids": [
             "308"
@@ -16720,7 +16720,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 294180846,
+          "total_vp": 291108897,
           "lock_count": 2,
           "token_ids": [
             "248",
@@ -16772,7 +16772,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 139763810,
+          "total_vp": 135938990,
           "lock_count": 9,
           "token_ids": [
             "100",
@@ -16920,7 +16920,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 254815875,
+          "total_vp": 240666354,
           "lock_count": 2,
           "token_ids": [
             "205",
@@ -17267,7 +17267,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 37108661479,
+          "total_vp": 36544396518,
           "lock_count": 5,
           "token_ids": [
             "280",
@@ -19200,7 +19200,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 13077470292,
+          "total_vp": 12682598696,
           "lock_count": 8,
           "token_ids": [
             "1098",
@@ -19434,7 +19434,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 15192388712,
+          "total_vp": 15153866629,
           "lock_count": 2,
           "token_ids": [
             "400",
@@ -19592,7 +19592,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 416116786,
+          "total_vp": 403878057,
           "lock_count": 1,
           "token_ids": [
             "26"
@@ -20224,7 +20224,7 @@
         {
           "dao": "Lion DAO ROAR Staking",
           "staking_contract": "terra1xuqh84yz35h70p3ppt76dz5kgwwtwmsv34pg0gw6ld4ntptgjcrqe2e70t",
-          "stake_balance": "132098417633696901"
+          "stake_balance": "132126617471922146"
         }
       ],
       "verified": false,
@@ -20428,7 +20428,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 261996020,
+          "total_vp": 257232456,
           "lock_count": 1,
           "token_ids": [
             "762"
@@ -21295,7 +21295,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 762904034,
+          "total_vp": 730315858,
           "lock_count": 5,
           "token_ids": [
             "539",
@@ -21804,7 +21804,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 1611928235,
+          "total_vp": 1511658471,
           "lock_count": 3,
           "token_ids": [
             "473",
@@ -21976,7 +21976,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 13075293425,
+          "total_vp": 12830403988,
           "lock_count": 3,
           "token_ids": [
             "250",
@@ -22006,7 +22006,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 57631752290,
+          "total_vp": 56937621682,
           "lock_count": 2,
           "token_ids": [
             "1197",
@@ -22488,7 +22488,7 @@
       ],
       "verified": false,
       "daodao_name": "Cookso",
-      "daodao_avatar": "ipfs://bafybeia4nhuub3mshjejilpfuexqbrnd77jy33uhi6llvi6gxnawjn4siq/metadata.json",
+      "daodao_avatar": "ipfs://bafkreif3e4ri5otfgon5pq6jceswlsmuvquqvgafsyzkzklzcxv5xgmwky",
       "headline_name": "Cookso"
     },
     "terra1xhpknfxfp8agkse5u6gk8zugh0jh4a946d5swp": {
@@ -23016,7 +23016,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 71339580894,
+          "total_vp": 70293563646,
           "lock_count": 4,
           "token_ids": [
             "1053",
@@ -23259,7 +23259,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 12465452912,
+          "total_vp": 12282137428,
           "lock_count": 2,
           "token_ids": [
             "1056",
@@ -24861,7 +24861,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 17457133945,
+          "total_vp": 17254415300,
           "lock_count": 2,
           "token_ids": [
             "1208",
@@ -24929,7 +24929,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 519228,
+          "total_vp": 432690,
           "lock_count": 1,
           "token_ids": [
             "154"
@@ -25352,7 +25352,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5576027098194,
+          "total_vp": 5579247692403,
           "lock_count": 1,
           "token_ids": [
             "1000"
@@ -25586,7 +25586,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 27811136332,
+          "total_vp": 27402149033,
           "lock_count": 2,
           "token_ids": [
             "1055",
@@ -25658,7 +25658,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 41356529374,
+          "total_vp": 38675884569,
           "lock_count": 3,
           "token_ids": [
             "1096",
@@ -25681,7 +25681,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 3092424050,
+          "total_vp": 2974973895,
           "lock_count": 3,
           "token_ids": [
             "1097",
@@ -25704,7 +25704,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 177897141,
+          "total_vp": 149079834,
           "lock_count": 2,
           "token_ids": [
             "1102",
@@ -25726,7 +25726,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 403818288,
+          "total_vp": 395297415,
           "lock_count": 3,
           "token_ids": [
             "1110",
@@ -25751,7 +25751,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 61486791,
+          "total_vp": 55811806,
           "lock_count": 10,
           "token_ids": [
             "112",
@@ -25805,7 +25805,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 62529028676,
+          "total_vp": 61649354250,
           "lock_count": 4,
           "token_ids": [
             "1123",
@@ -25829,7 +25829,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 64578659214,
+          "total_vp": 63662054747,
           "lock_count": 3,
           "token_ids": [
             "1127",
@@ -25852,7 +25852,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 61120492277,
+          "total_vp": 60428013349,
           "lock_count": 2,
           "token_ids": [
             "1130",
@@ -25874,7 +25874,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 42617845790,
+          "total_vp": 42041928955,
           "lock_count": 1,
           "token_ids": [
             "1131"
@@ -25895,7 +25895,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 10742507128,
+          "total_vp": 10736168259,
           "lock_count": 7,
           "token_ids": [
             "1154",
@@ -25922,7 +25922,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 119535379,
+          "total_vp": 117877812,
           "lock_count": 3,
           "token_ids": [
             "116",
@@ -25970,7 +25970,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 262730390925,
+          "total_vp": 262695429387,
           "lock_count": 10,
           "token_ids": [
             "117",
@@ -26021,7 +26021,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 709615372,
+          "total_vp": 700961526,
           "lock_count": 1,
           "token_ids": [
             "1190"
@@ -26063,7 +26063,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 7482757,
+          "total_vp": 6627357,
           "lock_count": 6,
           "token_ids": [
             "120",
@@ -26090,7 +26090,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 32919991726,
+          "total_vp": 32580610368,
           "lock_count": 2,
           "token_ids": [
             "1214",
@@ -26114,7 +26114,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 250216827556,
+          "total_vp": 242595464354,
           "lock_count": 3,
           "token_ids": [
             "1222",
@@ -26366,7 +26366,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 22873515861,
+          "total_vp": 22869146229,
           "lock_count": 3,
           "token_ids": [
             "1287",
@@ -26410,7 +26410,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 497502984568,
+          "total_vp": 492797100101,
           "lock_count": 5,
           "token_ids": [
             "1298",
@@ -26435,7 +26435,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5620734,
+          "total_vp": 4683945,
           "lock_count": 1,
           "token_ids": [
             "130"
@@ -26613,7 +26613,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 166251775,
+          "total_vp": 142886391,
           "lock_count": 2,
           "token_ids": [
             "222",
@@ -26657,7 +26657,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 43102565,
+          "total_vp": 36697803,
           "lock_count": 2,
           "token_ids": [
             "240",
@@ -26807,7 +26807,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5259660,
+          "total_vp": 4508280,
           "lock_count": 2,
           "token_ids": [
             "3",
@@ -27029,7 +27029,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 2096394222,
+          "total_vp": 1986057684,
           "lock_count": 1,
           "token_ids": [
             "382"
@@ -27117,7 +27117,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 43265,
+          "total_vp": 34612,
           "lock_count": 1,
           "token_ids": [
             "43"
@@ -27180,7 +27180,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 397433405412,
+          "total_vp": 393498421200,
           "lock_count": 1,
           "token_ids": [
             "432"
@@ -27321,7 +27321,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 350812519200,
+          "total_vp": 351530329941,
           "lock_count": 3,
           "token_ids": [
             "465",
@@ -27344,7 +27344,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 225241736207,
+          "total_vp": 221693140707,
           "lock_count": 3,
           "token_ids": [
             "478",
@@ -27367,7 +27367,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 13680117,
+          "total_vp": 13265568,
           "lock_count": 1,
           "token_ids": [
             "480"
@@ -27388,7 +27388,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 27272049,
+          "total_vp": 25836678,
           "lock_count": 1,
           "token_ids": [
             "484"
@@ -27430,7 +27430,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 100962352,
+          "total_vp": 95648544,
           "lock_count": 1,
           "token_ids": [
             "497"
@@ -27540,7 +27540,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 8206107,
+          "total_vp": 7815340,
           "lock_count": 1,
           "token_ids": [
             "510"
@@ -27625,7 +27625,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 16199045685,
+          "total_vp": 15839066892,
           "lock_count": 2,
           "token_ids": [
             "538",
@@ -27715,7 +27715,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 3528746190,
+          "total_vp": 3425639374,
           "lock_count": 8,
           "token_ids": [
             "592",
@@ -27764,7 +27764,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 2682678,
+          "total_vp": 2596140,
           "lock_count": 1,
           "token_ids": [
             "626"
@@ -27806,7 +27806,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 29996658,
+          "total_vp": 29823582,
           "lock_count": 4,
           "token_ids": [
             "657",
@@ -27830,7 +27830,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 1715645,
+          "total_vp": 1673800,
           "lock_count": 1,
           "token_ids": [
             "685"
@@ -27851,7 +27851,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 259615,
+          "total_vp": 207692,
           "lock_count": 1,
           "token_ids": [
             "70"
@@ -27935,7 +27935,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 236436094908,
+          "total_vp": 227342398950,
           "lock_count": 1,
           "token_ids": [
             "737"
@@ -27956,7 +27956,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5778749729736,
+          "total_vp": 5781257158041,
           "lock_count": 1,
           "token_ids": [
             "748"
@@ -27977,7 +27977,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 1056471728499,
+          "total_vp": 1057958137845,
           "lock_count": 1,
           "token_ids": [
             "754"
@@ -28040,7 +28040,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 63907586,
+          "total_vp": 0,
           "lock_count": 1,
           "token_ids": [
             "833"
@@ -28083,7 +28083,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 386523,
+          "total_vp": 0,
           "lock_count": 1,
           "token_ids": [
             "853"
@@ -28577,7 +28577,7 @@
       "note": "SkeletonSwap pool data — only assets in current SS pools"
     },
     "coingecko_list": {
-      "coin_count": 17825,
+      "coin_count": 17841,
       "fetched_ok": true,
       "note": "CG /coins/list with platforms — used for independent CG-mapping verification"
     }
@@ -28755,231 +28755,231 @@
     "asset_gauge_distributions": [
       {
         "gauge": "stable",
-        "period": 194,
-        "total_gauge_vp": "29066316234292",
+        "period": 195,
+        "total_gauge_vp": "29444011434285",
         "assets": [
           {
             "asset": {
               "cw20": "terra1xkt5etsaptddec6achnjlqnx884fwxwuk795fs885v6eyygu6eus7uauhc"
             },
-            "distribution": "0.464479654202271616",
-            "total_vp": "13460747016218"
+            "distribution": "0.475879299203444529",
+            "total_vp": "13970587847067"
           },
           {
             "asset": {
               "cw20": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
             },
-            "distribution": "0.411835454193497863",
-            "total_vp": "11935103746856"
+            "distribution": "0.417388766220340915",
+            "total_vp": "12253456779105"
           },
           {
             "asset": {
               "native": "factory/terra16a45v4k74w3yy30utfxdsekdlnks27sv48sn2suaf4wt7u6meq8scz75mx/uLP"
             },
-            "distribution": "0.095033504091164828",
-            "total_vp": "2754096858845"
+            "distribution": "0.093810951641331089",
+            "total_vp": "2754047387890"
           },
           {
             "asset": {
               "cw20": "terra14h48hukanmfv6wrrs50m4w2f9hf09lakwl5d5pkpt4rpl3gtg7ks4ye6d4"
             },
-            "distribution": "0.028651387513065693",
-            "total_vp": "830325021748"
+            "distribution": "0.012920982934883467",
+            "total_vp": "379326706298"
           }
         ]
       },
       {
         "gauge": "project",
-        "period": 194,
-        "total_gauge_vp": "27948688909264",
+        "period": 195,
+        "total_gauge_vp": "28316681687777",
         "assets": [
           {
             "asset": {
               "cw20": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
             },
-            "distribution": "0.200826337252557746",
-            "total_vp": "5600096703350"
+            "distribution": "0.190980019462371354",
+            "total_vp": "5395847138993"
           },
           {
             "asset": {
               "cw20": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
             },
-            "distribution": "0.188596663354769588",
-            "total_vp": "5259068940682"
+            "distribution": "0.190977858435262928",
+            "total_vp": "5395786082491"
           },
           {
             "asset": {
               "cw20": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4"
             },
-            "distribution": "0.171549955455335186",
-            "total_vp": "4783716882697"
+            "distribution": "0.170372639419173215",
+            "total_vp": "4813617265097"
           },
           {
             "asset": {
               "cw20": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44"
             },
-            "distribution": "0.148730440932360461",
-            "total_vp": "4147388551461"
+            "distribution": "0.149045624392441702",
+            "total_vp": "4211055209971"
           },
           {
             "asset": {
               "cw20": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8"
             },
-            "distribution": "0.099384855950471819",
-            "total_vp": "2771373574728"
+            "distribution": "0.098003184294874658",
+            "total_vp": "2768929457010"
           },
           {
             "asset": {
               "cw20": "terra1q475uvk9te5nxq2lzu0h96t0devmx4v8ctxqtm253ut05wrpugsq0m4e3k"
             },
-            "distribution": "0.098975872332823871",
-            "total_vp": "2759968955990"
-          },
-          {
-            "asset": {
-              "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
-            },
-            "distribution": "0.045150505823059051",
-            "total_vp": "1259034060340"
+            "distribution": "0.097651673550786909",
+            "total_vp": "2758998060793"
           },
           {
             "asset": {
               "cw20": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
             },
-            "distribution": "0.03548287264736632",
-            "total_vp": "989449495800"
+            "distribution": "0.047438780503118131",
+            "total_vp": "1340309885692"
+          },
+          {
+            "asset": {
+              "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
+            },
+            "distribution": "0.04456054878287104",
+            "total_vp": "1258989868882"
           },
           {
             "asset": {
               "cw20": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc"
             },
-            "distribution": "0.011302496251255958",
-            "total_vp": "315173163352"
+            "distribution": "0.010969671159100063",
+            "total_vp": "309931211161"
           }
         ]
       },
       {
         "gauge": "bluechip",
-        "period": 194,
-        "total_gauge_vp": "24076093284489",
+        "period": 195,
+        "total_gauge_vp": "24442765237975",
         "assets": [
           {
             "asset": {
               "cw20": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
             },
-            "distribution": "0.413692738372845932",
-            "total_vp": "9949518393441"
+            "distribution": "0.421495460234388814",
+            "total_vp": "10291777148567"
           },
           {
             "asset": {
               "cw20": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
             },
-            "distribution": "0.345798164209870272",
-            "total_vp": "8316619742364"
-          },
-          {
-            "asset": {
-              "cw20": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
-            },
-            "distribution": "0.081787236331871451",
-            "total_vp": "1967024162506"
-          },
-          {
-            "asset": {
-              "cw20": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
-            },
-            "distribution": "0.068896538113402693",
-            "total_vp": "1656996387947"
+            "distribution": "0.348697937920793365",
+            "total_vp": "8514258889645"
           },
           {
             "asset": {
               "cw20": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
             },
-            "distribution": "0.068889965249383001",
-            "total_vp": "1656838307262"
+            "distribution": "0.06972979620960786",
+            "total_vp": "1702612699091"
+          },
+          {
+            "asset": {
+              "cw20": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
+            },
+            "distribution": "0.069729283216409978",
+            "total_vp": "1702600173187"
+          },
+          {
+            "asset": {
+              "cw20": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
+            },
+            "distribution": "0.069727982736905882",
+            "total_vp": "1702568419001"
           },
           {
             "asset": {
               "cw20": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su"
             },
-            "distribution": "0.020935357722626651",
-            "total_vp": "503505881089"
+            "distribution": "0.020619539681894101",
+            "total_vp": "503473292913"
           }
         ]
       },
       {
         "gauge": "single",
-        "period": 194,
-        "total_gauge_vp": "26398605239172",
+        "period": 195,
+        "total_gauge_vp": "26769570601910",
         "assets": [
           {
             "asset": {
               "native": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
             },
-            "distribution": "0.300674348123463272",
-            "total_vp": "7926067781127"
+            "distribution": "0.30709486685655727",
+            "total_vp": "8215881137073"
           },
           {
             "asset": {
               "cw20": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
             },
-            "distribution": "0.269726999000653218",
-            "total_vp": "7110265607365"
-          },
-          {
-            "asset": {
-              "cw20": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc"
-            },
-            "distribution": "0.10786038476383479",
-            "total_vp": "2843304478324"
+            "distribution": "0.264120786637806323",
+            "total_vp": "7066171476777"
           },
           {
             "asset": {
               "cw20": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr"
             },
-            "distribution": "0.107858261171159437",
-            "total_vp": "2843248498359"
+            "distribution": "0.113806481215868727",
+            "total_vp": "3044728594356"
+          },
+          {
+            "asset": {
+              "cw20": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc"
+            },
+            "distribution": "0.104932701366279009",
+            "total_vp": "2807323387206"
           },
           {
             "asset": {
               "native": "factory/terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze/uLP"
             },
-            "distribution": "0.063961022775458099",
-            "total_vp": "1686074668599"
+            "distribution": "0.062988610733273336",
+            "total_vp": "1685169615732"
           },
           {
             "asset": {
               "cw20": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0"
             },
-            "distribution": "0.053909722022941135",
-            "total_vp": "1421112620622"
+            "distribution": "0.052755675802305482",
+            "total_vp": "1411402170718"
           },
           {
             "asset": {
               "native": "factory/terra178ca7z2w6346wlkmxwpw80s2a5fmas9q28xlzegkt4c4rdam67aql5fgxj/uLP"
             },
-            "distribution": "0.043294965816198522",
-            "total_vp": "1141297339738"
+            "distribution": "0.042659642643134812",
+            "total_vp": "1141297335555"
           },
           {
             "asset": {
               "native": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6"
             },
-            "distribution": "0.033499631816790037",
-            "total_vp": "883082823925"
+            "distribution": "0.032708531853469193",
+            "total_vp": "875069689790"
           },
           {
             "asset": {
               "cw20": "terra1hqq6pnx74q0wae7eqqu2wgddzr2xn8l9gvd33sfwqfew50qawj0sfn69fh"
             },
-            "distribution": "0.01921466450950149",
+            "distribution": "0.018932702891305848",
             "total_vp": "506517214536"
           }
         ]
       }
     ],
     "asset_gauge_last_distribution_period": {
-      "period": 194
+      "period": 195
     },
     "asset_gauge_config": {
       "global_config_addr": "terra1hwxg6s732eparz3ys7sa4t5f64ngpd2w8syrca6z7ckv3fs9uqnsvrpcqa",
