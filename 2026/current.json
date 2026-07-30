@@ -3,8 +3,8 @@
   "cron": "tla-registry",
   "layer": 0,
   "layerRole": "discovery-bootstrap-catalog",
-  "capturedAt": "2026-07-29T00:05:19.755Z",
-  "capturedAtUnix": 1785283519755,
+  "capturedAt": "2026-07-30T00:05:27.168Z",
+  "capturedAtUnix": 1785369927168,
   "canonicalEpoch": 195,
   "directory": {
     "ASSET_GAUGE": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
@@ -326,9 +326,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4221564746",
-        "harvested_raw": "4221564746",
-        "last_taken_s": 1785283202,
+        "taken_raw": "4221913620",
+        "harvested_raw": "4221913620",
+        "last_taken_s": 1785369613,
         "stake_mechanism": "default"
       }
     },
@@ -343,9 +343,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "11301655805",
-        "harvested_raw": "11301655805",
-        "last_taken_s": 1785283202,
+        "taken_raw": "11301662482",
+        "harvested_raw": "11301662482",
+        "last_taken_s": 1785369613,
         "stake_mechanism": "default"
       }
     },
@@ -360,9 +360,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4279169581",
-        "harvested_raw": "4279169581",
-        "last_taken_s": 1785283202,
+        "taken_raw": "4279190958",
+        "harvested_raw": "4279190958",
+        "last_taken_s": 1785369613,
         "stake_mechanism": "default"
       }
     },
@@ -394,9 +394,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "5583395640",
-        "harvested_raw": "5583395640",
-        "last_taken_s": 1785283202,
+        "taken_raw": "5593360414",
+        "harvested_raw": "5593360414",
+        "last_taken_s": 1785369613,
         "stake_mechanism": "astroport"
       }
     },
@@ -445,9 +445,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "388604963218",
-        "harvested_raw": "388604963218",
-        "last_taken_s": 1785283202,
+        "taken_raw": "388604964533",
+        "harvested_raw": "388604964533",
+        "last_taken_s": 1785369613,
         "stake_mechanism": "default"
       }
     },
@@ -479,9 +479,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "24615187770",
-        "harvested_raw": "24615187770",
-        "last_taken_s": 1785283202,
+        "taken_raw": "24615849194",
+        "harvested_raw": "24615849194",
+        "last_taken_s": 1785369613,
         "stake_mechanism": "default"
       }
     },
@@ -496,9 +496,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "100307118",
-        "harvested_raw": "100307118",
-        "last_taken_s": 1785283202,
+        "taken_raw": "100315379",
+        "harvested_raw": "100315379",
+        "last_taken_s": 1785369613,
         "stake_mechanism": "default"
       }
     },
@@ -564,9 +564,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "36211277",
-        "harvested_raw": "36211277",
-        "last_taken_s": 1785283202,
+        "taken_raw": "36211313",
+        "harvested_raw": "36211313",
+        "last_taken_s": 1785369613,
         "stake_mechanism": "astroport"
       }
     },
@@ -751,9 +751,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "606108646998705",
-        "harvested_raw": "606108646998705",
-        "last_taken_s": 1785283202,
+        "taken_raw": "606110986167218",
+        "harvested_raw": "606110986167218",
+        "last_taken_s": 1785369613,
         "stake_mechanism": "default"
       }
     },
@@ -768,9 +768,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "799672965",
-        "harvested_raw": "799672965",
-        "last_taken_s": 1785283202,
+        "taken_raw": "799949207",
+        "harvested_raw": "799949207",
+        "last_taken_s": 1785369613,
         "stake_mechanism": "default"
       }
     },
@@ -921,9 +921,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "188223666",
-        "harvested_raw": "188223666",
-        "last_taken_s": 1785254459,
+        "taken_raw": "188223668",
+        "harvested_raw": "188223668",
+        "last_taken_s": 1785340813,
         "stake_mechanism": "astroport"
       }
     },
@@ -1040,9 +1040,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "140",
-        "harvested_raw": "140",
-        "last_taken_s": 1785239999,
+        "taken_raw": "141",
+        "harvested_raw": "141",
+        "last_taken_s": 1785326399,
         "stake_mechanism": "default"
       }
     },
@@ -1074,9 +1074,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "6981637262",
-        "harvested_raw": "6981637262",
-        "last_taken_s": 1785283202,
+        "taken_raw": "6981681236",
+        "harvested_raw": "6981681236",
+        "last_taken_s": 1785369613,
         "stake_mechanism": "default"
       }
     }
@@ -3414,9 +3414,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "4221564746",
-          "harvested_raw": "4221564746",
-          "last_taken_s": 1785283202,
+          "taken_raw": "4221913620",
+          "harvested_raw": "4221913620",
+          "last_taken_s": 1785369613,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3470,9 +3470,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "11301655805",
-          "harvested_raw": "11301655805",
-          "last_taken_s": 1785283202,
+          "taken_raw": "11301662482",
+          "harvested_raw": "11301662482",
+          "last_taken_s": 1785369613,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3526,9 +3526,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "4279169581",
-          "harvested_raw": "4279169581",
-          "last_taken_s": 1785283202,
+          "taken_raw": "4279190958",
+          "harvested_raw": "4279190958",
+          "last_taken_s": 1785369613,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3786,9 +3786,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "388604963218",
-          "harvested_raw": "388604963218",
-          "last_taken_s": 1785283202,
+          "taken_raw": "388604964533",
+          "harvested_raw": "388604964533",
+          "last_taken_s": 1785369613,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3897,9 +3897,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "24615187770",
-          "harvested_raw": "24615187770",
-          "last_taken_s": 1785283202,
+          "taken_raw": "24615849194",
+          "harvested_raw": "24615849194",
+          "last_taken_s": 1785369613,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -4373,9 +4373,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "100307118",
-          "harvested_raw": "100307118",
-          "last_taken_s": 1785283202,
+          "taken_raw": "100315379",
+          "harvested_raw": "100315379",
+          "last_taken_s": 1785369613,
           "stake_mechanism": "default"
         }
       },
@@ -4498,9 +4498,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "36211277",
-          "harvested_raw": "36211277",
-          "last_taken_s": 1785283202,
+          "taken_raw": "36211313",
+          "harvested_raw": "36211313",
+          "last_taken_s": 1785369613,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -6075,9 +6075,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "606108646998705",
-          "harvested_raw": "606108646998705",
-          "last_taken_s": 1785283202,
+          "taken_raw": "606110986167218",
+          "harvested_raw": "606110986167218",
+          "last_taken_s": 1785369613,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -6178,9 +6178,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "799672965",
-          "harvested_raw": "799672965",
-          "last_taken_s": 1785283202,
+          "taken_raw": "799949207",
+          "harvested_raw": "799949207",
+          "last_taken_s": 1785369613,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -6448,9 +6448,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "6981637262",
-          "harvested_raw": "6981637262",
-          "last_taken_s": 1785283202,
+          "taken_raw": "6981681236",
+          "harvested_raw": "6981681236",
+          "last_taken_s": 1785369613,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -7959,9 +7959,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "5583395640",
-          "harvested_raw": "5583395640",
-          "last_taken_s": 1785283202,
+          "taken_raw": "5593360414",
+          "harvested_raw": "5593360414",
+          "last_taken_s": 1785369613,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -9247,9 +9247,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "188223666",
-          "harvested_raw": "188223666",
-          "last_taken_s": 1785254459,
+          "taken_raw": "188223668",
+          "harvested_raw": "188223668",
+          "last_taken_s": 1785340813,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -9357,9 +9357,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "140",
-          "harvested_raw": "140",
-          "last_taken_s": 1785239999,
+          "taken_raw": "141",
+          "harvested_raw": "141",
+          "last_taken_s": 1785326399,
           "stake_mechanism": "default"
         }
       },
@@ -16192,7 +16192,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5136238008,
+          "total_vp": 5147859321,
           "lock_count": 3,
           "token_ids": [
             "583",
@@ -20224,7 +20224,7 @@
         {
           "dao": "Lion DAO ROAR Staking",
           "staking_contract": "terra1xuqh84yz35h70p3ppt76dz5kgwwtwmsv34pg0gw6ld4ntptgjcrqe2e70t",
-          "stake_balance": "132167228738371336"
+          "stake_balance": "132194259275839583"
         }
       ],
       "verified": false,
@@ -23327,10 +23327,12 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 42486985035,
-          "lock_count": 2,
+          "total_vp": 129676775364,
+          "lock_count": 4,
           "token_ids": [
             "1104",
+            "1304",
+            "1305",
             "567"
           ]
         }
@@ -23539,7 +23541,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 65980509309,
+          "total_vp": 66015941805,
           "lock_count": 4,
           "token_ids": [
             "114",
@@ -25352,7 +25354,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 6290303918094,
+          "total_vp": 6312569293125,
           "lock_count": 1,
           "token_ids": [
             "1000"
@@ -26456,7 +26458,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 592055793117,
+          "total_vp": 592964610903,
           "lock_count": 3,
           "token_ids": [
             "1300",
@@ -27956,7 +27958,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5827599622188,
+          "total_vp": 5827119381576,
           "lock_count": 1,
           "token_ids": [
             "748"
@@ -27977,7 +27979,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 1067752328211,
+          "total_vp": 983046407301,
           "lock_count": 1,
           "token_ids": [
             "754"
@@ -28567,7 +28569,7 @@
       "note": "Eris /prices endpoint — Eris-recognized assets only"
     },
     "astroport_pools": {
-      "pool_count": 275,
+      "pool_count": 276,
       "fetched_ok": true,
       "note": "Astroport pool data — indexes assets via active trading pairs"
     },
@@ -28577,7 +28579,7 @@
       "note": "SkeletonSwap pool data — only assets in current SS pools"
     },
     "coingecko_list": {
-      "coin_count": 17863,
+      "coin_count": 17876,
       "fetched_ok": true,
       "note": "CG /coins/list with platforms — used for independent CG-mapping verification"
     }
@@ -29006,7 +29008,7 @@
       }
     },
     "voting_escrow_num_tokens": {
-      "count": 436
+      "count": 438
     },
     "asset_compounder_asset_configs": [
       {
