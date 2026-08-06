@@ -3,8 +3,8 @@
   "cron": "tla-registry",
   "layer": 0,
   "layerRole": "discovery-bootstrap-catalog",
-  "capturedAt": "2026-08-05T00:05:21.394Z",
-  "capturedAtUnix": 1785888321394,
+  "capturedAt": "2026-08-06T00:05:23.373Z",
+  "capturedAtUnix": 1785974723373,
   "canonicalEpoch": 196,
   "directory": {
     "ASSET_GAUGE": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
@@ -326,9 +326,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4224004683",
-        "harvested_raw": "4224004683",
-        "last_taken_s": 1785888035,
+        "taken_raw": "4224352822",
+        "harvested_raw": "4224352822",
+        "last_taken_s": 1785974429,
         "stake_mechanism": "default"
       }
     },
@@ -343,9 +343,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "11301702506",
-        "harvested_raw": "11301702506",
-        "last_taken_s": 1785888035,
+        "taken_raw": "11301709169",
+        "harvested_raw": "11301709169",
+        "last_taken_s": 1785974429,
         "stake_mechanism": "default"
       }
     },
@@ -360,9 +360,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4279319093",
-        "harvested_raw": "4279319093",
-        "last_taken_s": 1785888035,
+        "taken_raw": "4279340427",
+        "harvested_raw": "4279340427",
+        "last_taken_s": 1785974429,
         "stake_mechanism": "default"
       }
     },
@@ -394,9 +394,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "5653086685",
-        "harvested_raw": "5653086685",
-        "last_taken_s": 1785888035,
+        "taken_raw": "5663030409",
+        "harvested_raw": "5663030409",
+        "last_taken_s": 1785974429,
         "stake_mechanism": "astroport"
       }
     },
@@ -445,9 +445,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "388604972418",
-        "harvested_raw": "388604972418",
-        "last_taken_s": 1785888035,
+        "taken_raw": "388604973731",
+        "harvested_raw": "388604973731",
+        "last_taken_s": 1785974429,
         "stake_mechanism": "default"
       }
     },
@@ -479,9 +479,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "24619813586",
-        "harvested_raw": "24619813586",
-        "last_taken_s": 1785888035,
+        "taken_raw": "24620473612",
+        "harvested_raw": "24620473612",
+        "last_taken_s": 1785974429,
         "stake_mechanism": "default"
       }
     },
@@ -496,9 +496,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "100364895",
-        "harvested_raw": "100364895",
-        "last_taken_s": 1785888035,
+        "taken_raw": "100373139",
+        "harvested_raw": "100373139",
+        "last_taken_s": 1785974429,
         "stake_mechanism": "default"
       }
     },
@@ -564,9 +564,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "36211529",
-        "harvested_raw": "36211529",
-        "last_taken_s": 1785888035,
+        "taken_raw": "36211565",
+        "harvested_raw": "36211565",
+        "last_taken_s": 1785974429,
         "stake_mechanism": "astroport"
       }
     },
@@ -751,9 +751,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "606125006537041",
-        "harvested_raw": "606125006537041",
-        "last_taken_s": 1785888035,
+        "taken_raw": "606127340764170",
+        "harvested_raw": "606127340764170",
+        "last_taken_s": 1785974429,
         "stake_mechanism": "default"
       }
     },
@@ -768,9 +768,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "801604930",
-        "harvested_raw": "801604930",
-        "last_taken_s": 1785888035,
+        "taken_raw": "801880588",
+        "harvested_raw": "801880588",
+        "last_taken_s": 1785974429,
         "stake_mechanism": "default"
       }
     },
@@ -921,9 +921,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "188223680",
-        "harvested_raw": "188223680",
-        "last_taken_s": 1785859210,
+        "taken_raw": "188223682",
+        "harvested_raw": "188223682",
+        "last_taken_s": 1785945622,
         "stake_mechanism": "astroport"
       }
     },
@@ -1040,9 +1040,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "147",
-        "harvested_raw": "147",
-        "last_taken_s": 1785844801,
+        "taken_raw": "148",
+        "harvested_raw": "148",
+        "last_taken_s": 1785931256,
         "stake_mechanism": "default"
       }
     },
@@ -1074,9 +1074,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "6981944810",
-        "harvested_raw": "6981944810",
-        "last_taken_s": 1785888035,
+        "taken_raw": "6981988692",
+        "harvested_raw": "6981988692",
+        "last_taken_s": 1785974429,
         "stake_mechanism": "default"
       }
     }
@@ -1395,7 +1395,7 @@
           "display": "LUNA",
           "coingecko_id": "terra-luna-2",
           "decimals": 6,
-          "price_usd": "0.04076515",
+          "price_usd": "0.04097447",
           "eris_name": "LUNA",
           "symbol": "LUNA"
         },
@@ -1468,7 +1468,7 @@
           "display": "ASTRO",
           "coingecko_id": "astroport-fi",
           "decimals": 6,
-          "price_usd": "0.000425459584404415",
+          "price_usd": "0.000428106040110532",
           "eris_name": "ASTRO",
           "symbol": "ASTRO"
         },
@@ -1569,7 +1569,7 @@
           "display": "ampLUNA",
           "coingecko_id": "eris-amplified-luna",
           "decimals": 6,
-          "price_usd": "0.09140963894556288",
+          "price_usd": "0.09123310300863106",
           "eris_name": "ampLUNA",
           "symbol": "ampLUNA"
         },
@@ -1639,7 +1639,7 @@
           "display": "ROAR",
           "coingecko_id": "lion-dao",
           "decimals": 6,
-          "price_usd": "1.75946844008e-7",
+          "price_usd": "1.77480923676e-7",
           "eris_name": "ROAR",
           "symbol": "ROAR"
         },
@@ -1710,7 +1710,7 @@
           "display": "boneLUNA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0721358474917347",
+          "price_usd": "0.07251620670347521",
           "eris_name": "bLUNA",
           "symbol": "bLUNA",
           "_display_original": "bLUNA",
@@ -1799,7 +1799,7 @@
           "display": "ampROAR",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.110196813266708e-7",
+          "price_usd": "2.1277563530838823e-7",
           "eris_name": "ampROAR",
           "symbol": "ampROAR"
         },
@@ -1859,7 +1859,7 @@
           "display": "wstETH",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "2322.74",
+          "price_usd": "2365.71",
           "eris_name": "wstETH",
           "symbol": "wstETH"
         },
@@ -1966,7 +1966,7 @@
           "display": "USDt",
           "coingecko_id": "tether",
           "decimals": 6,
-          "price_usd": "0.99934",
+          "price_usd": "0.999169",
           "eris_name": "USDt",
           "symbol": "USDt"
         },
@@ -2069,7 +2069,7 @@
           "display": "USDC",
           "coingecko_id": "usd-coin",
           "decimals": 6,
-          "price_usd": "0.999703",
+          "price_usd": "0.999584",
           "eris_name": "USDC",
           "symbol": "USDC"
         },
@@ -2294,7 +2294,7 @@
           "display": "arbLUNA",
           "coingecko_id": "eris-arbitrage-luna",
           "decimals": 6,
-          "price_usd": "0.11894026240776258",
+          "price_usd": "0.1086286139057968",
           "eris_name": "arbLUNA",
           "symbol": "arbLUNA"
         },
@@ -2485,7 +2485,7 @@
           "display": "LUNA-USDC-ampLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.7566068940877746",
+          "price_usd": "1.7632361684968103",
           "eris_name": "LUNA-USDC-ampLP",
           "symbol": "LUNA-USDC-ampLP"
         },
@@ -2668,7 +2668,7 @@
           "display": "SOLID",
           "coingecko_id": "solid-2",
           "decimals": 6,
-          "price_usd": "1.0017587045493723",
+          "price_usd": "1.004854499424235",
           "eris_name": "SOLID",
           "symbol": "SOLID"
         },
@@ -2739,7 +2739,7 @@
           "display": "CAPA",
           "coingecko_id": "capapult",
           "decimals": 6,
-          "price_usd": "0.00110187598445529",
+          "price_usd": "0.001115146907201118",
           "eris_name": "CAPA",
           "symbol": "CAPA"
         },
@@ -2810,7 +2810,7 @@
           "display": "ampCAPA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0012234875643171972",
+          "price_usd": "0.0012315801005927845",
           "eris_name": "ampCAPA",
           "symbol": "ampCAPA"
         },
@@ -2887,7 +2887,7 @@
           "display": "PAXG",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "4065.53",
+          "price_usd": "4258.84",
           "eris_name": "PAXG",
           "symbol": "PAXG"
         },
@@ -3013,7 +3013,7 @@
           "display": "LUNA-ampLUNA-ampLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.25051171435908726",
+          "price_usd": "0.25207604649090537",
           "eris_name": "LUNA-ampLUNA-ampLP",
           "symbol": "LUNA-ampLUNA-ampLP"
         },
@@ -3065,7 +3065,7 @@
           "display": "wETH.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "1868.06",
+          "price_usd": "1906.17",
           "eris_name": "wETH.wh",
           "symbol": "wETH.wh"
         },
@@ -3196,7 +3196,7 @@
           "display": "wBTC.creda.a",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "64183.90911158307",
+          "price_usd": "64715.7109614685",
           "eris_name": "wBTC.creda.a",
           "symbol": "wBTC.creda.a"
         },
@@ -3271,7 +3271,7 @@
           "display": "USDt-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.4185968857259519",
+          "price_usd": "0.41967163202345337",
           "eris_name": "USDt-LUNA LP",
           "symbol": "USDt-LUNA LP"
         },
@@ -3386,7 +3386,7 @@
           "display": "LUNA-USDC LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.43448043558118643",
+          "price_usd": "0.4356145266440986",
           "eris_name": "LUNA-USDC LP",
           "symbol": "LUNA-USDC LP"
         },
@@ -3454,7 +3454,7 @@
           "display": "PAXG-wBTC.atom LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "32316.296887346234",
+          "price_usd": "33205.75247240461",
           "eris_name": "PAXG-wBTC.atom LP",
           "symbol": "PAXG-wBTC.atom LP"
         },
@@ -3523,7 +3523,7 @@
           "display": "ampROAR-ROAR LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "5.357016511342496e-7",
+          "price_usd": "5.40107522822629e-7",
           "eris_name": "ampROAR-ROAR LP",
           "symbol": "ampROAR-ROAR LP"
         },
@@ -3572,7 +3572,7 @@
           "display": "ampROAR-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "3.9528828047302036e-7",
+          "price_usd": "3.9853695645299194e-7",
           "eris_name": "ampROAR-ROAR LP (S)",
           "symbol": "ampROAR-ROAR LP (S)"
         },
@@ -3621,7 +3621,7 @@
           "display": "LUNA-arbLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.14186261670166245",
+          "price_usd": "0.1426153832963824",
           "eris_name": "LUNA-arbLUNA LP (S)",
           "symbol": "LUNA-arbLUNA LP (S)"
         },
@@ -3641,9 +3641,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "6981944810",
-          "harvested_raw": "6981944810",
-          "last_taken_s": 1785888035,
+          "taken_raw": "6981988692",
+          "harvested_raw": "6981988692",
+          "last_taken_s": 1785974429,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3677,7 +3677,7 @@
           "display": "PAXG-wBTC.atom AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "36613.55497430844",
+          "price_usd": "37652.93045337667",
           "eris_name": "PAXG-wBTC.atom AMPLP",
           "symbol": "PAXG-wBTC.atom AMPLP"
         },
@@ -3724,7 +3724,7 @@
           "display": "ampCAPA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.002475142194415126",
+          "price_usd": "0.002493122710600273",
           "eris_name": "ampCAPA",
           "symbol": "ampCAPA"
         },
@@ -3771,7 +3771,7 @@
           "display": "ampROAR-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00000118434041043239",
+          "price_usd": "0.0000011948554820071954",
           "eris_name": "ampROAR-ROAR LP (S)",
           "symbol": "ampROAR-ROAR LP (S)"
         },
@@ -3818,7 +3818,7 @@
           "display": "LUNA-arbLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.25800472562532883",
+          "price_usd": "0.2593737779045426",
           "eris_name": "LUNA-arbLUNA LP (S)",
           "symbol": "LUNA-arbLUNA LP (S)"
         },
@@ -3865,7 +3865,7 @@
           "display": "USDt-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.7118093383444786",
+          "price_usd": "1.7185234597500196",
           "eris_name": "USDt-LUNA AMPLP",
           "symbol": "USDt-LUNA AMPLP"
         },
@@ -3912,7 +3912,7 @@
           "display": "LUNA-USDC AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.640067798385175",
+          "price_usd": "1.6465487999966766",
           "eris_name": "LUNA-USDC AMPLP",
           "symbol": "LUNA-USDC AMPLP"
         },
@@ -4110,7 +4110,7 @@
           "display": "FUEL",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.002258564649720407",
+          "price_usd": "0.002270340604469121",
           "eris_name": "FUEL",
           "symbol": "FUEL"
         },
@@ -4340,7 +4340,7 @@
           "display": "xASTRO",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0005365794486038639",
+          "price_usd": "0.0005502247793710227",
           "eris_name": "xASTRO",
           "symbol": "xASTRO"
         },
@@ -4395,7 +4395,7 @@
           "display": "LUNA-EURe AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.7025965917148962",
+          "price_usd": "1.7094408100138665",
           "eris_name": "LUNA-EURe AMPLP",
           "symbol": "LUNA-EURe AMPLP"
         },
@@ -4442,7 +4442,7 @@
           "display": "LUNA-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.2755126078984351",
+          "price_usd": "1.2789039749522386",
           "eris_name": "LUNA-EURe LP (S)",
           "symbol": "LUNA-EURe LP (S)"
         },
@@ -4489,7 +4489,7 @@
           "display": "LUNA-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.944830076554455",
+          "price_usd": "0.9472426648002393",
           "eris_name": "LUNA-USDt LP (S)",
           "symbol": "LUNA-USDt LP (S)"
         },
@@ -4536,7 +4536,7 @@
           "display": "ampLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.2263610884358688",
+          "price_usd": "0.22764538140662705",
           "eris_name": "ampLUNA-LUNA LP (S)",
           "symbol": "ampLUNA-LUNA LP (S)"
         },
@@ -4583,7 +4583,7 @@
           "display": "bLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.29588806828283304",
+          "price_usd": "0.29773198444062743",
           "eris_name": "bLUNA-LUNA LP (S)",
           "symbol": "bLUNA-LUNA LP (S)"
         },
@@ -4630,7 +4630,7 @@
           "display": "wBNB.axl-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "32.019434789476904",
+          "price_usd": "26.820101043065275",
           "eris_name": "wBNB.axl-LUNA AMPLP",
           "symbol": "wBNB.axl-LUNA AMPLP"
         },
@@ -4677,7 +4677,7 @@
           "display": "USDC-EURe AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "3.2023905622777415",
+          "price_usd": "3.2036311229319785",
           "eris_name": "USDC-EURe AMPLP",
           "symbol": "USDC-EURe AMPLP"
         },
@@ -4724,7 +4724,7 @@
           "display": "LUNA-PAXG AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "42.97643295796404",
+          "price_usd": "44.151903174813974",
           "eris_name": "LUNA-PAXG AMPLP",
           "symbol": "LUNA-PAXG AMPLP"
         },
@@ -4771,7 +4771,7 @@
           "display": "LUNA-wBTC.atom AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "222.0818815863535",
+          "price_usd": "223.86820316566238",
           "eris_name": "LUNA-wBTC.atom AMPLP",
           "symbol": "LUNA-wBTC.atom AMPLP"
         },
@@ -4818,7 +4818,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0738605048749135",
+          "price_usd": "1.0745483352370093",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -4865,7 +4865,7 @@
           "display": "LUNA-INJ LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000021062306451320295",
+          "price_usd": "0.0000021075179281563694",
           "eris_name": "LUNA-INJ LP (S)",
           "symbol": "LUNA-INJ LP (S)"
         },
@@ -4912,7 +4912,7 @@
           "display": "WETH.axl",
           "coingecko_id": "ethereum",
           "decimals": 18,
-          "price_usd": "1868.06",
+          "price_usd": "1906.17",
           "eris_name": "WETH.axl",
           "symbol": "WETH.axl"
         },
@@ -4986,7 +4986,7 @@
           "display": "wBTC.atom",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "64075",
+          "price_usd": "64605",
           "eris_name": "wBTC.atom",
           "symbol": "wBTC.atom"
         },
@@ -5083,7 +5083,7 @@
           "display": "ATOM",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.38",
+          "price_usd": "1.35",
           "eris_name": "ATOM",
           "symbol": "ATOM"
         },
@@ -5170,7 +5170,7 @@
           "display": "dATOM",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.636046783284802",
+          "price_usd": "2.598337038269385",
           "eris_name": "dATOM",
           "symbol": "dATOM"
         },
@@ -5278,7 +5278,7 @@
           "display": "INJ",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "4.88",
+          "price_usd": "4.86",
           "eris_name": "INJ",
           "symbol": "INJ"
         },
@@ -5325,6 +5325,72 @@
       "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png",
       "acquisition_class": "ibc_cosmos_native",
       "headline_name": "INJ",
+      "tier": "core"
+    },
+    "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431": {
+      "address": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
+      "type": "ibc",
+      "category": "tokens",
+      "subtype": "lst",
+      "symbol": "stLUNA",
+      "display_name": "stLUNA",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "stLUNA",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "0.04097447",
+          "eris_name": "stLUNA",
+          "symbol": "stLUNA"
+        },
+        "astroport": {
+          "symbol": "stLUNA",
+          "name": "stLUNA",
+          "decimals": 6,
+          "price_usd": null
+        },
+        "skeletonswap": {
+          "symbol": "stLUNA",
+          "name": "Stride Staked LUNA",
+          "decimals": 6,
+          "logo_url": null
+        }
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "project"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": true
+      },
+      "wallet_import": {
+        "symbol": "stLUNA",
+        "name": "stLUNA",
+        "decimals": 6,
+        "address": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": {
+        "display_name": "stLUNA",
+        "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stluna.png",
+        "notes": "Stride's liquid-staked LUNA.",
+        "verified": true
+      },
+      "notes": "Stride's liquid-staked LUNA.",
+      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stluna.png",
+      "acquisition_class": "ibc_cosmos_native",
+      "headline_name": "stLUNA",
       "tier": "core"
     },
     "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD": {
@@ -5404,72 +5470,6 @@
       "headline_name": "WBTC.axl",
       "tier": "core"
     },
-    "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431": {
-      "address": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
-      "type": "ibc",
-      "category": "tokens",
-      "subtype": "lst",
-      "symbol": "stLUNA",
-      "display_name": "stLUNA",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "stLUNA",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.04076515",
-          "eris_name": "stLUNA",
-          "symbol": "stLUNA"
-        },
-        "astroport": {
-          "symbol": "stLUNA",
-          "name": "stLUNA",
-          "decimals": 6,
-          "price_usd": null
-        },
-        "skeletonswap": {
-          "symbol": "stLUNA",
-          "name": "Stride Staked LUNA",
-          "decimals": 6,
-          "logo_url": null
-        }
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "project"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": true
-      },
-      "wallet_import": {
-        "symbol": "stLUNA",
-        "name": "stLUNA",
-        "decimals": 6,
-        "address": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431"
-      },
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": {
-        "display_name": "stLUNA",
-        "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stluna.png",
-        "notes": "Stride's liquid-staked LUNA.",
-        "verified": true
-      },
-      "notes": "Stride's liquid-staked LUNA.",
-      "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stluna.png",
-      "acquisition_class": "ibc_cosmos_native",
-      "headline_name": "stLUNA",
-      "tier": "core"
-    },
     "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B": {
       "address": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
       "type": "ibc",
@@ -5486,7 +5486,7 @@
           "display": "SWTH",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "0.00014667",
+          "price_usd": "0.00014728",
           "eris_name": "SWTH",
           "symbol": "SWTH"
         },
@@ -5784,7 +5784,7 @@
           "display": "wBNB.axl",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "806.31",
+          "price_usd": "592.57",
           "eris_name": "wBNB.axl",
           "symbol": "wBNB.axl"
         },
@@ -5851,7 +5851,7 @@
           "display": "WBTC.osmo",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "64075",
+          "price_usd": "64605",
           "eris_name": "WBTC.osmo",
           "symbol": "WBTC.osmo"
         },
@@ -5927,7 +5927,7 @@
           "display": "wSOL.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "73.7",
+          "price_usd": "74",
           "eris_name": "wSOL.wh",
           "symbol": "wSOL.wh"
         },
@@ -5993,7 +5993,7 @@
           "display": "wBNB.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "592.66",
+          "price_usd": "592.82",
           "eris_name": "wBNB.wh",
           "symbol": "wBNB.wh"
         },
@@ -6186,7 +6186,7 @@
           "display": "LUNA-EURe LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.4401087898532058",
+          "price_usd": "0.4412784719117212",
           "eris_name": "LUNA-EURe LP",
           "symbol": "LUNA-EURe LP"
         },
@@ -6254,7 +6254,7 @@
           "display": "LUNA-USDC LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.4717448768091946",
+          "price_usd": "0.47296510949421644",
           "eris_name": "LUNA-USDC LP (S)",
           "symbol": "LUNA-USDC LP (S)"
         },
@@ -6303,7 +6303,7 @@
           "display": "bLUNA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.09490543766711965",
+          "price_usd": "0.09540585678904222",
           "eris_name": "bLUNA-LUNA LP",
           "symbol": "bLUNA-LUNA LP"
         },
@@ -6337,9 +6337,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "5653086685",
-          "harvested_raw": "5653086685",
-          "last_taken_s": 1785888035,
+          "taken_raw": "5663030409",
+          "harvested_raw": "5663030409",
+          "last_taken_s": 1785974429,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -6378,7 +6378,7 @@
           "display": "LUNA-ampLUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.11898837328863145",
+          "price_usd": "0.11965292200994379",
           "eris_name": "LUNA-ampLUNA LP",
           "symbol": "LUNA-ampLUNA LP"
         },
@@ -6446,7 +6446,7 @@
           "display": "bLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.12064736413538617",
+          "price_usd": "0.1212834929206458",
           "eris_name": "bLUNA-LUNA LP (S)",
           "symbol": "bLUNA-LUNA LP (S)"
         },
@@ -6495,7 +6495,7 @@
           "display": "ROAR-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0001750917616631211",
+          "price_usd": "0.00017626269043945715",
           "eris_name": "ROAR-LUNA LP",
           "symbol": "ROAR-LUNA LP"
         },
@@ -6563,7 +6563,7 @@
           "display": "LUNA-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0001776134650311755",
+          "price_usd": "0.00017880082402014908",
           "eris_name": "LUNA-ROAR LP (S)",
           "symbol": "LUNA-ROAR LP (S)"
         },
@@ -6583,9 +6583,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "388604972418",
-          "harvested_raw": "388604972418",
-          "last_taken_s": 1785888035,
+          "taken_raw": "388604973731",
+          "harvested_raw": "388604973731",
+          "last_taken_s": 1785974429,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -6619,7 +6619,7 @@
           "display": "LUNA-stLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.08503694717490394",
+          "price_usd": "0.08548098311812792",
           "eris_name": "LUNA-stLUNA LP (S)",
           "symbol": "LUNA-stLUNA LP (S)"
         },
@@ -6674,7 +6674,7 @@
           "display": "CAPA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.01373533074553595",
+          "price_usd": "0.013816991705074525",
           "eris_name": "CAPA-LUNA LP (S)",
           "symbol": "CAPA-LUNA LP (S)"
         },
@@ -6694,9 +6694,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "24619813586",
-          "harvested_raw": "24619813586",
-          "last_taken_s": 1785888035,
+          "taken_raw": "24620473612",
+          "harvested_raw": "24620473612",
+          "last_taken_s": 1785974429,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -6730,7 +6730,7 @@
           "display": "LUNA-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.42136092864023944",
+          "price_usd": "0.42458145457344326",
           "eris_name": "LUNA-SOLID LP (S)",
           "symbol": "LUNA-SOLID LP (S)"
         },
@@ -6786,7 +6786,7 @@
           "display": "LUNA-ASTRO LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.008380876671023808",
+          "price_usd": "0.008511868316050433",
           "eris_name": "LUNA-ASTRO LP (S)",
           "symbol": "LUNA-ASTRO LP (S)"
         },
@@ -6806,9 +6806,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "100364895",
-          "harvested_raw": "100364895",
-          "last_taken_s": 1785888035,
+          "taken_raw": "100373139",
+          "harvested_raw": "100373139",
+          "last_taken_s": 1785974429,
           "stake_mechanism": "default"
         }
       },
@@ -6841,7 +6841,7 @@
           "display": "USDC-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.0479888117213982",
+          "price_usd": "2.058084465762391",
           "eris_name": "USDC-SOLID LP (S)",
           "symbol": "USDC-SOLID LP (S)"
         },
@@ -6879,310 +6879,6 @@
       "notes": null,
       "acquisition_class": "lp_token",
       "headline_name": "USDC-SOLID LP (S)",
-      "tier": "core"
-    },
-    "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP": {
-      "address": "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP",
-      "type": "factory",
-      "category": "lp_tokens",
-      "subtype": "astroport_native_lp",
-      "symbol": null,
-      "display_name": "LUNA-EURe LP (S)",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "LUNA-EURe LP (S)",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.45458657424152504",
-          "eris_name": "LUNA-EURe LP (S)",
-          "symbol": "LUNA-EURe LP (S)"
-        },
-        "astroport": null,
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "stable"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0,
-        "tla_total_vp": null,
-        "gauge_status": "inactive_below_threshold",
-        "take_rate": {
-          "yearly_rate": "0.1",
-          "taken_raw": "4224004683",
-          "harvested_raw": "4224004683",
-          "last_taken_s": 1785888035,
-          "stake_mechanism": "default"
-        },
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": null,
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "LUNA-EURe LP (S)",
-      "tier": "core"
-    },
-    "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP": {
-      "address": "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP",
-      "type": "factory",
-      "category": "lp_tokens",
-      "subtype": "astroport_native_lp",
-      "symbol": null,
-      "display_name": "LUNA-USDt LP (S)",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "LUNA-USDt LP (S)",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.44882055814913985",
-          "eris_name": "LUNA-USDt LP (S)",
-          "symbol": "LUNA-USDt LP (S)"
-        },
-        "astroport": null,
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "stable"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0,
-        "tla_total_vp": null,
-        "gauge_status": "inactive_below_threshold",
-        "take_rate": {
-          "yearly_rate": "0.1",
-          "taken_raw": "11301702506",
-          "harvested_raw": "11301702506",
-          "last_taken_s": 1785888035,
-          "stake_mechanism": "default"
-        },
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": null,
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "LUNA-USDt LP (S)",
-      "tier": "core"
-    },
-    "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par": {
-      "address": "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": null,
-      "display_name": "ampLUNA-LUNA LP (S)",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "ampLUNA-LUNA LP (S)",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.14846171645639253",
-          "eris_name": "ampLUNA-LUNA LP (S)",
-          "symbol": "ampLUNA-LUNA LP (S)"
-        },
-        "astroport": null,
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "project"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0,
-        "tla_total_vp": null,
-        "gauge_status": "inactive_below_threshold",
-        "take_rate": {
-          "yearly_rate": "0.1",
-          "taken_raw": "4279319093",
-          "harvested_raw": "4279319093",
-          "last_taken_s": 1785888035,
-          "stake_mechanism": "default"
-        },
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": null,
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "ampLUNA-LUNA LP (S)",
-      "tier": "core"
-    },
-    "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk": {
-      "address": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": "USDC-SOLID LP",
-      "display_name": "USDC-SOLID LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "USDC-SOLID LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "2.2798916759868204",
-          "eris_name": "USDC-SOLID LP",
-          "symbol": "USDC-SOLID LP"
-        },
-        "astroport": {
-          "symbol": "USDC-SOLID LP",
-          "name": "USDC-SOLID LP (xyk)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "xyk",
-          "underlying_addresses": [
-            "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-            "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
-          ],
-          "underlying_symbols": [
-            "USDC",
-            "SOLID"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "project"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.19443298090059297,
-        "tla_total_vp": "5676661290920",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "USDC-SOLID LP",
-        "name": "USDC-SOLID LP",
-        "decimals": 6,
-        "address": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
-      },
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "USDC-SOLID LP",
-      "tier": "core"
-    },
-    "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8": {
-      "address": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": "SOLID-LUNA LP",
-      "display_name": "SOLID-LUNA LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "SOLID-LUNA LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.5030950181045393",
-          "eris_name": "SOLID-LUNA LP",
-          "symbol": "SOLID-LUNA LP"
-        },
-        "astroport": {
-          "symbol": "SOLID-LUNA LP",
-          "name": "SOLID-LUNA LP (xyk)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "xyk",
-          "underlying_addresses": [
-            "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
-            "uluna"
-          ],
-          "underlying_symbols": [
-            "SOLID",
-            "LUNA"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "project"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.0732450090413321,
-        "tla_total_vp": "2138459769799",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "SOLID-LUNA LP",
-        "name": "SOLID-LUNA LP",
-        "decimals": 6,
-        "address": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8"
-      },
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "SOLID-LUNA LP",
       "tier": "core"
     },
     "terra1wwy8xjk4mff7qp2g7qzmgfu9agd6wjdmz99crj94zv9tmh7dvhmq0jsf6a": {
@@ -7260,358 +6956,6 @@
       "headline_name": "SWTH-LUNA LP",
       "tier": "core"
     },
-    "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht": {
-      "address": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": "ASTRO-LUNA LP",
-      "display_name": "ASTRO-LUNA LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "ASTRO-LUNA LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.008731129829066073",
-          "eris_name": "ASTRO-LUNA LP",
-          "symbol": "ASTRO-LUNA LP"
-        },
-        "astroport": {
-          "symbol": "ASTRO-LUNA LP",
-          "name": "ASTRO-LUNA LP (concentrated)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "concentrated",
-          "underlying_addresses": [
-            "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
-            "uluna"
-          ],
-          "underlying_symbols": [
-            "ASTRO",
-            "LUNA"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "project"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.03445042849065628,
-        "tla_total_vp": "1005813998030",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "ASTRO-LUNA LP",
-        "name": "ASTRO-LUNA LP",
-        "decimals": 6,
-        "address": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
-      },
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "ASTRO-LUNA LP",
-      "tier": "core"
-    },
-    "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc": {
-      "address": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "lst",
-      "symbol": "stLUNA-LUNA LP",
-      "display_name": "stLUNA-LUNA LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "stLUNA-LUNA LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.08746559488557877",
-          "eris_name": "stLUNA-LUNA LP",
-          "symbol": "stLUNA-LUNA LP"
-        },
-        "astroport": {
-          "symbol": "stLUNA-LUNA LP",
-          "name": "stLUNA-LUNA LP (stable)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "stable",
-          "underlying_addresses": [
-            "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
-            "uluna"
-          ],
-          "underlying_symbols": [
-            "stLUNA",
-            "LUNA"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "project"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.010436000640850056,
-        "tla_total_vp": "304689258970",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "stLUNA-LUNA LP",
-        "name": "stLUNA-LUNA LP",
-        "decimals": 6,
-        "address": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc"
-      },
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "stLUNA-LUNA LP",
-      "tier": "core"
-    },
-    "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564": {
-      "address": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": "CAPA-LUNA LP",
-      "display_name": "CAPA-LUNA LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "CAPA-LUNA LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.013622360748401124",
-          "eris_name": "CAPA-LUNA LP",
-          "symbol": "CAPA-LUNA LP"
-        },
-        "astroport": {
-          "symbol": "CAPA-LUNA LP",
-          "name": "CAPA-LUNA LP (concentrated)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "concentrated",
-          "underlying_addresses": [
-            "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
-            "uluna"
-          ],
-          "underlying_symbols": [
-            "CAPA",
-            "LUNA"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "project"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.19269337762838828,
-        "tla_total_vp": "5625871869747",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "CAPA-LUNA LP",
-        "name": "CAPA-LUNA LP",
-        "decimals": 6,
-        "address": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
-      },
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "CAPA-LUNA LP",
-      "tier": "core"
-    },
-    "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": {
-      "address": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": "FUEL-LUNA LP",
-      "display_name": "FUEL-LUNA LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "FUEL-LUNA LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.01920888618757504",
-          "eris_name": "FUEL-LUNA LP",
-          "symbol": "FUEL-LUNA LP"
-        },
-        "astroport": {
-          "symbol": "FUEL-LUNA LP",
-          "name": "FUEL-LUNA LP (concentrated)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "concentrated",
-          "underlying_addresses": [
-            "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
-            "uluna"
-          ],
-          "underlying_symbols": [
-            "FUEL",
-            "LUNA"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "project"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.15900163524651698,
-        "tla_total_vp": "4642208455665",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "FUEL-LUNA LP",
-        "name": "FUEL-LUNA LP",
-        "decimals": 6,
-        "address": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44"
-      },
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "FUEL-LUNA LP",
-      "tier": "core"
-    },
-    "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5": {
-      "address": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": "wBNB.axl-LUNA LP",
-      "display_name": "wBNB.axl-LUNA LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "wBNB.axl-LUNA LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "11.811383149747112",
-          "eris_name": "wBNB.axl-LUNA LP",
-          "symbol": "wBNB.axl-LUNA LP"
-        },
-        "astroport": {
-          "symbol": "wBNB.axl-LUNA LP",
-          "name": "wBNB.axl-LUNA LP (concentrated)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "concentrated",
-          "underlying_addresses": [
-            "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
-            "uluna"
-          ],
-          "underlying_symbols": [
-            "wBNB.axl",
-            "LUNA"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "bluechip"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0,
-        "tla_total_vp": null,
-        "gauge_status": "inactive_below_threshold",
-        "take_rate": {
-          "yearly_rate": "0.1",
-          "taken_raw": "36211529",
-          "harvested_raw": "36211529",
-          "last_taken_s": 1785888035,
-          "stake_mechanism": "astroport"
-        },
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "wBNB.axl-LUNA LP",
-        "name": "wBNB.axl-LUNA LP",
-        "decimals": 6,
-        "address": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5"
-      },
-      "scoring": {
-        "confusion_score": 65,
-        "flags": [
-          "no_external_price_source",
-          "shared_base_symbol_with:wBNB.axl,wBNB.wh"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "related_variants": [
-        "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
-        "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388"
-      ],
-      "headline_name": "wBNB.axl-LUNA LP",
-      "tier": "core"
-    },
     "factory/terra1nll8xy7m2dyac3sww2tg7dqj8s0mlak68drgtzd9gh4yvnvpplhsn3sxnv/uLP": {
       "address": "factory/terra1nll8xy7m2dyac3sww2tg7dqj8s0mlak68drgtzd9gh4yvnvpplhsn3sxnv/uLP",
       "type": "factory",
@@ -7667,415 +7011,25 @@
       "headline_name": "LUNA-SWTH LP (S)",
       "tier": "core"
     },
-    "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn": {
-      "address": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": "USDC-EURe LP",
-      "display_name": "USDC-EURe LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "USDC-EURe LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "2.1785884327747573",
-          "eris_name": "USDC-EURe LP",
-          "symbol": "USDC-EURe LP"
-        },
-        "astroport": {
-          "symbol": "USDC-EURe LP",
-          "name": "USDC-EURe LP (concentrated)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "concentrated",
-          "underlying_addresses": [
-            "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
-            "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
-          ],
-          "underlying_symbols": [
-            "USDC",
-            "EURe"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "bluechip"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.4226754525763057,
-        "tla_total_vp": "10749549277404",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "USDC-EURe LP",
-        "name": "USDC-EURe LP",
-        "decimals": 6,
-        "address": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
-      },
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "USDC-EURe LP",
-      "tier": "core"
-    },
-    "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt": {
-      "address": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": "ATOM-LUNA LP",
-      "display_name": "ATOM-LUNA LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "ATOM-LUNA LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.5457994109481704",
-          "eris_name": "ATOM-LUNA LP",
-          "symbol": "ATOM-LUNA LP"
-        },
-        "astroport": {
-          "symbol": "ATOM-LUNA LP",
-          "name": "ATOM-LUNA LP (xyk)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "xyk",
-          "underlying_addresses": [
-            "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-            "uluna"
-          ],
-          "underlying_symbols": [
-            "ATOM",
-            "LUNA"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "bluechip"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.0666533969756458,
-        "tla_total_vp": "1695139783796",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "ATOM-LUNA LP",
-        "name": "ATOM-LUNA LP",
-        "decimals": 6,
-        "address": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
-      },
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "ATOM-LUNA LP",
-      "tier": "core"
-    },
-    "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su": {
-      "address": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": null,
-      "display_name": "ATOM-LUNA LP (S)",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "ATOM-LUNA LP (S)",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.7172432078199671",
-          "eris_name": "ATOM-LUNA LP (S)",
-          "symbol": "ATOM-LUNA LP (S)"
-        },
-        "astroport": null,
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "bluechip"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.019795437206594647,
-        "tla_total_vp": "503440704737",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": null,
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "ATOM-LUNA LP (S)",
-      "tier": "core"
-    },
-    "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl": {
-      "address": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": "LUNA-INJ LP",
-      "display_name": "LUNA-INJ LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "LUNA-INJ LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "9.338565182059879e-7",
-          "eris_name": "LUNA-INJ LP",
-          "symbol": "LUNA-INJ LP"
-        },
-        "astroport": {
-          "symbol": "LUNA-INJ LP",
-          "name": "LUNA-INJ LP (xyk)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "xyk",
-          "underlying_addresses": [
-            "uluna",
-            "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211"
-          ],
-          "underlying_symbols": [
-            "LUNA",
-            "INJ"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "bluechip"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.06757520606718558,
-        "tla_total_vp": "1718583379097",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "LUNA-INJ LP",
-        "name": "LUNA-INJ LP",
-        "decimals": 6,
-        "address": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
-      },
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "LUNA-INJ LP",
-      "tier": "core"
-    },
-    "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc": {
-      "address": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": "LUNA-PAXG LP",
-      "display_name": "LUNA-PAXG LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "LUNA-PAXG LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "25.83377696582876",
-          "eris_name": "LUNA-PAXG LP",
-          "symbol": "LUNA-PAXG LP"
-        },
-        "astroport": {
-          "symbol": "LUNA-PAXG LP",
-          "name": "LUNA-PAXG LP (concentrated)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "concentrated",
-          "underlying_addresses": [
-            "uluna",
-            "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
-          ],
-          "underlying_symbols": [
-            "LUNA",
-            "PAXG"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "bluechip"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.07048589186834331,
-        "tla_total_vp": "1792608402930",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "LUNA-PAXG LP",
-        "name": "LUNA-PAXG LP",
-        "decimals": 6,
-        "address": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
-      },
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "LUNA-PAXG LP",
-      "tier": "core"
-    },
-    "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": {
-      "address": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
-      "type": "cw20",
-      "category": "lp_tokens",
-      "subtype": "astroport_cw20_lp",
-      "symbol": "LUNA-WBTC LP",
-      "display_name": "LUNA-wBTC.atom LP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "LUNA-wBTC.atom LP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "103.00625350624313",
-          "eris_name": "LUNA-wBTC.atom LP",
-          "symbol": "LUNA-wBTC.atom LP"
-        },
-        "astroport": {
-          "symbol": "LUNA-WBTC LP",
-          "name": "LUNA-WBTC LP (concentrated)",
-          "decimals": 6,
-          "is_lp_token": true,
-          "pool_type": "concentrated",
-          "underlying_addresses": [
-            "uluna",
-            "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB"
-          ],
-          "underlying_symbols": [
-            "LUNA",
-            "WBTC"
-          ]
-        },
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "bluechip"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "tla_distribution_pct": 0.352814615305925,
-        "tla_total_vp": "8972837362337",
-        "gauge_status": "active",
-        "is_wrapped_by_amplp": true
-      },
-      "wallet_import": {
-        "symbol": "LUNA-WBTC LP",
-        "name": "LUNA-wBTC.atom LP",
-        "decimals": 6,
-        "address": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
-      },
-      "scoring": {
-        "confusion_score": 60,
-        "flags": [
-          "cross_source_name_mismatch:LUNA-wBTC.atom LP,LUNA-WBTC LP",
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "lp_token",
-      "headline_name": "LUNA-wBTC.atom LP",
-      "tier": "core"
-    },
-    "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP": {
-      "address": "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP",
+    "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP": {
+      "address": "factory/terra1gny66hmejvrkra39cn7r8f7y7yg06hy3cv2xehpxraqfgjtdtpnqjtmu53/uLP",
       "type": "factory",
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": "LUNA-INJ LP (S)",
+      "display_name": "LUNA-EURe LP (S)",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
       "sources": {
         "cosmos_chain_registry": null,
         "eris": {
-          "display": "LUNA-INJ LP (S)",
+          "display": "LUNA-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "9.284394304975361e-7",
-          "eris_name": "LUNA-INJ LP (S)",
-          "symbol": "LUNA-INJ LP (S)"
+          "price_usd": "0.45579524118957204",
+          "eris_name": "LUNA-EURe LP (S)",
+          "symbol": "LUNA-EURe LP (S)"
         },
         "astroport": null,
         "skeletonswap": null
@@ -8084,7 +7038,7 @@
       "appears_in": {
         "tla_pools_count": 1,
         "tla_pools": [
-          "bluechip"
+          "stable"
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
@@ -8093,9 +7047,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "606125006537041",
-          "harvested_raw": "606125006537041",
-          "last_taken_s": 1785888035,
+          "taken_raw": "4224352822",
+          "harvested_raw": "4224352822",
+          "last_taken_s": 1785974429,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -8110,28 +7064,28 @@
       "override": null,
       "notes": null,
       "acquisition_class": "lp_token",
-      "headline_name": "LUNA-INJ LP (S)",
+      "headline_name": "LUNA-EURe LP (S)",
       "tier": "core"
     },
-    "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP": {
-      "address": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP",
+    "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP": {
+      "address": "factory/terra1wymgwg90ry2w04avy899ucmuuak7w8n3xw2msmw2jf9rfugre0ssenx4hn/uLP",
       "type": "factory",
       "category": "lp_tokens",
       "subtype": "astroport_native_lp",
       "symbol": null,
-      "display_name": "USDC-EURe LP (S)",
+      "display_name": "LUNA-USDt LP (S)",
       "decimals": 6,
       "coingecko_id": null,
       "coingecko_match": "no_mapping",
       "sources": {
         "cosmos_chain_registry": null,
         "eris": {
-          "display": "USDC-EURe LP (S)",
+          "display": "LUNA-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.1681479026460133",
-          "eris_name": "USDC-EURe LP (S)",
-          "symbol": "USDC-EURe LP (S)"
+          "price_usd": "0.4499666046499093",
+          "eris_name": "LUNA-USDt LP (S)",
+          "symbol": "LUNA-USDt LP (S)"
         },
         "astroport": null,
         "skeletonswap": null
@@ -8140,7 +7094,7 @@
       "appears_in": {
         "tla_pools_count": 1,
         "tla_pools": [
-          "bluechip"
+          "stable"
         ],
         "is_lockable": false,
         "is_amplp_underlying": false,
@@ -8149,9 +7103,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "801604930",
-          "harvested_raw": "801604930",
-          "last_taken_s": 1785888035,
+          "taken_raw": "11301709169",
+          "harvested_raw": "11301709169",
+          "last_taken_s": 1785974429,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -8166,7 +7120,63 @@
       "override": null,
       "notes": null,
       "acquisition_class": "lp_token",
-      "headline_name": "USDC-EURe LP (S)",
+      "headline_name": "LUNA-USDt LP (S)",
+      "tier": "core"
+    },
+    "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par": {
+      "address": "terra10un5hr6asmn7g0ggh9sz0x3v8f9evh5cvawk8xs65rghundc25mq7g5par",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": null,
+      "display_name": "ampLUNA-LUNA LP (S)",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "ampLUNA-LUNA LP (S)",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "0.14930403586821878",
+          "eris_name": "ampLUNA-LUNA LP (S)",
+          "symbol": "ampLUNA-LUNA LP (S)"
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "project"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "4279340427",
+          "harvested_raw": "4279340427",
+          "last_taken_s": 1785974429,
+          "stake_mechanism": "default"
+        },
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "ampLUNA-LUNA LP (S)",
       "tier": "core"
     },
     "terra12mvtdvn4fgtsqs4fwxr56vcwjw0xe23lhdfyjq5ghk7vmfeuxn0srau9q2": {
@@ -8244,6 +7254,815 @@
       "headline_name": "ATOM-dATOM LP",
       "tier": "core"
     },
+    "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk": {
+      "address": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": "USDC-SOLID LP",
+      "display_name": "USDC-SOLID LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "USDC-SOLID LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "2.291126942101497",
+          "eris_name": "USDC-SOLID LP",
+          "symbol": "USDC-SOLID LP"
+        },
+        "astroport": {
+          "symbol": "USDC-SOLID LP",
+          "name": "USDC-SOLID LP (xyk)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "xyk",
+          "underlying_addresses": [
+            "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+            "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
+          ],
+          "underlying_symbols": [
+            "USDC",
+            "SOLID"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "project"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.19443298090059297,
+        "tla_total_vp": "5676661290920",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "USDC-SOLID LP",
+        "name": "USDC-SOLID LP",
+        "decimals": 6,
+        "address": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "USDC-SOLID LP",
+      "tier": "core"
+    },
+    "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8": {
+      "address": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": "SOLID-LUNA LP",
+      "display_name": "SOLID-LUNA LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "SOLID-LUNA LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "0.5069322191295251",
+          "eris_name": "SOLID-LUNA LP",
+          "symbol": "SOLID-LUNA LP"
+        },
+        "astroport": {
+          "symbol": "SOLID-LUNA LP",
+          "name": "SOLID-LUNA LP (xyk)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "xyk",
+          "underlying_addresses": [
+            "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
+            "uluna"
+          ],
+          "underlying_symbols": [
+            "SOLID",
+            "LUNA"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "project"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.0732450090413321,
+        "tla_total_vp": "2138459769799",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "SOLID-LUNA LP",
+        "name": "SOLID-LUNA LP",
+        "decimals": 6,
+        "address": "terra14arerdfc88cdv6m6frc03a0963z877756kqac4h4xvd9vftn0hqqhquca8"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "SOLID-LUNA LP",
+      "tier": "core"
+    },
+    "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht": {
+      "address": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": "ASTRO-LUNA LP",
+      "display_name": "ASTRO-LUNA LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "ASTRO-LUNA LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "0.008863310761895516",
+          "eris_name": "ASTRO-LUNA LP",
+          "symbol": "ASTRO-LUNA LP"
+        },
+        "astroport": {
+          "symbol": "ASTRO-LUNA LP",
+          "name": "ASTRO-LUNA LP (concentrated)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "concentrated",
+          "underlying_addresses": [
+            "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
+            "uluna"
+          ],
+          "underlying_symbols": [
+            "ASTRO",
+            "LUNA"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "project"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.03445042849065628,
+        "tla_total_vp": "1005813998030",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "ASTRO-LUNA LP",
+        "name": "ASTRO-LUNA LP",
+        "decimals": 6,
+        "address": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "ASTRO-LUNA LP",
+      "tier": "core"
+    },
+    "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc": {
+      "address": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "lst",
+      "symbol": "stLUNA-LUNA LP",
+      "display_name": "stLUNA-LUNA LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "stLUNA-LUNA LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "0.08789819764878569",
+          "eris_name": "stLUNA-LUNA LP",
+          "symbol": "stLUNA-LUNA LP"
+        },
+        "astroport": {
+          "symbol": "stLUNA-LUNA LP",
+          "name": "stLUNA-LUNA LP (stable)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "stable",
+          "underlying_addresses": [
+            "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
+            "uluna"
+          ],
+          "underlying_symbols": [
+            "stLUNA",
+            "LUNA"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "project"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.010436000640850056,
+        "tla_total_vp": "304689258970",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "stLUNA-LUNA LP",
+        "name": "stLUNA-LUNA LP",
+        "decimals": 6,
+        "address": "terra14n22zd24nath0tf8fwn468nz7753rjuks67ppddrcqwq37x2xsxsddqxqc"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "stLUNA-LUNA LP",
+      "tier": "core"
+    },
+    "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564": {
+      "address": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": "CAPA-LUNA LP",
+      "display_name": "CAPA-LUNA LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "CAPA-LUNA LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "0.013703303980798066",
+          "eris_name": "CAPA-LUNA LP",
+          "symbol": "CAPA-LUNA LP"
+        },
+        "astroport": {
+          "symbol": "CAPA-LUNA LP",
+          "name": "CAPA-LUNA LP (concentrated)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "concentrated",
+          "underlying_addresses": [
+            "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+            "uluna"
+          ],
+          "underlying_symbols": [
+            "CAPA",
+            "LUNA"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "project"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.19269337762838828,
+        "tla_total_vp": "5625871869747",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "CAPA-LUNA LP",
+        "name": "CAPA-LUNA LP",
+        "decimals": 6,
+        "address": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "CAPA-LUNA LP",
+      "tier": "core"
+    },
+    "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": {
+      "address": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": "FUEL-LUNA LP",
+      "display_name": "FUEL-LUNA LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "FUEL-LUNA LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "0.019309613402887157",
+          "eris_name": "FUEL-LUNA LP",
+          "symbol": "FUEL-LUNA LP"
+        },
+        "astroport": {
+          "symbol": "FUEL-LUNA LP",
+          "name": "FUEL-LUNA LP (concentrated)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "concentrated",
+          "underlying_addresses": [
+            "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961",
+            "uluna"
+          ],
+          "underlying_symbols": [
+            "FUEL",
+            "LUNA"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "project"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.15900163524651698,
+        "tla_total_vp": "4642208455665",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "FUEL-LUNA LP",
+        "name": "FUEL-LUNA LP",
+        "decimals": 6,
+        "address": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "FUEL-LUNA LP",
+      "tier": "core"
+    },
+    "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5": {
+      "address": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": "wBNB.axl-LUNA LP",
+      "display_name": "wBNB.axl-LUNA LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "wBNB.axl-LUNA LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "9.893444141577596",
+          "eris_name": "wBNB.axl-LUNA LP",
+          "symbol": "wBNB.axl-LUNA LP"
+        },
+        "astroport": {
+          "symbol": "wBNB.axl-LUNA LP",
+          "name": "wBNB.axl-LUNA LP (concentrated)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "concentrated",
+          "underlying_addresses": [
+            "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
+            "uluna"
+          ],
+          "underlying_symbols": [
+            "wBNB.axl",
+            "LUNA"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "36211565",
+          "harvested_raw": "36211565",
+          "last_taken_s": 1785974429,
+          "stake_mechanism": "astroport"
+        },
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "wBNB.axl-LUNA LP",
+        "name": "wBNB.axl-LUNA LP",
+        "decimals": 6,
+        "address": "terra10ca0xhyjrzl3zk9g26yjxlw5rjplu5ts4jgcvvrgr62ml8jf57hqs3nck5"
+      },
+      "scoring": {
+        "confusion_score": 65,
+        "flags": [
+          "no_external_price_source",
+          "shared_base_symbol_with:wBNB.axl,wBNB.wh"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "related_variants": [
+        "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
+        "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388"
+      ],
+      "headline_name": "wBNB.axl-LUNA LP",
+      "tier": "core"
+    },
+    "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn": {
+      "address": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": "USDC-EURe LP",
+      "display_name": "USDC-EURe LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "USDC-EURe LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "2.1785554380399463",
+          "eris_name": "USDC-EURe LP",
+          "symbol": "USDC-EURe LP"
+        },
+        "astroport": {
+          "symbol": "USDC-EURe LP",
+          "name": "USDC-EURe LP (concentrated)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "concentrated",
+          "underlying_addresses": [
+            "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+            "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
+          ],
+          "underlying_symbols": [
+            "USDC",
+            "EURe"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.4226754525763057,
+        "tla_total_vp": "10749549277404",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "USDC-EURe LP",
+        "name": "USDC-EURe LP",
+        "decimals": 6,
+        "address": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "USDC-EURe LP",
+      "tier": "core"
+    },
+    "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt": {
+      "address": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": "ATOM-LUNA LP",
+      "display_name": "ATOM-LUNA LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "ATOM-LUNA LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "0.5412573208934734",
+          "eris_name": "ATOM-LUNA LP",
+          "symbol": "ATOM-LUNA LP"
+        },
+        "astroport": {
+          "symbol": "ATOM-LUNA LP",
+          "name": "ATOM-LUNA LP (xyk)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "xyk",
+          "underlying_addresses": [
+            "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+            "uluna"
+          ],
+          "underlying_symbols": [
+            "ATOM",
+            "LUNA"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.0666533969756458,
+        "tla_total_vp": "1695139783796",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "ATOM-LUNA LP",
+        "name": "ATOM-LUNA LP",
+        "decimals": 6,
+        "address": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "ATOM-LUNA LP",
+      "tier": "core"
+    },
+    "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su": {
+      "address": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": null,
+      "display_name": "ATOM-LUNA LP (S)",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "ATOM-LUNA LP (S)",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "0.7112725961431116",
+          "eris_name": "ATOM-LUNA LP (S)",
+          "symbol": "ATOM-LUNA LP (S)"
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.019795437206594647,
+        "tla_total_vp": "503440704737",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "ATOM-LUNA LP (S)",
+      "tier": "core"
+    },
+    "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl": {
+      "address": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": "LUNA-INJ LP",
+      "display_name": "LUNA-INJ LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "LUNA-INJ LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "9.344260467540965e-7",
+          "eris_name": "LUNA-INJ LP",
+          "symbol": "LUNA-INJ LP"
+        },
+        "astroport": {
+          "symbol": "LUNA-INJ LP",
+          "name": "LUNA-INJ LP (xyk)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "xyk",
+          "underlying_addresses": [
+            "uluna",
+            "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211"
+          ],
+          "underlying_symbols": [
+            "LUNA",
+            "INJ"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.06757520606718558,
+        "tla_total_vp": "1718583379097",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "LUNA-INJ LP",
+        "name": "LUNA-INJ LP",
+        "decimals": 6,
+        "address": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "LUNA-INJ LP",
+      "tier": "core"
+    },
+    "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc": {
+      "address": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": "LUNA-PAXG LP",
+      "display_name": "LUNA-PAXG LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "LUNA-PAXG LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "26.50743689437937",
+          "eris_name": "LUNA-PAXG LP",
+          "symbol": "LUNA-PAXG LP"
+        },
+        "astroport": {
+          "symbol": "LUNA-PAXG LP",
+          "name": "LUNA-PAXG LP (concentrated)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "concentrated",
+          "underlying_addresses": [
+            "uluna",
+            "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
+          ],
+          "underlying_symbols": [
+            "LUNA",
+            "PAXG"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.07048589186834331,
+        "tla_total_vp": "1792608402930",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "LUNA-PAXG LP",
+        "name": "LUNA-PAXG LP",
+        "decimals": 6,
+        "address": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc"
+      },
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "LUNA-PAXG LP",
+      "tier": "core"
+    },
     "terra19d8tttv0lvhwpj828qqrcmm6yaqdfhrchfheuufcw4kywtmk9u3q98ask3": {
       "address": "terra19d8tttv0lvhwpj828qqrcmm6yaqdfhrchfheuufcw4kywtmk9u3q98ask3",
       "type": "cw20",
@@ -8317,6 +8136,187 @@
       "notes": null,
       "acquisition_class": "lp_token",
       "headline_name": "LUNA-wstETH LP",
+      "tier": "core"
+    },
+    "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": {
+      "address": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
+      "type": "cw20",
+      "category": "lp_tokens",
+      "subtype": "astroport_cw20_lp",
+      "symbol": "LUNA-WBTC LP",
+      "display_name": "LUNA-wBTC.atom LP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "LUNA-wBTC.atom LP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "103.70314752174075",
+          "eris_name": "LUNA-wBTC.atom LP",
+          "symbol": "LUNA-wBTC.atom LP"
+        },
+        "astroport": {
+          "symbol": "LUNA-WBTC LP",
+          "name": "LUNA-WBTC LP (concentrated)",
+          "decimals": 6,
+          "is_lp_token": true,
+          "pool_type": "concentrated",
+          "underlying_addresses": [
+            "uluna",
+            "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB"
+          ],
+          "underlying_symbols": [
+            "LUNA",
+            "WBTC"
+          ]
+        },
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0.352814615305925,
+        "tla_total_vp": "8972837362337",
+        "gauge_status": "active",
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": {
+        "symbol": "LUNA-WBTC LP",
+        "name": "LUNA-wBTC.atom LP",
+        "decimals": 6,
+        "address": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
+      },
+      "scoring": {
+        "confusion_score": 60,
+        "flags": [
+          "cross_source_name_mismatch:LUNA-wBTC.atom LP,LUNA-WBTC LP",
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "LUNA-wBTC.atom LP",
+      "tier": "core"
+    },
+    "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP": {
+      "address": "factory/terra1q2gd6kc7nt8xct94chrlsqtpxfs9rve0j76lquce624y5zp85cdseshh85/uLP",
+      "type": "factory",
+      "category": "lp_tokens",
+      "subtype": "astroport_native_lp",
+      "symbol": null,
+      "display_name": "LUNA-INJ LP (S)",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "LUNA-INJ LP (S)",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "9.29006872776837e-7",
+          "eris_name": "LUNA-INJ LP (S)",
+          "symbol": "LUNA-INJ LP (S)"
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "606127340764170",
+          "harvested_raw": "606127340764170",
+          "last_taken_s": 1785974429,
+          "stake_mechanism": "default"
+        },
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "LUNA-INJ LP (S)",
+      "tier": "core"
+    },
+    "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP": {
+      "address": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP",
+      "type": "factory",
+      "category": "lp_tokens",
+      "subtype": "astroport_native_lp",
+      "symbol": null,
+      "display_name": "USDC-EURe LP (S)",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "USDC-EURe LP (S)",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "2.1680407824682217",
+          "eris_name": "USDC-EURe LP (S)",
+          "symbol": "USDC-EURe LP (S)"
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "tla_distribution_pct": 0,
+        "tla_total_vp": null,
+        "gauge_status": "inactive_below_threshold",
+        "take_rate": {
+          "yearly_rate": "0.1",
+          "taken_raw": "801880588",
+          "harvested_raw": "801880588",
+          "last_taken_s": 1785974429,
+          "stake_mechanism": "default"
+        },
+        "is_wrapped_by_amplp": true
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "lp_token",
+      "headline_name": "USDC-EURe LP (S)",
       "tier": "core"
     },
     "factory/terra12hs75vlyd38zjvhegsqzr8uvz2r764fdy8mhqw0qg0s2mv858yvstwmsf8/uLP": {
@@ -8625,7 +8625,7 @@
           "display": "USDC-USDt LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.00637850482556",
+          "price_usd": "2.0061654704512097",
           "eris_name": "USDC-USDt LP",
           "symbol": "USDC-USDt LP"
         },
@@ -8740,7 +8740,7 @@
           "display": "LUNA-arbLUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.13740966359505805",
+          "price_usd": "0.13813824008494183",
           "eris_name": "LUNA-arbLUNA LP",
           "symbol": "LUNA-arbLUNA LP"
         },
@@ -8808,7 +8808,7 @@
           "display": "ATOM-stATOM LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.3169318237494925",
+          "price_usd": "2.2723721340743994",
           "eris_name": "ATOM-stATOM LP",
           "symbol": "ATOM-stATOM LP"
         },
@@ -8842,9 +8842,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "188223680",
-          "harvested_raw": "188223680",
-          "last_taken_s": 1785859210,
+          "taken_raw": "188223682",
+          "harvested_raw": "188223682",
+          "last_taken_s": 1785945622,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -8883,7 +8883,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0019855081387652",
+          "price_usd": "1.001844369421877",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -8932,7 +8932,7 @@
           "display": "ATOM-stATOM LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.6767506447133504",
+          "price_usd": "1.640299543741321",
           "eris_name": "ATOM-stATOM LP (S)",
           "symbol": "ATOM-stATOM LP (S)"
         },
@@ -8952,9 +8952,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "147",
-          "harvested_raw": "147",
-          "last_taken_s": 1785844801,
+          "taken_raw": "148",
+          "harvested_raw": "148",
+          "last_taken_s": 1785931256,
           "stake_mechanism": "default"
         }
       },
@@ -8987,7 +8987,7 @@
           "display": "ampROAR-ROAR AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000010728607241059172",
+          "price_usd": "0.0000010816844540307815",
           "eris_name": "ampROAR-ROAR AMPLP",
           "symbol": "ampROAR-ROAR AMPLP"
         },
@@ -9034,7 +9034,7 @@
           "display": "USDC-USDt AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.2536426258922444",
+          "price_usd": "2.2545154097969844",
           "eris_name": "USDC-USDt AMPLP",
           "symbol": "USDC-USDt AMPLP"
         },
@@ -9081,7 +9081,7 @@
           "display": "wBTC.creda.a AMPLP",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "66294.2065930335",
+          "price_usd": "66862.34303025041",
           "eris_name": "wBTC.creda.a AMPLP",
           "symbol": "wBTC.creda.a AMPLP"
         },
@@ -9128,7 +9128,7 @@
           "display": "LUNA-arbLUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.21495689783640284",
+          "price_usd": "0.2163176681636097",
           "eris_name": "LUNA-arbLUNA AMPLP",
           "symbol": "LUNA-arbLUNA AMPLP"
         },
@@ -9175,7 +9175,7 @@
           "display": "ATOM-stATOM AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "4.791196797147972",
+          "price_usd": "4.699051555641592",
           "eris_name": "ATOM-stATOM AMPLP",
           "symbol": "ATOM-stATOM AMPLP"
         },
@@ -9222,7 +9222,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0738605048749135",
+          "price_usd": "1.0745483352370093",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -9269,7 +9269,7 @@
           "display": "USDC-SOLID AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "5.83008813095357",
+          "price_usd": "5.863627350667033",
           "eris_name": "USDC-SOLID AMPLP",
           "symbol": "USDC-SOLID AMPLP"
         },
@@ -9316,7 +9316,7 @@
           "display": "SOLID-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.1810232758130743",
+          "price_usd": "2.200717336599206",
           "eris_name": "SOLID-LUNA AMPLP",
           "symbol": "SOLID-LUNA AMPLP"
         },
@@ -9363,7 +9363,7 @@
           "display": "ASTRO-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.035812594043160846",
+          "price_usd": "0.036412606779507764",
           "eris_name": "ASTRO-LUNA AMPLP",
           "symbol": "ASTRO-LUNA AMPLP"
         },
@@ -9410,7 +9410,7 @@
           "display": "stLUNA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.2536863817916974",
+          "price_usd": "0.25517325085720644",
           "eris_name": "stLUNA-LUNA AMPLP",
           "symbol": "stLUNA-LUNA AMPLP"
         },
@@ -9457,7 +9457,7 @@
           "display": "CAPA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0752353305783256",
+          "price_usd": "0.07579341065439038",
           "eris_name": "CAPA-LUNA AMPLP",
           "symbol": "CAPA-LUNA AMPLP"
         },
@@ -9504,7 +9504,7 @@
           "display": "FUEL-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.04496744170125472",
+          "price_usd": "0.045280654279710356",
           "eris_name": "FUEL-LUNA AMPLP",
           "symbol": "FUEL-LUNA AMPLP"
         },
@@ -9551,7 +9551,7 @@
           "display": "bLUNA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.10822433174826096",
+          "price_usd": "0.10879497897770717",
           "eris_name": "bLUNA-LUNA AMPLP",
           "symbol": "bLUNA-LUNA AMPLP"
         },
@@ -9598,7 +9598,7 @@
           "display": "ROAR-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.000541909898369259",
+          "price_usd": "0.0005458151725459388",
           "eris_name": "ROAR-LUNA AMPLP",
           "symbol": "ROAR-LUNA AMPLP"
         },
@@ -9645,7 +9645,7 @@
           "display": "LUNA-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00018925227129040648",
+          "price_usd": "0.0001905174365494756",
           "eris_name": "LUNA-ROAR LP (S)",
           "symbol": "LUNA-ROAR LP (S)"
         },
@@ -9692,7 +9692,7 @@
           "display": "CAPA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0304542485914823",
+          "price_usd": "0.03063530889560457",
           "eris_name": "CAPA-LUNA LP (S)",
           "symbol": "CAPA-LUNA LP (S)"
         },
@@ -9739,7 +9739,7 @@
           "display": "LUNA-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.0271943515062874",
+          "price_usd": "2.042688507553785",
           "eris_name": "LUNA-SOLID LP (S)",
           "symbol": "LUNA-SOLID LP (S)"
         },
@@ -9786,7 +9786,7 @@
           "display": "USDC-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.31761694133259",
+          "price_usd": "2.3290417395079137",
           "eris_name": "USDC-SOLID LP (S)",
           "symbol": "USDC-SOLID LP (S)"
         },
@@ -9880,7 +9880,7 @@
           "display": "ATOM-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.8825406096070243",
+          "price_usd": "1.8686331689058746",
           "eris_name": "ATOM-LUNA AMPLP",
           "symbol": "ATOM-LUNA AMPLP"
         },
@@ -9909,194 +9909,6 @@
       "notes": null,
       "acquisition_class": "native_terra",
       "headline_name": "ATOM-LUNA AMPLP",
-      "tier": "core"
-    },
-    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/6/bluechip/amplp": {
-      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/6/bluechip/amplp",
-      "type": "factory",
-      "category": "tokens",
-      "subtype": "amplp",
-      "symbol": null,
-      "display_name": "ATOM-LUNA LP (S)",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "ATOM-LUNA LP (S)",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "2.522564243946032",
-          "eris_name": "ATOM-LUNA LP (S)",
-          "symbol": "ATOM-LUNA LP (S)"
-        },
-        "astroport": null,
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "bluechip"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "gauge_status": "active",
-        "wraps_lp_address": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su"
-      },
-      "wallet_import": null,
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "native_terra",
-      "headline_name": "ATOM-LUNA LP (S)",
-      "tier": "core"
-    },
-    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/36/bluechip/amplp": {
-      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/36/bluechip/amplp",
-      "type": "factory",
-      "category": "tokens",
-      "subtype": "amplp",
-      "symbol": null,
-      "display_name": "LUNA-INJ AMPLP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "LUNA-INJ AMPLP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "0.000002113076408539149",
-          "eris_name": "LUNA-INJ AMPLP",
-          "symbol": "LUNA-INJ AMPLP"
-        },
-        "astroport": null,
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "bluechip"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "gauge_status": "active",
-        "wraps_lp_address": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
-      },
-      "wallet_import": null,
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "native_terra",
-      "headline_name": "LUNA-INJ AMPLP",
-      "tier": "core"
-    },
-    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/8/bluechip/amplp": {
-      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/8/bluechip/amplp",
-      "type": "factory",
-      "category": "tokens",
-      "subtype": "amplp",
-      "symbol": null,
-      "display_name": "USDC-USDt AMPLP",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "USDC-USDt AMPLP",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "2.2536426258922444",
-          "eris_name": "USDC-USDt AMPLP",
-          "symbol": "USDC-USDt AMPLP"
-        },
-        "astroport": null,
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "single"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "gauge_status": "active",
-        "wraps_lp_address": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
-      },
-      "wallet_import": null,
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "native_terra",
-      "headline_name": "USDC-USDt AMPLP",
-      "tier": "core"
-    },
-    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/51/bluechip/amplp": {
-      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/51/bluechip/amplp",
-      "type": "factory",
-      "category": "tokens",
-      "subtype": "amplp",
-      "symbol": null,
-      "display_name": "USDC-EURe LP (S)",
-      "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
-      "sources": {
-        "cosmos_chain_registry": null,
-        "eris": {
-          "display": "USDC-EURe LP (S)",
-          "coingecko_id": null,
-          "decimals": 6,
-          "price_usd": "2.934413113973897",
-          "eris_name": "USDC-EURe LP (S)",
-          "symbol": "USDC-EURe LP (S)"
-        },
-        "astroport": null,
-        "skeletonswap": null
-      },
-      "bridge": null,
-      "appears_in": {
-        "tla_pools_count": 1,
-        "tla_pools": [
-          "bluechip"
-        ],
-        "is_lockable": false,
-        "is_amplp_underlying": false,
-        "gauge_status": "inactive_below_threshold",
-        "wraps_lp_address": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP"
-      },
-      "wallet_import": null,
-      "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
-      },
-      "override": null,
-      "notes": null,
-      "acquisition_class": "native_terra",
-      "headline_name": "USDC-EURe LP (S)",
       "tier": "core"
     },
     "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/18/bluechip/amplp": {
@@ -10144,6 +9956,194 @@
       "notes": null,
       "acquisition_class": "native_terra",
       "headline_name": "LUNA-WBTC.axl AMPLP",
+      "tier": "core"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/6/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/6/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "amplp",
+      "symbol": null,
+      "display_name": "ATOM-LUNA LP (S)",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "ATOM-LUNA LP (S)",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "2.5044179793876475",
+          "eris_name": "ATOM-LUNA LP (S)",
+          "symbol": "ATOM-LUNA LP (S)"
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "gauge_status": "active",
+        "wraps_lp_address": "terra1adp223mw8937arxcfl36acjjyn2dcf7wzp8h09jek5k0gw3vch8sqlq6su"
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "headline_name": "ATOM-LUNA LP (S)",
+      "tier": "core"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/36/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/36/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "amplp",
+      "symbol": null,
+      "display_name": "LUNA-INJ AMPLP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "LUNA-INJ AMPLP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "0.0000021167393719406324",
+          "eris_name": "LUNA-INJ AMPLP",
+          "symbol": "LUNA-INJ AMPLP"
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "gauge_status": "active",
+        "wraps_lp_address": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "headline_name": "LUNA-INJ AMPLP",
+      "tier": "core"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/8/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/8/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "amplp",
+      "symbol": null,
+      "display_name": "USDC-USDt AMPLP",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "USDC-USDt AMPLP",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "2.2545154097969844",
+          "eris_name": "USDC-USDt AMPLP",
+          "symbol": "USDC-USDt AMPLP"
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "single"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "gauge_status": "active",
+        "wraps_lp_address": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "headline_name": "USDC-USDt AMPLP",
+      "tier": "core"
+    },
+    "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/51/bluechip/amplp": {
+      "address": "factory/terra1zly98gvcec54m3caxlqexce7rus6rzgplz7eketsdz7nh750h2rqvu8uzx/51/bluechip/amplp",
+      "type": "factory",
+      "category": "tokens",
+      "subtype": "amplp",
+      "symbol": null,
+      "display_name": "USDC-EURe LP (S)",
+      "decimals": 6,
+      "coingecko_id": null,
+      "coingecko_match": "no_mapping",
+      "sources": {
+        "cosmos_chain_registry": null,
+        "eris": {
+          "display": "USDC-EURe LP (S)",
+          "coingecko_id": null,
+          "decimals": 6,
+          "price_usd": "2.9342681354629296",
+          "eris_name": "USDC-EURe LP (S)",
+          "symbol": "USDC-EURe LP (S)"
+        },
+        "astroport": null,
+        "skeletonswap": null
+      },
+      "bridge": null,
+      "appears_in": {
+        "tla_pools_count": 1,
+        "tla_pools": [
+          "bluechip"
+        ],
+        "is_lockable": false,
+        "is_amplp_underlying": false,
+        "gauge_status": "inactive_below_threshold",
+        "wraps_lp_address": "factory/terra1t9uvn05g0hdlx2nnqug3lt3pkla4sfdj0n0xnd66kmwvyt25y65sk37cej/uLP"
+      },
+      "wallet_import": null,
+      "scoring": {
+        "confusion_score": 75,
+        "flags": [
+          "no_external_price_source"
+        ]
+      },
+      "override": null,
+      "notes": null,
+      "acquisition_class": "native_terra",
+      "headline_name": "USDC-EURe LP (S)",
       "tier": "core"
     },
     "terra1mnucaeckccseq66kglv299wasp02akyh535jcpcdu37tdakr92esf9mjm5": {
@@ -20227,7 +20227,7 @@
         {
           "dao": "Lion DAO ROAR Staking",
           "staking_contract": "terra1xuqh84yz35h70p3ppt76dz5kgwwtwmsv34pg0gw6ld4ntptgjcrqe2e70t",
-          "stake_balance": "132398810951751530"
+          "stake_balance": "132425857304274731"
         }
       ],
       "verified": false,
@@ -23544,13 +23544,12 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 66044873349,
-          "lock_count": 4,
+          "total_vp": 72508786470,
+          "lock_count": 3,
           "token_ids": [
             "114",
             "1172",
-            "1177",
-            "1260"
+            "1177"
           ]
         }
       ],
@@ -23652,7 +23651,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 56844496611,
+          "total_vp": 62604978543,
           "lock_count": 3,
           "token_ids": [
             "1163",
@@ -25357,7 +25356,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 6410582921124,
+          "total_vp": 6412719159027,
           "lock_count": 1,
           "token_ids": [
             "1000"
@@ -25980,7 +25979,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 65939613777,
+          "total_vp": 65966047272,
           "lock_count": 2,
           "token_ids": [
             "1171",
@@ -27960,7 +27959,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5884264091889,
+          "total_vp": 5884545613329,
           "lock_count": 1,
           "token_ids": [
             "748"
@@ -27981,7 +27980,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 998132698845,
+          "total_vp": 998927629587,
           "lock_count": 1,
           "token_ids": [
             "754"
@@ -28065,7 +28064,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 269405680986,
+          "total_vp": 269405680960,
           "lock_count": 2,
           "token_ids": [
             "850",
@@ -28566,7 +28565,7 @@
       "note": "IBC asset metadata; many common tokens (e.g. ATOM) absent from terra-2 list"
     },
     "eris_prices": {
-      "asset_count": 317,
+      "asset_count": 267,
       "fetched_ok": true,
       "note": "Eris /prices endpoint — Eris-recognized assets only"
     },
@@ -28581,7 +28580,7 @@
       "note": "SkeletonSwap pool data — only assets in current SS pools"
     },
     "coingecko_list": {
-      "coin_count": 18118,
+      "coin_count": 18137,
       "fetched_ok": true,
       "note": "CG /coins/list with platforms — used for independent CG-mapping verification"
     }
@@ -29010,7 +29009,7 @@
       }
     },
     "voting_escrow_num_tokens": {
-      "count": 440
+      "count": 439
     },
     "asset_compounder_asset_configs": [
       {
