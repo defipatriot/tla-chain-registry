@@ -3,8 +3,8 @@
   "cron": "tla-registry",
   "layer": 0,
   "layerRole": "discovery-bootstrap-catalog",
-  "capturedAt": "2026-08-07T00:05:24.571Z",
-  "capturedAtUnix": 1786061124571,
+  "capturedAt": "2026-08-08T00:05:26.336Z",
+  "capturedAtUnix": 1786147526336,
   "canonicalEpoch": 196,
   "directory": {
     "ASSET_GAUGE": "terra1hfksrhchkmsj4qdq33wkksrslnfles6y2l77fmmzeep0xmq24l2smsd3lj",
@@ -326,9 +326,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4224700754",
-        "harvested_raw": "4224700754",
-        "last_taken_s": 1786060796,
+        "taken_raw": "4225048749",
+        "harvested_raw": "4225048749",
+        "last_taken_s": 1786147202,
         "stake_mechanism": "default"
       }
     },
@@ -343,9 +343,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "11301715829",
-        "harvested_raw": "11301715829",
-        "last_taken_s": 1786060796,
+        "taken_raw": "11301722489",
+        "harvested_raw": "11301722489",
+        "last_taken_s": 1786147202,
         "stake_mechanism": "default"
       }
     },
@@ -360,9 +360,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "4279361747",
-        "harvested_raw": "4279361747",
-        "last_taken_s": 1786060796,
+        "taken_raw": "4279383071",
+        "harvested_raw": "4279383071",
+        "last_taken_s": 1786147202,
         "stake_mechanism": "default"
       }
     },
@@ -394,9 +394,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "5672968303",
-        "harvested_raw": "5672968303",
-        "last_taken_s": 1786060796,
+        "taken_raw": "5682907961",
+        "harvested_raw": "5682907961",
+        "last_taken_s": 1786147202,
         "stake_mechanism": "astroport"
       }
     },
@@ -445,9 +445,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "388604975042",
-        "harvested_raw": "388604975042",
-        "last_taken_s": 1786060796,
+        "taken_raw": "388604976354",
+        "harvested_raw": "388604976354",
+        "last_taken_s": 1786147202,
         "stake_mechanism": "default"
       }
     },
@@ -479,9 +479,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "24621133249",
-        "harvested_raw": "24621133249",
-        "last_taken_s": 1786060796,
+        "taken_raw": "24621793005",
+        "harvested_raw": "24621793005",
+        "last_taken_s": 1786147202,
         "stake_mechanism": "default"
       }
     },
@@ -496,9 +496,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "100381377",
-        "harvested_raw": "100381377",
-        "last_taken_s": 1786060796,
+        "taken_raw": "100389618",
+        "harvested_raw": "100389618",
+        "last_taken_s": 1786147202,
         "stake_mechanism": "default"
       }
     },
@@ -564,9 +564,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "36211601",
-        "harvested_raw": "36211601",
-        "last_taken_s": 1786060796,
+        "taken_raw": "36211637",
+        "harvested_raw": "36211637",
+        "last_taken_s": 1786147202,
         "stake_mechanism": "astroport"
       }
     },
@@ -751,9 +751,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "606129673622690",
-        "harvested_raw": "606129673622690",
-        "last_taken_s": 1786060796,
+        "taken_raw": "606132006895406",
+        "harvested_raw": "606132006895406",
+        "last_taken_s": 1786147202,
         "stake_mechanism": "default"
       }
     },
@@ -768,9 +768,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "802156085",
-        "harvested_raw": "802156085",
-        "last_taken_s": 1786060796,
+        "taken_raw": "802431631",
+        "harvested_raw": "802431631",
+        "last_taken_s": 1786147202,
         "stake_mechanism": "default"
       }
     },
@@ -921,9 +921,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "188223684",
-        "harvested_raw": "188223684",
-        "last_taken_s": 1786032059,
+        "taken_raw": "188223686",
+        "harvested_raw": "188223686",
+        "last_taken_s": 1786118412,
         "stake_mechanism": "astroport"
       }
     },
@@ -1040,9 +1040,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "149",
-        "harvested_raw": "149",
-        "last_taken_s": 1786017599,
+        "taken_raw": "150",
+        "harvested_raw": "150",
+        "last_taken_s": 1786103998,
         "stake_mechanism": "default"
       }
     },
@@ -1074,9 +1074,9 @@
       "gauge_status": "inactive_below_threshold",
       "take_rate": {
         "yearly_rate": "0.1",
-        "taken_raw": "6982032548",
-        "harvested_raw": "6982032548",
-        "last_taken_s": 1786060796,
+        "taken_raw": "6982076411",
+        "harvested_raw": "6982076411",
+        "last_taken_s": 1786147202,
         "stake_mechanism": "default"
       }
     }
@@ -1383,7 +1383,7 @@
       "display_name": "LUNA",
       "decimals": 6,
       "coingecko_id": "terra-luna-2",
-      "coingecko_match": "unverified",
+      "coingecko_match": "verified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "LUNA",
@@ -1395,7 +1395,7 @@
           "display": "LUNA",
           "coingecko_id": "terra-luna-2",
           "decimals": 6,
-          "price_usd": "0.04190386",
+          "price_usd": "0.04111717",
           "eris_name": "LUNA",
           "symbol": "LUNA"
         },
@@ -1410,6 +1410,12 @@
           "name": "Luna",
           "decimals": 6,
           "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/luna.png"
+        },
+        "coingecko": {
+          "cg_id": "terra-luna-2",
+          "symbol": "luna",
+          "name": "Terra",
+          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -1431,10 +1437,8 @@
         "address": "uluna"
       },
       "scoring": {
-        "confusion_score": 90,
-        "flags": [
-          "cg_mapping_status_unknown"
-        ]
+        "confusion_score": 100,
+        "flags": []
       },
       "override": null,
       "notes": null,
@@ -1452,7 +1456,7 @@
       "display_name": "ASTRO",
       "decimals": 6,
       "coingecko_id": "astroport-fi",
-      "coingecko_match": "unverified",
+      "coingecko_match": "unverified_no_terra_addr",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "ASTRO",
@@ -1464,7 +1468,7 @@
           "display": "ASTRO",
           "coingecko_id": "astroport-fi",
           "decimals": 6,
-          "price_usd": "0.000445317262794425",
+          "price_usd": "0.000435211523629315",
           "eris_name": "ASTRO",
           "symbol": "ASTRO"
         },
@@ -1517,9 +1521,9 @@
         "address": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
       },
       "scoring": {
-        "confusion_score": 90,
+        "confusion_score": 85,
         "flags": [
-          "cg_mapping_status_unknown"
+          "cg_mapping_unverified"
         ]
       },
       "override": null,
@@ -1553,7 +1557,7 @@
       "display_name": "ampLUNA",
       "decimals": 6,
       "coingecko_id": "eris-amplified-luna",
-      "coingecko_match": "unverified",
+      "coingecko_match": "verified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "ampLUNA",
@@ -1565,7 +1569,7 @@
           "display": "ampLUNA",
           "coingecko_id": "eris-amplified-luna",
           "decimals": 6,
-          "price_usd": "0.09373709220872359",
+          "price_usd": "0.09255258892225755",
           "eris_name": "ampLUNA",
           "symbol": "ampLUNA"
         },
@@ -1580,6 +1584,12 @@
           "name": "ERIS Liquid Staked LUNA",
           "decimals": 6,
           "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/ampluna.svg"
+        },
+        "coingecko": {
+          "cg_id": "eris-amplified-luna",
+          "symbol": "ampluna",
+          "name": "Eris Amplified Luna",
+          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -1598,10 +1608,8 @@
         "address": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
       },
       "scoring": {
-        "confusion_score": 90,
-        "flags": [
-          "cg_mapping_status_unknown"
-        ]
+        "confusion_score": 100,
+        "flags": []
       },
       "override": null,
       "notes": null,
@@ -1619,7 +1627,7 @@
       "display_name": "ROAR",
       "decimals": 6,
       "coingecko_id": "lion-dao",
-      "coingecko_match": "unverified",
+      "coingecko_match": "verified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "ROAR",
@@ -1631,7 +1639,7 @@
           "display": "ROAR",
           "coingecko_id": "lion-dao",
           "decimals": 6,
-          "price_usd": "1.79415004564e-7",
+          "price_usd": "1.7362568471e-7",
           "eris_name": "ROAR",
           "symbol": "ROAR"
         },
@@ -1646,6 +1654,12 @@
           "name": "ROAR",
           "decimals": 6,
           "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/roar.png"
+        },
+        "coingecko": {
+          "cg_id": "lion-dao",
+          "symbol": "roar",
+          "name": "Lion DAO",
+          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -1665,10 +1679,8 @@
         "address": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
       },
       "scoring": {
-        "confusion_score": 90,
-        "flags": [
-          "cg_mapping_status_unknown"
-        ]
+        "confusion_score": 100,
+        "flags": []
       },
       "override": null,
       "notes": null,
@@ -1686,7 +1698,7 @@
       "display_name": "boneLUNA",
       "decimals": 6,
       "coingecko_id": "backbone-labs-staked-luna",
-      "coingecko_match": "hardcoded_override",
+      "coingecko_match": "verified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "bLUNA",
@@ -1698,7 +1710,7 @@
           "display": "boneLUNA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.07413847210334605",
+          "price_usd": "0.0727688709866025",
           "eris_name": "bLUNA",
           "symbol": "bLUNA",
           "_display_original": "bLUNA",
@@ -1715,6 +1727,12 @@
           "name": "BackBone Labs Liquid Staked LUNA",
           "decimals": 6,
           "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/bLUNA.png"
+        },
+        "coingecko": {
+          "cg_id": "backbone-labs-staked-luna",
+          "symbol": "bluna",
+          "name": "Backbone Labs Staked LUNA",
+          "platform": "terra-2"
         }
       },
       "bridge": {
@@ -1781,7 +1799,7 @@
           "display": "ampROAR",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.1529528585922072e-7",
+          "price_usd": "2.078576583818699e-7",
           "eris_name": "ampROAR",
           "symbol": "ampROAR"
         },
@@ -1841,7 +1859,7 @@
           "display": "wstETH",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "2360.2",
+          "price_usd": "2373.6",
           "eris_name": "wstETH",
           "symbol": "wstETH"
         },
@@ -1936,7 +1954,7 @@
       "display_name": "USDt",
       "decimals": 6,
       "coingecko_id": "tether",
-      "coingecko_match": "unverified",
+      "coingecko_match": "unverified_no_terra_addr",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "USDt",
@@ -1948,7 +1966,7 @@
           "display": "USDt",
           "coingecko_id": "tether",
           "decimals": 6,
-          "price_usd": "0.999235",
+          "price_usd": "0.999514",
           "eris_name": "USDt",
           "symbol": "USDt"
         },
@@ -2003,9 +2021,9 @@
         "address": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
       },
       "scoring": {
-        "confusion_score": 90,
+        "confusion_score": 85,
         "flags": [
-          "cg_mapping_status_unknown"
+          "cg_mapping_unverified"
         ]
       },
       "override": null,
@@ -2039,7 +2057,7 @@
       "display_name": "USDC",
       "decimals": 6,
       "coingecko_id": "usd-coin",
-      "coingecko_match": "unverified",
+      "coingecko_match": "mismatch",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "USDC",
@@ -2051,7 +2069,7 @@
           "display": "USDC",
           "coingecko_id": "usd-coin",
           "decimals": 6,
-          "price_usd": "0.999613",
+          "price_usd": "0.999731",
           "eris_name": "USDC",
           "symbol": "USDC"
         },
@@ -2061,7 +2079,13 @@
           "decimals": 6,
           "price_usd": null
         },
-        "skeletonswap": null
+        "skeletonswap": null,
+        "coingecko": {
+          "cg_id": "ibc-bridged-usdc",
+          "symbol": "usdc.n",
+          "name": "Noble USDC",
+          "platform": "terra-2"
+        }
       },
       "bridge": {
         "source_chain": "noble",
@@ -2118,14 +2142,16 @@
         "address": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
       },
       "scoring": {
-        "confusion_score": 90,
+        "confusion_score": 70,
         "flags": [
-          "cg_mapping_status_unknown"
+          "cg_mapping_mismatch:claimed=usd-coin,actual=ibc-bridged-usdc"
         ]
       },
       "override": null,
       "notes": null,
       "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.png",
+      "coingecko_id_claimed": "usd-coin",
+      "coingecko_id_actual": "ibc-bridged-usdc",
       "acquisition": {
         "_label": "USDC (Noble)",
         "native_chain": "Noble",
@@ -2256,7 +2282,7 @@
       "display_name": "arbLUNA",
       "decimals": 6,
       "coingecko_id": "eris-arbitrage-luna",
-      "coingecko_match": "unverified",
+      "coingecko_match": "verified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "arbLUNA",
@@ -2268,7 +2294,7 @@
           "display": "arbLUNA",
           "coingecko_id": "eris-arbitrage-luna",
           "decimals": 6,
-          "price_usd": "0.11142684097522604",
+          "price_usd": "0.10986904363895306",
           "eris_name": "arbLUNA",
           "symbol": "arbLUNA"
         },
@@ -2283,6 +2309,12 @@
           "name": "Arb LUNA on Terra",
           "decimals": 6,
           "logo_url": null
+        },
+        "coingecko": {
+          "cg_id": "eris-arbitrage-luna",
+          "symbol": "arbluna",
+          "name": "ERIS Arbitrage LUNA",
+          "platform": "terra-2"
         }
       },
       "bridge": {
@@ -2317,10 +2349,8 @@
         "address": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
       },
       "scoring": {
-        "confusion_score": 90,
-        "flags": [
-          "cg_mapping_status_unknown"
-        ]
+        "confusion_score": 100,
+        "flags": []
       },
       "override": {
         "display_name": "arbLUNA",
@@ -2455,7 +2485,7 @@
           "display": "LUNA-USDC-ampLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.7850879691670813",
+          "price_usd": "1.7708124726099794",
           "eris_name": "LUNA-USDC-ampLP",
           "symbol": "LUNA-USDC-ampLP"
         },
@@ -2500,7 +2530,7 @@
       "display_name": "EURe",
       "decimals": 6,
       "coingecko_id": "monerium-eur-money",
-      "coingecko_match": "unverified",
+      "coingecko_match": "mismatch",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "EURe",
@@ -2512,7 +2542,7 @@
           "display": "EURe",
           "coingecko_id": "monerium-eur-money",
           "decimals": 6,
-          "price_usd": "1.15",
+          "price_usd": "1.16",
           "eris_name": "EURe",
           "symbol": "EURe"
         },
@@ -2527,6 +2557,12 @@
           "name": "Monerium EUR on Terra",
           "decimals": 6,
           "logo_url": null
+        },
+        "coingecko": {
+          "cg_id": "monerium-eur-money-2",
+          "symbol": "eure",
+          "name": "Monerium EUR emoney",
+          "platform": "terra-2"
         }
       },
       "bridge": {
@@ -2582,14 +2618,16 @@
         "address": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1"
       },
       "scoring": {
-        "confusion_score": 90,
+        "confusion_score": 70,
         "flags": [
-          "cg_mapping_status_unknown"
+          "cg_mapping_mismatch:claimed=monerium-eur-money,actual=monerium-eur-money-2"
         ]
       },
       "override": null,
       "notes": null,
       "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eure.png",
+      "coingecko_id_claimed": "monerium-eur-money",
+      "coingecko_id_actual": "monerium-eur-money-2",
       "acquisition": {
         "native_chain": "noble",
         "route_to_terra": [
@@ -2618,7 +2656,7 @@
       "display_name": "SOLID",
       "decimals": 6,
       "coingecko_id": "solid-2",
-      "coingecko_match": "unverified",
+      "coingecko_match": "verified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "SOLID",
@@ -2630,7 +2668,7 @@
           "display": "SOLID",
           "coingecko_id": "solid-2",
           "decimals": 6,
-          "price_usd": "1.0095905778256236",
+          "price_usd": "1.0062095266254358",
           "eris_name": "SOLID",
           "symbol": "SOLID"
         },
@@ -2645,6 +2683,12 @@
           "name": "Solid on Terra",
           "decimals": 6,
           "logo_url": null
+        },
+        "coingecko": {
+          "cg_id": "solid-2",
+          "symbol": "solid",
+          "name": "Solid",
+          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -2664,10 +2708,8 @@
         "address": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
       },
       "scoring": {
-        "confusion_score": 90,
-        "flags": [
-          "cg_mapping_status_unknown"
-        ]
+        "confusion_score": 100,
+        "flags": []
       },
       "override": null,
       "notes": null,
@@ -2685,7 +2727,7 @@
       "display_name": "CAPA",
       "decimals": 6,
       "coingecko_id": "capapult",
-      "coingecko_match": "unverified",
+      "coingecko_match": "verified",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "CAPA",
@@ -2697,7 +2739,7 @@
           "display": "CAPA",
           "coingecko_id": "capapult",
           "decimals": 6,
-          "price_usd": "0.001198738288736256",
+          "price_usd": "0.001184853981922811",
           "eris_name": "CAPA",
           "symbol": "CAPA"
         },
@@ -2712,6 +2754,12 @@
           "name": "Capapult on Terra",
           "decimals": 6,
           "logo_url": null
+        },
+        "coingecko": {
+          "cg_id": "capapult",
+          "symbol": "capa",
+          "name": "Capa",
+          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -2731,10 +2779,8 @@
         "address": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
       },
       "scoring": {
-        "confusion_score": 90,
-        "flags": [
-          "cg_mapping_status_unknown"
-        ]
+        "confusion_score": 100,
+        "flags": []
       },
       "override": null,
       "notes": null,
@@ -2764,7 +2810,7 @@
           "display": "ampCAPA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0013267890109823475",
+          "price_usd": "0.00130614862132871",
           "eris_name": "ampCAPA",
           "symbol": "ampCAPA"
         },
@@ -2828,8 +2874,8 @@
       "symbol": "PAXG",
       "display_name": "PAXG",
       "decimals": 18,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
+      "coingecko_id": "pax-gold",
+      "coingecko_match": "verified_via_bridge",
       "sources": {
         "cosmos_chain_registry": {
           "symbol": "PAXG",
@@ -2841,7 +2887,7 @@
           "display": "PAXG",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "4242.23",
+          "price_usd": "4341.44",
           "eris_name": "PAXG",
           "symbol": "PAXG"
         },
@@ -2851,7 +2897,17 @@
           "decimals": 18,
           "price_usd": null
         },
-        "skeletonswap": null
+        "skeletonswap": null,
+        "coingecko": {
+          "cg_id": "pax-gold",
+          "symbol": "paxg",
+          "name": "PAX Gold",
+          "platform": "ethereum",
+          "original_address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+          "matched_via": "bridge_trace",
+          "source_chain": "ethereum",
+          "source_address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78"
+        }
       },
       "bridge": {
         "source_chain": "cosmoshub",
@@ -2903,14 +2959,15 @@
         "address": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
       },
       "scoring": {
-        "confusion_score": 75,
+        "confusion_score": 95,
         "flags": [
-          "no_external_price_source"
+          "cg_verified_via_bridge_provenance"
         ]
       },
       "override": null,
       "notes": null,
       "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/paxg.png",
+      "coingecko_match_source": "ethereum:0x45804880De22913dAFE09f4980848ECE6EcbAf78",
       "acquisition": {
         "_label": "PAXG",
         "native_chain": "Ethereum",
@@ -2956,7 +3013,7 @@
           "display": "LUNA-ampLUNA-ampLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.25796765969835334",
+          "price_usd": "0.25344537829877406",
           "eris_name": "LUNA-ampLUNA-ampLP",
           "symbol": "LUNA-ampLUNA-ampLP"
         },
@@ -3008,7 +3065,7 @@
           "display": "wETH.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "1901.93",
+          "price_usd": "1912.16",
           "eris_name": "wETH.wh",
           "symbol": "wETH.wh"
         },
@@ -3139,7 +3196,7 @@
           "display": "wBTC.creda.a",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "64363.10775338187",
+          "price_usd": "64982.16679485215",
           "eris_name": "wBTC.creda.a",
           "symbol": "wBTC.creda.a"
         },
@@ -3214,7 +3271,7 @@
           "display": "USDt-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.42438760490400745",
+          "price_usd": "0.42048455357438447",
           "eris_name": "USDt-LUNA LP",
           "symbol": "USDt-LUNA LP"
         },
@@ -3329,7 +3386,7 @@
           "display": "LUNA-USDC LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.44052959447098555",
+          "price_usd": "0.43644070084805087",
           "eris_name": "LUNA-USDC LP",
           "symbol": "LUNA-USDC LP"
         },
@@ -3397,7 +3454,7 @@
           "display": "PAXG-wBTC.atom LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "33049.978209480614",
+          "price_usd": "33592.86622377559",
           "eris_name": "PAXG-wBTC.atom LP",
           "symbol": "PAXG-wBTC.atom LP"
         },
@@ -3466,7 +3523,7 @@
           "display": "ampROAR-ROAR LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "5.464124934771051e-7",
+          "price_usd": "5.275080943659561e-7",
           "eris_name": "ampROAR-ROAR LP",
           "symbol": "ampROAR-ROAR LP"
         },
@@ -3515,7 +3572,7 @@
           "display": "ampROAR-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "4.032152682664916e-7",
+          "price_usd": "3.892443381951887e-7",
           "eris_name": "ampROAR-ROAR LP (S)",
           "symbol": "ampROAR-ROAR LP (S)"
         },
@@ -3564,7 +3621,7 @@
           "display": "LUNA-arbLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.1458328815894178",
+          "price_usd": "0.14315343325252572",
           "eris_name": "LUNA-arbLUNA LP (S)",
           "symbol": "LUNA-arbLUNA LP (S)"
         },
@@ -3584,9 +3641,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "6982032548",
-          "harvested_raw": "6982032548",
-          "last_taken_s": 1786060796,
+          "taken_raw": "6982076411",
+          "harvested_raw": "6982076411",
+          "last_taken_s": 1786147202,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -3620,7 +3677,7 @@
           "display": "PAXG-wBTC.atom AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "37507.82061077989",
+          "price_usd": "38156.605671697616",
           "eris_name": "PAXG-wBTC.atom AMPLP",
           "symbol": "PAXG-wBTC.atom AMPLP"
         },
@@ -3667,7 +3724,7 @@
           "display": "ampCAPA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0026875322152472097",
+          "price_usd": "0.002647285655336219",
           "eris_name": "ampCAPA",
           "symbol": "ampCAPA"
         },
@@ -3714,7 +3771,7 @@
           "display": "ampROAR-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000012096890332083144",
+          "price_usd": "0.0000011685724663498765",
           "eris_name": "ampROAR-ROAR LP (S)",
           "symbol": "ampROAR-ROAR LP (S)"
         },
@@ -3761,7 +3818,7 @@
           "display": "LUNA-arbLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.2652254235571836",
+          "price_usd": "0.26035232626728294",
           "eris_name": "LUNA-arbLUNA LP (S)",
           "symbol": "LUNA-arbLUNA LP (S)"
         },
@@ -3808,7 +3865,7 @@
           "display": "USDt-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.7402058291949911",
+          "price_usd": "1.7265927836312802",
           "eris_name": "USDt-LUNA AMPLP",
           "symbol": "USDt-LUNA AMPLP"
         },
@@ -3855,7 +3912,7 @@
           "display": "LUNA-USDC AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.6673738056371297",
+          "price_usd": "1.6541588110391148",
           "eris_name": "LUNA-USDC AMPLP",
           "symbol": "LUNA-USDC AMPLP"
         },
@@ -4053,7 +4110,7 @@
           "display": "FUEL",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.002303488564909646",
+          "price_usd": "0.002256429359908846",
           "eris_name": "FUEL",
           "symbol": "FUEL"
         },
@@ -4283,7 +4340,7 @@
           "display": "xASTRO",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0005505632426436166",
+          "price_usd": "0.0005506957966926502",
           "eris_name": "xASTRO",
           "symbol": "xASTRO"
         },
@@ -4338,7 +4395,7 @@
           "display": "LUNA-EURe AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.7309431666270183",
+          "price_usd": "1.7246869411345978",
           "eris_name": "LUNA-EURe AMPLP",
           "symbol": "LUNA-EURe AMPLP"
         },
@@ -4385,7 +4442,7 @@
           "display": "LUNA-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.293124602584225",
+          "price_usd": "1.2867118677919842",
           "eris_name": "LUNA-EURe LP (S)",
           "symbol": "LUNA-EURe LP (S)"
         },
@@ -4432,7 +4489,7 @@
           "display": "LUNA-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.9578240010631738",
+          "price_usd": "0.9490673767619525",
           "eris_name": "LUNA-USDt LP (S)",
           "symbol": "LUNA-USDt LP (S)"
         },
@@ -4479,7 +4536,7 @@
           "display": "ampLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.23282955678858966",
+          "price_usd": "0.22861658383929648",
           "eris_name": "ampLUNA-LUNA LP (S)",
           "symbol": "ampLUNA-LUNA LP (S)"
         },
@@ -4526,7 +4583,7 @@
           "display": "bLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.3046852949143228",
+          "price_usd": "0.2993457401172164",
           "eris_name": "bLUNA-LUNA LP (S)",
           "symbol": "bLUNA-LUNA LP (S)"
         },
@@ -4573,7 +4630,7 @@
           "display": "wBNB.axl-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "27.064836453532937",
+          "price_usd": "26.09020119179164",
           "eris_name": "wBNB.axl-LUNA AMPLP",
           "symbol": "wBNB.axl-LUNA AMPLP"
         },
@@ -4620,7 +4677,7 @@
           "display": "USDC-EURe AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "3.2050013900192895",
+          "price_usd": "3.2205558711906455",
           "eris_name": "USDC-EURe AMPLP",
           "symbol": "USDC-EURe AMPLP"
         },
@@ -4667,7 +4724,7 @@
           "display": "LUNA-PAXG AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "44.61472119804085",
+          "price_usd": "44.76688218734863",
           "eris_name": "LUNA-PAXG AMPLP",
           "symbol": "LUNA-PAXG AMPLP"
         },
@@ -4714,7 +4771,7 @@
           "display": "LUNA-wBTC.atom AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "226.05439766741796",
+          "price_usd": "225.30221369354692",
           "eris_name": "LUNA-wBTC.atom AMPLP",
           "symbol": "LUNA-wBTC.atom AMPLP"
         },
@@ -4761,7 +4818,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0754350926409855",
+          "price_usd": "1.0765105850746455",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -4808,7 +4865,7 @@
           "display": "LUNA-INJ LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000020664591321485514",
+          "price_usd": "0.000002033863063560344",
           "eris_name": "LUNA-INJ LP (S)",
           "symbol": "LUNA-INJ LP (S)"
         },
@@ -4848,14 +4905,14 @@
       "display_name": "WETH.axl",
       "decimals": 18,
       "coingecko_id": "ethereum",
-      "coingecko_match": "unverified",
+      "coingecko_match": "mismatch",
       "sources": {
         "cosmos_chain_registry": null,
         "eris": {
           "display": "WETH.axl",
           "coingecko_id": "ethereum",
           "decimals": 18,
-          "price_usd": "1901.93",
+          "price_usd": "1912.16",
           "eris_name": "WETH.axl",
           "symbol": "WETH.axl"
         },
@@ -4865,7 +4922,13 @@
           "decimals": 18,
           "price_usd": null
         },
-        "skeletonswap": null
+        "skeletonswap": null,
+        "coingecko": {
+          "cg_id": "weth",
+          "symbol": "weth",
+          "name": "WETH",
+          "platform": "terra-2"
+        }
       },
       "bridge": null,
       "appears_in": {
@@ -4883,9 +4946,9 @@
         "address": "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674"
       },
       "scoring": {
-        "confusion_score": 70,
+        "confusion_score": 50,
         "flags": [
-          "cg_mapping_status_unknown",
+          "cg_mapping_mismatch:claimed=ethereum,actual=weth",
           "no_acquisition_guide:useful",
           "shared_base_symbol_with:WETH.wh"
         ]
@@ -4898,6 +4961,8 @@
       },
       "notes": "Axelar-bridged ETH (WETH) on Terra.",
       "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/weth.svg",
+      "coingecko_id_claimed": "ethereum",
+      "coingecko_id_actual": "weth",
       "acquisition_class": "wrapped_disclosed",
       "related_variants": [
         "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat"
@@ -4913,15 +4978,15 @@
       "symbol": "WBTC",
       "display_name": "wBTC.atom",
       "decimals": 8,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
+      "coingecko_id": "eureka-bridged-wbtc-terra",
+      "coingecko_match": "discovered",
       "sources": {
         "cosmos_chain_registry": null,
         "eris": {
           "display": "wBTC.atom",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "64253",
+          "price_usd": "64871",
           "eris_name": "wBTC.atom",
           "symbol": "wBTC.atom"
         },
@@ -4931,7 +4996,13 @@
           "decimals": 8,
           "price_usd": null
         },
-        "skeletonswap": null
+        "skeletonswap": null,
+        "coingecko": {
+          "cg_id": "eureka-bridged-wbtc-terra",
+          "symbol": "wbtc",
+          "name": "Eureka Bridged WBTC (Terra)",
+          "platform": "terra-2"
+        }
       },
       "bridge": null,
       "appears_in": {
@@ -4950,9 +5021,8 @@
         "address": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB"
       },
       "scoring": {
-        "confusion_score": 65,
+        "confusion_score": 90,
         "flags": [
-          "no_external_price_source",
           "shared_base_symbol_with:WBTC.axl,WBTC.axl-WBTC.osmo LP,WBTC.osmo,wBTC.atom-LUNA AMPLP"
         ]
       },
@@ -5005,15 +5075,15 @@
       "symbol": "ATOM",
       "display_name": "ATOM",
       "decimals": 6,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
+      "coingecko_id": "cosmos",
+      "coingecko_match": "discovered",
       "sources": {
         "cosmos_chain_registry": null,
         "eris": {
           "display": "ATOM",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.35",
+          "price_usd": "1.36",
           "eris_name": "ATOM",
           "symbol": "ATOM"
         },
@@ -5023,7 +5093,13 @@
           "decimals": 6,
           "price_usd": null
         },
-        "skeletonswap": null
+        "skeletonswap": null,
+        "coingecko": {
+          "cg_id": "cosmos",
+          "symbol": "atom",
+          "name": "Cosmos Hub",
+          "platform": "terra-2"
+        }
       },
       "bridge": null,
       "appears_in": {
@@ -5042,10 +5118,8 @@
         "address": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2"
       },
       "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
+        "confusion_score": 100,
+        "flags": []
       },
       "override": {
         "display_name": "ATOM",
@@ -5096,7 +5170,7 @@
           "display": "dATOM",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.614199270925329",
+          "price_usd": "2.6335637099692204",
           "eris_name": "dATOM",
           "symbol": "dATOM"
         },
@@ -5196,15 +5270,15 @@
       "symbol": "INJ",
       "display_name": "INJ",
       "decimals": 18,
-      "coingecko_id": null,
-      "coingecko_match": "no_mapping",
+      "coingecko_id": "injective-protocol",
+      "coingecko_match": "discovered",
       "sources": {
         "cosmos_chain_registry": null,
         "eris": {
           "display": "INJ",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "4.57",
+          "price_usd": "4.51",
           "eris_name": "INJ",
           "symbol": "INJ"
         },
@@ -5219,6 +5293,12 @@
           "name": "INJ on Terra",
           "decimals": 18,
           "logo_url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png"
+        },
+        "coingecko": {
+          "cg_id": "injective-protocol",
+          "symbol": "inj",
+          "name": "Injective",
+          "platform": "terra-2"
         }
       },
       "bridge": null,
@@ -5237,10 +5317,8 @@
         "address": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211"
       },
       "scoring": {
-        "confusion_score": 75,
-        "flags": [
-          "no_external_price_source"
-        ]
+        "confusion_score": 100,
+        "flags": []
       },
       "override": null,
       "notes": null,
@@ -5265,7 +5343,7 @@
           "display": "stLUNA",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.04190386",
+          "price_usd": "0.04111717",
           "eris_name": "stLUNA",
           "symbol": "stLUNA"
         },
@@ -5706,7 +5784,7 @@
           "display": "wBNB.axl",
           "coingecko_id": null,
           "decimals": 18,
-          "price_usd": "591.4",
+          "price_usd": "561.2",
           "eris_name": "wBNB.axl",
           "symbol": "wBNB.axl"
         },
@@ -5773,7 +5851,7 @@
           "display": "WBTC.osmo",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "64253",
+          "price_usd": "64871",
           "eris_name": "WBTC.osmo",
           "symbol": "WBTC.osmo"
         },
@@ -5849,7 +5927,7 @@
           "display": "wSOL.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "72.61",
+          "price_usd": "73.58",
           "eris_name": "wSOL.wh",
           "symbol": "wSOL.wh"
         },
@@ -5915,7 +5993,7 @@
           "display": "wBNB.wh",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "590.51",
+          "price_usd": "590.46",
           "eris_name": "wBNB.wh",
           "symbol": "wBNB.wh"
         },
@@ -6108,7 +6186,7 @@
           "display": "LUNA-EURe LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.44621713484671627",
+          "price_usd": "0.4439669161459355",
           "eris_name": "LUNA-EURe LP",
           "symbol": "LUNA-EURe LP"
         },
@@ -6176,7 +6254,7 @@
           "display": "LUNA-USDC LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.47825496031079584",
+          "price_usd": "0.4738555618851141",
           "eris_name": "LUNA-USDC LP (S)",
           "symbol": "LUNA-USDC LP (S)"
         },
@@ -6225,7 +6303,7 @@
           "display": "bLUNA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.09754018823638512",
+          "price_usd": "0.09573823577892943",
           "eris_name": "bLUNA-LUNA LP",
           "symbol": "bLUNA-LUNA LP"
         },
@@ -6259,9 +6337,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "5672968303",
-          "harvested_raw": "5672968303",
-          "last_taken_s": 1786060796,
+          "taken_raw": "5682907961",
+          "harvested_raw": "5682907961",
+          "last_taken_s": 1786147202,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -6300,7 +6378,7 @@
           "display": "LUNA-ampLUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.12236852839536731",
+          "price_usd": "0.12014365809474796",
           "eris_name": "LUNA-ampLUNA LP",
           "symbol": "LUNA-ampLUNA LP"
         },
@@ -6368,7 +6446,7 @@
           "display": "bLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.12399671141620051",
+          "price_usd": "0.12170602667118528",
           "eris_name": "bLUNA-LUNA LP (S)",
           "symbol": "bLUNA-LUNA LP (S)"
         },
@@ -6417,7 +6495,7 @@
           "display": "ROAR-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00017926278671306803",
+          "price_usd": "0.00017449389466193035",
           "eris_name": "ROAR-LUNA LP",
           "symbol": "ROAR-LUNA LP"
         },
@@ -6485,7 +6563,7 @@
           "display": "LUNA-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00018183865246721592",
+          "price_usd": "0.00017699419133308125",
           "eris_name": "LUNA-ROAR LP (S)",
           "symbol": "LUNA-ROAR LP (S)"
         },
@@ -6505,9 +6583,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "388604975042",
-          "harvested_raw": "388604975042",
-          "last_taken_s": 1786060796,
+          "taken_raw": "388604976354",
+          "harvested_raw": "388604976354",
+          "last_taken_s": 1786147202,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -6541,7 +6619,7 @@
           "display": "LUNA-stLUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.08740313478034788",
+          "price_usd": "0.08577876954522953",
           "eris_name": "LUNA-stLUNA LP (S)",
           "symbol": "LUNA-stLUNA LP (S)"
         },
@@ -6596,7 +6674,7 @@
           "display": "CAPA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.01450099871785201",
+          "price_usd": "0.014254263389720101",
           "eris_name": "CAPA-LUNA LP (S)",
           "symbol": "CAPA-LUNA LP (S)"
         },
@@ -6616,9 +6694,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "24621133249",
-          "harvested_raw": "24621133249",
-          "last_taken_s": 1786060796,
+          "taken_raw": "24621793005",
+          "harvested_raw": "24621793005",
+          "last_taken_s": 1786147202,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -6652,7 +6730,7 @@
           "display": "LUNA-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.42844549259421816",
+          "price_usd": "0.4238467938801841",
           "eris_name": "LUNA-SOLID LP (S)",
           "symbol": "LUNA-SOLID LP (S)"
         },
@@ -6708,7 +6786,7 @@
           "display": "LUNA-ASTRO LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.008603717574161469",
+          "price_usd": "0.00852741632185886",
           "eris_name": "LUNA-ASTRO LP (S)",
           "symbol": "LUNA-ASTRO LP (S)"
         },
@@ -6728,9 +6806,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "100381377",
-          "harvested_raw": "100381377",
-          "last_taken_s": 1786060796,
+          "taken_raw": "100389618",
+          "harvested_raw": "100389618",
+          "last_taken_s": 1786147202,
           "stake_mechanism": "default"
         }
       },
@@ -6763,7 +6841,7 @@
           "display": "USDC-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.0540209988856635",
+          "price_usd": "2.051086934495167",
           "eris_name": "USDC-SOLID LP (S)",
           "symbol": "USDC-SOLID LP (S)"
         },
@@ -6949,7 +7027,7 @@
           "display": "LUNA-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.4608634046548004",
+          "price_usd": "0.45857793673964814",
           "eris_name": "LUNA-EURe LP (S)",
           "symbol": "LUNA-EURe LP (S)"
         },
@@ -6969,9 +7047,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "4224700754",
-          "harvested_raw": "4224700754",
-          "last_taken_s": 1786060796,
+          "taken_raw": "4225048749",
+          "harvested_raw": "4225048749",
+          "last_taken_s": 1786147202,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -7005,7 +7083,7 @@
           "display": "LUNA-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.4549930335976549",
+          "price_usd": "0.4508333935693562",
           "eris_name": "LUNA-USDt LP (S)",
           "symbol": "LUNA-USDt LP (S)"
         },
@@ -7025,9 +7103,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "11301715829",
-          "harvested_raw": "11301715829",
-          "last_taken_s": 1786060796,
+          "taken_raw": "11301722489",
+          "harvested_raw": "11301722489",
+          "last_taken_s": 1786147202,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -7061,7 +7139,7 @@
           "display": "ampLUNA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.1527041413410072",
+          "price_usd": "0.14994101098252416",
           "eris_name": "ampLUNA-LUNA LP (S)",
           "symbol": "ampLUNA-LUNA LP (S)"
         },
@@ -7081,9 +7159,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "4279361747",
-          "harvested_raw": "4279361747",
-          "last_taken_s": 1786060796,
+          "taken_raw": "4279383071",
+          "harvested_raw": "4279383071",
+          "last_taken_s": 1786147202,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -7192,7 +7270,7 @@
           "display": "USDC-SOLID LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.2866177778530834",
+          "price_usd": "2.283357574364431",
           "eris_name": "USDC-SOLID LP",
           "symbol": "USDC-SOLID LP"
         },
@@ -7260,7 +7338,7 @@
           "display": "SOLID-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.5115623019198419",
+          "price_usd": "0.5060638708168154",
           "eris_name": "SOLID-LUNA LP",
           "symbol": "SOLID-LUNA LP"
         },
@@ -7328,7 +7406,7 @@
           "display": "ASTRO-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.008965826324612526",
+          "price_usd": "0.008882062071845288",
           "eris_name": "ASTRO-LUNA LP",
           "symbol": "ASTRO-LUNA LP"
         },
@@ -7396,7 +7474,7 @@
           "display": "stLUNA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.08986841719837659",
+          "price_usd": "0.08820647148042748",
           "eris_name": "stLUNA-LUNA LP",
           "symbol": "stLUNA-LUNA LP"
         },
@@ -7464,7 +7542,7 @@
           "display": "CAPA-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.014380328001379908",
+          "price_usd": "0.014135587295325113",
           "eris_name": "CAPA-LUNA LP",
           "symbol": "CAPA-LUNA LP"
         },
@@ -7532,7 +7610,7 @@
           "display": "FUEL-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.019665758421938212",
+          "price_usd": "0.0192830440983745",
           "eris_name": "FUEL-LUNA LP",
           "symbol": "FUEL-LUNA LP"
         },
@@ -7600,7 +7678,7 @@
           "display": "wBNB.axl-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "9.98372255287217",
+          "price_usd": "9.624197452464593",
           "eris_name": "wBNB.axl-LUNA LP",
           "symbol": "wBNB.axl-LUNA LP"
         },
@@ -7634,9 +7712,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "36211601",
-          "harvested_raw": "36211601",
-          "last_taken_s": 1786060796,
+          "taken_raw": "36211637",
+          "harvested_raw": "36211637",
+          "last_taken_s": 1786147202,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -7680,7 +7758,7 @@
           "display": "USDC-EURe LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.1785995372061957",
+          "price_usd": "2.1882499441555594",
           "eris_name": "USDC-EURe LP",
           "symbol": "USDC-EURe LP"
         },
@@ -7748,7 +7826,7 @@
           "display": "ATOM-LUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.5473775153318329",
+          "price_usd": "0.544310742930549",
           "eris_name": "ATOM-LUNA LP",
           "symbol": "ATOM-LUNA LP"
         },
@@ -7816,7 +7894,7 @@
           "display": "ATOM-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.7192926617022225",
+          "price_usd": "0.7152551526884712",
           "eris_name": "ATOM-LUNA LP (S)",
           "symbol": "ATOM-LUNA LP (S)"
         },
@@ -7865,7 +7943,7 @@
           "display": "LUNA-INJ LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "9.162456979126197e-7",
+          "price_usd": "9.01784821159782e-7",
           "eris_name": "LUNA-INJ LP",
           "symbol": "LUNA-INJ LP"
         },
@@ -7933,7 +8011,7 @@
           "display": "LUNA-PAXG LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "26.751960585022413",
+          "price_usd": "26.809511892049922",
           "eris_name": "LUNA-PAXG LP",
           "symbol": "LUNA-PAXG LP"
         },
@@ -8076,7 +8154,7 @@
           "display": "LUNA-wBTC.atom LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "104.58254163705193",
+          "price_usd": "104.10019165548682",
           "eris_name": "LUNA-wBTC.atom LP",
           "symbol": "LUNA-wBTC.atom LP"
         },
@@ -8145,7 +8223,7 @@
           "display": "LUNA-INJ LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "9.109079028133535e-7",
+          "price_usd": "8.965393551775855e-7",
           "eris_name": "LUNA-INJ LP (S)",
           "symbol": "LUNA-INJ LP (S)"
         },
@@ -8165,9 +8243,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "606129673622690",
-          "harvested_raw": "606129673622690",
-          "last_taken_s": 1786060796,
+          "taken_raw": "606132006895406",
+          "harvested_raw": "606132006895406",
+          "last_taken_s": 1786147202,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -8201,7 +8279,7 @@
           "display": "USDC-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.168059587347222",
+          "price_usd": "2.177610068637154",
           "eris_name": "USDC-EURe LP (S)",
           "symbol": "USDC-EURe LP (S)"
         },
@@ -8221,9 +8299,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "802156085",
-          "harvested_raw": "802156085",
-          "last_taken_s": 1786060796,
+          "taken_raw": "802431631",
+          "harvested_raw": "802431631",
+          "last_taken_s": 1786147202,
           "stake_mechanism": "default"
         },
         "is_wrapped_by_amplp": true
@@ -8547,7 +8625,7 @@
           "display": "USDC-USDt LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.0062415534018903",
+          "price_usd": "2.0066458746932874",
           "eris_name": "USDC-USDt LP",
           "symbol": "USDC-USDt LP"
         },
@@ -8662,7 +8740,7 @@
           "display": "LUNA-arbLUNA LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.14124817453102265",
+          "price_usd": "0.13864952153864984",
           "eris_name": "LUNA-arbLUNA LP",
           "symbol": "LUNA-arbLUNA LP"
         },
@@ -8730,7 +8808,7 @@
           "display": "ATOM-stATOM LP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.2723721340743994",
+          "price_usd": "2.2892045202527282",
           "eris_name": "ATOM-stATOM LP",
           "symbol": "ATOM-stATOM LP"
         },
@@ -8764,9 +8842,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "188223684",
-          "harvested_raw": "188223684",
-          "last_taken_s": 1786032059,
+          "taken_raw": "188223686",
+          "harvested_raw": "188223686",
+          "last_taken_s": 1786118412,
           "stake_mechanism": "astroport"
         },
         "is_wrapped_by_amplp": true
@@ -8805,7 +8883,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0018798998360787",
+          "price_usd": "1.0020741938049584",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -8854,7 +8932,7 @@
           "display": "ATOM-stATOM LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.640299543741321",
+          "price_usd": "1.6524499107319977",
           "eris_name": "ATOM-stATOM LP (S)",
           "symbol": "ATOM-stATOM LP (S)"
         },
@@ -8874,9 +8952,9 @@
         "gauge_status": "inactive_below_threshold",
         "take_rate": {
           "yearly_rate": "0.1",
-          "taken_raw": "149",
-          "harvested_raw": "149",
-          "last_taken_s": 1786017599,
+          "taken_raw": "150",
+          "harvested_raw": "150",
+          "last_taken_s": 1786103998,
           "stake_mechanism": "default"
         }
       },
@@ -8909,7 +8987,7 @@
           "display": "ampROAR-ROAR AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00000111655999692238",
+          "price_usd": "0.0000010792585324906535",
           "eris_name": "ampROAR-ROAR AMPLP",
           "symbol": "ampROAR-ROAR AMPLP"
         },
@@ -8956,7 +9034,7 @@
           "display": "USDC-USDt AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.255727918699121",
+          "price_usd": "2.2573463962444165",
           "eris_name": "USDC-USDt AMPLP",
           "symbol": "USDC-USDt AMPLP"
         },
@@ -9003,7 +9081,7 @@
           "display": "wBTC.creda.a AMPLP",
           "coingecko_id": null,
           "decimals": 8,
-          "price_usd": "66516.91930113912",
+          "price_usd": "67176.46498535949",
           "eris_name": "wBTC.creda.a AMPLP",
           "symbol": "wBTC.creda.a AMPLP"
         },
@@ -9050,7 +9128,7 @@
           "display": "LUNA-arbLUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.22141586605875477",
+          "price_usd": "0.21756720804774085",
           "eris_name": "LUNA-arbLUNA AMPLP",
           "symbol": "LUNA-arbLUNA AMPLP"
         },
@@ -9097,7 +9175,7 @@
           "display": "ATOM-stATOM AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "4.699051555641592",
+          "price_usd": "4.7338593449426405",
           "eris_name": "ATOM-stATOM AMPLP",
           "symbol": "ATOM-stATOM AMPLP"
         },
@@ -9144,7 +9222,7 @@
           "display": "USDC-USDt LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.0754350926409855",
+          "price_usd": "1.0765105850746455",
           "eris_name": "USDC-USDt LP (S)",
           "symbol": "USDC-USDt LP (S)"
         },
@@ -9191,7 +9269,7 @@
           "display": "USDC-SOLID AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "5.856936465828436",
+          "price_usd": "5.853558568726885",
           "eris_name": "USDC-SOLID AMPLP",
           "symbol": "USDC-SOLID AMPLP"
         },
@@ -9238,7 +9316,7 @@
           "display": "SOLID-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.2239325850745457",
+          "price_usd": "2.2031607555936037",
           "eris_name": "SOLID-LUNA AMPLP",
           "symbol": "SOLID-LUNA AMPLP"
         },
@@ -9285,7 +9363,7 @@
           "display": "ASTRO-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.03689242406693829",
+          "price_usd": "0.0366051369536849",
           "eris_name": "ASTRO-LUNA AMPLP",
           "symbol": "ASTRO-LUNA AMPLP"
         },
@@ -9332,7 +9410,7 @@
           "display": "stLUNA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.2611325940446438",
+          "price_usd": "0.256540146275572",
           "eris_name": "stLUNA-LUNA AMPLP",
           "symbol": "stLUNA-LUNA AMPLP"
         },
@@ -9379,7 +9457,7 @@
           "display": "CAPA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.07965137433266593",
+          "price_usd": "0.07840433870311059",
           "eris_name": "CAPA-LUNA AMPLP",
           "symbol": "CAPA-LUNA AMPLP"
         },
@@ -9426,7 +9504,7 @@
           "display": "FUEL-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.04619589386672778",
+          "price_usd": "0.04537637753501202",
           "eris_name": "FUEL-LUNA AMPLP",
           "symbol": "FUEL-LUNA AMPLP"
         },
@@ -9473,7 +9551,7 @@
           "display": "bLUNA-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.11122883946342736",
+          "price_usd": "0.10917400356209268",
           "eris_name": "bLUNA-LUNA AMPLP",
           "symbol": "bLUNA-LUNA AMPLP"
         },
@@ -9520,7 +9598,7 @@
           "display": "ROAR-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0005553956407092202",
+          "price_usd": "0.0005409074219489099",
           "eris_name": "ROAR-LUNA AMPLP",
           "symbol": "ROAR-LUNA AMPLP"
         },
@@ -9567,7 +9645,7 @@
           "display": "LUNA-ROAR LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.00019375433040376248",
+          "price_usd": "0.0001885924172985136",
           "eris_name": "LUNA-ROAR LP (S)",
           "symbol": "LUNA-ROAR LP (S)"
         },
@@ -9614,7 +9692,7 @@
           "display": "CAPA-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.03215190285255846",
+          "price_usd": "0.03160483637425962",
           "eris_name": "CAPA-LUNA LP (S)",
           "symbol": "CAPA-LUNA LP (S)"
         },
@@ -9661,7 +9739,7 @@
           "display": "LUNA-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.06127864137326",
+          "price_usd": "2.0391540080156934",
           "eris_name": "LUNA-SOLID LP (S)",
           "symbol": "LUNA-SOLID LP (S)"
         },
@@ -9708,7 +9786,7 @@
           "display": "USDC-SOLID LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.324443296576904",
+          "price_usd": "2.321122947706121",
           "eris_name": "USDC-SOLID LP (S)",
           "symbol": "USDC-SOLID LP (S)"
         },
@@ -9802,7 +9880,7 @@
           "display": "ATOM-LUNA AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "1.891635526330503",
+          "price_usd": "1.8829864938852872",
           "eris_name": "ATOM-LUNA AMPLP",
           "symbol": "ATOM-LUNA AMPLP"
         },
@@ -9896,7 +9974,7 @@
           "display": "ATOM-LUNA LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.535589163171616",
+          "price_usd": "2.5243122153427415",
           "eris_name": "ATOM-LUNA LP (S)",
           "symbol": "ATOM-LUNA LP (S)"
         },
@@ -9943,7 +10021,7 @@
           "display": "LUNA-INJ AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "0.0000020779626365464293",
+          "price_usd": "0.000002047640819737815",
           "eris_name": "LUNA-INJ AMPLP",
           "symbol": "LUNA-INJ AMPLP"
         },
@@ -9990,7 +10068,7 @@
           "display": "USDC-USDt AMPLP",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.255727918699121",
+          "price_usd": "2.2573463962444165",
           "eris_name": "USDC-USDt AMPLP",
           "symbol": "USDC-USDt AMPLP"
         },
@@ -10037,7 +10115,7 @@
           "display": "USDC-EURe LP (S)",
           "coingecko_id": null,
           "decimals": 6,
-          "price_usd": "2.934293586348212",
+          "price_usd": "2.9472193915978155",
           "eris_name": "USDC-EURe LP (S)",
           "symbol": "USDC-EURe LP (S)"
         },
@@ -13148,7 +13226,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 20,
-          "voting_power_percent": 0.7207207207207207
+          "voting_power_percent": 0.7199424046076314
         },
         {
           "dao": "TLA",
@@ -13196,7 +13274,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         }
       ],
       "verified": false,
@@ -13220,7 +13298,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -13261,7 +13339,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -13285,7 +13363,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -13309,7 +13387,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 6,
-          "voting_power_percent": 0.21621621621621623
+          "voting_power_percent": 0.21598272138228944
         }
       ],
       "verified": false,
@@ -13333,7 +13411,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -13408,7 +13486,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -13440,7 +13518,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 10,
-          "voting_power_percent": 0.36036036036036034
+          "voting_power_percent": 0.3599712023038157
         }
       ],
       "verified": false,
@@ -13473,7 +13551,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 6,
-          "voting_power_percent": 0.21621621621621623
+          "voting_power_percent": 0.21598272138228944
         }
       ],
       "verified": false,
@@ -13497,7 +13575,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -13528,7 +13606,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -13588,7 +13666,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -13619,7 +13697,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -13645,7 +13723,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 21,
-          "voting_power_percent": 0.7567567567567568
+          "voting_power_percent": 0.755939524838013
         }
       ],
       "verified": false,
@@ -13677,7 +13755,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -13701,7 +13779,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -13743,7 +13821,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -13791,7 +13869,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -13840,7 +13918,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 9,
-          "voting_power_percent": 0.3243243243243243
+          "voting_power_percent": 0.32397408207343414
         }
       ],
       "verified": false,
@@ -13882,7 +13960,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -13906,7 +13984,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -13991,7 +14069,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 12,
-          "voting_power_percent": 0.43243243243243246
+          "voting_power_percent": 0.4319654427645789
         }
       ],
       "verified": false,
@@ -14041,7 +14119,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -14066,7 +14144,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         }
       ],
       "verified": false,
@@ -14097,7 +14175,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -14121,7 +14199,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 10,
-          "voting_power_percent": 0.36036036036036034
+          "voting_power_percent": 0.3599712023038157
         }
       ],
       "verified": false,
@@ -14146,7 +14224,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -14179,7 +14257,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 9,
-          "voting_power_percent": 0.3243243243243243
+          "voting_power_percent": 0.32397408207343414
         }
       ],
       "verified": false,
@@ -14203,7 +14281,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 18,
-          "voting_power_percent": 0.6486486486486486
+          "voting_power_percent": 0.6479481641468683
         }
       ],
       "verified": false,
@@ -14227,7 +14305,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -14259,7 +14337,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -14284,7 +14362,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         }
       ],
       "verified": false,
@@ -14351,7 +14429,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -14375,7 +14453,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 8,
-          "voting_power_percent": 0.2882882882882883
+          "voting_power_percent": 0.28797696184305255
         }
       ],
       "verified": false,
@@ -14431,7 +14509,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -14490,7 +14568,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 6,
-          "voting_power_percent": 0.21621621621621623
+          "voting_power_percent": 0.21598272138228944
         }
       ],
       "verified": false,
@@ -14556,7 +14634,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 15,
-          "voting_power_percent": 0.5405405405405406
+          "voting_power_percent": 0.5399568034557235
         }
       ],
       "verified": false,
@@ -14641,7 +14719,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -14714,7 +14792,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 6,
-          "voting_power_percent": 0.21621621621621623
+          "voting_power_percent": 0.21598272138228944
         }
       ],
       "verified": false,
@@ -14746,7 +14824,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 255,
-          "voting_power_percent": 9.18918918918919
+          "voting_power_percent": 9.1792656587473
         },
         {
           "dao": "TLA",
@@ -14782,7 +14860,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 11,
-          "voting_power_percent": 0.3963963963963964
+          "voting_power_percent": 0.3959683225341973
         }
       ],
       "verified": false,
@@ -14876,7 +14954,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -14999,7 +15077,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -15040,7 +15118,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         },
         {
           "dao": "TLA",
@@ -15074,7 +15152,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -15098,7 +15176,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -15139,7 +15217,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 8,
-          "voting_power_percent": 0.2882882882882883
+          "voting_power_percent": 0.28797696184305255
         }
       ],
       "verified": false,
@@ -15170,7 +15248,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 31,
-          "voting_power_percent": 1.1171171171171173
+          "voting_power_percent": 1.1159107271418287
         },
         {
           "dao": "TLA",
@@ -15345,7 +15423,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -15429,7 +15507,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -15496,7 +15574,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 19,
-          "voting_power_percent": 0.6846846846846847
+          "voting_power_percent": 0.6839452843772498
         }
       ],
       "verified": false,
@@ -15522,7 +15600,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         }
       ],
       "verified": false,
@@ -15597,7 +15675,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -15790,7 +15868,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -15832,7 +15910,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -15856,7 +15934,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -15914,7 +15992,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -15938,7 +16016,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 9,
-          "voting_power_percent": 0.3243243243243243
+          "voting_power_percent": 0.32397408207343414
         }
       ],
       "verified": false,
@@ -15993,7 +16071,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 15,
-          "voting_power_percent": 0.5405405405405406
+          "voting_power_percent": 0.5399568034557235
         },
         {
           "dao": "TLA",
@@ -16034,7 +16112,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 11,
-          "voting_power_percent": 0.3963963963963964
+          "voting_power_percent": 0.3959683225341973
         }
       ],
       "verified": false,
@@ -16058,7 +16136,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -16168,7 +16246,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -16199,7 +16277,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 24,
-          "voting_power_percent": 0.8648648648648649
+          "voting_power_percent": 0.8639308855291578
         }
       ],
       "verified": false,
@@ -16241,7 +16319,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -16336,7 +16414,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -16360,7 +16438,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 53,
-          "voting_power_percent": 1.90990990990991
+          "voting_power_percent": 1.9078473722102232
         },
         {
           "dao": "TLA",
@@ -16400,7 +16478,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 12,
-          "voting_power_percent": 0.43243243243243246
+          "voting_power_percent": 0.4319654427645789
         }
       ],
       "verified": false,
@@ -16425,7 +16503,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         },
         {
           "dao": "TLA",
@@ -16466,7 +16544,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -16507,7 +16585,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -16557,7 +16635,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         }
       ],
       "verified": false,
@@ -16581,7 +16659,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 10,
-          "voting_power_percent": 0.36036036036036034
+          "voting_power_percent": 0.3599712023038157
         }
       ],
       "verified": false,
@@ -16613,7 +16691,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -16637,7 +16715,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         },
         {
           "dao": "TLA",
@@ -16671,7 +16749,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -16731,7 +16809,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -16755,7 +16833,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -16786,7 +16864,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -16837,7 +16915,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         },
         {
           "dao": "TLA",
@@ -16896,7 +16974,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 8,
-          "voting_power_percent": 0.2882882882882883
+          "voting_power_percent": 0.28797696184305255
         }
       ],
       "verified": false,
@@ -16927,7 +17005,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 66,
-          "voting_power_percent": 2.3783783783783785
+          "voting_power_percent": 2.375809935205184
         },
         {
           "dao": "TLA",
@@ -17004,7 +17082,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 103,
-          "voting_power_percent": 3.711711711711712
+          "voting_power_percent": 3.7077033837293016
         }
       ],
       "verified": false,
@@ -17028,7 +17106,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -17076,7 +17154,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 56,
-          "voting_power_percent": 2.018018018018018
+          "voting_power_percent": 2.0158387329013676
         },
         {
           "dao": "TLA",
@@ -17121,7 +17199,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 17,
-          "voting_power_percent": 0.6126126126126126
+          "voting_power_percent": 0.6119510439164867
         },
         {
           "dao": "TLA",
@@ -17156,7 +17234,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         }
       ],
       "verified": false,
@@ -17187,7 +17265,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 13,
-          "voting_power_percent": 0.46846846846846846
+          "voting_power_percent": 0.4679625629949604
         },
         {
           "dao": "TLA",
@@ -17224,7 +17302,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -17265,7 +17343,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -17324,7 +17402,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -17348,7 +17426,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -17431,7 +17509,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -17480,7 +17558,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -17658,7 +17736,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -17690,7 +17768,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 45,
-          "voting_power_percent": 1.6216216216216217
+          "voting_power_percent": 1.6198704103671708
         },
         {
           "dao": "TLA",
@@ -17839,7 +17917,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 11,
-          "voting_power_percent": 0.3963963963963964
+          "voting_power_percent": 0.3959683225341973
         }
       ],
       "verified": false,
@@ -17952,7 +18030,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 15,
-          "voting_power_percent": 0.5405405405405406
+          "voting_power_percent": 0.5399568034557235
         }
       ],
       "verified": false,
@@ -18011,7 +18089,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 11,
-          "voting_power_percent": 0.3963963963963964
+          "voting_power_percent": 0.3959683225341973
         },
         {
           "dao": "TLA",
@@ -18078,7 +18156,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -18119,7 +18197,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -18160,7 +18238,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -18191,7 +18269,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -18266,7 +18344,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -18318,7 +18396,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         },
         {
           "dao": "TLA",
@@ -18370,7 +18448,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -18418,7 +18496,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -18442,7 +18520,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -18466,7 +18544,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -18490,7 +18568,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -18531,7 +18609,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 12,
-          "voting_power_percent": 0.43243243243243246
+          "voting_power_percent": 0.4319654427645789
         }
       ],
       "verified": false,
@@ -18555,7 +18633,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -18597,7 +18675,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 50,
-          "voting_power_percent": 1.8018018018018018
+          "voting_power_percent": 1.7998560115190785
         }
       ],
       "verified": false,
@@ -18623,7 +18701,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -18682,7 +18760,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -18740,7 +18818,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -18765,7 +18843,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -18789,7 +18867,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -18813,7 +18891,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -18844,7 +18922,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 9,
-          "voting_power_percent": 0.3243243243243243
+          "voting_power_percent": 0.32397408207343414
         }
       ],
       "verified": false,
@@ -18885,7 +18963,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 21,
-          "voting_power_percent": 0.7567567567567568
+          "voting_power_percent": 0.755939524838013
         }
       ],
       "verified": false,
@@ -18951,7 +19029,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 35,
-          "voting_power_percent": 1.2612612612612613
+          "voting_power_percent": 1.259899208063355
         }
       ],
       "verified": false,
@@ -18984,7 +19062,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 30,
-          "voting_power_percent": 1.0810810810810811
+          "voting_power_percent": 1.079913606911447
         }
       ],
       "verified": false,
@@ -19079,7 +19157,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -19103,7 +19181,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 8,
-          "voting_power_percent": 0.2882882882882883
+          "voting_power_percent": 0.28797696184305255
         }
       ],
       "verified": false,
@@ -19177,7 +19255,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -19202,7 +19280,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 42,
-          "voting_power_percent": 1.5135135135135136
+          "voting_power_percent": 1.511879049676026
         }
       ],
       "verified": false,
@@ -19278,7 +19356,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -19326,7 +19404,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 42,
-          "voting_power_percent": 1.5135135135135136
+          "voting_power_percent": 1.511879049676026
         },
         {
           "dao": "TLA",
@@ -19388,7 +19466,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -19463,7 +19541,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -19487,7 +19565,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 6,
-          "voting_power_percent": 0.21621621621621623
+          "voting_power_percent": 0.21598272138228944
         }
       ],
       "verified": false,
@@ -19512,7 +19590,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         },
         {
           "dao": "TLA",
@@ -19563,7 +19641,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         },
         {
           "dao": "TLA",
@@ -19614,7 +19692,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -19662,7 +19740,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 8,
-          "voting_power_percent": 0.2882882882882883
+          "voting_power_percent": 0.28797696184305255
         }
       ],
       "verified": false,
@@ -19686,7 +19764,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -19727,7 +19805,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -19751,7 +19829,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -19775,7 +19853,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -19876,7 +19954,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -19900,7 +19978,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -19941,7 +20019,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 8,
-          "voting_power_percent": 0.2882882882882883
+          "voting_power_percent": 0.28797696184305255
         }
       ],
       "verified": false,
@@ -19999,7 +20077,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         },
         {
           "dao": "TLA",
@@ -20057,7 +20135,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -20122,7 +20200,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         },
         {
           "dao": "TLA",
@@ -20149,7 +20227,7 @@
         {
           "dao": "Lion DAO ROAR Staking",
           "staking_contract": "terra1xuqh84yz35h70p3ppt76dz5kgwwtwmsv34pg0gw6ld4ntptgjcrqe2e70t",
-          "stake_balance": "132452901434734239"
+          "stake_balance": "132481123763061011"
         }
       ],
       "verified": false,
@@ -20173,7 +20251,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 12,
-          "voting_power_percent": 0.43243243243243246
+          "voting_power_percent": 0.4319654427645789
         }
       ],
       "verified": false,
@@ -20348,7 +20426,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 6,
-          "voting_power_percent": 0.21621621621621623
+          "voting_power_percent": 0.21598272138228944
         },
         {
           "dao": "TLA",
@@ -20398,7 +20476,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -20466,7 +20544,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -20508,7 +20586,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -20532,7 +20610,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         },
         {
           "dao": "TLA",
@@ -20572,7 +20650,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 8,
-          "voting_power_percent": 0.2882882882882883
+          "voting_power_percent": 0.28797696184305255
         }
       ],
       "verified": false,
@@ -20596,7 +20674,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -20657,7 +20735,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -20683,7 +20761,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -20782,7 +20860,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -20807,7 +20885,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -20849,7 +20927,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -20874,7 +20952,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -21019,7 +21097,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -21068,7 +21146,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 47,
-          "voting_power_percent": 1.6936936936936937
+          "voting_power_percent": 1.6918646508279338
         },
         {
           "dao": "TLA",
@@ -21101,7 +21179,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 8,
-          "voting_power_percent": 0.2882882882882883
+          "voting_power_percent": 0.28797696184305255
         }
       ],
       "verified": false,
@@ -21133,7 +21211,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         },
         {
           "dao": "TLA",
@@ -21184,7 +21262,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -21215,7 +21293,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 10,
-          "voting_power_percent": 0.36036036036036034
+          "voting_power_percent": 0.3599712023038157
         },
         {
           "dao": "TLA",
@@ -21287,7 +21365,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -21332,7 +21410,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 61,
-          "voting_power_percent": 2.1981981981981984
+          "voting_power_percent": 2.1958243340532757
         }
       ],
       "verified": false,
@@ -21396,7 +21474,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         },
         {
           "dao": "TLA",
@@ -21432,7 +21510,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -21488,12 +21566,12 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         },
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 312607664631,
+          "total_vp": 320615403849,
           "lock_count": 1,
           "token_ids": [
             "1269"
@@ -21543,7 +21621,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 21,
-          "voting_power_percent": 0.7567567567567568
+          "voting_power_percent": 0.755939524838013
         }
       ],
       "verified": false,
@@ -21608,7 +21686,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 40,
-          "voting_power_percent": 1.4414414414414414
+          "voting_power_percent": 1.4398848092152627
         }
       ],
       "verified": false,
@@ -21653,7 +21731,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -21698,7 +21776,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -21724,7 +21802,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 6,
-          "voting_power_percent": 0.21621621621621623
+          "voting_power_percent": 0.21598272138228944
         },
         {
           "dao": "TLA",
@@ -21896,7 +21974,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         },
         {
           "dao": "TLA",
@@ -22001,7 +22079,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -22061,7 +22139,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -22127,7 +22205,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         }
       ],
       "verified": false,
@@ -22362,7 +22440,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -22408,7 +22486,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 12,
-          "voting_power_percent": 0.43243243243243246
+          "voting_power_percent": 0.4319654427645789
         }
       ],
       "verified": false,
@@ -22515,7 +22593,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 11,
-          "voting_power_percent": 0.3963963963963964
+          "voting_power_percent": 0.3959683225341973
         }
       ],
       "verified": false,
@@ -22560,7 +22638,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         }
       ],
       "verified": false,
@@ -22640,7 +22718,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         },
         {
           "dao": "TLA",
@@ -22695,7 +22773,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         },
         {
           "dao": "TLA",
@@ -22777,7 +22855,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -22879,7 +22957,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 20,
-          "voting_power_percent": 0.7207207207207207
+          "voting_power_percent": 0.7199424046076314
         }
       ],
       "verified": false,
@@ -22994,7 +23072,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -23115,7 +23193,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -23141,7 +23219,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -23317,7 +23395,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 81,
-          "voting_power_percent": 2.918918918918919
+          "voting_power_percent": 2.915766738660907
         }
       ],
       "verified": false,
@@ -23336,7 +23414,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 70,
-          "voting_power_percent": 2.5225225225225225
+          "voting_power_percent": 2.51979841612671
         }
       ],
       "verified": false,
@@ -23355,7 +23433,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 49,
-          "voting_power_percent": 1.7657657657657657
+          "voting_power_percent": 1.7638588912886968
         }
       ],
       "verified": false,
@@ -23374,7 +23452,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 46,
-          "voting_power_percent": 1.6576576576576578
+          "voting_power_percent": 1.655867530597552
         }
       ],
       "verified": false,
@@ -23393,7 +23471,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 44,
-          "voting_power_percent": 1.5855855855855856
+          "voting_power_percent": 1.5838732901367891
         }
       ],
       "verified": false,
@@ -23412,7 +23490,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 32,
-          "voting_power_percent": 1.1531531531531531
+          "voting_power_percent": 1.1519078473722102
         }
       ],
       "verified": false,
@@ -23431,7 +23509,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 31,
-          "voting_power_percent": 1.1171171171171173
+          "voting_power_percent": 1.1159107271418287
         },
         {
           "dao": "TLA",
@@ -23461,7 +23539,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 31,
-          "voting_power_percent": 1.1171171171171173
+          "voting_power_percent": 1.1159107271418287
         },
         {
           "dao": "TLA",
@@ -23491,7 +23569,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 30,
-          "voting_power_percent": 1.0810810810810811
+          "voting_power_percent": 1.079913606911447
         }
       ],
       "verified": false,
@@ -23510,7 +23588,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 30,
-          "voting_power_percent": 1.0810810810810811
+          "voting_power_percent": 1.079913606911447
         }
       ],
       "verified": false,
@@ -23529,7 +23607,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 24,
-          "voting_power_percent": 0.8648648648648649
+          "voting_power_percent": 0.8639308855291578
         }
       ],
       "verified": false,
@@ -23549,7 +23627,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 21,
-          "voting_power_percent": 0.7567567567567568
+          "voting_power_percent": 0.755939524838013
         }
       ],
       "verified": false,
@@ -23568,7 +23646,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 20,
-          "voting_power_percent": 0.7207207207207207
+          "voting_power_percent": 0.7199424046076314
         },
         {
           "dao": "TLA",
@@ -23599,7 +23677,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 18,
-          "voting_power_percent": 0.6486486486486486
+          "voting_power_percent": 0.6479481641468683
         }
       ],
       "verified": false,
@@ -23618,7 +23696,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 18,
-          "voting_power_percent": 0.6486486486486486
+          "voting_power_percent": 0.6479481641468683
         }
       ],
       "verified": false,
@@ -23637,7 +23715,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 17,
-          "voting_power_percent": 0.6126126126126126
+          "voting_power_percent": 0.6119510439164867
         }
       ],
       "verified": false,
@@ -23656,7 +23734,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 16,
-          "voting_power_percent": 0.5765765765765766
+          "voting_power_percent": 0.5759539236861051
         }
       ],
       "verified": false,
@@ -23675,7 +23753,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 15,
-          "voting_power_percent": 0.5405405405405406
+          "voting_power_percent": 0.5399568034557235
         },
         {
           "dao": "TLA",
@@ -23703,7 +23781,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 15,
-          "voting_power_percent": 0.5405405405405406
+          "voting_power_percent": 0.5399568034557235
         }
       ],
       "verified": false,
@@ -23723,7 +23801,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 14,
-          "voting_power_percent": 0.5045045045045045
+          "voting_power_percent": 0.5039596832253419
         }
       ],
       "verified": false,
@@ -23743,7 +23821,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 14,
-          "voting_power_percent": 0.5045045045045045
+          "voting_power_percent": 0.5039596832253419
         },
         {
           "dao": "TLA",
@@ -23771,7 +23849,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 12,
-          "voting_power_percent": 0.43243243243243246
+          "voting_power_percent": 0.4319654427645789
         }
       ],
       "verified": false,
@@ -23792,7 +23870,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 11,
-          "voting_power_percent": 0.3963963963963964
+          "voting_power_percent": 0.3959683225341973
         }
       ],
       "verified": false,
@@ -23811,7 +23889,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 11,
-          "voting_power_percent": 0.3963963963963964
+          "voting_power_percent": 0.3959683225341973
         },
         {
           "dao": "TLA",
@@ -23842,7 +23920,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 11,
-          "voting_power_percent": 0.3963963963963964
+          "voting_power_percent": 0.3959683225341973
         }
       ],
       "verified": false,
@@ -23861,7 +23939,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 10,
-          "voting_power_percent": 0.36036036036036034
+          "voting_power_percent": 0.3599712023038157
         }
       ],
       "verified": false,
@@ -23880,7 +23958,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 10,
-          "voting_power_percent": 0.36036036036036034
+          "voting_power_percent": 0.3599712023038157
         }
       ],
       "verified": false,
@@ -23899,7 +23977,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 9,
-          "voting_power_percent": 0.3243243243243243
+          "voting_power_percent": 0.32397408207343414
         }
       ],
       "verified": false,
@@ -23918,7 +23996,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 8,
-          "voting_power_percent": 0.2882882882882883
+          "voting_power_percent": 0.28797696184305255
         }
       ],
       "verified": false,
@@ -23937,7 +24015,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 8,
-          "voting_power_percent": 0.2882882882882883
+          "voting_power_percent": 0.28797696184305255
         }
       ],
       "verified": false,
@@ -23956,7 +24034,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         }
       ],
       "verified": false,
@@ -23976,7 +24054,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 7,
-          "voting_power_percent": 0.25225225225225223
+          "voting_power_percent": 0.25197984161267095
         }
       ],
       "verified": false,
@@ -23995,7 +24073,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 6,
-          "voting_power_percent": 0.21621621621621623
+          "voting_power_percent": 0.21598272138228944
         }
       ],
       "verified": false,
@@ -24014,7 +24092,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 6,
-          "voting_power_percent": 0.21621621621621623
+          "voting_power_percent": 0.21598272138228944
         }
       ],
       "verified": false,
@@ -24033,7 +24111,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24052,7 +24130,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24071,7 +24149,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24090,7 +24168,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24109,7 +24187,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24128,7 +24206,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24147,7 +24225,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24166,7 +24244,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24185,7 +24263,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24204,7 +24282,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24223,7 +24301,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24243,7 +24321,26 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 5,
-          "voting_power_percent": 0.18018018018018017
+          "voting_power_percent": 0.17998560115190784
+        }
+      ],
+      "verified": false,
+      "headline_name": "Pixel Lions Voting Module member"
+    },
+    "terra1ulplf9ya2lyzt2ezydevs7hp96xv8nm7l3xwwr": {
+      "address": "terra1ulplf9ya2lyzt2ezydevs7hp96xv8nm7l3xwwr",
+      "category": "wallets",
+      "subtype": "member",
+      "protocol": "DAODAO",
+      "source": "auto_discovered",
+      "discovery_source": "daodao_indexer",
+      "dao_memberships": [
+        {
+          "dao": "Pixel Lions Voting Module",
+          "kind": "cw721_staker",
+          "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
+          "nft_count": 5,
+          "voting_power_percent": 0.17998560115190784
         }
       ],
       "verified": false,
@@ -24262,7 +24359,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24283,7 +24380,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24302,7 +24399,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24321,7 +24418,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24340,7 +24437,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24359,7 +24456,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24378,7 +24475,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24397,7 +24494,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24416,7 +24513,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24435,7 +24532,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24454,7 +24551,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24473,7 +24570,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 4,
-          "voting_power_percent": 0.14414414414414414
+          "voting_power_percent": 0.14398848092152627
         }
       ],
       "verified": false,
@@ -24493,7 +24590,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -24512,7 +24609,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -24531,7 +24628,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 3,
-          "voting_power_percent": 0.10810810810810811
+          "voting_power_percent": 0.10799136069114472
         }
       ],
       "verified": false,
@@ -24550,7 +24647,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24569,7 +24666,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24589,7 +24686,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24608,7 +24705,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24627,7 +24724,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24646,7 +24743,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24667,7 +24764,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24686,26 +24783,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
-        }
-      ],
-      "verified": false,
-      "headline_name": "Pixel Lions Voting Module member"
-    },
-    "terra1q2tk5ahq0uhkpd0lu90jycaj60pr4j3qsms5ed": {
-      "address": "terra1q2tk5ahq0uhkpd0lu90jycaj60pr4j3qsms5ed",
-      "category": "wallets",
-      "subtype": "member",
-      "protocol": "DAODAO",
-      "source": "auto_discovered",
-      "discovery_source": "daodao_indexer",
-      "dao_memberships": [
-        {
-          "dao": "Pixel Lions Voting Module",
-          "kind": "cw721_staker",
-          "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
-          "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24724,7 +24802,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24743,7 +24821,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24763,7 +24841,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24782,7 +24860,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         },
         {
           "dao": "TLA",
@@ -24812,7 +24890,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24831,7 +24909,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24850,7 +24928,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         },
         {
           "dao": "TLA",
@@ -24879,7 +24957,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24899,7 +24977,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 2,
-          "voting_power_percent": 0.07207207207207207
+          "voting_power_percent": 0.07199424046076314
         }
       ],
       "verified": false,
@@ -24918,7 +24996,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -24937,7 +25015,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -24956,7 +25034,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -24975,7 +25053,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -24994,7 +25072,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25013,7 +25091,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25032,7 +25110,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25051,7 +25129,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25070,7 +25148,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25089,7 +25167,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25108,7 +25186,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25128,7 +25206,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25147,7 +25225,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25166,7 +25244,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25185,7 +25263,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25204,7 +25282,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25223,7 +25301,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25242,7 +25320,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25261,7 +25339,7 @@
           "kind": "cw721_staker",
           "staking_contract": "terra127dehd2d6t7ynnezkxkre2w83ze0t7lmghpu6vn4y5mfmwfj5x9qqdh4sz",
           "nft_count": 1,
-          "voting_power_percent": 0.036036036036036036
+          "voting_power_percent": 0.03599712023038157
         }
       ],
       "verified": false,
@@ -25278,11 +25356,10 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 6415189532114,
-          "lock_count": 2,
+          "total_vp": 6418378458063,
+          "lock_count": 1,
           "token_ids": [
-            "1000",
-            "1323"
+            "1000"
           ]
         }
       ],
@@ -27882,7 +27959,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 5886262460673,
+          "total_vp": 5889809584701,
           "lock_count": 1,
           "token_ids": [
             "748"
@@ -27903,7 +27980,7 @@
         {
           "dao": "TLA",
           "kind": "velluna_locker",
-          "total_vp": 999885996846,
+          "total_vp": 1001680713432,
           "lock_count": 1,
           "token_ids": [
             "754"
@@ -28503,8 +28580,8 @@
       "note": "SkeletonSwap pool data — only assets in current SS pools"
     },
     "coingecko_list": {
-      "coin_count": 0,
-      "fetched_ok": false,
+      "coin_count": 18247,
+      "fetched_ok": true,
       "note": "CG /coins/list with platforms — used for independent CG-mapping verification"
     }
   },
@@ -28932,7 +29009,7 @@
       }
     },
     "voting_escrow_num_tokens": {
-      "count": 440
+      "count": 439
     },
     "asset_compounder_asset_configs": [
       {
@@ -29848,9 +29925,7 @@
     ]
   },
   "_errors": [],
-  "source_errors": {
-    "coingecko_list": "fetch failed"
-  },
+  "source_errors": {},
   "enumeration_failures": [],
   "sources": {
     "primary_lcd": "https://terra-lcd.publicnode.com",
